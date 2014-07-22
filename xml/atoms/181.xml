@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="MYOB" -->
+<?xml-stylesheet href="/plugins/system/modalizer/modals/shadowbox/shadowbox.css" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">AskRose - Homework Hotline  - Home</title>
+	<subtitle type="text"></subtitle>
+	<link rel="alternate" type="text/html" href="http://www.askrose.org"/>
+	<id>http://www.askrose.org/</id>
+	<updated>2014-07-21T13:58:22-04:00</updated>
+	<generator uri="http://joomla.org" version="2.5">MYOB</generator>
+	<link rel="self" type="application/atom+xml" href="http://www.askrose.org/?format=feed&amp;type=atom"/>
+	<entry>
+		<title>Welcome!</title>
+		<link rel="alternate" type="text/html" href="http://www.askrose.org/79-hwhotline/24-welcome"/>
+		<published>2010-12-31T19:00:01-05:00</published>
+		<updated>2010-12-31T19:00:01-05:00</updated>
+		<id>http://www.askrose.org/79-hwhotline/24-welcome</id>
+		<author>
+			<name>HWHotline</name>
+			<email>aE7k_chena1@rose-hulman.edu</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt; 
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 14pt; color: #339966;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Rose-Hulman Institute of Technology's Homework Hotline provides &lt;strong&gt;FREE&lt;/strong&gt; math and science homework help to Indiana students.&lt;/p&gt;
+&lt;div style=&quot;width: 350px;&quot;&gt;
+&lt;ul style=&quot;list-style-type: circle;&quot;&gt;
+&lt;li&gt;Tutors help students in grades 6-12.&lt;/li&gt;
+&lt;li&gt;7 p.m. - 10 p.m. (Eastern Time)&lt;/li&gt;
+&lt;li&gt;Sunday - Thursday&lt;/li&gt;
+&lt;li&gt;September - May&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;p&gt;Call toll free at &lt;strong&gt;1-877-ASK-ROSE.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The program is funded by Lilly Endowment, Inc. and Rose-Hulman Institute of Technology.&lt;/p&gt;
+&lt;div id=&quot;imgcycle&quot; style=&quot;padding: 5px; margin-bottom: 170px; display: none;&quot;&gt;&lt;img src=&quot;images/tutor_photos/0116.jpg&quot; border=&quot;0&quot; alt=&quot;TutorPicture&quot; width=&quot;261&quot; /&gt; &lt;img src=&quot;images/tutor_photos/4948.jpg&quot; border=&quot;0&quot; alt=&quot;TutorPicture&quot; width=&quot;261&quot; /&gt; &lt;img src=&quot;images/tutor_photos/5007.jpg&quot; border=&quot;0&quot; alt=&quot;TutorPicture&quot; width=&quot;261&quot; /&gt; &lt;img src=&quot;images/tutor_photos/5025.jpg&quot; border=&quot;0&quot; alt=&quot;TutorPicture&quot; width=&quot;261&quot; /&gt; &lt;img src=&quot;images/tutor_photos/5245.jpg&quot; border=&quot;0&quot; alt=&quot;TutorPicture&quot; width=&quot;261&quot; /&gt;&lt;/div&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt; 
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 14pt; color: #339966;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Rose-Hulman Institute of Technology's Homework Hotline provides &lt;strong&gt;FREE&lt;/strong&gt; math and science homework help to Indiana students.&lt;/p&gt;
+&lt;div style=&quot;width: 350px;&quot;&gt;
+&lt;ul style=&quot;list-style-type: circle;&quot;&gt;
+&lt;li&gt;Tutors help students in grades 6-12.&lt;/li&gt;
+&lt;li&gt;7 p.m. - 10 p.m. (Eastern Time)&lt;/li&gt;
+&lt;li&gt;Sunday - Thursday&lt;/li&gt;
+&lt;li&gt;September - May&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;p&gt;Call toll free at &lt;strong&gt;1-877-ASK-ROSE.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The program is funded by Lilly Endowment, Inc. and Rose-Hulman Institute of Technology.&lt;/p&gt;
+&lt;div id=&quot;imgcycle&quot; style=&quot;padding: 5px; margin-bottom: 170px; display: none;&quot;&gt;&lt;img src=&quot;images/tutor_photos/0116.jpg&quot; border=&quot;0&quot; alt=&quot;TutorPicture&quot; width=&quot;261&quot; /&gt; &lt;img src=&quot;images/tutor_photos/4948.jpg&quot; border=&quot;0&quot; alt=&quot;TutorPicture&quot; width=&quot;261&quot; /&gt; &lt;img src=&quot;images/tutor_photos/5007.jpg&quot; border=&quot;0&quot; alt=&quot;TutorPicture&quot; width=&quot;261&quot; /&gt; &lt;img src=&quot;images/tutor_photos/5025.jpg&quot; border=&quot;0&quot; alt=&quot;TutorPicture&quot; width=&quot;261&quot; /&gt; &lt;img src=&quot;images/tutor_photos/5245.jpg&quot; border=&quot;0&quot; alt=&quot;TutorPicture&quot; width=&quot;261&quot; /&gt;&lt;/div&gt;&lt;/div&gt;</content>
+		<category term="Featured" />
+		<category term="Homework Hotline" />
+	</entry>
+</feed>

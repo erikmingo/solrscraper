@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/components/com_jevents/views/ext/assets/css/modstyle.css" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">Bridgewater College Campus Events - Bridgewater College</title>
+	<subtitle type="text">Events occurring at Bridgewater College.</subtitle>
+	<link rel="alternate" type="text/html" href="http://www.bridgewater.edu"/>
+	<id>http://www.bridgewater.edu/</id>
+	<updated>2014-07-21T17:57:48+00:00</updated>
+	<generator uri="http://joomla.org" version="2.5">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="http://www.bridgewater.edu/component/jevents/modlatest.rss/atom/191?format=feed"/>
+</feed>

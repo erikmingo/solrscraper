@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/css" href="https://lss.at.ufl.edu/lssmw-faq/skins/common/feed.css?270"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+		<id>https://lss.at.ufl.edu/lssmw-faq/index.php?title=Special:RecentChanges&amp;feed=atom</id>
+		<title>e-Learning Documentation  - Recent changes [en]</title>
+		<link rel="self" type="application/atom+xml" href="https://lss.at.ufl.edu/lssmw-faq/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+		<link rel="alternate" type="text/html" href="https://lss.at.ufl.edu/help/Special:RecentChanges"/>
+		<updated>2014-07-21T02:13:03Z</updated>
+		<subtitle>Track the most recent changes to the wiki in this feed.</subtitle>
+		<generator>MediaWiki 1.16.0</generator>
+
+	</feed>

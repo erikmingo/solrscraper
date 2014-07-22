@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+  <ShortName>Search Lewis &amp; Clark</ShortName>
+  <Description>Search Lewis &amp; Clark content.</Description>
+  <Tags>pages people news events google</Tags>
+  <Contact>wwwadmin@lclark.edu</Contact>
+  <Image height="16" width="16" type="image/x-icon">http://www.lclark.edu/favicon.ico</Image>
+  <Url type="text/html" 
+    template="http://search.apps.lclark.edu/everything/{searchTerms}"/>
+  <Query role="example" searchTerms="math" />
+   <Attribution>
+     Search data Copyright 2011, Lewis &amp; Clark College, All Rights Reserved
+   </Attribution>
+  <SyndicationRight>open</SyndicationRight>
+  <AdultContent>false</AdultContent>
+  <Language>en-us</Language>
+  <OutputEncoding>UTF-8</OutputEncoding>
+  <InputEncoding>UTF-8</InputEncoding>
+</OpenSearchDescription>

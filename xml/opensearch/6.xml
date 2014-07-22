@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+  <ShortName>Data.Gov</ShortName>
+  <Description>Data.Gov | Open Federal Data</Description>
+  <Image height="16" width="16" type="image/x-icon">http://www.data.gov/favicon.ico</Image>
+  <Url type="text/html" method="get" template="http://explore.data.gov/browse?q={searchTerms}"/>
+</OpenSearchDescription>

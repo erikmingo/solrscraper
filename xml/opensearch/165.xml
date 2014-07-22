@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+  <ShortName>Moravian Theological Seminary</ShortName>
+  <Description>Moravian Theological Seminary is an ecumenical, theological graduate school of the Moravian Church offering master’s degrees in Divinity, Clinical Counseling, Theological Studies and a comprehensive Continuing Ed and lay leadership program - CROSSROADS.</Description>
+  <InputEncoding>UTF-8</InputEncoding>
+  <Image type="image/vnd.microsoft.icon" width="16" height="16">http://www.moravianseminary.edu/templates/moraviansem/favicon.ico</Image>
+  <Url type="application/opensearchdescription+xml" rel="self" template="http://www.moravianseminary.edu/component/search/?format=opensearch"/>
+  <Url type="text/html" template="http://www.moravianseminary.edu/index.php?option=com_search&amp;searchword={searchTerms}"/>
+</OpenSearchDescription>

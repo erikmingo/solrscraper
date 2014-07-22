@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! 1.5 - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-us">
+	<title type="text">Christian University: Bachelor's Masters and Doctoral Degrees Online and In-class: dbu.edu</title>
+	<subtitle type="text">DBU is a christian university located in Dallas, Texas. With over 5000 undergraduate and graduate students, DBU offers outstanding Christ-centered academic programs like Bachelor's Degree.</subtitle>
+	<link rel="alternate" type="text/html" href="http://www.dbu.edu"/>
+	<id>http://www.dbu.edu/index.php</id>
+	<updated>2014-07-21T17:57:01Z</updated>
+	<generator uri="http://joomla.org" version="1.5">Joomla! 1.5 - Open Source Content Management</generator>
+<link rel="self" type="application/atom+xml" href="http://www.dbu.edu/index.php?format=feed&amp;type=atom" />
+</feed>

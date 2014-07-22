@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document>
+<name><a href="http://nsidc.org/data/virtual_globes/">NSIDC</a> - MODIS Monthly Snow Cover</name>
+<NetworkLink>
+  <name>MODIS Monthly Snow Cover</name>
+  <visibility>1</visibility>
+ <open>1</open>
+
+<Link>
+    <href>http://nsidc.org/snow_cover/src/mod10cm/regionator/mod10cm_2009/mod10cm_2009_new.kml</href>
+    <refreshMode>onUpdate</refreshMode>
+  </Link> 
+  
+<LookAt>
+<longitude>100</longitude>
+<latitude>90</latitude>                
+<range>3500000</range>
+<altitude>3200000</altitude>
+<altitudeMode>relativeToGround</altitudeMode>
+<tilt>0.0</tilt>
+</LookAt>
+
+</NetworkLink> 
+
+</Document>
+</kml>

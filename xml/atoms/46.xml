@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">Standout Techie Slideshow</title>
+	<subtitle type="text"></subtitle>
+	<link rel="alternate" type="text/html" href="http://www.nmt.edu"/>
+	<id>http://www.nmt.edu/component/fpss/module/462</id>
+	<updated>2014-07-21T17:56:59+00:00</updated>
+	<generator uri="http://joomla.org" version="2.5">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="http://www.nmt.edu/component/fpss/module/462?format=feed&amp;type=atom"/>
+	<entry>
+		<title>Standout Techie - Melody Dosanjh</title>
+		<link rel="alternate" type="text/html" href="http://www.nmt.edu/component/fpss/track/18/L2NvbXBvbmVudC9jb250ZW50L2FydGljbGUvNTE4LXN0YW5kb3V0LXRlY2hpZS80NzQzLXN0YW5kb3V0LXRlY2hpZS1tZWxvZHktZG9zYW5qaA,,"/>
+		<published>2013-04-09T21:25:41+00:00</published>
+		<updated>2013-04-09T21:25:41+00:00</updated>
+		<id>http://www.nmt.edu/component/fpss/track/18/L2NvbXBvbmVudC9jb250ZW50L2FydGljbGUvNTE4LXN0YW5kb3V0LXRlY2hpZS80NzQzLXN0YW5kb3V0LXRlY2hpZS1tZWxvZHktZG9zYW5qaA,,</id>
+		<summary type="html">&lt;div&gt;&lt;img src=&quot;http://www.nmt.edu/media/com_fpss/cache/18_4965657af186b9092c7a96976ffe881c_m.jpg&quot; alt=&quot;Standout Techie - Melody Dosanjh&quot; /&gt;&lt;/div&gt;&amp;nbsp;</summary>
+		<content type="html">&lt;div&gt;&lt;img src=&quot;http://www.nmt.edu/media/com_fpss/cache/18_4965657af186b9092c7a96976ffe881c_m.jpg&quot; alt=&quot;Standout Techie - Melody Dosanjh&quot; /&gt;&lt;/div&gt;&amp;nbsp;</content>
+	</entry>
+	<entry>
+		<title>Standout Techie - Tyler Robinson</title>
+		<link rel="alternate" type="text/html" href="http://www.nmt.edu/component/fpss/track/20/L2NvbXBvbmVudC9jb250ZW50L2FydGljbGUvNTE4LXN0YW5kb3V0LXRlY2hpZS80NzQ1LXN0YW5kb3V0LXRlY2hpZS10eWxlci1yb2JpbnNvbg,,"/>
+		<published>2013-04-09T21:26:56+00:00</published>
+		<updated>2013-04-09T21:26:56+00:00</updated>
+		<id>http://www.nmt.edu/component/fpss/track/20/L2NvbXBvbmVudC9jb250ZW50L2FydGljbGUvNTE4LXN0YW5kb3V0LXRlY2hpZS80NzQ1LXN0YW5kb3V0LXRlY2hpZS10eWxlci1yb2JpbnNvbg,,</id>
+		<summary type="html">&lt;div&gt;&lt;img src=&quot;http://www.nmt.edu/media/com_fpss/cache/20_c889234799e865bbe90cee71f6cd2e53_m.jpg&quot; alt=&quot;Standout Techie - Tyler Robinson&quot; /&gt;&lt;/div&gt;&amp;nbsp;</summary>
+		<content type="html">&lt;div&gt;&lt;img src=&quot;http://www.nmt.edu/media/com_fpss/cache/20_c889234799e865bbe90cee71f6cd2e53_m.jpg&quot; alt=&quot;Standout Techie - Tyler Robinson&quot; /&gt;&lt;/div&gt;&amp;nbsp;</content>
+	</entry>
+	<entry>
+		<title>Standout Techie - Jasmine Hoo</title>
+		<link rel="alternate" type="text/html" href="http://www.nmt.edu/component/fpss/track/16/L2NvbXBvbmVudC9jb250ZW50L2FydGljbGUvNTE4LXN0YW5kb3V0LXRlY2hpZS80NzQyLXN0YW5kb3V0LXRlY2hpZS1qYXNtaW5lLWhvbw,,"/>
+		<published>2013-04-09T21:24:22+00:00</published>
+		<updated>2013-04-09T21:24:22+00:00</updated>
+		<id>http://www.nmt.edu/component/fpss/track/16/L2NvbXBvbmVudC9jb250ZW50L2FydGljbGUvNTE4LXN0YW5kb3V0LXRlY2hpZS80NzQyLXN0YW5kb3V0LXRlY2hpZS1qYXNtaW5lLWhvbw,,</id>
+		<summary type="html">&lt;div&gt;&lt;img src=&quot;http://www.nmt.edu/media/com_fpss/cache/16_c9b002fe1bb0320831a8ae78670fdb6f_m.jpg&quot; alt=&quot;Standout Techie - Jasmine Hoo&quot; /&gt;&lt;/div&gt;&amp;nbsp;</summary>
+		<content type="html">&lt;div&gt;&lt;img src=&quot;http://www.nmt.edu/media/com_fpss/cache/16_c9b002fe1bb0320831a8ae78670fdb6f_m.jpg&quot; alt=&quot;Standout Techie - Jasmine Hoo&quot; /&gt;&lt;/div&gt;&amp;nbsp;</content>
+	</entry>
+	<entry>
+		<title>Standout Techie - Sydney Wells</title>
+		<link rel="alternate" type="text/html" href="http://www.nmt.edu/component/fpss/track/19/L2NvbXBvbmVudC9jb250ZW50L2FydGljbGUvNTE4LXN0YW5kb3V0LXRlY2hpZS80NzQ0LXN0YW5kb3V0LXRlY2hpZS1zeWRuZXktd2VsbHM,"/>
+		<published>2013-04-09T21:26:09+00:00</published>
+		<updated>2013-04-09T21:26:09+00:00</updated>
+		<id>http://www.nmt.edu/component/fpss/track/19/L2NvbXBvbmVudC9jb250ZW50L2FydGljbGUvNTE4LXN0YW5kb3V0LXRlY2hpZS80NzQ0LXN0YW5kb3V0LXRlY2hpZS1zeWRuZXktd2VsbHM,</id>
+		<summary type="html">&lt;div&gt;&lt;img src=&quot;http://www.nmt.edu/media/com_fpss/cache/19_f4b6dca0e2911082f0eb6e1df1a0e11d_m.jpg&quot; alt=&quot;Standout Techie - Sydney Wells&quot; /&gt;&lt;/div&gt;&amp;nbsp;</summary>
+		<content type="html">&lt;div&gt;&lt;img src=&quot;http://www.nmt.edu/media/com_fpss/cache/19_f4b6dca0e2911082f0eb6e1df1a0e11d_m.jpg&quot; alt=&quot;Standout Techie - Sydney Wells&quot; /&gt;&lt;/div&gt;&amp;nbsp;</content>
+	</entry>
+	<entry>
+		<title>Standout Techie - Kyle Benalil</title>
+		<link rel="alternate" type="text/html" href="http://www.nmt.edu/component/fpss/track/17/L2NvbXBvbmVudC9jb250ZW50L2FydGljbGUvNTE4LXN0YW5kb3V0LXRlY2hpZS80NzQxLXN0YW5kb3V0LXRlY2hpZS1reWxlLWJlbmFsaWw,"/>
+		<published>2013-04-09T21:25:05+00:00</published>
+		<updated>2013-04-09T21:25:05+00:00</updated>
+		<id>http://www.nmt.edu/component/fpss/track/17/L2NvbXBvbmVudC9jb250ZW50L2FydGljbGUvNTE4LXN0YW5kb3V0LXRlY2hpZS80NzQxLXN0YW5kb3V0LXRlY2hpZS1reWxlLWJlbmFsaWw,</id>
+		<summary type="html">&lt;div&gt;&lt;img src=&quot;http://www.nmt.edu/media/com_fpss/cache/17_077ab55046ce80eaf9a3ddea999597ca_m.jpg&quot; alt=&quot;Standout Techie - Kyle Benalil&quot; /&gt;&lt;/div&gt;&amp;nbsp;</summary>
+		<content type="html">&lt;div&gt;&lt;img src=&quot;http://www.nmt.edu/media/com_fpss/cache/17_077ab55046ce80eaf9a3ddea999597ca_m.jpg&quot; alt=&quot;Standout Techie - Kyle Benalil&quot; /&gt;&lt;/div&gt;&amp;nbsp;</content>
+	</entry>
+	<entry>
+		<title>Standout Techie - Ashley Hutton </title>
+		<link rel="alternate" type="text/html" href="http://www.nmt.edu/component/fpss/track/21/L2NvbXBvbmVudC9jb250ZW50L2FydGljbGUvNTE4LXN0YW5kb3V0LXRlY2hpZS80NzU0LXN0YW5kb3V0LXRlY2hpZS1hc2hsZXktaHV0dG9u"/>
+		<published>2013-04-09T21:39:41+00:00</published>
+		<updated>2013-04-09T21:39:41+00:00</updated>
+		<id>http://www.nmt.edu/component/fpss/track/21/L2NvbXBvbmVudC9jb250ZW50L2FydGljbGUvNTE4LXN0YW5kb3V0LXRlY2hpZS80NzU0LXN0YW5kb3V0LXRlY2hpZS1hc2hsZXktaHV0dG9u</id>
+		<summary type="html">&lt;div&gt;&lt;img src=&quot;http://www.nmt.edu/media/com_fpss/cache/21_9b2c4b44fb86522964124ed80d03c5e8_m.jpg&quot; alt=&quot;Standout Techie - Ashley Hutton &quot; /&gt;&lt;/div&gt;&amp;nbsp;</summary>
+		<content type="html">&lt;div&gt;&lt;img src=&quot;http://www.nmt.edu/media/com_fpss/cache/21_9b2c4b44fb86522964124ed80d03c5e8_m.jpg&quot; alt=&quot;Standout Techie - Ashley Hutton &quot; /&gt;&lt;/div&gt;&amp;nbsp;</content>
+	</entry>
+	<entry>
+		<title>Standout Techie - Syngen Dunkan </title>
+		<link rel="alternate" type="text/html" href="http://www.nmt.edu/component/fpss/track/22/L2NvbXBvbmVudC9jb250ZW50L2FydGljbGUvNTE4LXN0YW5kb3V0LXRlY2hpZS80NzQwLXN0YW5kb3V0LXRlY2hpZS1zeW5nZW4tZHVua2Fu"/>
+		<published>2013-04-09T21:41:52+00:00</published>
+		<updated>2013-04-09T21:41:52+00:00</updated>
+		<id>http://www.nmt.edu/component/fpss/track/22/L2NvbXBvbmVudC9jb250ZW50L2FydGljbGUvNTE4LXN0YW5kb3V0LXRlY2hpZS80NzQwLXN0YW5kb3V0LXRlY2hpZS1zeW5nZW4tZHVua2Fu</id>
+		<summary type="html">&lt;div&gt;&lt;img src=&quot;http://www.nmt.edu/media/com_fpss/cache/22_71f67488b0857639cee631943a3fc6fa_m.jpg&quot; alt=&quot;Standout Techie - Syngen Dunkan &quot; /&gt;&lt;/div&gt; Standout Techie Syngen Duncan is all the way from Raton, New Mexico! She is currently majoring in Geophysics and plans&amp;#8230;</summary>
+		<content type="html">&lt;div&gt;&lt;img src=&quot;http://www.nmt.edu/media/com_fpss/cache/22_71f67488b0857639cee631943a3fc6fa_m.jpg&quot; alt=&quot;Standout Techie - Syngen Dunkan &quot; /&gt;&lt;/div&gt; Standout Techie Syngen Duncan is all the way from Raton, New Mexico! She is currently majoring in Geophysics and plans&amp;#8230;</content>
+	</entry>
+</feed>

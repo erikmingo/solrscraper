@@ -1,0 +1,182 @@
+<!DOCTYPE html PUBLIC "-//WAPFORUM//DTD XHTML Mobile 1.0//EN" "http://www.wapforum.org/DTD/xhtml-mobile10.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+
+  <base href="http://iphone.cbu.edu/Search.html" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="robots" content="index, follow" />
+  
+  <title>Search | CBU</title>
+  <link href="/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no" />
+	<meta name="HandheldFriendly" content="True" />
+	<meta name="MobileOptimized" content="90" />
+	<meta http-equiv="cleartype" content="on" />
+	<meta name="format-detection" content="telephone=no" />
+	<meta name="format-detection" content="address=no" />
+	<style type="text/css" media="screen">@import "/templates/cbu_mobile_smartphone/resources/styles/reset.css";</style>
+	<style type="text/css" media="screen">@import "/templates/cbu_mobile_smartphone/resources/styles/baseStyles.css";</style>
+	<style type="text/css" media="screen">@import "/templates/cbu_mobile_smartphone/css/mj_xhtml.css";</style>
+	<style type="text/css" media="screen">@import "/templates/cbu_mobile_smartphone/css/custom.css";</style>
+<script src="/media/system/js/mootools-more.js" type="text/javascript"></script>
+	<script type="text/javascript" src="/templates/cbu_mobile_smartphone/resources/scripts/templates.js"></script>
+	<script src="/templates/cbu_mobile_smartphone/mj_xhtml.js" type="text/javascript" charset="utf-8"></script>
+	<meta name="viewport" content="width=device-width" />
+<script>
+  (function() {
+    var cx = '010154079659075884982:g0h8dpprfna';
+    var gcse = document.createElement('script'); gcse.type = 'text/javascript'; gcse.async = true;
+    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+        '//www.google.com/cse/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(gcse, s);
+  })();
+</script>	
+<script>
+window.addEvent('domready', function(){
+  new Fx.Accordion($('accordion'), '#accordion h2', '#accordion .content');
+});
+</script>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-34746807-1']);
+  _gaq.push(['_setDomainName', 'cbu.edu']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<!-- start Mixpanel --><script type="text/javascript">(function(e,b){if(!b.__SV){var a,f,i,g;window.mixpanel=b;a=e.createElement("script");a.type="text/javascript";a.async=!0;a.src=("https:"===e.location.protocol?"https:":"http:")+'//cdn.mxpnl.com/libs/mixpanel-2.2.min.js';f=e.getElementsByTagName("script")[0];f.parentNode.insertBefore(a,f);b._i=[];b.init=function(a,e,d){function f(b,h){var a=h.split(".");2==a.length&&(b=b[a[0]],h=a[1]);b[h]=function(){b.push([h].concat(Array.prototype.slice.call(arguments,0)))}}var c=b;"undefined"!==
+typeof d?c=b[d]=[]:d="mixpanel";c.people=c.people||[];c.toString=function(b){var a="mixpanel";"mixpanel"!==d&&(a+="."+d);b||(a+=" (stub)");return a};c.people.toString=function(){return c.toString(1)+".people (stub)"};i="disable track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.increment people.append people.track_charge".split(" ");for(g=0;g<i.length;g++)f(c,i[g]);b._i.push([a,e,d])};b.__SV=1.2}})(document,window.mixpanel||
+[]);
+mixpanel.init("c868bf0182cf8c3538095f9099727349");</script><!-- end Mixpanel -->
+</head>
+<body>
+      <div id='fb-root'></div><script type='text/javascript'>
+
+      // Load the SDK Asynchronously
+      (function(d){
+      var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;}
+      js = d.createElement('script'); js.id = id; js.async = true;
+      js.src = '//connect.facebook.net/en_GB/all.js';
+      d.getElementsByTagName('head')[0].appendChild(js);
+    }(document));
+
+    </script>
+<div id="wrap">
+	<div id="header">
+<div id="mj_smartphone_header"><div class="moduletable">
+
+<img src="http://iphone.cbu.edu/images/Images/mobile/mobileheader.png" alt="Christian Brothers University"/>
+
+</div></div>	</div>
+
+<div id="system-message-container">
+</div><div id="mj_all_header"></div>	<div id="content">
+
+<div class="search">
+
+
+<form id="searchForm" action="/Search.html" method="post">
+
+	<fieldset class="word">
+		<label for="search-searchword">
+			Search Keyword:		</label>
+		<input type="text" name="searchword" id="search-searchword" size="30" maxlength="20" value="" class="inputbox" />
+		<button name="Search" onclick="this.form.submit()" class="button">Search</button>
+		<input type="hidden" name="task" value="search" />
+	</fieldset>
+
+	<div class="searchintro">
+			</div>
+
+	<fieldset class="phrases">
+		<legend>Search for:		</legend>
+			<div class="phrases-box">
+			
+	<input type="radio" name="searchphrase" id="searchphraseall" value="all"  checked="checked" />
+	<label for="searchphraseall" id="searchphraseall-lbl" class="radiobtn">All words</label>
+	<input type="radio" name="searchphrase" id="searchphraseany" value="any"  />
+	<label for="searchphraseany" id="searchphraseany-lbl" class="radiobtn">Any words</label>
+	<input type="radio" name="searchphrase" id="searchphraseexact" value="exact"  />
+	<label for="searchphraseexact" id="searchphraseexact-lbl" class="radiobtn">Exact Phrase</label>
+			</div>
+			<div class="ordering-box">
+			<label for="ordering" class="ordering">
+				Ordering:			</label>
+			<select id="ordering" name="ordering" class="inputbox">
+	<option value="newest" selected="selected">Newest First</option>
+	<option value="oldest">Oldest First</option>
+	<option value="popular">Most Popular</option>
+	<option value="alpha">Alphabetical</option>
+	<option value="category">Category</option>
+</select>
+			</div>
+	</fieldset>
+
+			<fieldset class="only">
+		<legend>Search Only:</legend>
+				<input type="checkbox" name="areas[]" value="categories" id="area-categories"  />
+			<label for="area-categories">
+				Categories			</label>
+				<input type="checkbox" name="areas[]" value="content" id="area-content"  />
+			<label for="area-content">
+				Articles			</label>
+				<input type="checkbox" name="areas[]" value="newsfeeds" id="area-newsfeeds"  />
+			<label for="area-newsfeeds">
+				Newsfeeds			</label>
+				</fieldset>
+	
+
+</form>
+
+</div>
+<div id="blog1"><div class="moduletable">
+
+<div class="custom"  >
+	<h1>SEARCH RESULTS</h1>
+<p>If you are looking for contact information for a current Faculty member or a member of the CBU Staff, please search the <a href="/administration/directory.html">CBU Faculty &amp; Staff Directory</a>.</p></div>
+</div></div>		<div class="top">
+			<a href="#header">Back to the top</a>
+		</div>
+			<div class="home">
+				<a href="/">Home</a>
+			</div>
+	</div>
+	<div id="footer">
+<div id="mj_all_footer"><div class="moduletable"> <span class="markupchooser">Mobile Site</span><span class="markupchooser"> | </span><a class="markupchooser" href="http://www.cbu.edu/Search.html?device=desktop">Full Site</a></div></div><div id="mj_smartphone_footer"><div class="moduletable">
+
+<div class="custom"  >
+	<img src="/images/Images/mobile/footerbgmobile.png" /></div>
+</div></div>	</div>
+</div>
+<!-- Quantcast Tag -->
+<script type="text/javascript">
+var _qevents = _qevents || [];
+
+(function() {
+var elem = document.createElement('script');
+elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+elem.async = true;
+elem.type = "text/javascript";
+var scpt = document.getElementsByTagName('script')[0];
+scpt.parentNode.insertBefore(elem, scpt);
+})();
+
+_qevents.push({
+qacct:"p-ca_R_tAUnrg2U"
+});
+</script>
+
+<noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-ca_R_tAUnrg2U.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript>
+<!-- End Quantcast tag -->
+</body>
+</html>

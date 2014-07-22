@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+	<ShortName>lhup_calendar</ShortName>
+	<Description>Search lhup_calendar Events.</Description>
+	<Image height="16" width="16" type="image/x-icon">http://www.lhup.edu/calendar/favicon.ico</Image>
+	<Url type="text/html" method="get" template="http://www.lhup.edu/calendar/index.php?com=searchresult&amp;k={searchTerms}" />
+</OpenSearchDescription>

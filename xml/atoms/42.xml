@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">Frontpage SlideShow</title>
+	<subtitle type="text"></subtitle>
+	<link rel="alternate" type="text/html" href="http://www.nmt.edu"/>
+	<id>http://www.nmt.edu/component/fpss/module/74</id>
+	<updated>2014-07-21T17:56:57+00:00</updated>
+	<generator uri="http://joomla.org" version="2.5">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="http://www.nmt.edu/component/fpss/module/74?format=feed&amp;type=atom"/>
+	<entry>
+		<title>Excellence in Research</title>
+		<link rel="alternate" type="text/html" href="http://www.nmt.edu/component/fpss/track/5/L25ld3MvYWxsLW5ld3MvMzAzLWZlYXR1cmVkLzQxMDQtZXhjZWxsZW5jZS1pbi1yZXNlYXJjaA,,"/>
+		<published>2012-06-21T02:59:09+00:00</published>
+		<updated>2012-06-21T02:59:09+00:00</updated>
+		<id>http://www.nmt.edu/component/fpss/track/5/L25ld3MvYWxsLW5ld3MvMzAzLWZlYXR1cmVkLzQxMDQtZXhjZWxsZW5jZS1pbi1yZXNlYXJjaA,,</id>
+		<summary type="html">&lt;div&gt;&lt;img src=&quot;http://www.nmt.edu/media/com_fpss/cache/5_ffee2447b152494b43d9816faaea83c8_m.jpg&quot; alt=&quot;Excellence in Research&quot; /&gt;&lt;/div&gt;New Mexico Tech has jokingly been called a research institution that happens to have a university. In reality, it’s not&amp;#8230;</summary>
+		<content type="html">&lt;div&gt;&lt;img src=&quot;http://www.nmt.edu/media/com_fpss/cache/5_ffee2447b152494b43d9816faaea83c8_m.jpg&quot; alt=&quot;Excellence in Research&quot; /&gt;&lt;/div&gt;New Mexico Tech has jokingly been called a research institution that happens to have a university. In reality, it’s not&amp;#8230;</content>
+	</entry>
+	<entry>
+		<title>Excellence in Teaching</title>
+		<link rel="alternate" type="text/html" href="http://www.nmt.edu/component/fpss/track/6/L25ld3MvYWxsLW5ld3MvMzAzLWZlYXR1cmVkLzQxMDUtZXhjZWxsZW5jZS1pbi10ZWFjaGluZw,,"/>
+		<published>2012-06-21T03:00:03+00:00</published>
+		<updated>2012-06-21T03:00:03+00:00</updated>
+		<id>http://www.nmt.edu/component/fpss/track/6/L25ld3MvYWxsLW5ld3MvMzAzLWZlYXR1cmVkLzQxMDUtZXhjZWxsZW5jZS1pbi10ZWFjaGluZw,,</id>
+		<summary type="html">&lt;div&gt;&lt;img src=&quot;http://www.nmt.edu/media/com_fpss/cache/6_ada9a09acea936d776a6f55c82778c43_m.jpg&quot; alt=&quot;Excellence in Teaching&quot; /&gt;&lt;/div&gt;New Mexico Tech instructors take pride in developing and maintaining a difficult curriculum. Tech professors have a long list of&amp;#8230;</summary>
+		<content type="html">&lt;div&gt;&lt;img src=&quot;http://www.nmt.edu/media/com_fpss/cache/6_ada9a09acea936d776a6f55c82778c43_m.jpg&quot; alt=&quot;Excellence in Teaching&quot; /&gt;&lt;/div&gt;New Mexico Tech instructors take pride in developing and maintaining a difficult curriculum. Tech professors have a long list of&amp;#8230;</content>
+	</entry>
+	<entry>
+		<title>Student Excellence</title>
+		<link rel="alternate" type="text/html" href="http://www.nmt.edu/component/fpss/track/7/L25ld3MvYWxsLW5ld3MvMzAzLWZlYXR1cmVkLzQxMDYtc3R1ZGVudC1leGNlbGxlbmNlLQ,,"/>
+		<published>2012-06-21T03:00:56+00:00</published>
+		<updated>2012-06-21T03:00:56+00:00</updated>
+		<id>http://www.nmt.edu/component/fpss/track/7/L25ld3MvYWxsLW5ld3MvMzAzLWZlYXR1cmVkLzQxMDYtc3R1ZGVudC1leGNlbGxlbmNlLQ,,</id>
+		<summary type="html">&lt;div&gt;&lt;img src=&quot;http://www.nmt.edu/media/com_fpss/cache/7_9caa2793658f3cc387f216157300b1ce_m.jpg&quot; alt=&quot;Student Excellence&quot; /&gt;&lt;/div&gt;Over its 125 years, New Mexico Tech has developed a reputation for excellence in research and teaching. The university has&amp;#8230;</summary>
+		<content type="html">&lt;div&gt;&lt;img src=&quot;http://www.nmt.edu/media/com_fpss/cache/7_9caa2793658f3cc387f216157300b1ce_m.jpg&quot; alt=&quot;Student Excellence&quot; /&gt;&lt;/div&gt;Over its 125 years, New Mexico Tech has developed a reputation for excellence in research and teaching. The university has&amp;#8230;</content>
+	</entry>
+</feed>

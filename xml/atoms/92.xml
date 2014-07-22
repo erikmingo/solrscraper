@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><feed
+  xmlns="http://www.w3.org/2005/Atom"
+  xmlns:thr="http://purl.org/syndication/thread/1.0"
+  xml:lang="en"
+  xml:base="http://faculty.franklin.edu/joann-jordan/wp-atom.php"
+   >
+	<title type="text">JoAnn L. Jordan, MPH, RHIA, CCS-P, CPHIMS</title>
+	<subtitle type="text">Health Information Management Program Chair</subtitle>
+
+	<updated>2013-07-03T12:46:20Z</updated>
+	<generator uri="http://wordpress.org/" version="2.9.1">WordPress</generator>
+
+	<link rel="alternate" type="text/html" href="http://faculty.franklin.edu/joann-jordan" />
+	<id>http://faculty.franklin.edu/joann-jordan/feed/atom/</id>
+	<link rel="self" type="application/atom+xml" href="http://faculty.franklin.edu/joann-jordan/feed/atom/" />
+
+			<entry>
+		<author>
+			<name>Ted Kocher</name>
+					</author>
+		<title type="html"><![CDATA[No blog entries posted at this time]]></title>
+		<link rel="alternate" type="text/html" href="http://faculty.franklin.edu/joann-jordan/2013/07/03/no-blog-entries-posted-at-this-time/" />
+		<id>http://faculty.franklin.edu/joann-jordan/2013/07/03/no-blog-entries-posted-at-this-time/</id>
+		<updated>2013-07-03T12:46:20Z</updated>
+		<published>2013-07-03T12:46:20Z</published>
+		<category scheme="http://faculty.franklin.edu/joann-jordan" term="Uncategorized" />		<summary type="html"><![CDATA[]]></summary>
+		<content type="html" xml:base="http://faculty.franklin.edu/joann-jordan/2013/07/03/no-blog-entries-posted-at-this-time/"><![CDATA[]]></content>
+		<link rel="replies" type="text/html" href="http://faculty.franklin.edu/joann-jordan/2013/07/03/no-blog-entries-posted-at-this-time/#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://faculty.franklin.edu/joann-jordan/2013/07/03/no-blog-entries-posted-at-this-time/feed/atom/" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+	</feed>

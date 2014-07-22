@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet href="atom.css" type="text/css"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xml:base="http://www.ag.ndsu.edu/research" xml:lang="en">
+  <link rel="self" href="http://www.ag.ndsu.edu/research/nd-agricultural-experiment-station/atom.xml" />
+  <div xmlns="http://www.w3.org/1999/xhtml">
+    <a href="http://www.atomenabled.org/feedvalidator/check.cgi?url=http://www.ag.ndsu.edu/research/nd-agricultural-experiment-station/atom.xml">
+      <img title="Validate my Atom feed" width="88" height="31" src="http://www.atomenabled.org/feedvalidator/images/valid-atom.png" alt="[Valid Atom]" border="0px" />
+    </a>
+    <p>
+      <span>
+        This is an Atom formatted XML site feed. It is intended to be viewed in
+        a Newsreader or syndicated to another site. Please visit 
+      </span>
+      <a href="http://www.atomenabled.org/">Atom Enabled</a>
+      <span>
+        for more info.
+      </span>
+    </p>
+  </div>
+
+  <title type="html">NDAES </title>
+  
+
+  <updated>2013-04-30T13:59:46-05:00</updated>
+
+  <link href="http://www.ag.ndsu.edu/research/nd-agricultural-experiment-station" rel="alternate" type="text/html" />
+
+  
+
+  <id>urn:syndication:e1c8470093a0ded63d4b8337b36b0a11</id>
+
+  <generator uri="http://plone.org/products/fatsyndication/" version="0.1">fatsyndication</generator>
+
+  
+
+    <entry>
+
+      <title></title>
+
+      <link rel="alternate" type="text/html" href="http://www.ag.ndsu.edu/research/nd-agricultural-experiment-station/ResearchProfileAndersonVernCREC2013abbreviatedjq2.docx/view" />
+
+      <link rel="enclosure" type="application/zip" href="http://www.ag.ndsu.edu/research/nd-agricultural-experiment-station/ResearchProfileAndersonVernCREC2013abbreviatedjq2.docx" length="18586" />
+
+      <id>urn:syndication:664fbd4aca5c3ac5c1bb8ea0238c3b25</id>
+      
+      
+      
+
+      
+      
+
+      <author>
+        <name>Alisha Nord</name>
+      </author>
+
+      <published>2013-04-30T13:59:46-05:00</published>
+
+      <updated>2013-04-30T13:59:46-05:00</updated>
+
+
+    </entry>
+
+  
+
+</feed>

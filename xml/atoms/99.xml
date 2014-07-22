@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><feed
+  xmlns="http://www.w3.org/2005/Atom"
+  xmlns:thr="http://purl.org/syndication/thread/1.0"
+  xml:lang="en"
+  xml:base="http://faculty.franklin.edu/martina-peng/wp-atom.php"
+   >
+	<title type="text">Martina Peng, Ph.D., CFP®</title>
+	<subtitle type="text">Department Chair, Accounting, Finance, and Economics</subtitle>
+
+	<updated>2012-03-13T18:48:36Z</updated>
+	<generator uri="http://wordpress.org/" version="2.9.1">WordPress</generator>
+
+	<link rel="alternate" type="text/html" href="http://faculty.franklin.edu/martina-peng" />
+	<id>http://faculty.franklin.edu/martina-peng/feed/atom/</id>
+	<link rel="self" type="application/atom+xml" href="http://faculty.franklin.edu/martina-peng/feed/atom/" />
+
+			<entry>
+		<author>
+			<name>martina-peng</name>
+					</author>
+		<title type="html"><![CDATA[]]></title>
+		<link rel="alternate" type="text/html" href="http://faculty.franklin.edu/martina-peng/2012/03/13/41/" />
+		<id>http://faculty.franklin.edu/martina-peng/2012/03/13/41/</id>
+		<updated>2012-03-13T18:48:36Z</updated>
+		<published>2012-03-13T18:48:36Z</published>
+		<category scheme="http://faculty.franklin.edu/martina-peng" term="Uncategorized" />		<summary type="html"><![CDATA[2012_AnnualLimits
+]]></summary>
+		<content type="html" xml:base="http://faculty.franklin.edu/martina-peng/2012/03/13/41/"><![CDATA[<p><a href='http://faculty.franklin.edu/martina-peng/files/2012/03/2012_AnnualLimits3.pdf'>2012_AnnualLimits</a></p>
+]]></content>
+		<link rel="replies" type="text/html" href="http://faculty.franklin.edu/martina-peng/2012/03/13/41/#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://faculty.franklin.edu/martina-peng/2012/03/13/41/feed/atom/" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name>William Monnes</name>
+					</author>
+		<title type="html"><![CDATA[No blog entries posted at this time]]></title>
+		<link rel="alternate" type="text/html" href="http://faculty.franklin.edu/martina-peng/2010/08/18/no-blog-entries-posted-at-this-time/" />
+		<id>http://faculty.franklin.edu/martina-peng/2010/08/18/no-blog-entries-posted-at-this-time/</id>
+		<updated>2010-08-18T14:44:50Z</updated>
+		<published>2010-08-18T14:44:50Z</published>
+		<category scheme="http://faculty.franklin.edu/martina-peng" term="Uncategorized" />		<summary type="html"><![CDATA[]]></summary>
+		<content type="html" xml:base="http://faculty.franklin.edu/martina-peng/2010/08/18/no-blog-entries-posted-at-this-time/"><![CDATA[]]></content>
+		<link rel="replies" type="text/html" href="http://faculty.franklin.edu/martina-peng/2010/08/18/no-blog-entries-posted-at-this-time/#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://faculty.franklin.edu/martina-peng/2010/08/18/no-blog-entries-posted-at-this-time/feed/atom/" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+	</feed>

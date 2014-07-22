@@ -1,0 +1,118 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>
+Worlds Ahead - Florida International University</title>
+<link href="css/960.css" rel="stylesheet" type="text/css" />
+<link href="css/reset.css" rel="stylesheet" type="text/css" />
+<link href="css/text.css" rel="stylesheet" type="text/css" />
+<link href="css/style.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+form#questions {
+	display:block;
+	padding:10px;
+	margin:10px;
+	text-align:center
+}
+form#questions select {
+	background-color:#e1e2e3;
+	border-radius:5px;
+	-moz-border-radius:5px;
+	-webkit-border-radius:5px;
+	-khtml-border-radius:5px;
+	behavior:url(border-radius.htc);
+	color:#666;
+	border-top:1px solid #c9cacb;
+	border-left:1px solid #c9cacb;
+	border-right:1px solid #fff;
+	border-bottom:1px solid #fff;
+	width:500px;
+	padding:5px;
+	font-weight:bold;
+	font-size:18px;
+}
+form#questions input.next-btn {
+	width:76px;
+	height:34px;
+	background:url(img/next_05.jpg) no-repeat;
+	padding:0;
+	margin:0;
+	border:0;
+	cursor:pointer
+}
+</style>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-1218730-31']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</head>
+<body>
+<div id="wrapper_top"></div>
+<div id="wrapper">
+	<div class="container_12">
+		<div class="grid_12">
+			<div id="header"> <a class="logo" href="./" title="Worlds Ahead - Florida International University"><img src="img/top.gif" alt="Worlds Ahead - Florida International University" /></a>
+	<div class="header_msg"> <a href="http://worldsahead.fiu.edu/" target="_blank"><img src="img/logo_top.gif" alt="Find yourself at FIU" border="0" title="Find yourself at FIU" /></a> </div>
+</div>
+			<div id="main_content">
+				<ul id="steps">
+					<span>Step:</span>
+					<li><a href="#" onclick="return false;" class="active">1</a></li>
+					<li><a href="#" onclick="return false;">2</a></li>
+					<li><a href="#" onclick="return false;">3</a></li>
+				</ul>
+			  <div class="clear"></div>
+				<h1 class="question"><img src="img/txt_1.gif" width="569" height="54" /></h1>
+				<form action="step-2" name="questions" method="post" id="questions">
+					<select name="opcion1" id="opcion1" onchange="document.getElementById('questions').submit();">
+						<option value="" selected="selected">- Select an option -</option>
+												<option value="law">
+						Law						</option>
+												<option value="medicine">
+						Medicine						</option>
+												<option value="arts">
+						Arts						</option>
+												<option value="music">
+						Music						</option>
+												<option value="business">
+						Business						</option>
+												<option value="science">
+						Science						</option>
+												<option value="education">
+						Education						</option>
+												<option value="public health">
+						Public Health						</option>
+												<option value="communications">
+						Communications						</option>
+												<option value="hospitality">
+						Hospitality						</option>
+												<option value="international affairs">
+						International Affairs						</option>
+												<option value="engineering">
+						Engineering						</option>
+												<option value="architecture">
+						Architecture						</option>
+												<option value="public service">
+						Public Service						</option>
+												<option value="cultural studies">
+						Cultural Studies						</option>
+											</select>
+				</form>
+			</div>
+			<div id="footer"> <span class="logo"><img src="img/logo_footer.gif" title="Florida International University" /></span> <span class="skip"><a href="http://worldsahead.fiu.edu" target="_blank"><img src="img/skip.gif" title="Skip This" /></a></span> </div>
+		</div>
+	</div>
+</div>
+<div id="wrapper_bottom"></div>
+</body>
+</html>

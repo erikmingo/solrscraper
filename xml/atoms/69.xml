@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?><feed
+  xmlns="http://www.w3.org/2005/Atom"
+  xmlns:thr="http://purl.org/syndication/thread/1.0"
+  xml:lang="en"
+  xml:base="http://www.plymouth.edu/parent/wp-atom.php"
+   >
+	<title type="text">Resources for Parents &#38; Families</title>
+	<subtitle type="text">Just another Plymouth State University weblog</subtitle>
+
+	<updated>2014-01-30T17:24:00Z</updated>
+
+	<link rel="alternate" type="text/html" href="http://www.plymouth.edu/parent" />
+	<id>http://www.plymouth.edu/parent/feed/atom/</id>
+	<link rel="self" type="application/atom+xml" href="http://www.plymouth.edu/parent/feed/atom/" />
+
+	<generator uri="http://wordpress.org/" version="3.2.1">WordPress</generator>
+		<entry>
+		<author>
+			<name>Kristi</name>
+					</author>
+		<title type="html"><![CDATA[Which Greek organizations are recognized and supported by Plymouth State?]]></title>
+		<link rel="alternate" type="text/html" href="http://www.plymouth.edu/parent/106/which-greek-organizations-are-recognized-and-supported-by-plymouth-state/" />
+		<id>http://www.plymouth.edu/parent/?p=106</id>
+		<updated>2011-04-20T19:35:30Z</updated>
+		<published>2011-04-20T19:35:30Z</published>
+		<category scheme="http://www.plymouth.edu/parent" term="FAQ" /><category scheme="http://www.plymouth.edu/parent" term="Greek life" />		<summary type="html"><![CDATA[PSU recognizes Delta Zeta Sorority, Kappa Delta Phi NAS Sorority, and Tau Omega Sorority. For more information, please visit the Student Activities Office Web site.]]></summary>
+		<content type="html" xml:base="http://www.plymouth.edu/parent/106/which-greek-organizations-are-recognized-and-supported-by-plymouth-state/"><![CDATA[<p>PSU recognizes Delta Zeta Sorority, Kappa Delta Phi NAS Sorority, and Tau Omega Sorority. For more information, please <a href="http://www.plymouth.edu/hub/sao/organizations/index.php?page=group&amp;Group=Greek Organizations">visit the Student Activities Office Web site</a>.</p>
+]]></content>
+		<link rel="replies" type="text/html" href="http://www.plymouth.edu/parent/106/which-greek-organizations-are-recognized-and-supported-by-plymouth-state/#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://www.plymouth.edu/parent/106/which-greek-organizations-are-recognized-and-supported-by-plymouth-state/feed/atom/" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name>Kristi</name>
+					</author>
+		<title type="html"><![CDATA[How can I help PSU grow and excel?]]></title>
+		<link rel="alternate" type="text/html" href="http://www.plymouth.edu/parent/104/how-can-i-help-psu-grow-and-excel/" />
+		<id>http://www.plymouth.edu/parent/?p=104</id>
+		<updated>2014-01-30T16:34:47Z</updated>
+		<published>2011-04-20T19:34:49Z</published>
+		<category scheme="http://www.plymouth.edu/parent" term="FAQ" /><category scheme="http://www.plymouth.edu/parent" term="helping PSU" />		<summary type="html"><![CDATA[Many PSU parents give to the University. Visit the Annual Fund site to learn more about how Parents for Plymouth help improve the experience of undergraduate students at PSU.]]></summary>
+		<content type="html" xml:base="http://www.plymouth.edu/parent/104/how-can-i-help-psu-grow-and-excel/"><![CDATA[<p>Many PSU parents give to the University. <a href="/advancement/development/areas-to-support/annual-fund/">Visit the Annual Fund site</a> to learn more about how Parents for Plymouth help improve the experience of undergraduate students at PSU.</p>
+]]></content>
+		<link rel="replies" type="text/html" href="http://www.plymouth.edu/parent/104/how-can-i-help-psu-grow-and-excel/#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://www.plymouth.edu/parent/104/how-can-i-help-psu-grow-and-excel/feed/atom/" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name>Kristi</name>
+					</author>
+		<title type="html"><![CDATA[What If My Student Hasn&#8217;t Declared A Major?]]></title>
+		<link rel="alternate" type="text/html" href="http://www.plymouth.edu/parent/102/what-if-my-student-hasnt-declared-a-major/" />
+		<id>http://www.plymouth.edu/parent/?p=102</id>
+		<updated>2011-04-20T19:34:19Z</updated>
+		<published>2011-04-20T19:34:19Z</published>
+		<category scheme="http://www.plymouth.edu/parent" term="FAQ" /><category scheme="http://www.plymouth.edu/parent" term="declaring majors" />		<summary type="html"><![CDATA[The College of University Studies is  a developmental advising program for first year students who are admitted to Plymouth State University without declaring a major or degree option. The program was designed to help students graduate in four years, and offers programs and advising intended to help member students find the right academic major.]]></summary>
+		<content type="html" xml:base="http://www.plymouth.edu/parent/102/what-if-my-student-hasnt-declared-a-major/"><![CDATA[<p><a href="http://www.plymouth.edu/unistu">The College of University Studies</a> is  a developmental advising program for first year students who are admitted to Plymouth State University without declaring a major or degree option. The program was designed to help students graduate in four years, and offers programs and advising intended to help member students find the right academic major.</p>
+]]></content>
+		<link rel="replies" type="text/html" href="http://www.plymouth.edu/parent/102/what-if-my-student-hasnt-declared-a-major/#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://www.plymouth.edu/parent/102/what-if-my-student-hasnt-declared-a-major/feed/atom/" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name>Kristi</name>
+					</author>
+		<title type="html"><![CDATA[Who helps my student understand degree requirements for graduation?]]></title>
+		<link rel="alternate" type="text/html" href="http://www.plymouth.edu/parent/96/who-helps-my-student-understand-degree-requirements-for-graduation/" />
+		<id>http://www.plymouth.edu/parent/?p=96</id>
+		<updated>2011-04-20T19:33:46Z</updated>
+		<published>2011-04-20T19:33:19Z</published>
+		<category scheme="http://www.plymouth.edu/parent" term="FAQ" /><category scheme="http://www.plymouth.edu/parent" term="degree requirements" />		<summary type="html"><![CDATA[Academic advising is an important part of Plymouth State University&#8217;s commitment to the process of educating the student. The Undergraduate Advising Office is available to assist your student understand degree requirements.]]></summary>
+		<content type="html" xml:base="http://www.plymouth.edu/parent/96/who-helps-my-student-understand-degree-requirements-for-graduation/"><![CDATA[<p>Academic advising is an important part of Plymouth State University&#8217;s commitment to the process of educating the student. The <a href="http://www.plymouth.edu/academicadvising/">Undergraduate Advising Office</a> is available to assist your student understand degree requirements.</p>
+]]></content>
+		<link rel="replies" type="text/html" href="http://www.plymouth.edu/parent/96/who-helps-my-student-understand-degree-requirements-for-graduation/#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://www.plymouth.edu/parent/96/who-helps-my-student-understand-degree-requirements-for-graduation/feed/atom/" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name>Kristi</name>
+					</author>
+		<title type="html"><![CDATA[How can I help my student get social, emotional, and/or psychological support?]]></title>
+		<link rel="alternate" type="text/html" href="http://www.plymouth.edu/parent/94/how-can-i-help-my-student-get-social-emotional-andor-psychological-support/" />
+		<id>http://www.plymouth.edu/parent/?p=94</id>
+		<updated>2011-04-20T19:32:54Z</updated>
+		<published>2011-04-20T19:32:54Z</published>
+		<category scheme="http://www.plymouth.edu/parent" term="FAQ" /><category scheme="http://www.plymouth.edu/parent" term="student support" />		<summary type="html"><![CDATA[The Counseling and Human Relations Center is a great resource and they offer services are offered free of charge to all Plymouth State University undergraduate and graduate students. Visit the Counseling Center&#8217;s web site for more information.]]></summary>
+		<content type="html" xml:base="http://www.plymouth.edu/parent/94/how-can-i-help-my-student-get-social-emotional-andor-psychological-support/"><![CDATA[<p>The Counseling and Human Relations Center is a great resource and they offer services are offered free of charge to all Plymouth State University undergraduate and graduate students. <a href="http://www.plymouth.edu/counselr/">Visit the Counseling Center&#8217;s web site for more information.</a></p>
+]]></content>
+		<link rel="replies" type="text/html" href="http://www.plymouth.edu/parent/94/how-can-i-help-my-student-get-social-emotional-andor-psychological-support/#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://www.plymouth.edu/parent/94/how-can-i-help-my-student-get-social-emotional-andor-psychological-support/feed/atom/" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name>Kristi</name>
+					</author>
+		<title type="html"><![CDATA[How do we find out the schedule for room assignments?]]></title>
+		<link rel="alternate" type="text/html" href="http://www.plymouth.edu/parent/92/how-do-we-find-out-the-schedule-for-room-assignments/" />
+		<id>http://www.plymouth.edu/parent/?p=92</id>
+		<updated>2011-04-20T19:32:02Z</updated>
+		<published>2011-04-20T19:32:02Z</published>
+		<category scheme="http://www.plymouth.edu/parent" term="FAQ" /><category scheme="http://www.plymouth.edu/parent" term="information" /><category scheme="http://www.plymouth.edu/parent" term="room assignments" />		<summary type="html"><![CDATA[Information about room assignments is available on the Residential Life web site.]]></summary>
+		<content type="html" xml:base="http://www.plymouth.edu/parent/92/how-do-we-find-out-the-schedule-for-room-assignments/"><![CDATA[<p>Information about room assignments is available on the <a href="http://www.plymouth.edu/reslife">Residential Life</a> web site.</p>
+]]></content>
+		<link rel="replies" type="text/html" href="http://www.plymouth.edu/parent/92/how-do-we-find-out-the-schedule-for-room-assignments/#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://www.plymouth.edu/parent/92/how-do-we-find-out-the-schedule-for-room-assignments/feed/atom/" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name>Kristi</name>
+					</author>
+		<title type="html"><![CDATA[How do I send my student a cake, a pizza party, or more Flex Cash?]]></title>
+		<link rel="alternate" type="text/html" href="http://www.plymouth.edu/parent/90/how-do-i-send-my-student-a-cake-a-pizza-party-or-more-flex-cash/" />
+		<id>http://www.plymouth.edu/parent/?p=90</id>
+		<updated>2011-04-20T19:31:26Z</updated>
+		<published>2011-04-20T19:31:26Z</published>
+		<category scheme="http://www.plymouth.edu/parent" term="FAQ" /><category scheme="http://www.plymouth.edu/parent" term="Flex Cash" /><category scheme="http://www.plymouth.edu/parent" term="sending things" />		<summary type="html"><![CDATA[Dining Services has many great ideas to send your student.  You can find out more information and order them online.]]></summary>
+		<content type="html" xml:base="http://www.plymouth.edu/parent/90/how-do-i-send-my-student-a-cake-a-pizza-party-or-more-flex-cash/"><![CDATA[<p>Dining Services has many great ideas to send your student.  You can <a href="http://www.plymouth.edu/dining/fromhome.htm">find out more information and order</a> them online.</p>
+]]></content>
+		<link rel="replies" type="text/html" href="http://www.plymouth.edu/parent/90/how-do-i-send-my-student-a-cake-a-pizza-party-or-more-flex-cash/#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://www.plymouth.edu/parent/90/how-do-i-send-my-student-a-cake-a-pizza-party-or-more-flex-cash/feed/atom/" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name>Kristi</name>
+					</author>
+		<title type="html"><![CDATA[Where can I find information about scholarships which are available?]]></title>
+		<link rel="alternate" type="text/html" href="http://www.plymouth.edu/parent/88/where-can-i-find-information-about-scholarships-which-are-available/" />
+		<id>http://www.plymouth.edu/parent/?p=88</id>
+		<updated>2011-04-20T19:30:34Z</updated>
+		<published>2011-04-20T19:30:34Z</published>
+		<category scheme="http://www.plymouth.edu/parent" term="FAQ" /><category scheme="http://www.plymouth.edu/parent" term="scholarships" />		<summary type="html"><![CDATA[PSU has many different scholarships for students of all abilities. The Financial Aid Office provides an extensive list on their web site.]]></summary>
+		<content type="html" xml:base="http://www.plymouth.edu/parent/88/where-can-i-find-information-about-scholarships-which-are-available/"><![CDATA[<p>PSU has many different scholarships for students of all abilities. The Financial Aid Office <a href="../finaid/aidtypes/scholarships.html">provides an extensive list</a> on their web site.</p>
+]]></content>
+		<link rel="replies" type="text/html" href="http://www.plymouth.edu/parent/88/where-can-i-find-information-about-scholarships-which-are-available/#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://www.plymouth.edu/parent/88/where-can-i-find-information-about-scholarships-which-are-available/feed/atom/" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name>Kristi</name>
+					</author>
+		<title type="html"><![CDATA[What rights does my student have at PSU?]]></title>
+		<link rel="alternate" type="text/html" href="http://www.plymouth.edu/parent/85/what-rights-does-my-student-have-at-psu/" />
+		<id>http://www.plymouth.edu/parent/?p=85</id>
+		<updated>2011-04-20T19:29:55Z</updated>
+		<published>2011-04-20T19:29:42Z</published>
+		<category scheme="http://www.plymouth.edu/parent" term="FAQ" /><category scheme="http://www.plymouth.edu/parent" term="student rights" />		<summary type="html"><![CDATA[Your student’s rights are outlined in the student life handbook (see the section titled &#8220;Rights of Students&#8221;.]]></summary>
+		<content type="html" xml:base="http://www.plymouth.edu/parent/85/what-rights-does-my-student-have-at-psu/"><![CDATA[<p>Your student’s rights are outlined in the <a href="http://www.plymouth.edu/stulife/handbook/">student life handbook</a> (see the section titled &#8220;Rights of Students&#8221;.</p>
+]]></content>
+		<link rel="replies" type="text/html" href="http://www.plymouth.edu/parent/85/what-rights-does-my-student-have-at-psu/#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://www.plymouth.edu/parent/85/what-rights-does-my-student-have-at-psu/feed/atom/" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name>Kristi</name>
+					</author>
+		<title type="html"><![CDATA[How do I sign up for email alerts from the Financial Aid Office regarding my student&#8217;s account?]]></title>
+		<link rel="alternate" type="text/html" href="http://www.plymouth.edu/parent/84/how-do-i-sign-up-for-email-alerts-from-the-financial-aid-office-regarding-my-students-account/" />
+		<id>http://www.plymouth.edu/parent/84/how-do-i-sign-up-for-email-alerts-from-the-financial-aid-office-regarding-my-students-account/</id>
+		<updated>2011-04-20T19:29:15Z</updated>
+		<published>2011-04-20T19:29:15Z</published>
+		<category scheme="http://www.plymouth.edu/parent" term="FAQ" /><category scheme="http://www.plymouth.edu/parent" term="account" /><category scheme="http://www.plymouth.edu/parent" term="email alerts" /><category scheme="http://www.plymouth.edu/parent" term="Financial Office" />		<summary type="html"><![CDATA[Parents will automatically receive emails from the Financial Aid Team if they have provided the parent email address on the Free Application for Federal Aid (FAFSA).]]></summary>
+		<content type="html" xml:base="http://www.plymouth.edu/parent/84/how-do-i-sign-up-for-email-alerts-from-the-financial-aid-office-regarding-my-students-account/"><![CDATA[<p>Parents will automatically receive emails from the Financial Aid Team if they have provided the parent email address on the <a href="http://www.fafsa.ed.gov">Free Application for Federal Aid (FAFSA)</a>.</p>
+]]></content>
+		<link rel="replies" type="text/html" href="http://www.plymouth.edu/parent/84/how-do-i-sign-up-for-email-alerts-from-the-financial-aid-office-regarding-my-students-account/#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://www.plymouth.edu/parent/84/how-do-i-sign-up-for-email-alerts-from-the-financial-aid-office-regarding-my-students-account/feed/atom/" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+	</feed>

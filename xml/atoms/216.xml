@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?><feed
+  xmlns="http://www.w3.org/2005/Atom"
+  xmlns:thr="http://purl.org/syndication/thread/1.0"
+  xml:lang="en"
+  xml:base="http://www.plymouth.edu/department/mtd/wp-atom.php"
+   >
+	<title type="text">Music, Theatre, and Dance</title>
+	<subtitle type="text">The world is your stage.</subtitle>
+
+	<updated>2014-07-16T11:51:21Z</updated>
+
+	<link rel="alternate" type="text/html" href="http://www.plymouth.edu/department/mtd" />
+	<id>http://www.plymouth.edu/department/mtd/feed/atom/</id>
+	<link rel="self" type="application/atom+xml" href="http://www.plymouth.edu/department/mtd/feed/atom/" />
+
+	<generator uri="http://wordpress.org/" version="3.2.1">WordPress</generator>
+		<entry>
+		<author>
+			<name>Hyung Park</name>
+					</author>
+		<title type="html"><![CDATA[Go Stagecraft]]></title>
+		<link rel="alternate" type="text/html" href="http://www.plymouth.edu/department/mtd/2329/go-stagecraft/" />
+		<id>https://www.plymouth.edu/department/mtd/?p=2329</id>
+		<updated>2013-11-21T20:44:01Z</updated>
+		<published>2013-11-21T20:44:01Z</published>
+		<category scheme="http://www.plymouth.edu/department/mtd" term="Uncategorized" />		<summary type="html"><![CDATA[]]></summary>
+		<content type="html" xml:base="http://www.plymouth.edu/department/mtd/2329/go-stagecraft/"><![CDATA[<p><iframe width="470" height="264" src="//www.youtube-nocookie.com/embed/QuLrU3lzcng?rel=0" frameborder="0" allowfullscreen></iframe></p>
+]]></content>
+		<link rel="replies" type="text/html" href="http://www.plymouth.edu/department/mtd/2329/go-stagecraft/#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://www.plymouth.edu/department/mtd/2329/go-stagecraft/feed/atom/" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name>Eric</name>
+					</author>
+		<title type="html"><![CDATA[Behind The Scenes: Bach&#8217;s &#8220;Mass In B Minor&#8221;]]></title>
+		<link rel="alternate" type="text/html" href="http://www.plymouth.edu/department/mtd/2177/behind-the-scenes-bachs-mass-in-b-minor/" />
+		<id>https://www.plymouth.edu/department/mtd/?p=2177</id>
+		<updated>2013-10-29T13:17:08Z</updated>
+		<published>2013-08-02T19:10:51Z</published>
+		<category scheme="http://www.plymouth.edu/department/mtd" term="video popover link" />		<summary type="html"><![CDATA[play video Behind the Scenes: Bach&#8217;s &#8216;Mass In B Minor&#8217; play video]]></summary>
+		<content type="html" xml:base="http://www.plymouth.edu/department/mtd/2177/behind-the-scenes-bachs-mass-in-b-minor/"><![CDATA[<p><a class="sprite-177 bachdminor thickbox" href="https://www.youtube.com/embed/xtZxexU96VI?rel=0" onclick="_gaq.push(['_trackEvent', 'Video', 'Click', 'MTD: Bach Mass in B Minor']);" title="Bach&rsquo;s &lsquo;Mass In B Minor&rsquo;"><br />
+<span>play video</span><br />
+<span class="thumb-caption btn green">Behind the Scenes:<br /> Bach&rsquo;s &lsquo;Mass In B Minor&rsquo; <span class="bg-icon-vid">play video</span></span><br />
+</a></p>
+]]></content>
+		<link rel="replies" type="text/html" href="http://www.plymouth.edu/department/mtd/2177/behind-the-scenes-bachs-mass-in-b-minor/#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://www.plymouth.edu/department/mtd/2177/behind-the-scenes-bachs-mass-in-b-minor/feed/atom/" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name>Eric</name>
+					</author>
+		<title type="html"><![CDATA[Behind the Scenes:  Stage Production, Lighting and Costume Design]]></title>
+		<link rel="alternate" type="text/html" href="http://www.plymouth.edu/department/mtd/2173/behind-the-scenes-stage-production-lighting-and-costume-design/" />
+		<id>https://www.plymouth.edu/department/mtd/?p=2173</id>
+		<updated>2013-10-29T13:17:29Z</updated>
+		<published>2013-08-02T19:01:15Z</published>
+		<category scheme="http://www.plymouth.edu/department/mtd" term="video popover link" />		<summary type="html"><![CDATA[play video Behind the Scenes: Stage Production, Lighting &#38; Costume Design play video]]></summary>
+		<content type="html" xml:base="http://www.plymouth.edu/department/mtd/2173/behind-the-scenes-stage-production-lighting-and-costume-design/"><![CDATA[<p><a class="sprite-177 orpheus177 thickbox" href="https://www.youtube.com/embed/QuLrU3lzcng?rel=0" onclick="_gaq.push(['_trackEvent', 'Video', 'Click', 'MTD: Orpheus in the Underworld']);" title="Orpheus in the Underworld"><br />
+<span>play video</span><br />
+<span class="thumb-caption btn green">Behind the Scenes:<br /> Stage Production,<br /> Lighting &amp;<br /> Costume Design <span class="bg-icon-vid">play video</span></span><br />
+</a></p>
+]]></content>
+		<link rel="replies" type="text/html" href="http://www.plymouth.edu/department/mtd/2173/behind-the-scenes-stage-production-lighting-and-costume-design/#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://www.plymouth.edu/department/mtd/2173/behind-the-scenes-stage-production-lighting-and-costume-design/feed/atom/" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name>Eric</name>
+					</author>
+		<title type="html"><![CDATA[Harmony in the Statehouse]]></title>
+		<link rel="alternate" type="text/html" href="http://www.plymouth.edu/department/mtd/2170/harmony-in-the-statehouse/" />
+		<id>https://www.plymouth.edu/department/mtd/?p=2170</id>
+		<updated>2013-10-29T13:17:48Z</updated>
+		<published>2013-08-02T18:45:20Z</published>
+		<category scheme="http://www.plymouth.edu/department/mtd" term="video popover link" />		<summary type="html"><![CDATA[play video Harmony in the Statehouse play video]]></summary>
+		<content type="html" xml:base="http://www.plymouth.edu/department/mtd/2170/harmony-in-the-statehouse/"><![CDATA[<p><a class="sprite-177 harmony thickbox" href="https://www.youtube.com/embed/4usJNBf0TFg?rel=0" onclick="_gaq.push(['_trackEvent', 'Video', 'Click', 'MTD: Harmony in the Statehouse']);" title="Harmony in the Statehouse"><br />
+<span>play video</span><br />
+<span class="thumb-caption btn green">Harmony in the Statehouse <span class="bg-icon-vid">play video</span></span><br />
+</a></p>
+]]></content>
+		<link rel="replies" type="text/html" href="http://www.plymouth.edu/department/mtd/2170/harmony-in-the-statehouse/#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://www.plymouth.edu/department/mtd/2170/harmony-in-the-statehouse/feed/atom/" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name>Daniel</name>
+					</author>
+		<title type="html"><![CDATA[Faculty News]]></title>
+		<link rel="alternate" type="text/html" href="http://www.plymouth.edu/department/mtd/2017/faculty-news/" />
+		<id>https://www.plymouth.edu/department/mtd/?p=2017</id>
+		<updated>2014-06-16T18:03:35Z</updated>
+		<published>2012-12-12T19:15:12Z</published>
+		<category scheme="http://www.plymouth.edu/department/mtd" term="News" />		<summary type="html"><![CDATA[We happily welcome our new trumpet instructor, Bobby Salerno! Robert A. Salerno A native of Berlin CT, Robert A. Salerno graduated from The Boston Conservatory with a Master’s Degree in Trumpet Performance. Robert is also an alumnus of Plymouth State University where he earned a Bachelor of Science Degree in Music Education K-12 Cum Laude. [...]]]></summary>
+		<content type="html" xml:base="http://www.plymouth.edu/department/mtd/2017/faculty-news/"><![CDATA[<ul>
+<li><strong>We happily welcome our new trumpet instructor, Bobby Salerno!</strong></li>
+</ul>
+<div>
+<p>Robert A. Salerno</p>
+<p>A native of Berlin CT, Robert A. Salerno graduated from The Boston Conservatory with a Master’s Degree in Trumpet Performance. Robert is also an alumnus of Plymouth State University where he earned a Bachelor of Science Degree in Music Education K-12 Cum Laude. While Studying in Boston, he performed with the Conservatory Wind Ensemble, Brass Ensemble, Orchestra, and Pit Orchestras for the Conservatory’s productions of <em>La Boheme</em> &amp;<em> Hair</em>. Robert also performed as Principal Trumpet with the Conservatory’s Composers’ Orchestra which premier’s new works of undergraduate and graduate Composition majors at the Conservatory. Robert’s primary trumpet teachers have been Steve Emery (Boston Symphony Orchestra &amp; Boston Pops Orchestra), Dr. Thomas Boulton (New York Philharmonic Teaching Artist), and Dr. Gary Corcoran (Professor Emeritus Plymouth State University).</p>
+<p>In addition to performing recitals throughout New England, Robert has also been featured as a soloist. In 2010 Robert appeared as the guest artist with the Pemigewasset Choral Society in their concert series “Joy to the World” where he performed Antonio Vivaldi’s <em>Concerto for Two Trumpets</em>. In 2012 Robert performed Franz Joseph Haydn’s<em> Concerto for Trumpet in E-flat</em> with the Cheshire Symphony Orchestra.  In addition to maintaining a growing private studio, Robert is currently training with Deborah Adams at the newly established Alexander Technique Teacher Training Program at the Boston Conservatory. He is currently working towards professional certification from Alexander Technique International.</p>
+</div>
+<ul>
+<li><strong>February 2014 <a title="February 2014 eNewsletter" href="http://archive.constantcontact.com/fs133/1102509927909/archive/1116460177124.html">eNewsletter</a></strong></li>
+</ul>
+<ul>
+<li><strong>FACULTY NEWS &#8211; JANUARY 2013</strong></li>
+</ul>
+<p><strong>Kathleen Arecchi</strong>, as NATS VP for Workshops, created and ran the Winter Workshop Power Performance: Mind, Body, Spirit in San Antonio, Jan. 4-6</p>
+<p><strong>Dan Perkins</strong> conducted both the southern and eastern region Connecticut Music Educators Association choral festivals in January.  He also led the PSU Chamber Singers on a performance/study tour in Nashville, Tuscaloosa, Memphis, and Little Rock.  The ensemble performed and presented workshops in schools and churches, including a performance on the steps of the Capitol in Little Rock as guests of the NAACP on MLK day.</p>
+<p><strong>Mark Stickney</strong> conducted the Uncanoonuc Mountains Invitation Music Festival Band at Goffstown High School and the Maine Music Educators District 3 High School Honors band in Topsham, Maine.</p>
+<p>With special thanks to Julie Bernier and Eric Hobart, <strong>Robert Swift</strong> announces the publication (electronic) of More Teaching Moments: Selected Memories of PSU Faculty, for which Bob served as compiler and editor.  Twenty-two of us have each provided a glimpse of what makes Plymouth State unique.</p>
+<ul>
+<li><strong>VOCAL ORDER NEWS:</strong></li>
+<li>In December, Dr. Perkins was contacted by the relative of a NH area music teacher who needed to quickly find a male a cappella group to do some recording for a commercial. Mike Dodge (voice performance/pedagogy ’14), Vocal Order’s music director, and Brad Fernald (communications ’14), VO&#8217;s business director, met with the creative team in Boston the following week. Mike arranged music for two separate spots and the members of Vocal Order spent Monday, January 14th in a wonderful recording studio in Boston.It was a terrific professional development opportunity for our students. The two spots will run on all Boston area radio stations!</li>
+<li><strong>Holly Oliver</strong>, Music Education Coordinator, traveled to the NH Music Educators Fall Conference held at Southern NH University with <strong>33</strong> undergraduate music education majors! The day featured workshops, presentations, performances, and an opportunity for students to network with practicing public school music educators from all over the state. PSU faculty workshop presenters at this event included <strong>Kathleen Arecchi</strong> (“Healthy Belting Techniques”) and <strong>Carleen Graff</strong> (“Approaches to Teaching K-12 Keyboard Skills”).</li>
+<li><strong>Robert Swift</strong> has had his article “Lessons Learned” published in selected New England music education journals.</li>
+<li><strong>Elizabeth Daily</strong> will be appearing in TWICE AROUND THE PARK for Stage One Productions in Manchester, NH in November.</li>
+<li><strong>Connie Chesebrough</strong> and senior music education major, <strong>Samuel Tolley</strong>, in collaboration with PSU professor emeritus<strong> John B. Allen</strong>, made an archival recording for the New England Ski Museum. The recording was a performance for tenor voice and harpsichord of a song recently donated to the Ski Museum titled “The Lapland Lover”.</li>
+<li><strong>Kathleen Arecchi</strong> was an adjudicator for the Granite State NATS Musical Theatre Singing competition held at Concord Community Music School on Nov. 3.  She also traveled to southern NH with <strong>Dan Perkins</strong> and the <strong>PSU Chamber Singers </strong>for outreach workshops at Nashua South High School and Conval High School on October 12.</li>
+<li>There was major PSU representation at the Boston Cecilia concert on October 27, which was conducted by PSU Director of Choral Activities <strong>Dan Perkins</strong>. Guest artists for the concert included the Tributary Dance Company (founded and choreographed by Director of Dance <strong>Amanda Whitworth</strong>), and PSU alumni <strong>Daniel Brevik</strong> and <strong>Jennifer Fijal</strong>. The Cecilia performed a work by faculty member <strong>Jonathan Santore</strong> at the concert, and alumna <strong>Jennifer Cooper</strong> and current student <strong>Brad Dumont</strong> sang with the choir for the concert. Dan is a finalist for the position of Music Director with the Cecilia, one of Boston’s oldest choral organizations.</li>
+<li><strong>Jonathan Santore’s</strong> composition “Adjectives” was performed live by Brigham Young University clarinet teacher Jaren Hinckley and pianist Vince Humphreys on KBYU-FM in Provo, UT on October 2.</li>
+<li>MTD adjunct voice faculty member, <strong>Eric Perry</strong>, has been selected to present a paper at the International Congress of Voice Teachers in Brisbane Australia in July, 2013.</li>
+<li><strong>Carleen Graff</strong> has recently written a review of piano duet music for the <em>American Music Teacher</em>. The books reviewed are “Piano Works &#8211; Duets 1 and 2” written by Janet and Alan Bullard for Oxford University Press.   Carleen also has had published by Ogilvy Music in Denton, TX, two movements from Vivaldi&#8217;s <em>Seasons</em> for digital keyboard orchestra.</li>
+</ul>
+]]></content>
+		<link rel="replies" type="text/html" href="http://www.plymouth.edu/department/mtd/2017/faculty-news/#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://www.plymouth.edu/department/mtd/2017/faculty-news/feed/atom/" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name>Daniel</name>
+					</author>
+		<title type="html"><![CDATA[Keep in touch with MTD faculty!]]></title>
+		<link rel="alternate" type="text/html" href="http://www.plymouth.edu/department/mtd/2007/yay/" />
+		<id>https://www.plymouth.edu/department/mtd/?p=2007</id>
+		<updated>2012-12-12T18:13:48Z</updated>
+		<published>2012-12-12T18:09:17Z</published>
+		<category scheme="http://www.plymouth.edu/department/mtd" term="Uncategorized" />		<summary type="html"><![CDATA[&#160; &#160;]]></summary>
+		<content type="html" xml:base="http://www.plymouth.edu/department/mtd/2007/yay/"><![CDATA[<p>&nbsp;</p>
+<p>&nbsp;</p>
+]]></content>
+		<link rel="replies" type="text/html" href="http://www.plymouth.edu/department/mtd/2007/yay/#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://www.plymouth.edu/department/mtd/2007/yay/feed/atom/" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name>Daniel</name>
+					</author>
+		<title type="html"><![CDATA[Test]]></title>
+		<link rel="alternate" type="text/html" href="http://www.plymouth.edu/department/mtd/1999/fall-2012/" />
+		<id>https://www.plymouth.edu/department/mtd/?p=1999</id>
+		<updated>2012-12-12T18:12:00Z</updated>
+		<published>2012-12-12T16:21:01Z</published>
+		<category scheme="http://www.plymouth.edu/department/mtd" term="Uncategorized" />		<summary type="html"><![CDATA[Holly Oliver, Music Education Coordinator, traveled to the NH Music Educators Fall Conference held at Southern NH University with 33 undergraduate music education majors! The day featured workshops, presentations, performances, and an opportunity for students to network with practicing public school music educators from all over the state. PSU faculty workshop presenters at this event [...]]]></summary>
+		<content type="html" xml:base="http://www.plymouth.edu/department/mtd/1999/fall-2012/"><![CDATA[<ul>
+<li><strong>Holly Oliver</strong>, Music Education Coordinator, traveled to the NH Music Educators Fall Conference held at Southern NH University with <strong>33</strong> undergraduate music education majors! The day featured workshops, presentations, performances, and an opportunity for students to network with practicing public school music educators from all over the state. PSU faculty workshop presenters at this event included <strong>Kathleen Arecchi</strong> (“Healthy Belting Techniques”) and <strong>Carleen Graff</strong> (“Approaches to Teaching K-12 Keyboard Skills”).</li>
+<li><strong>Robert Swift</strong> has had his article “Lessons Learned” published in selected New England music education journals.</li>
+<li><strong>Elizabeth Daily</strong> will be appearing in TWICE AROUND THE PARK for Stage One Productions in Manchester, NH in November.</li>
+<li><strong>Connie Chesebrough</strong> and senior music education major, <strong>Samuel Tolley</strong>, in collaboration with PSU professor emeritus<strong> John B. Allen</strong>, made an archival recording for the New England Ski Museum. The recording was a performance for tenor voice and harpsichord of a song recently donated to the Ski Museum titled “The Lapland Lover”.</li>
+<li><strong>Kathleen Arecchi</strong> was an adjudicator for the Granite State NATS Musical Theatre Singing competition held at Concord Community Music School on Nov. 3.  She also traveled to southern NH with <strong>Dan Perkins</strong> and the <strong>PSU Chamber Singers </strong>for outreach workshops at Nashua South High School and Conval High School on October 12.</li>
+<li>There was major PSU representation at the Boston Cecilia concert on October 27, which was conducted by PSU Director of Choral Activities <strong>Dan Perkins</strong>. Guest artists for the concert included the Tributary Dance Company (founded and choreographed by Director of Dance <strong>Amanda Whitworth</strong>), and PSU alumni <strong>Daniel Brevik</strong> and <strong>Jennifer Fijal</strong>. The Cecilia performed a work by faculty member <strong>Jonathan Santore</strong> at the concert, and alumna <strong>Jennifer Cooper</strong> and current student <strong>Brad Dumont</strong> sang with the choir for the concert. Dan is a finalist for the position of Music Director with the Cecilia, one of Boston’s oldest choral organizations.</li>
+<li><strong>Jonathan Santore’s</strong> composition “Adjectives” was performed live by Brigham Young University clarinet teacher Jaren Hinckley and pianist Vince Humphreys on KBYU-FM in Provo, UT on October 2.</li>
+<li>MTD adjunct voice faculty member, <strong>Eric Perry</strong>, has been selected to present a paper at the International Congress of Voice Teachers in Brisbane Australia in July, 2013.</li>
+<li><strong>Carleen Graff</strong> has recently written a review of piano duet music for the <em>American Music Teacher</em>. The books reviewed are “Piano Works &#8211; Duets 1 and 2” written by Janet and Alan Bullard for Oxford University Press.   Carleen also has had published by Ogilvy Music in Denton, TX, two movements from Vivaldi&#8217;s <em>Seasons</em> for digital keyboard orchestra.</li>
+</ul>
+]]></content>
+		<link rel="replies" type="text/html" href="http://www.plymouth.edu/department/mtd/1999/fall-2012/#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://www.plymouth.edu/department/mtd/1999/fall-2012/feed/atom/" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+	</feed>

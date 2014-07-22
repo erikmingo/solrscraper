@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><feed
+  xmlns="http://www.w3.org/2005/Atom"
+  xmlns:thr="http://purl.org/syndication/thread/1.0"
+  xml:lang="en"
+  xml:base="http://faculty.franklin.edu/chunbo-chu/wp-atom.php"
+   >
+	<title type="text">Chunbo Chu, Ph.D.</title>
+	<subtitle type="text">Program Chair of Computer Science</subtitle>
+
+	<updated>2011-06-22T05:06:54Z</updated>
+	<generator uri="http://wordpress.org/" version="2.9.1">WordPress</generator>
+
+	<link rel="alternate" type="text/html" href="http://faculty.franklin.edu/chunbo-chu" />
+	<id>http://faculty.franklin.edu/chunbo-chu/feed/atom/</id>
+	<link rel="self" type="application/atom+xml" href="http://faculty.franklin.edu/chunbo-chu/feed/atom/" />
+
+			<entry>
+		<author>
+			<name>chunbo-chu</name>
+						<uri>http://cs.franklin.edu/~chuc</uri>
+					</author>
+		<title type="html"><![CDATA[Week 9 of COMP 655]]></title>
+		<link rel="alternate" type="text/html" href="http://faculty.franklin.edu/chunbo-chu/2011/06/22/week-9-of-comp-655/" />
+		<id>http://faculty.franklin.edu/chunbo-chu/?p=64</id>
+		<updated>2011-06-22T05:06:54Z</updated>
+		<published>2011-06-22T05:05:37Z</published>
+		<category scheme="http://faculty.franklin.edu/chunbo-chu" term="Uncategorized" />		<summary type="html"><![CDATA[We will talk about Security.
+]]></summary>
+		<content type="html" xml:base="http://faculty.franklin.edu/chunbo-chu/2011/06/22/week-9-of-comp-655/"><![CDATA[<p>We will talk about Security.</p>
+]]></content>
+		<link rel="replies" type="text/html" href="http://faculty.franklin.edu/chunbo-chu/2011/06/22/week-9-of-comp-655/#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://faculty.franklin.edu/chunbo-chu/2011/06/22/week-9-of-comp-655/feed/atom/" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+	</feed>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">Home</title>
+	<subtitle type="text">Joomla! - the dynamic portal engine and content management system</subtitle>
+	<link rel="alternate" type="text/html" href="http://www.science.utep.edu"/>
+	<id>http://www.science.utep.edu/index.php</id>
+	<updated>2014-07-21T17:57:38+00:00</updated>
+	<generator uri="http://joomla.org" version="1.6">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="http://www.science.utep.edu/index.php?format=feed&amp;type=atom"/>
+	<entry>
+		<title>Front Page</title>
+		<link rel="alternate" type="text/html" href="http://www.science.utep.edu/index.php?option=com_content&amp;view=article&amp;id=285:upcoming-events&amp;catid=99&amp;Itemid=435"/>
+		<published>2014-04-02T15:06:28+00:00</published>
+		<updated>2014-04-02T15:06:28+00:00</updated>
+		<id>http://www.science.utep.edu/index.php?option=com_content&amp;view=article&amp;id=285:upcoming-events&amp;catid=99&amp;Itemid=435</id>
+		<author>
+			<name>Super User</name>
+			<email>jlmunoz@utep.edu</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;
+	&lt;style type=&quot;text/css&quot;&gt;
+table.myTable { border-collapse:collapse; }
+table.myTable td, table.myTable th { border:1px solid black;padding:5px; }	&lt;/style&gt;
+&lt;!-- Be sure to place the above styles (i.e. everything between the &lt;style&gt;&lt;/style&gt; tags) into the document 'head' (i.e. between the &lt;head&gt;&lt;/head&gt; tags. Everything below goes inside the &lt;body&gt;&lt;/body&gt; tags) --&gt;&lt;/p&gt;
+&lt;p&gt;
+	&lt;a href=&quot;http://news.utep.edu/?p=25048&quot;&gt;&lt;img alt=&quot;&quot; class=&quot;cke-resize cke-resize cke-resize cke-resize cke-resize cke-resize cke-resize&quot; src=&quot;images/nihmain.png&quot; style=&quot;float: left; margin-left: 10px; margin-right: 10px; width: 577px; height: 200px;&quot; /&gt;&lt;/a&gt;&amp;nbsp;UTEP is celebrating its Centennial - 100 years of alumni accomplishments!&lt;/p&gt;
+&lt;p&gt;
+	The College of Science is proud to reflect upon the accomplishments of alumni as we continue to prepare the next generation of high-quality scientists.&lt;/p&gt;
+&lt;p&gt;
+	Today, we ask that you join alumni and friends in making a gift to the College of Science, designated to scholarships.&lt;/p&gt;
+&lt;p&gt;
+	Scholarships reduce the financial concern for students, allowing them more time to immerse themselves in their studies, participate in student organizations, conferences and service-learning opportunities, all leading to better grades and opportunities that make students more marketable candidates for employers.&lt;/p&gt;
+&lt;p class=&quot;warningtip-jck&quot;&gt;
+	&lt;a href=&quot;https://givingto.utep.edu/science?erid=5361345&amp;amp;trid=edc8e606-2c5d-41c2-a39d-5aa66c2f744c#.Uzw-SK1dXMZ&quot; target=&quot;_blank&quot; title=&quot;&quot;&gt;Make a gift today!&lt;/a&gt; Your contribution will ensure that more students have the opportunity to turn their dreams into a bright future.&lt;/p&gt;
+&lt;p&gt;
+	Every gift counts - thank you!&lt;/p&gt;
+&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;
+	&lt;style type=&quot;text/css&quot;&gt;
+table.myTable { border-collapse:collapse; }
+table.myTable td, table.myTable th { border:1px solid black;padding:5px; }	&lt;/style&gt;
+&lt;!-- Be sure to place the above styles (i.e. everything between the &lt;style&gt;&lt;/style&gt; tags) into the document 'head' (i.e. between the &lt;head&gt;&lt;/head&gt; tags. Everything below goes inside the &lt;body&gt;&lt;/body&gt; tags) --&gt;&lt;/p&gt;
+&lt;p&gt;
+	&lt;a href=&quot;http://news.utep.edu/?p=25048&quot;&gt;&lt;img alt=&quot;&quot; class=&quot;cke-resize cke-resize cke-resize cke-resize cke-resize cke-resize cke-resize&quot; src=&quot;images/nihmain.png&quot; style=&quot;float: left; margin-left: 10px; margin-right: 10px; width: 577px; height: 200px;&quot; /&gt;&lt;/a&gt;&amp;nbsp;UTEP is celebrating its Centennial - 100 years of alumni accomplishments!&lt;/p&gt;
+&lt;p&gt;
+	The College of Science is proud to reflect upon the accomplishments of alumni as we continue to prepare the next generation of high-quality scientists.&lt;/p&gt;
+&lt;p&gt;
+	Today, we ask that you join alumni and friends in making a gift to the College of Science, designated to scholarships.&lt;/p&gt;
+&lt;p&gt;
+	Scholarships reduce the financial concern for students, allowing them more time to immerse themselves in their studies, participate in student organizations, conferences and service-learning opportunities, all leading to better grades and opportunities that make students more marketable candidates for employers.&lt;/p&gt;
+&lt;p class=&quot;warningtip-jck&quot;&gt;
+	&lt;a href=&quot;https://givingto.utep.edu/science?erid=5361345&amp;amp;trid=edc8e606-2c5d-41c2-a39d-5aa66c2f744c#.Uzw-SK1dXMZ&quot; target=&quot;_blank&quot; title=&quot;&quot;&gt;Make a gift today!&lt;/a&gt; Your contribution will ensure that more students have the opportunity to turn their dreams into a bright future.&lt;/p&gt;
+&lt;p&gt;
+	Every gift counts - thank you!&lt;/p&gt;
+&lt;/div&gt;</content>
+		<category term="Featured" />
+		<category term="Latest" />
+	</entry>
+</feed>

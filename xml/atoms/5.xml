@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <feed xmlns="http://www.w3.org/2005/Atom" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:georss="http://www.georss.org/georss">
+    <id>urn:uuid:0b7e56e5-abb9-4224-b071-a328b6207d63</id><title>Public Tsunami Information Statement Number 1</title>
+    <updated>2014-07-21T15:02:33Z</updated>
+    <author>
+      <name>NWS National Tsunami Warning Center Palmer AK</name>
+<uri>http://ntwc.arh.noaa.gov/</uri>
+     <email>ntwc@noaa.gov</email>
+    </author>
+<icon>http://ntwc.arh.noaa.gov/images/favicon.ico</icon>
+<link type="application/atom+xml" rel="self" title="self" href="http://ntwc.arh.noaa.gov/events/xml/PAAQAtom.xml"/>
+<link rel="related" title="Travel Time Map" href="http://ntwc.arh.noaa.gov/tsuPortal/events/PAAQ/2014/07/21/n92hf0/1/WEAK53/ttvun92hf0-01.jpg" type="image/jpeg" /> 
+<link rel="related" title="Energy Map" href="http://ntwc.arh.noaa.gov/tsuPortal/events/PAAQ/2014/07/21/n92hf0/1/WEAK53/energyn92hf0.jpg" type="image/jpeg" /> 
+
+   <entry>
+
+    <title>in the Fiji Islands region</title><updated>2014-07-21T15:02:33Z</updated>
+<geo:lat>-19.700</geo:lat>
+<geo:long>-178.300</geo:long>
+<summary type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml">
+     <strong>Category:</strong> Information<br/><strong>Bulletin Issue Time: </strong> 2014.07.21 15:02:33 UTC <br/><strong>Preliminary Magnitude: </strong>6.8(Mwp)<br/><strong>Lat/Lon: </strong>-19.700 / -178.300<br/><strong>Affected Region: </strong>in the Fiji Islands region<br/><b>Note:</b>  * There is no tsunami danger for the U.S. west coast, British Columbia, or Alaska.  * Based on the depth of the earthquake, a tsunami is not expected. <br/><strong>Definition: </strong>An information statement indicates that an earthquake has occurred, but does not pose a tsunami threat, or that a tsunami warning, advisory, or watch has been issued for another section of the ocean. <a href="http://ntwc.arh.noaa.gov/tsuPortal/events/PAAQ/2014/07/21/n92hf0/1/WEAK53/WEAK53.txt">View bulletin</a><img src="http://ntwc.arh.noaa.gov/tsuPortal/events/PAAQ/2014/07/21/n92hf0/1/WEAK53/energyn92hf0.jpg" alt="Energy Map" /> 
+<img src="http://ntwc.arh.noaa.gov/tsuPortal/events/PAAQ/2014/07/21/n92hf0/1/WEAK53/ttvun92hf0-01.jpg" alt="Travel Time Map" /> 
+</div></summary>
+    <id>urn:uuid:292eaba7-f2f5-492f-bd68-a399c7a9e44d</id><link rel="related" title="CapXML document" href="http://ntwc.arh.noaa.gov/tsuPortal/events/PAAQ/2014/07/21/n92hf0/1/WEAK53/PAAQCAP.xml" type="application/cap+xml" />
+<link rel="alternate" title="Bulletin" href="http://ntwc.arh.noaa.gov/tsuPortal/events/PAAQ/2014/07/21/n92hf0/1/WEAK53/WEAK53.txt" type="application/xml" />
+</entry>
+</feed>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">NMT Calendar</title>
+	<subtitle type="text"></subtitle>
+	<link rel="alternate" type="text/html" href="http://www.nmt.edu"/>
+	<id>http://www.nmt.edu/nmt-calendar/day</id>
+	<updated>2014-07-21T17:59:03+00:00</updated>
+	<generator uri="http://joomla.org" version="2.5">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="http://www.nmt.edu/nmt-calendar/day?format=feed&amp;type=atom"/>
+	<entry>
+		<title>Earth Sciences Thesis Defense</title>
+		<link rel="alternate" type="text/html" href="http://www.nmt.edu/nmt-calendar/504-tech-calendar/506-meetings-and-seminars/2892-earth-environmental-sciences-thesis-defense"/>
+		<published>2014-07-21T14:00:00+00:00</published>
+		<updated>2014-07-21T14:00:00+00:00</updated>
+		<id>http://www.nmt.edu/nmt-calendar/504-tech-calendar/506-meetings-and-seminars/2892-earth-environmental-sciences-thesis-defense</id>
+		<author>
+			<name>Guest</name>
+		</author>
+		<summary type="html">Sara Gallagher will present her thesis, &quot;Depositional and Diagenetic Controls on Reservoir Heterogeneity: Upper Morrow Sandstone, Farnsworth Unit, Ochiltree County, Texas.&quot; 2 p.m. in MSEC 203.</summary>
+		<content type="html">Sara Gallagher will present her thesis, &quot;Depositional and Diagenetic Controls on Reservoir Heterogeneity: Upper Morrow Sandstone, Farnsworth Unit, Ochiltree County, Texas.&quot; 2 p.m. in MSEC 203.</content>
+	</entry>
+</feed>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">Overview</title>
+	<subtitle type="text">This here is the global meta description.</subtitle>
+	<link rel="alternate" type="text/html" href="http://annualconference.hlcommission.org"/>
+	<id>http://annualconference.hlcommission.org/feed/atom.html</id>
+	<updated>2014-07-21T17:58:26+00:00</updated>
+	<generator uri="http://joomla.org" version="2.5">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="http://annualconference.hlcommission.org/feed/atom.html"/>
+	<entry>
+		<title>Home Page</title>
+		<link rel="alternate" type="text/html" href="http://annualconference.hlcommission.org/home-page.html"/>
+		<published>2010-06-17T20:07:50+00:00</published>
+		<updated>2010-06-17T20:07:50+00:00</updated>
+		<id>http://annualconference.hlcommission.org/home-page.html</id>
+		<author>
+			<name>Administrator</name>
+			<email>webmaster@hlcommission.org</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;h1&gt;Now Accepting Session Proposals&lt;/h1&gt;
+&lt;p&gt;HLC invites session proposals for its 2015 Annual Conference that address creative and valuable approaches to higher education through mission, integrity, teaching and learning, and institutional effectiveness. The Commission is seeking proposals that:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Reflect innovation&lt;/li&gt;
+&lt;li&gt;Stimulate and provoke discussion and audience engagement&lt;/li&gt;
+&lt;li&gt;Deliver best practices&lt;/li&gt;
+&lt;li&gt;Target new, mid-career, and seasoned professionals&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Proposals are invited for the General Program (Sunday, March 29 - Tuesday, March 31) and the Pathways Workshop (Saturday, March 28), which includes electives on Standard, AQIP and Open Pathways.&lt;/p&gt;
+&lt;p&gt;HLC's Annual Conference attendees include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;CEO/Presidents/Chancellors&lt;/li&gt;
+&lt;li&gt;Accreditation Liaison Officers&lt;/li&gt;
+&lt;li&gt;Data Update Coordinators&lt;/li&gt;
+&lt;li&gt;Peer Reviewers&lt;/li&gt;
+&lt;li&gt;Assurance System Coordinators&lt;/li&gt;
+&lt;li&gt;Faculty&lt;/li&gt;
+&lt;li&gt;Administrative Professionals&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Submit a Proposal&lt;/h2&gt;
+&lt;p&gt;Review the &lt;a href=&quot;https://downloadna11.springcm.com/content/DownloadDocuments.ashx?aid=5968&amp;amp;Selection=Document%2C2def5204-df06-e411-9b94-d89d67143430%3B&quot;&gt;Proposal Submission Guide&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Submit your proposal using the &lt;a href=&quot;http://www.conferenceabstracts.com/HLC2015.htm&quot;&gt;Online Proposal Submission Form&lt;/a&gt;. Proposals are due by September 19, 2014.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; do not submit proposals related to commericial tools, products, or services through the online form. For more information on Business Partner Showcases, please call the Commission at 800.621.7440, ext. 160.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;em&gt; &lt;/em&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3&gt;Future Conference Dates:&lt;/h3&gt;
+&lt;p&gt;2016 - April 15-19&lt;br /&gt;2017 - March 31 - April 4&lt;/p&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;h1&gt;Now Accepting Session Proposals&lt;/h1&gt;
+&lt;p&gt;HLC invites session proposals for its 2015 Annual Conference that address creative and valuable approaches to higher education through mission, integrity, teaching and learning, and institutional effectiveness. The Commission is seeking proposals that:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Reflect innovation&lt;/li&gt;
+&lt;li&gt;Stimulate and provoke discussion and audience engagement&lt;/li&gt;
+&lt;li&gt;Deliver best practices&lt;/li&gt;
+&lt;li&gt;Target new, mid-career, and seasoned professionals&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Proposals are invited for the General Program (Sunday, March 29 - Tuesday, March 31) and the Pathways Workshop (Saturday, March 28), which includes electives on Standard, AQIP and Open Pathways.&lt;/p&gt;
+&lt;p&gt;HLC's Annual Conference attendees include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;CEO/Presidents/Chancellors&lt;/li&gt;
+&lt;li&gt;Accreditation Liaison Officers&lt;/li&gt;
+&lt;li&gt;Data Update Coordinators&lt;/li&gt;
+&lt;li&gt;Peer Reviewers&lt;/li&gt;
+&lt;li&gt;Assurance System Coordinators&lt;/li&gt;
+&lt;li&gt;Faculty&lt;/li&gt;
+&lt;li&gt;Administrative Professionals&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Submit a Proposal&lt;/h2&gt;
+&lt;p&gt;Review the &lt;a href=&quot;https://downloadna11.springcm.com/content/DownloadDocuments.ashx?aid=5968&amp;amp;Selection=Document%2C2def5204-df06-e411-9b94-d89d67143430%3B&quot;&gt;Proposal Submission Guide&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Submit your proposal using the &lt;a href=&quot;http://www.conferenceabstracts.com/HLC2015.htm&quot;&gt;Online Proposal Submission Form&lt;/a&gt;. Proposals are due by September 19, 2014.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; do not submit proposals related to commericial tools, products, or services through the online form. For more information on Business Partner Showcases, please call the Commission at 800.621.7440, ext. 160.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;em&gt; &lt;/em&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3&gt;Future Conference Dates:&lt;/h3&gt;
+&lt;p&gt;2016 - April 15-19&lt;br /&gt;2017 - March 31 - April 4&lt;/p&gt;&lt;/div&gt;</content>
+		<category term="Featured" />
+		<category term="Uncategorised" />
+	</entry>
+</feed>

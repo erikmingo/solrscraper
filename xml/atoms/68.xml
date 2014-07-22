@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="" -->
+<?xml-stylesheet href="/plugins/system/modalizer/modals/lytebox/lytebox.css" type="text/css"?>
+<?xml-stylesheet href="/plugins/system/modalizer/modals/lytebox/styles/grey/style.css" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">Frontpage Slideshow (by JoomlaWorks) - University of Maine at Augusta</title>
+	<subtitle type="text"></subtitle>
+	<link rel="alternate" type="text/html" href="https://www.uma.edu"/>
+	<id>https://www.uma.edu/module/304.html</id>
+	<updated>2014-07-21T13:45:10-04:00</updated>
+	<generator uri="http://joomla.org" version="2.5"></generator>
+	<link rel="self" type="application/atom+xml" href="https://www.uma.edu/module/304.html?format=feed&amp;lang=en&amp;type=atom"/>
+	<entry>
+		<title>Whenever You're Ready</title>
+		<link rel="alternate" type="text/html" href="https://www.uma.eduhttp://www.uma.edu/readytoapply.html"/>
+		<published>2012-08-22T14:22:26-04:00</published>
+		<updated>2012-08-22T14:22:26-04:00</updated>
+		<id>https://www.uma.eduhttp://www.uma.edu/readytoapply.html</id>
+		<summary type="html">&lt;div&gt;&lt;img src=&quot;https://www.uma.edu/media/com_fpss/cache/5_ffee2447b152494b43d9816faaea83c8_m.jpg&quot; alt=&quot;Whenever You're Ready&quot; /&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div&gt;&lt;img src=&quot;https://www.uma.edu/media/com_fpss/cache/5_ffee2447b152494b43d9816faaea83c8_m.jpg&quot; alt=&quot;Whenever You're Ready&quot; /&gt;&lt;/div&gt;</content>
+	</entry>
+	<entry>
+		<title>Wherever You Are</title>
+		<link rel="alternate" type="text/html" href="https://www.uma.eduhttp://www.uma.edu/dlo.html"/>
+		<published>2012-08-22T14:26:38-04:00</published>
+		<updated>2012-08-22T14:26:38-04:00</updated>
+		<id>https://www.uma.eduhttp://www.uma.edu/dlo.html</id>
+		<summary type="html">&lt;div&gt;&lt;img src=&quot;https://www.uma.edu/media/com_fpss/cache/6_ada9a09acea936d776a6f55c82778c43_m.jpg&quot; alt=&quot;Wherever You Are&quot; /&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div&gt;&lt;img src=&quot;https://www.uma.edu/media/com_fpss/cache/6_ada9a09acea936d776a6f55c82778c43_m.jpg&quot; alt=&quot;Wherever You Are&quot; /&gt;&lt;/div&gt;</content>
+	</entry>
+	<entry>
+		<title>Whatever Your Interests</title>
+		<link rel="alternate" type="text/html" href="https://www.uma.eduhttp://www.uma.edu/programs.html"/>
+		<published>2012-08-22T14:27:40-04:00</published>
+		<updated>2012-08-22T14:27:40-04:00</updated>
+		<id>https://www.uma.eduhttp://www.uma.edu/programs.html</id>
+		<summary type="html">&lt;div&gt;&lt;img src=&quot;https://www.uma.edu/media/com_fpss/cache/7_9caa2793658f3cc387f216157300b1ce_m.jpg&quot; alt=&quot;Whatever Your Interests&quot; /&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div&gt;&lt;img src=&quot;https://www.uma.edu/media/com_fpss/cache/7_9caa2793658f3cc387f216157300b1ce_m.jpg&quot; alt=&quot;Whatever Your Interests&quot; /&gt;&lt;/div&gt;</content>
+	</entry>
+	<entry>
+		<title>Whatever Your Needs</title>
+		<link rel="alternate" type="text/html" href="https://www.uma.eduhttp://www.uma.edu/admission.html"/>
+		<published>2012-08-22T14:28:50-04:00</published>
+		<updated>2012-08-22T14:28:50-04:00</updated>
+		<id>https://www.uma.eduhttp://www.uma.edu/admission.html</id>
+		<summary type="html">&lt;div&gt;&lt;img src=&quot;https://www.uma.edu/media/com_fpss/cache/8_184b7cb84d7b456c96a0bdfbbeaa5f14_m.jpg&quot; alt=&quot;Whatever Your Needs&quot; /&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div&gt;&lt;img src=&quot;https://www.uma.edu/media/com_fpss/cache/8_184b7cb84d7b456c96a0bdfbbeaa5f14_m.jpg&quot; alt=&quot;Whatever Your Needs&quot; /&gt;&lt;/div&gt;</content>
+	</entry>
+	<entry>
+		<title>Whatever Your Dreams</title>
+		<link rel="alternate" type="text/html" href="https://www.uma.eduhttp://www.uma.edu/readytoapply.html"/>
+		<published>2012-08-22T14:37:08-04:00</published>
+		<updated>2012-08-22T14:37:08-04:00</updated>
+		<id>https://www.uma.eduhttp://www.uma.edu/readytoapply.html</id>
+		<summary type="html">&lt;div&gt;&lt;img src=&quot;https://www.uma.edu/media/com_fpss/cache/9_d61d44254608dd06ccdd2ff02982d14d_m.jpg&quot; alt=&quot;Whatever Your Dreams&quot; /&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div&gt;&lt;img src=&quot;https://www.uma.edu/media/com_fpss/cache/9_d61d44254608dd06ccdd2ff02982d14d_m.jpg&quot; alt=&quot;Whatever Your Dreams&quot; /&gt;&lt;/div&gt;</content>
+	</entry>
+</feed>

@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+	<ShortName>UK College of Pharmacy</ShortName>
+	<Description>Search UK College of Pharmacy Events.</Description>
+	<Image height="16" width="16" type="image/x-icon">http://pharm-helios.mc.uky.edu/favicon.ico</Image>
+	<Url type="text/html" method="get" template="http://pharm-helios.mc.uky.edu/index.php?com=searchresult&amp;k={searchTerms}" />
+</OpenSearchDescription>

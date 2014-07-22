@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?> 
+<!--
+Ready2Search(http://ready.to/search/en/) search setting of OpenSearch
+
+the search name: Vanderbilt Medical Center
+the front of search term: http://www.mc.vanderbilt.edu/search?search=
+the back of  search term: 
+description of the search: Searches www.mc.vanderbilt.edu and related sites.
+optional XML element: 
+input encoding: UTF-8
+output encoding: 
+image text: 
+
+setting URL: http://ready.to/search/en/?sna=Vanderbilt+Medical+Center&prf=http%3A%2F%2Fwww.mc.vanderbilt.edu%2Fsearch%3Fsearch%3D&des=Searches+www.mc.vanderbilt.edu+and+related+sites.&in=utf&ou=ono&mod=pn
+
+-->
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+     <ShortName>Vanderbilt Medical Center</ShortName>
+     <Description>Searches www.mc.vanderbilt.edu and related sites.</Description>
+     <Image width="16" height="16">data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAA3NCSVQICAjb4U%2FgAAABoVBMVEUAAAD%2F1BPlmxd0aDn17P9EQSLl5NnXq1OZi3IgICHg06j%2FuhOgfR3p6%2BXpyn345r9OQ0%2F%2F5kzLsW%2FYlR3p20MSDhLWwjT%2B7rp2bGV0XRn%2F9bTCliL4zVUsIzrxrSLd0Kj4qRdgSiL922ptWXTNwZyPdJL5y0CAaBsAABCmlTXqviOLd1v32o%2F81UUwKBD0oxj%2F4VD%2F%2F%2F8eGRfYqyRAOTHmtURlWjpbUjbz9O3CrzDBlBx3ZioVDy%2F%2FrBl6bU79vSJoXjGYeRz46spNRkvftlLRmzYwLCb%2FzDPOu4L2uhrSnDP33qHsyTA6M0Lw3q%2F20HCthx0zKx0oICyomm4AAAfyoBn18uf%2F0yLmtUqFdSaKhlDtsi5ZUUoGBxX2zV3ioSZ%2FZhn04EEQEyH933nutRv%2Fthj%2FwxX29vb%2BxSp7bC9MRSzt6dajfij3sh%2F%2F%2F%2B3%2Byzjgnif%2Fvxf%2FxRH%2FzlL9qBr17MvxpBb5shvu7eV%2FcU0hGSECARUrJyz%2F4VrrzHxPP1LLsXPelCFyWCHezq312pHWry1gXzhxZjNrYzLdtFc1MiVNhsnrAAAACXBIWXMAAArwAAAK8AFCrDSYAAAAHHRFWHRTb2Z0d2FyZQBBZG9iZSBGaXJld29ya3MgQ1MzmNZGAwAAABR0RVh0Q3JlYXRpb24gVGltZQAzLzYvMDh7egQTAAAA80lEQVQYlWMwBAGnljh%2FvzAwkwGI%2BePU8jPsy3Pr0iEC3jJKtQa67uHRCqYWIAF%2BGXEpDwlnE4f2ohIXkIBMch6LsqxNNUNXK7c%2BlyGDk1qtvGq9nSazG6dRii27IYNOviCHgHalSFSMEQNPYXwFg4x7sG%2BQXVCNRiQrg2RhWSmDv72PSXWmGINeIieDeiFTNoNfebh1iKhlh1kbg4ZVqlc6Q5hcqlYVA0OWOQNDU1qJENBavpI048CQkKRYRcZUYTagQLppCbdnQIKjdA43kwrY6RadobaphYWpJcIqUM8ZyrMXlDG5NrDBfAsEvKXZ6RAWAFDQPkdtDLQbAAAAAElFTkSuQmCC</Image>
+     <InputEncoding>UTF-8</InputEncoding>
+     <Url type="text/html" template="http://www.mc.vanderbilt.edu/search?search={searchTerms}"/>
+</OpenSearchDescription>

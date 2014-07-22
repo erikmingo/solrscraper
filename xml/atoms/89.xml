@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns="http://www.w3.org/2005/Atom">
+  <title>ExploreUK Search Results</title>
+  <author>
+    <name>ExploreUK</name>
+  </author>
+  <link href="http://exploreuk.uky.edu/?format=atom" rel="self"/>
+  <link href="http://exploreuk.uky.edu/?format=html" rel="alternate" type="text/html"/>
+  <id>http://exploreuk.uky.edu/?format=html&amp;amp;type=text%2Fhtml</id>
+  <link href="http://exploreuk.uky.edu/?format=atom&amp;amp;page=2" rel="next"/>
+  <link href="http://exploreuk.uky.edu/?format=atom&amp;amp;page=1" rel="first"/>
+  <link href="http://exploreuk.uky.edu/?format=atom&amp;amp;page=70427" rel="last"/>
+  <link href="http://exploreuk.uky.edu/catalog/opensearch.xml" rel="search" type="application/opensearchdescription+xml"/>
+  <opensearch:totalResults>704266</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <opensearch:itemsPerPage>10</opensearch:itemsPerPage>
+  <opensearch:Query searchTerms="" startPage="1" role="request"/>
+  <updated>2014-07-21T13:57:27Z</updated>
+  <entry>
+    <title>Sheet 1 of  Adairville, Logan Co., Ky  </title>
+    <updated>2014-07-21T13:57:27Z</updated>
+    <link href="http://exploreuk.uky.edu/catalog/xt7tb27ppd9f_1" rel="alternate" type="text/html"/>
+<link href="http://exploreuk.uky.edu/catalog/xt7tb27ppd9f_1.oai_dc_xml" rel="alternate" title="oai_dc_xml" type="text/xml" />
+<link href="http://exploreuk.uky.edu/catalog/xt7tb27ppd9f_1.xml" rel="alternate" title="xml" type="application/xml" />
+    <id>http://exploreuk.uky.edu/catalog/xt7tb27ppd9f_1</id>
+    <author>
+      <name>New York : Sanborn Map Company..</name>
+    </author>
+    <summary type="html">
+&lt;dl class="defList"&gt;
+
+  
+  
+  
+    &lt;dt&gt;&lt;/dt&gt;
+    &lt;dd&gt;
+    &lt;a href="/catalog/xt7tb27ppd9f_1"&gt;&lt;img alt="Ada_1898_001_tb" src="http://nyx.uky.edu/dips/xt7tb27ppd9f/data/ada_1898_001/ada_1898_001_tb.jpg" /&gt;&lt;/a&gt;
+    &lt;/dd&gt;
+  
+  
+            
+	    &lt;dt class="blacklight-pub_date"&gt;Publication date&lt;/dt&gt;
+	    &lt;dd class="blacklight-pub_date"&gt;1898&lt;/dd&gt;
+          
+	    &lt;dt class="blacklight-format"&gt;Format:&lt;/dt&gt;
+	    &lt;dd class="blacklight-format"&gt;maps&lt;/dd&gt;
+                                
+
+&lt;/dl&gt;
+    </summary>
+  </entry>
+  <entry>
+    <title>Sheet 1 of  Adairville, Logan Co., Ky  </title>
+    <updated>2014-07-21T13:57:27Z</updated>
+    <link href="http://exploreuk.uky.edu/catalog/xt7z348gfp3t_1" rel="alternate" type="text/html"/>
+<link href="http://exploreuk.uky.edu/catalog/xt7z348gfp3t_1.oai_dc_xml" rel="alternate" title="oai_dc_xml" type="text/xml" />
+<link href="http://exploreuk.uky.edu/catalog/xt7z348gfp3t_1.xml" rel="alternate" title="xml" type="application/xml" />
+    <id>http://exploreuk.uky.edu/catalog/xt7z348gfp3t_1</id>
+    <author>
+      <name>New York : Sanborn Map Company..</name>
+    </author>
+    <summary type="html">
+&lt;dl class="defList"&gt;
+
+  
+  
+  
+    &lt;dt&gt;&lt;/dt&gt;
+    &lt;dd&gt;
+    &lt;a href="/catalog/xt7z348gfp3t_1"&gt;&lt;img alt="Ada_1893_001_tb" src="http://nyx.uky.edu/dips/xt7z348gfp3t/data/ada_1893_001/ada_1893_001_tb.jpg" /&gt;&lt;/a&gt;
+    &lt;/dd&gt;
+  
+  
+            
+	    &lt;dt class="blacklight-pub_date"&gt;Publication date&lt;/dt&gt;
+	    &lt;dd class="blacklight-pub_date"&gt;1893&lt;/dd&gt;
+          
+	    &lt;dt class="blacklight-format"&gt;Format:&lt;/dt&gt;
+	    &lt;dd class="blacklight-format"&gt;maps&lt;/dd&gt;
+                                
+
+&lt;/dl&gt;
+    </summary>
+  </entry>
+  <entry>
+    <title>Sheet 1 of  Bardstown, Ky  </title>
+    <updated>2014-07-21T13:57:27Z</updated>
+    <link href="http://exploreuk.uky.edu/catalog/xt7gth8bgk18_1" rel="alternate" type="text/html"/>
+<link href="http://exploreuk.uky.edu/catalog/xt7gth8bgk18_1.oai_dc_xml" rel="alternate" title="oai_dc_xml" type="text/xml" />
+<link href="http://exploreuk.uky.edu/catalog/xt7gth8bgk18_1.xml" rel="alternate" title="xml" type="application/xml" />
+    <id>http://exploreuk.uky.edu/catalog/xt7gth8bgk18_1</id>
+    <author>
+      <name>New York : Sanborn Map Company..</name>
+    </author>
+    <summary type="html">
+&lt;dl class="defList"&gt;
+
+  
+  
+  
+    &lt;dt&gt;&lt;/dt&gt;
+    &lt;dd&gt;
+    &lt;a href="/catalog/xt7gth8bgk18_1"&gt;&lt;img alt="Bad_1891_001_tb" src="http://nyx.uky.edu/dips/xt7gth8bgk18/data/bad_1891_001/bad_1891_001_tb.jpg" /&gt;&lt;/a&gt;
+    &lt;/dd&gt;
+  
+  
+            
+	    &lt;dt class="blacklight-pub_date"&gt;Publication date&lt;/dt&gt;
+	    &lt;dd class="blacklight-pub_date"&gt;1891&lt;/dd&gt;
+          
+	    &lt;dt class="blacklight-format"&gt;Format:&lt;/dt&gt;
+	    &lt;dd class="blacklight-format"&gt;maps&lt;/dd&gt;
+                                
+
+&lt;/dl&gt;
+    </summary>
+  </entry>
+  <entry>
+    <title>Sheet 1 of  Bardstown, Ky  </title>
+    <updated>2014-07-21T13:57:27Z</updated>
+    <link href="http://exploreuk.uky.edu/catalog/xt7mkk947t5z_1" rel="alternate" type="text/html"/>
+<link href="http://exploreuk.uky.edu/catalog/xt7mkk947t5z_1.oai_dc_xml" rel="alternate" title="oai_dc_xml" type="text/xml" />
+<link href="http://exploreuk.uky.edu/catalog/xt7mkk947t5z_1.xml" rel="alternate" title="xml" type="application/xml" />
+    <id>http://exploreuk.uky.edu/catalog/xt7mkk947t5z_1</id>
+    <author>
+      <name>New York : Sanborn Map Company..</name>
+    </author>
+    <summary type="html">
+&lt;dl class="defList"&gt;
+
+  
+  
+  
+    &lt;dt&gt;&lt;/dt&gt;
+    &lt;dd&gt;
+    &lt;a href="/catalog/xt7mkk947t5z_1"&gt;&lt;img alt="Bad_1886_001_tb" src="http://nyx.uky.edu/dips/xt7mkk947t5z/data/bad_1886_001/bad_1886_001_tb.jpg" /&gt;&lt;/a&gt;
+    &lt;/dd&gt;
+  
+  
+            
+	    &lt;dt class="blacklight-pub_date"&gt;Publication date&lt;/dt&gt;
+	    &lt;dd class="blacklight-pub_date"&gt;1886&lt;/dd&gt;
+          
+	    &lt;dt class="blacklight-format"&gt;Format:&lt;/dt&gt;
+	    &lt;dd class="blacklight-format"&gt;maps&lt;/dd&gt;
+                                
+
+&lt;/dl&gt;
+    </summary>
+  </entry>
+  <entry>
+    <title>Page [NA] of 1785-1909  : Daniel Drake and his followers; historical and biographical sketches / Otto Juettner.</title>
+    <updated>2014-07-21T13:57:27Z</updated>
+    <link href="http://exploreuk.uky.edu/catalog/xt7gms3jx89d_1" rel="alternate" type="text/html"/>
+<link href="http://exploreuk.uky.edu/catalog/xt7gms3jx89d_1.oai_dc_xml" rel="alternate" title="oai_dc_xml" type="text/xml" />
+<link href="http://exploreuk.uky.edu/catalog/xt7gms3jx89d_1.xml" rel="alternate" title="xml" type="application/xml" />
+    <id>http://exploreuk.uky.edu/catalog/xt7gms3jx89d_1</id>
+    <author>
+      <name>Juettner, Otto, 1865-.</name>
+    </author>
+    <summary type="html">
+&lt;dl class="defList"&gt;
+
+  
+  
+  
+    &lt;dt&gt;&lt;/dt&gt;
+    &lt;dd&gt;
+    &lt;a href="/catalog/xt7gms3jx89d_1"&gt;&lt;img alt="0001_tb" src="http://nyx.uky.edu/dips/xt7gms3jx89d/data/0001/0001_tb.jpg" /&gt;&lt;/a&gt;
+    &lt;/dd&gt;
+  
+  
+            
+	    &lt;dt class="blacklight-pub_date"&gt;Publication date&lt;/dt&gt;
+	    &lt;dd class="blacklight-pub_date"&gt;1909&lt;/dd&gt;
+          
+	    &lt;dt class="blacklight-format"&gt;Format:&lt;/dt&gt;
+	    &lt;dd class="blacklight-format"&gt;books&lt;/dd&gt;
+                                
+
+&lt;/dl&gt;
+    </summary>
+  </entry>
+  <entry>
+    <title>Sheet 1 of  Frankfort, Kentucky  </title>
+    <updated>2014-07-21T13:57:27Z</updated>
+    <link href="http://exploreuk.uky.edu/catalog/xt7k0p0wqb7p_1" rel="alternate" type="text/html"/>
+<link href="http://exploreuk.uky.edu/catalog/xt7k0p0wqb7p_1.oai_dc_xml" rel="alternate" title="oai_dc_xml" type="text/xml" />
+<link href="http://exploreuk.uky.edu/catalog/xt7k0p0wqb7p_1.xml" rel="alternate" title="xml" type="application/xml" />
+    <id>http://exploreuk.uky.edu/catalog/xt7k0p0wqb7p_1</id>
+    <author>
+      <name>New York : Sanborn Map Company..</name>
+    </author>
+    <summary type="html">
+&lt;dl class="defList"&gt;
+
+  
+  
+  
+    &lt;dt&gt;&lt;/dt&gt;
+    &lt;dd&gt;
+    &lt;a href="/catalog/xt7k0p0wqb7p_1"&gt;&lt;img alt="Fra_1886_001_tb" src="http://nyx.uky.edu/dips/xt7k0p0wqb7p/data/fra_1886_001/fra_1886_001_tb.jpg" /&gt;&lt;/a&gt;
+    &lt;/dd&gt;
+  
+  
+            
+	    &lt;dt class="blacklight-pub_date"&gt;Publication date&lt;/dt&gt;
+	    &lt;dd class="blacklight-pub_date"&gt;1886&lt;/dd&gt;
+          
+	    &lt;dt class="blacklight-format"&gt;Format:&lt;/dt&gt;
+	    &lt;dd class="blacklight-format"&gt;maps&lt;/dd&gt;
+                                
+
+&lt;/dl&gt;
+    </summary>
+  </entry>
+  <entry>
+    <title>Sheet 1 of  Lancaster, Garrard Co., Ky   </title>
+    <updated>2014-07-21T13:57:27Z</updated>
+    <link href="http://exploreuk.uky.edu/catalog/xt7wst7drv55_1" rel="alternate" type="text/html"/>
+<link href="http://exploreuk.uky.edu/catalog/xt7wst7drv55_1.oai_dc_xml" rel="alternate" title="oai_dc_xml" type="text/xml" />
+<link href="http://exploreuk.uky.edu/catalog/xt7wst7drv55_1.xml" rel="alternate" title="xml" type="application/xml" />
+    <id>http://exploreuk.uky.edu/catalog/xt7wst7drv55_1</id>
+    <author>
+      <name>New York : Sanborn Map Company..</name>
+    </author>
+    <summary type="html">
+&lt;dl class="defList"&gt;
+
+  
+  
+  
+    &lt;dt&gt;&lt;/dt&gt;
+    &lt;dd&gt;
+    &lt;a href="/catalog/xt7wst7drv55_1"&gt;&lt;img alt="Lan_1896_001_tb" src="http://nyx.uky.edu/dips/xt7wst7drv55/data/lan_1896_001/lan_1896_001_tb.jpg" /&gt;&lt;/a&gt;
+    &lt;/dd&gt;
+  
+  
+            
+	    &lt;dt class="blacklight-pub_date"&gt;Publication date&lt;/dt&gt;
+	    &lt;dd class="blacklight-pub_date"&gt;1896&lt;/dd&gt;
+          
+	    &lt;dt class="blacklight-format"&gt;Format:&lt;/dt&gt;
+	    &lt;dd class="blacklight-format"&gt;maps&lt;/dd&gt;
+                                
+
+&lt;/dl&gt;
+    </summary>
+  </entry>
+  <entry>
+    <title>Page [NA] of The Aaron Burr conspiracy; a history largely from original and hitherto unused sources. </title>
+    <updated>2014-07-21T13:57:28Z</updated>
+    <link href="http://exploreuk.uky.edu/catalog/xt7jm61bkh5m_1" rel="alternate" type="text/html"/>
+<link href="http://exploreuk.uky.edu/catalog/xt7jm61bkh5m_1.oai_dc_xml" rel="alternate" title="oai_dc_xml" type="text/xml" />
+<link href="http://exploreuk.uky.edu/catalog/xt7jm61bkh5m_1.xml" rel="alternate" title="xml" type="application/xml" />
+    <id>http://exploreuk.uky.edu/catalog/xt7jm61bkh5m_1</id>
+    <author>
+      <name>McCaleb, Walter Flavius, 1873-1967. .</name>
+    </author>
+    <summary type="html">
+&lt;dl class="defList"&gt;
+
+  
+  
+  
+    &lt;dt&gt;&lt;/dt&gt;
+    &lt;dd&gt;
+    &lt;a href="/catalog/xt7jm61bkh5m_1"&gt;&lt;img alt="0001_tb" src="http://nyx.uky.edu/dips/xt7jm61bkh5m/data/0001/0001_tb.jpg" /&gt;&lt;/a&gt;
+    &lt;/dd&gt;
+  
+  
+            
+	    &lt;dt class="blacklight-pub_date"&gt;Publication date&lt;/dt&gt;
+	    &lt;dd class="blacklight-pub_date"&gt;1903&lt;/dd&gt;
+          
+	    &lt;dt class="blacklight-format"&gt;Format:&lt;/dt&gt;
+	    &lt;dd class="blacklight-format"&gt;books&lt;/dd&gt;
+                                
+
+&lt;/dl&gt;
+    </summary>
+  </entry>
+  <entry>
+    <title>[NA]</title>
+    <updated>2014-07-21T13:57:28Z</updated>
+    <link href="http://exploreuk.uky.edu/catalog/xt75mk654h5g_1" rel="alternate" type="text/html"/>
+<link href="http://exploreuk.uky.edu/catalog/xt75mk654h5g_1.oai_dc_xml" rel="alternate" title="oai_dc_xml" type="text/xml" />
+<link href="http://exploreuk.uky.edu/catalog/xt75mk654h5g_1.xml" rel="alternate" title="xml" type="application/xml" />
+    <id>http://exploreuk.uky.edu/catalog/xt75mk654h5g_1</id>
+    <author>
+      <name>Litsey, Edwin Carlile, 1874-1970.</name>
+    </author>
+    <summary type="html">
+&lt;dl class="defList"&gt;
+
+  
+  
+  
+    &lt;dt&gt;&lt;/dt&gt;
+    &lt;dd&gt;
+    &lt;a href="/catalog/xt75mk654h5g_1"&gt;&lt;img alt="0001_tb" src="http://nyx.uky.edu/dips/xt75mk654h5g/data/0001/0001_tb.jpg" /&gt;&lt;/a&gt;
+    &lt;/dd&gt;
+  
+  
+            
+	    &lt;dt class="blacklight-pub_date"&gt;Publication date&lt;/dt&gt;
+	    &lt;dd class="blacklight-pub_date"&gt;1901&lt;/dd&gt;
+          
+	    &lt;dt class="blacklight-format"&gt;Format:&lt;/dt&gt;
+	    &lt;dd class="blacklight-format"&gt;books&lt;/dd&gt;
+                                
+
+&lt;/dl&gt;
+    </summary>
+  </entry>
+  <entry>
+    <title>"UK-20 GA-19 Champs 1921", Group portrait of the Kentucky Basketball Champions of South 1921 "Coach Bucheit - 'Jimmy' Wilhelm - W. L. Poynts - 'Gibby' Smith - 'Daddy' Boles - Sam Ridgeway - Paul Atkins - Basil Hayden - 'Bill' King - 'Bobby' Lavin"</title>
+    <updated>2014-07-21T13:57:28Z</updated>
+    <link href="http://exploreuk.uky.edu/catalog/xt7ht727b08t_1_1" rel="alternate" type="text/html"/>
+<link href="http://exploreuk.uky.edu/catalog/xt7ht727b08t_1_1.oai_dc_xml" rel="alternate" title="oai_dc_xml" type="text/xml" />
+<link href="http://exploreuk.uky.edu/catalog/xt7ht727b08t_1_1.xml" rel="alternate" title="xml" type="application/xml" />
+    <id>http://exploreuk.uky.edu/catalog/xt7ht727b08t_1_1</id>
+    <author>
+      <name>Thompson, Abe.</name>
+    </author>
+    <summary type="html">
+&lt;dl class="defList"&gt;
+
+  
+  
+  
+    &lt;dt&gt;&lt;/dt&gt;
+    &lt;dd&gt;
+    &lt;a href="/catalog/xt7ht727b08t_1_1"&gt;&lt;img alt="1_tb" src="http://nyx.uky.edu/dips/xt7ht727b08t/data/1/1_p/1/1_tb.jpg" /&gt;&lt;/a&gt;
+    &lt;/dd&gt;
+  
+  
+      
+	    &lt;dt class="blacklight-source_s"&gt;Collection:&lt;/dt&gt;
+	    &lt;dd class="blacklight-source_s"&gt;Abe Thompson photograph album,&lt;/dd&gt;
+          
+	    &lt;dt class="blacklight-pub_date"&gt;Publication date&lt;/dt&gt;
+	    &lt;dd class="blacklight-pub_date"&gt;1921&lt;/dd&gt;
+          
+	    &lt;dt class="blacklight-format"&gt;Format:&lt;/dt&gt;
+	    &lt;dd class="blacklight-format"&gt;images&lt;/dd&gt;
+                                
+
+&lt;/dl&gt;
+    </summary>
+  </entry>
+</feed>

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?><feed
+  xmlns="http://www.w3.org/2005/Atom"
+  xmlns:thr="http://purl.org/syndication/thread/1.0"
+  xml:lang="en"
+  xml:base="http://www.plymouth.edu/about-psu/wp-atom.php"
+   >
+	<title type="text">About Plymouth State University</title>
+	<subtitle type="text">Just another Plymouth State University weblog</subtitle>
+
+	<updated>2014-07-07T19:01:31Z</updated>
+
+	<link rel="alternate" type="text/html" href="http://www.plymouth.edu/about-psu" />
+	<id>http://www.plymouth.edu/about-psu/feed/atom/</id>
+	<link rel="self" type="application/atom+xml" href="http://www.plymouth.edu/about-psu/feed/atom/" />
+
+	<generator uri="http://wordpress.org/" version="3.2.1">WordPress</generator>
+		<entry>
+		<author>
+			<name>Eric</name>
+					</author>
+		<title type="html"><![CDATA[alpha list]]></title>
+		<link rel="alternate" type="text/html" href="http://www.plymouth.edu/about-psu/2014/03/06/alpha-list/" />
+		<id>https://www.plymouth.edu/about-psu/?p=553</id>
+		<updated>2014-03-06T19:24:50Z</updated>
+		<published>2014-03-06T19:24:50Z</published>
+		<category scheme="http://www.plymouth.edu/about-psu" term="alpha list" />		<summary type="html"><![CDATA[A B C D E F G H I J K L M N O P Q R S T U V W X Y Z &#124; top &#8593;]]></summary>
+		<content type="html" xml:base="http://www.plymouth.edu/about-psu/2014/03/06/alpha-list/"><![CDATA[<li><a href="#A">A</a></li>
+<li><a href="#B">B</a></li>
+<li><a href="#C">C</a></li>
+<li><a href="#D">D</a></li>
+<li><a href="#E">E</a></li>
+<li><a href="#F">F</a></li>
+<li><a href="#G">G</a></li>
+<li><a href="#H">H</a></li>
+<li><a href="#I">I</a></li>
+<li><a href="#J">J</a></li>
+<li><a href="#K">K</a></li>
+<li><a href="#L">L</a></li>
+<li><a href="#M">M</a></li>
+<li><a href="#N">N</a></li>
+<li><a href="#O">O</a></li>
+<li><a href="#P">P</a></li>
+<li><a class="dead-link" href="javascript:void(0);">Q</a></li>
+<li><a href="#R">R</a></li>
+<li><a href="#S">S</a></li>
+<li><a href="#T">T</a></li>
+<li><a href="#U">U</a></li>
+<li><a href="#V">V</a></li>
+<li><a href="#W">W</a></li>
+<li><a class="dead-link" href="javascript:void(0);">X</a></li>
+<li><a href="#Y">Y</a></li>
+<li><a class="dead-link" href="javascript:void(0);">Z</a></li>
+<li class="alpha-top"> | <a href="#head-wrapper">top &#8593;</a></li>
+]]></content>
+		<link rel="replies" type="text/html" href="http://www.plymouth.edu/about-psu/2014/03/06/alpha-list/#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://www.plymouth.edu/about-psu/2014/03/06/alpha-list/feed/atom/" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name>Eric</name>
+					</author>
+		<title type="html"><![CDATA[Things to Do: Inn-to-Inn Bike Tour]]></title>
+		<link rel="alternate" type="text/html" href="http://www.plymouth.edu/about-psu/2013/09/19/things-to-do-inn-to-inn-bike-tour/" />
+		<id>https://www.plymouth.edu/about-psu/?p=524</id>
+		<updated>2013-09-19T14:51:55Z</updated>
+		<published>2013-09-19T14:51:55Z</published>
+		<category scheme="http://www.plymouth.edu/about-psu" term="visitor information" />		<summary type="html"><![CDATA[New Hampshire has &#8220;some of the prettiest roads for cycling in the U.S.&#8212;or any other country, for that matter,&#8221; according to National Geographic Adventure.]]></summary>
+		<content type="html" xml:base="http://www.plymouth.edu/about-psu/2013/09/19/things-to-do-inn-to-inn-bike-tour/"><![CDATA[<p><a href="http://adventure.nationalgeographic.com/2008/09/weekend-getaways/map-interactive"><img src="https://www.plymouth.edu/about-psu/files/2013/09/NatGeoAdv-BikeTour-300x220-210x210.png" alt="National Geographic Adventure New Hampshire Bike Tour" title="NatGeoAdv-BikeTour-300x220" width="208" height="208" class="alignnone size-bigthumb wp-image-521" /></a></p>
+<p>New Hampshire has &#8220;some of the prettiest roads for cycling in the U.S.&mdash;or any other country, for that matter,&#8221; according to <em><a href="http://adventure.nationalgeographic.com/2008/09/weekend-getaways/map-interactive">National Geographic Adventure.</a></em></p>
+]]></content>
+		<link rel="replies" type="text/html" href="http://www.plymouth.edu/about-psu/2013/09/19/things-to-do-inn-to-inn-bike-tour/#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://www.plymouth.edu/about-psu/2013/09/19/things-to-do-inn-to-inn-bike-tour/feed/atom/" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name>Eric</name>
+					</author>
+		<title type="html"><![CDATA[On the List: 50 Best Places to Live]]></title>
+		<link rel="alternate" type="text/html" href="http://www.plymouth.edu/about-psu/2013/09/19/on-the-list-50-best-places-to-live/" />
+		<id>https://www.plymouth.edu/about-psu/?p=520</id>
+		<updated>2013-09-19T14:47:05Z</updated>
+		<published>2013-09-19T14:47:05Z</published>
+		<category scheme="http://www.plymouth.edu/about-psu" term="visitor information" />		<summary type="html"><![CDATA[In naming Plymouth among their 2008 list of “50 Best Places to Live: The Next Great Adventure Towns,” National Geographic Adventure noted “Life in Plymouth is like a master class in recreation.”]]></summary>
+		<content type="html" xml:base="http://www.plymouth.edu/about-psu/2013/09/19/on-the-list-50-best-places-to-live/"><![CDATA[<p><a href="http://adventure.nationalgeographic.com/2008/09/weekend-getaways/east-fall-text"><img src="https://www.plymouth.edu/about-psu/files/2013/09/NatGeoAdv-50-towns-300x280-210x210.jpg" alt="" title="NatGeoAdv-50-towns-300x280" width="208" height="208" class="size-bigthumb wp-image-522" /></a></p>
+<p>In naming Plymouth among their 2008 list of “<a href="http://adventure.nationalgeographic.com/2008/09/weekend-getaways/east-fall-text">50 Best Places to Live: The Next Great Adventure Towns</a>,” <em>National Geographic Adventure</em> noted “Life in Plymouth is like a master class in recreation.”</p>
+]]></content>
+		<link rel="replies" type="text/html" href="http://www.plymouth.edu/about-psu/2013/09/19/on-the-list-50-best-places-to-live/#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://www.plymouth.edu/about-psu/2013/09/19/on-the-list-50-best-places-to-live/feed/atom/" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name>Timothy</name>
+					</author>
+		<title type="html"><![CDATA[]]></title>
+		<link rel="alternate" type="text/html" href="http://www.plymouth.edu/about-psu/2010/10/12/78/" />
+		<id>http://plymouth.edu/about-psu/?p=78</id>
+		<updated>2010-10-12T14:05:20Z</updated>
+		<published>2010-10-12T13:05:42Z</published>
+		<category scheme="http://www.plymouth.edu/about-psu" term="quotes" />		<summary type="html"><![CDATA[&#8220;&#8220;The amazing thing about PSU is that you work hard for your classes&#8211;the programs here are exceptional. But when you find time for it, you are surrounded by the endless opportunities to play hard as well. &#8221; &#8212; Robert James `10&#8221;]]></summary>
+		<content type="html" xml:base="http://www.plymouth.edu/about-psu/2010/10/12/78/"><![CDATA[<blockquote><p>&#8220;<em>&#8220;The amazing thing about PSU is that you work hard for your classes&#8211;the programs here are exceptional. But when you find time for it, you are surrounded by the endless opportunities to play hard as well. &#8221; &#8212; Robert James `10</strong></em>&#8221;
+<div></div>
+</blockquote>
+]]></content>
+		<link rel="replies" type="text/html" href="http://www.plymouth.edu/about-psu/2010/10/12/78/#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://www.plymouth.edu/about-psu/2010/10/12/78/feed/atom/" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name>Timothy</name>
+					</author>
+		<title type="html"><![CDATA[]]></title>
+		<link rel="alternate" type="text/html" href="http://www.plymouth.edu/about-psu/2010/10/08/13/" />
+		<id>http://plymouth.edu/about-psu/?p=13</id>
+		<updated>2010-10-08T18:48:45Z</updated>
+		<published>2010-10-08T17:42:58Z</published>
+		<category scheme="http://www.plymouth.edu/about-psu" term="quotes" />		<summary type="html"><![CDATA[&#8220;This is the New England of art and poetry, the landscape that inspired Henry David Thoreau and Robert Frost and continues to inspire. You see before you at Plymouth both a glorious panorama and an unparalleled natural laboratory for learning. &#8211; Sara Jayne Steen, president&#8221;]]></summary>
+		<content type="html" xml:base="http://www.plymouth.edu/about-psu/2010/10/08/13/"><![CDATA[<blockquote><p>&#8220;<em>This is the New England of art and poetry, the landscape that inspired Henry David Thoreau and Robert Frost and continues to inspire. You see before you at Plymouth both a glorious panorama and an unparalleled natural laboratory for learning. <strong>&#8211; Sara Jayne Steen, president</strong></em>&#8221;
+<div></div>
+</blockquote>
+]]></content>
+		<link rel="replies" type="text/html" href="http://www.plymouth.edu/about-psu/2010/10/08/13/#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://www.plymouth.edu/about-psu/2010/10/08/13/feed/atom/" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+	</feed>

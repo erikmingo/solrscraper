@@ -1,0 +1,807 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>http://store.bowdoin.edu/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="http://store.bowdoin.edu/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="http://store.bowdoin.edu/collections/arctic-museum.atom"/>
+  <title>The Bowdoin Store</title>
+  <updated>2013-05-07T14:55:45-04:00</updated>
+  <author>
+    <name>The Bowdoin Store</name>
+  </author>
+  <entry>
+    <id>http://store.bowdoin.edu/products/32904412</id>
+    <published>2013-05-07T14:55:45-04:00</published>
+    <updated>2013-05-07T14:55:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://store.bowdoin.edu/products/museum-polar-bear-pin"/>
+    <title>Museum Polar Bear pin</title>
+    <s:type>Gift</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[
+    <table border="0">
+      <tr>
+        <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0064/8212/products/pmam-bear-pin-3.jpeg?v=1298390113" /></td>
+        <td valign="bottom">
+          <p>
+            <strong>Vendor: </strong>vendor-unknown<br />
+            <strong>Type: </strong>Gift<br />
+            <strong>Price: </strong>
+              5.00
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2">The Peary-MacMillan Arctic Museum's blue and while polar bear logo is now available as an eye-catching lapel pin. <br />
+<br />
+The pin has gold-toned details and a secure clutch-style backing. <br />
+<br />
+Proudly display your support for the Arctic Museum on your favorite shirt or jacket.<br />
+<br />
+(1"x 1/2")
+</td>
+      </tr>
+    </table>
+
+]]>
+    </summary>
+    <s:variant>
+      <id>http://store.bowdoin.edu/products/32904412</id>
+      <title>Default</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>PMAM-BEAR-PIN</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://store.bowdoin.edu/products/32904392</id>
+    <published>2013-05-07T14:55:23-04:00</published>
+    <updated>2013-05-07T14:55:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://store.bowdoin.edu/products/how-peary-reached-the-pole-1"/>
+    <title>How Peary Reached the Pole</title>
+    <s:type>Book</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[
+    <table border="0">
+      <tr>
+        <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0064/8212/products/PMAM-HOW-PEARY.jpeg?v=1298390110" /></td>
+        <td valign="bottom">
+          <p>
+            <strong>Vendor: </strong>vendor-unknown<br />
+            <strong>Type: </strong>Book<br />
+            <strong>Price: </strong>
+              25.00
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2">In 1934, on the 25th anniversary of Robert E. Peary's 1908-09 North Pole Expedition, Donald B. MacMillan published How Peary Reached the Pole, his account of that historic expedition.<br />
+<br />
+To mark the 100th anniversary of the expedition, the Peary-MacMillan Arctic Museum and Arctic Studies Center, Bowdoin College and McGill-Queens University Press have reissued this fascinating, accessible book in an expanded edition. The new edition includes a biography of MacMillan and overview of the expedition, written by the Arctic Museum staff, and 11 color images taken on the expedition . <br />
+<br />
+Pp. 307. <br />
+<br />
+(8 1/2"x 6 1/4")
+</td>
+      </tr>
+    </table>
+
+]]>
+    </summary>
+    <s:variant>
+      <id>http://store.bowdoin.edu/products/32904392</id>
+      <title>Default</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>PMAM-HOW-PEARY</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://store.bowdoin.edu/products/32904382</id>
+    <published>2013-05-07T14:55:01-04:00</published>
+    <updated>2013-05-07T14:55:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://store.bowdoin.edu/products/facing-the-future-booklet"/>
+    <title>Facing the Future Booklet</title>
+    <s:type>Book</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[
+    <table border="0">
+      <tr>
+        <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0064/8212/products/PMAM-FACING.jpeg?v=1298390109" /></td>
+        <td valign="bottom">
+          <p>
+            <strong>Vendor: </strong>vendor-unknown<br />
+            <strong>Type: </strong>Book<br />
+            <strong>Price: </strong>
+              6.00
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2">This 30-page booklet, written by the museum's curator, Dr. Genevieve LeMoine, describes the mask-making traditions of North Alaska and features full-color photographs of the Arctic Museum's caribou skin mask collection.&nbsp; <br />
+<br />
+&nbsp;(9"x 6")<br />
+<br />
+</td>
+      </tr>
+    </table>
+
+]]>
+    </summary>
+    <s:variant>
+      <id>http://store.bowdoin.edu/products/32904382</id>
+      <title>Default</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>PMAM-FACING</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://store.bowdoin.edu/products/32903602</id>
+    <published>2013-05-07T14:54:47-04:00</published>
+    <updated>2013-05-07T14:54:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://store.bowdoin.edu/products/tea-time-at-the-north-pole-mug"/>
+    <title>&quot;Tea Time at the North Pole&quot; Mug</title>
+    <s:type>Gift</s:type>
+    <s:vendor>Peary-MacMillan Arctic Museum</s:vendor>
+    <summary type="html">
+      <![CDATA[
+    <table border="0">
+      <tr>
+        <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0064/8212/products/peary-macmillan-arctic-museum-mug-back.jpeg?v=1298390035" /></td>
+        <td valign="bottom">
+          <p>
+            <strong>Vendor: </strong>Peary-MacMillan Arctic Museum<br />
+            <strong>Type: </strong>Gift<br />
+            <strong>Price: </strong>
+              10.00
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2"><p>This ceramic mug features a fantastic color reproduction of Donald MacMillan's 1909 photograph of two Inughuit men enjoying a tea break on Ellesmere Island. <br />
+<br />
+The reverse side of the mug displays the Arctic Museum's logo in sky blue. Destined to become a morning favorite!&nbsp; <br />
+<br />
+3 3/4"x 5" including handle.</p>
+</td>
+      </tr>
+    </table>
+
+]]>
+    </summary>
+    <s:variant>
+      <id>http://store.bowdoin.edu/products/32903602</id>
+      <title>Default</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>PMAM-MUG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://store.bowdoin.edu/products/32903562</id>
+    <published>2013-05-07T14:54:18-04:00</published>
+    <updated>2013-05-07T14:54:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://store.bowdoin.edu/products/polar-bear-charm-or-pendant"/>
+    <title>Polar Bear Charm or Pendant</title>
+    <s:type>Gift</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[
+    <table border="0">
+      <tr>
+        <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0064/8212/products/PMAM-PB-CHARM-2.jpeg?v=1298390032" /></td>
+        <td valign="bottom">
+          <p>
+            <strong>Vendor: </strong>vendor-unknown<br />
+            <strong>Type: </strong>Gift<br />
+            <strong>Price: </strong>
+              35.00
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2">Claude H. Jensen, a silversmith, created eight Arctic-themed charms in honor of Donald B. MacMillan. <br />
+<br />
+This sterling silver charm, depicting the mighty polar bear, Bowdoin College's mascot, is a reproduction of one of those charms. <br />
+<br />
+Casting is based on the original Jensen mold, donated to the Arctic Museum by Grady Jensen, the jeweler's son.&nbsp; <br />
+<br />
+&nbsp;(1"x 1/2"x 3/8") <br />
+</td>
+      </tr>
+    </table>
+
+]]>
+    </summary>
+    <s:variant>
+      <id>http://store.bowdoin.edu/products/32903562</id>
+      <title>Default</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>PMAM-PB-CHARM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://store.bowdoin.edu/products/32903552</id>
+    <published>2013-05-07T14:53:59-04:00</published>
+    <updated>2013-05-07T14:53:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://store.bowdoin.edu/products/schooner-bowdoin-charm-or-pendant"/>
+    <title>Schooner Bowdoin Charm or Pendant</title>
+    <s:type>Gift</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[
+    <table border="0">
+      <tr>
+        <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0064/8212/products/PMAM-SHIP-CHARM-3.jpeg?v=1298390031" /></td>
+        <td valign="bottom">
+          <p>
+            <strong>Vendor: </strong>vendor-unknown<br />
+            <strong>Type: </strong>Gift<br />
+            <strong>Price: </strong>
+              35.00
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2">Claude H. Jensen, a silversmith, created eight Arctic-themed charms in honor of Donald B. MacMillan. <br />
+<br />
+This sterling silver charm, featuring explorer MacMillan's beloved Schooner Bowdoin in full sail, is a reproduction of one of those charms. <br />
+<br />
+Casting is based on the original Jensen mold, donated to the Arctic Museum by Grady Jensen, the jeweler's son.<br />
+<br />
+&nbsp;(1"x 1"x 1/8") <br />
+</td>
+      </tr>
+    </table>
+
+]]>
+    </summary>
+    <s:variant>
+      <id>http://store.bowdoin.edu/products/32903552</id>
+      <title>Default</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>PMAM-SHIP-CHARM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://store.bowdoin.edu/products/32903582</id>
+    <published>2013-05-07T14:53:38-04:00</published>
+    <updated>2013-05-07T14:53:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://store.bowdoin.edu/products/magnetic-north-refrigerator-magnet"/>
+    <title>Magnetic North Refrigerator Magnet</title>
+    <s:type>Gift</s:type>
+    <s:vendor>Peary-MacMillan Arctic Museum</s:vendor>
+    <summary type="html">
+      <![CDATA[
+    <table border="0">
+      <tr>
+        <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0064/8212/products/PMAM-MAGNETS.jpeg?v=1298390033" /></td>
+        <td valign="bottom">
+          <p>
+            <strong>Vendor: </strong>Peary-MacMillan Arctic Museum<br />
+            <strong>Type: </strong>Gift<br />
+            <strong>Price: </strong>
+              5.00
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2">Have you run out of English words to describe the ever-changing winter weather? <br />
+<br />
+We have the solution: this unique magnet set, developed by the Arctic Museum staff, features 49 different Northwest Greenland Inuit words for weather, snow, and ice! <br />
+<br />
+A translation sheet is provided. <br />
+<br />
+(8 1/4"x 3 1/2")<br />
+</td>
+      </tr>
+    </table>
+
+]]>
+    </summary>
+    <s:variant>
+      <id>http://store.bowdoin.edu/products/32903582</id>
+      <title>Default</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>PMAM-MAGNETS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://store.bowdoin.edu/products/32929072</id>
+    <published>2013-05-07T14:51:28-04:00</published>
+    <updated>2013-05-07T14:51:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://store.bowdoin.edu/products/the-far-north-a-donald-macmillan-lecture-film"/>
+    <title>The Far North: A Donald MacMillan Lecture Film</title>
+    <s:type>DVD</s:type>
+    <s:vendor>Peary-MacMillan Arctic Museum</s:vendor>
+    <summary type="html">
+      <![CDATA[
+    <table border="0">
+      <tr>
+        <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0064/8212/products/pmam-dvd-farno.jpeg?v=1298393319" /></td>
+        <td valign="bottom">
+          <p>
+            <strong>Vendor: </strong>Peary-MacMillan Arctic Museum<br />
+            <strong>Type: </strong>DVD<br />
+            <strong>Price: </strong>
+              12.00
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2">Donald MacMillan's historic lecture film, <span style="font-style: italic;">The Far North</span>, is now available on a much-anticipated DVD from the Peary-MacMillan Arctic Museum!&nbsp; The film combines nearly two hours of historic motion picture footage from Labrador and Greenland with MacMillan's own live narration.
+</td>
+      </tr>
+    </table>
+
+]]>
+    </summary>
+    <s:variant>
+      <id>http://store.bowdoin.edu/products/32929072</id>
+      <title>Default</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>PMAM-DVD-FARNO</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://store.bowdoin.edu/products/32903622</id>
+    <published>2012-11-27T10:55:00-05:00</published>
+    <updated>2012-11-27T10:55:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="http://store.bowdoin.edu/products/find-a-way-or-make-one-t-shirt"/>
+    <title>&quot;Find a Way or Make One&quot; T-shirt</title>
+    <s:type>Clothing</s:type>
+    <s:vendor>Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[
+    <table border="0">
+      <tr>
+        <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0064/8212/products/PMAM-CENT-TSH.jpeg?v=1298390037" /></td>
+        <td valign="bottom">
+          <p>
+            <strong>Vendor: </strong>Clothing<br />
+            <strong>Type: </strong>Clothing<br />
+            <strong>Price: </strong>
+              16.00
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2"><p>This commemorative t-shirt was created in celebration of the centennial anniversary of Peary's 1908-1909 North Pole Expedition. <br /> <br /> The front features the Arctic Museum logo in blue with Peary's personal motto inscribed in its original Latin: "Inveniam viam aut faciam." The back of the shirt displays an English translation of the motto: "Find a way or make one," and a large reproduction of a photograph of a dog team from the 1908-1909 expedition.</p>
+<p>The shirt is 100% cotton and is not pre-shrunk. </p>
+<p>Size Medium.</p></td>
+      </tr>
+    </table>
+
+]]>
+    </summary>
+    <s:variant>
+      <id>http://store.bowdoin.edu/products/32903622</id>
+      <title>Medium</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>PMAM-CENT-TSH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://store.bowdoin.edu/products/38998532</id>
+    <published>2012-02-02T16:21:38-05:00</published>
+    <updated>2012-02-02T16:21:38-05:00</updated>
+    <link rel="alternate" type="text/html" href="http://store.bowdoin.edu/products/macmillan-book-dvd-combo-pack"/>
+    <title>MacMillan Book &amp; DVD Combo Pack</title>
+    <s:type>Gift</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[
+    <table border="0">
+      <tr>
+        <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0064/8212/products/pmam_mac_set.jpg?v=1303231706" /></td>
+        <td valign="bottom">
+          <p>
+            <strong>Vendor: </strong>vendor-unknown<br />
+            <strong>Type: </strong>Gift<br />
+            <strong>Price: </strong>
+              30.00
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2"><p><span>Read Donald B. MacMillan’s fascinating account of Robert E. Peary’s 1908-1909 North Pole Expedition in <i>How Peary Reached the Pole</i>, and also enjoy watching and listening as MacMillan narrates his own later travels to Labrador in the <i>Far North</i> lecture film DVD. These two items, sure to please any Arctic enthusiast, come packaged together for a special price.</span></p></td>
+      </tr>
+    </table>
+
+]]>
+    </summary>
+    <s:variant>
+      <id>http://store.bowdoin.edu/products/38998532</id>
+      <title>Default Title</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>PMAM-MAC-SET</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://store.bowdoin.edu/products/32903532</id>
+    <published>2012-02-02T16:21:20-05:00</published>
+    <updated>2012-02-02T16:21:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="http://store.bowdoin.edu/products/robert-e-peary-doll"/>
+    <title>Robert E. Peary Doll</title>
+    <s:type>Toy</s:type>
+    <s:vendor>Peary-MacMillan Arctic Museum</s:vendor>
+    <summary type="html">
+      <![CDATA[
+    <table border="0">
+      <tr>
+        <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0064/8212/products/PMAM-PEARY-DOLL.jpeg?v=1298390030" /></td>
+        <td valign="bottom">
+          <p>
+            <strong>Vendor: </strong>Peary-MacMillan Arctic Museum<br />
+            <strong>Type: </strong>Toy<br />
+            <strong>Price: </strong>
+              16.00
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2">This unique soft sculpture doll, featuring explorer Robert E. Peary, was made exclusively for the Peary-MacMillan Arctic Museum.&nbsp; <br />
+<br />
+The famous explorer, dressed in a "caribou fur" parka and "polar bear fur" pants, carries an American flag made for him by his wife, Josephine.&nbsp; <br />
+<br />
+The doll, developed with assistance of Arctic Museum interns, is suitable for ages 2 years and up. <br />
+<br />
+Take your Peary doll traveling and send pictures of him to the Museum staff for posting on the website!&nbsp; View the <a href="http://www.bowdoin.edu/arctic-museum/pearydoll/index.shtml">gallery</a>.<br />
+<br />
+&nbsp;(10"x 8"x 2")
+</td>
+      </tr>
+    </table>
+
+]]>
+    </summary>
+    <s:variant>
+      <id>http://store.bowdoin.edu/products/32903532</id>
+      <title>Default</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>PMAM-PEARY-DOLL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://store.bowdoin.edu/products/32910622</id>
+    <published>2012-02-02T16:21:05-05:00</published>
+    <updated>2012-02-02T16:21:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="http://store.bowdoin.edu/products/tautunguarnirijara-the-way-i-picture-it-dvd"/>
+    <title>Tautunguarnirijara - The Way I Picture It DVD</title>
+    <s:type>DVD</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[
+    <table border="0">
+      <tr>
+        <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0064/8212/products/PMAM-DVD.jpeg?v=1298390720" /></td>
+        <td valign="bottom">
+          <p>
+            <strong>Vendor: </strong>vendor-unknown<br />
+            <strong>Type: </strong>DVD<br />
+            <strong>Price: </strong>
+              5.00
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2">In 1948, 1950, and 1954 Donald B. MacMillan sailed the Schooner Bowdoin to Baffin Island, in arctic Canada, where he met and filmed Inuit families summering in the vicinity of Pond Inlet. <br />
+<br />
+This 11-minute film, an Arctic Museum and Pond Inlet community collaboration, features some of that footage, a script developed by Mekai Ootova and Elisapie Ootova, who are Pond Inlet residents and descendants of some of the Inuit in the film, and songs their ancestors wrote. <br />
+<br />
+A 14-page booklet contains genealogical notes and song transcriptions in English and Inuktitut. <br />
+<br />
+This project was funded by Bowdoin College, the Oak Foundation, and the National Science Foundation. <br />
+<br />
+&nbsp;(7 1/2"x 5 1/4")
+</td>
+      </tr>
+    </table>
+
+]]>
+    </summary>
+    <s:variant>
+      <id>http://store.bowdoin.edu/products/32910622</id>
+      <title>Default</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>PMAM-DVD</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://store.bowdoin.edu/products/38737072</id>
+    <published>2011-04-22T16:31:14-04:00</published>
+    <updated>2011-04-22T16:31:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://store.bowdoin.edu/products/adults-arctic-museum-tee"/>
+    <title>Adult&apos;s Arctic Museum Tee</title>
+    <s:type>T-Shirt</s:type>
+    <s:vendor>Bowdoin College</s:vendor>
+    <summary type="html">
+      <![CDATA[
+    <table border="0">
+      <tr>
+        <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0064/8212/products/pmam_adlt_tsh.jpg?v=1302872896" /></td>
+        <td valign="bottom">
+          <p>
+            <strong>Vendor: </strong>Bowdoin College<br />
+            <strong>Type: </strong>T-Shirt<br />
+            <strong>Price: </strong>
+              16.00
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2"><p>Our popular Arctic Museum t-shirt features a serene sitting polar bear
+and reads "The Peary-MacMillan Arctic Museum, Bowdoin College,
+Brunswick Maine." <br />
+<br />
+100% cotton.</p>
+</td>
+      </tr>
+    </table>
+
+]]>
+    </summary>
+    <s:variant>
+      <id>http://store.bowdoin.edu/products/38737072</id>
+      <title>Maize / Small</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>PMAM-ADLT-TSH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://store.bowdoin.edu/products/38737072</id>
+      <title>Maize / Medium</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>PMAM-ADLT-TSH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://store.bowdoin.edu/products/38737072</id>
+      <title>Maize / Large</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>PMAM-ADLT-TSH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://store.bowdoin.edu/products/38737072</id>
+      <title>Seafoam / Small</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>PMAM-ADLT-TSH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://store.bowdoin.edu/products/38737072</id>
+      <title>Seafoam / Medium</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>PMAM-ADLT-TSH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://store.bowdoin.edu/products/38737072</id>
+      <title>Seafoam / Large</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>PMAM-ADLT-TSH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://store.bowdoin.edu/products/38737072</id>
+      <title>Plum / Small</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>PMAM-ADLT-TSH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://store.bowdoin.edu/products/38737072</id>
+      <title>Plum / Medium</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>PMAM-ADLT-TSH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://store.bowdoin.edu/products/38737072</id>
+      <title>Plum / Large</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>PMAM-ADLT-TSH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://store.bowdoin.edu/products/38737072</id>
+      <title>Flo-blue / Small</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>PMAM-ADLT-TSH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://store.bowdoin.edu/products/38737072</id>
+      <title>Flo-Blue / Large</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>PMAM-ADLT-TSH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://store.bowdoin.edu/products/38737072</id>
+      <title>Navy / Medium</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>PMAM-ADLT-TSH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://store.bowdoin.edu/products/38737072</id>
+      <title>Navy / Large</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>PMAM-ADLT-TSH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://store.bowdoin.edu/products/32909062</id>
+    <published>2011-04-22T16:31:05-04:00</published>
+    <updated>2011-04-22T16:31:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://store.bowdoin.edu/products/childrens-arctic-museum-t-shirt"/>
+    <title>Children&apos;s Arctic Museum T-Shirt</title>
+    <s:type>T-Shirt</s:type>
+    <s:vendor>Peary-MacMillan Arctic Museum</s:vendor>
+    <summary type="html">
+      <![CDATA[
+    <table border="0">
+      <tr>
+        <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0064/8212/products/PMAM-CHLD-TSH.jpeg?v=1298390569" /></td>
+        <td valign="bottom">
+          <p>
+            <strong>Vendor: </strong>Peary-MacMillan Arctic Museum<br />
+            <strong>Type: </strong>T-Shirt<br />
+            <strong>Price: </strong>
+              12.00
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2">Our popular Arctic Museum t-shirt features a serene sitting polar bear
+and reads "The Peary-MacMillan Arctic Museum, Bowdoin College,
+Brunswick Maine." <br />
+<br />
+100% cotton, pre-shrunk.
+</td>
+      </tr>
+    </table>
+
+]]>
+    </summary>
+    <s:variant>
+      <id>http://store.bowdoin.edu/products/32909062</id>
+      <title>Small / Green</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>PMAM-CHLD-TSH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://store.bowdoin.edu/products/32909062</id>
+      <title>Small / Pink</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>PMAM-CHLD-TSH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://store.bowdoin.edu/products/32909062</id>
+      <title>Small / Red</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>PMAM-CHLD-TSH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://store.bowdoin.edu/products/32909062</id>
+      <title>Small / Flo-Blue</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>PMAM-CHLD-TSH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://store.bowdoin.edu/products/32909062</id>
+      <title>Small / Navy</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>PMAM-CHLD-TSH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://store.bowdoin.edu/products/32909062</id>
+      <title>Small / Lavender</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>PMAM-CHLD-TSH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://store.bowdoin.edu/products/32909062</id>
+      <title>Medium / Green</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>PMAM-CHLD-TSH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://store.bowdoin.edu/products/32909062</id>
+      <title>Medium / Pink</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>PMAM-CHLD-TSH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://store.bowdoin.edu/products/32909062</id>
+      <title>Medium / Red</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>PMAM-CHLD-TSH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://store.bowdoin.edu/products/32909062</id>
+      <title>Medium / Flo-Blue</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>PMAM-CHLD-TSH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://store.bowdoin.edu/products/32909062</id>
+      <title>Medium / Navy</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>PMAM-CHLD-TSH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://store.bowdoin.edu/products/32909062</id>
+      <title>Medium / Lavender</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>PMAM-CHLD-TSH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://store.bowdoin.edu/products/32909062</id>
+      <title>Large / Green</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>PMAM-CHLD-TSH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://store.bowdoin.edu/products/32909062</id>
+      <title>Large / Pink</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>PMAM-CHLD-TSH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://store.bowdoin.edu/products/32909062</id>
+      <title>Large / Red</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>PMAM-CHLD-TSH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://store.bowdoin.edu/products/32909062</id>
+      <title>Large / Flo-Blue</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>PMAM-CHLD-TSH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://store.bowdoin.edu/products/32909062</id>
+      <title>Large / Navy</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>PMAM-CHLD-TSH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://store.bowdoin.edu/products/32909062</id>
+      <title>Large / Lavender</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>PMAM-CHLD-TSH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

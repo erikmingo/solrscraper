@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">Kean University | Distance Education - Home</title>
+	<subtitle type="text">Kean University blackboard, Kean University distance education, distance education,webct, kean webct, kean university webct, kean university de, kean online</subtitle>
+	<link rel="alternate" type="text/html" href="http://online.kean.edu"/>
+	<id>http://online.kean.edu/</id>
+	<updated>2014-07-21T17:57:10+00:00</updated>
+	<generator uri="http://joomla.org" version="1.6">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="http://online.kean.edu/?format=feed&amp;type=atom"/>
+	<entry>
+		<title>Launching Blackboard 9.1</title>
+		<link rel="alternate" type="text/html" href="http://online.kean.edu/9-instructors/11-launching-blackboard-91"/>
+		<published>2012-08-03T12:13:13+00:00</published>
+		<updated>2012-08-03T12:13:13+00:00</updated>
+		<id>http://online.kean.edu/9-instructors/11-launching-blackboard-91</id>
+		<author>
+			<name>Mohammad Rahman</name>
+			<email>mrahman@kean.edu</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;&lt;img style=&quot;margin-bottom: 5px; float: left;&quot; src=&quot;images/bboard_logo.png&quot; alt=&quot;bboard logo&quot; width=&quot;100&quot; height=&quot;97&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Blackboard Learn Release 9.1 Pilot Program has now officially ended and is now ready to be rolled out campuswide. We thank the faculty and students who participated in the Pilot Program and provided valuable feedback. Blackboard CE8 system will be decommissioned after Spring 2013 - therefore it is very important that all faculty who are currently using Blackboard CE8 system start migrating to Blackboard Learn 9.1 System.&lt;/p&gt;
+&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;&lt;img style=&quot;margin-bottom: 5px; float: left;&quot; src=&quot;images/bboard_logo.png&quot; alt=&quot;bboard logo&quot; width=&quot;100&quot; height=&quot;97&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Blackboard Learn Release 9.1 Pilot Program has now officially ended and is now ready to be rolled out campuswide. We thank the faculty and students who participated in the Pilot Program and provided valuable feedback. Blackboard CE8 system will be decommissioned after Spring 2013 - therefore it is very important that all faculty who are currently using Blackboard CE8 system start migrating to Blackboard Learn 9.1 System.&lt;/p&gt;
+&lt;/div&gt;</content>
+		<category term="Featured" />
+		<category term="Instructors" />
+	</entry>
+	<entry>
+		<title>Setting course availability for students</title>
+		<link rel="alternate" type="text/html" href="http://online.kean.edu/9-instructors/12-course-availability"/>
+		<published>2013-01-18T15:33:05+00:00</published>
+		<updated>2013-01-18T15:33:05+00:00</updated>
+		<id>http://online.kean.edu/9-instructors/12-course-availability</id>
+		<author>
+			<name>Mohammad Rahman</name>
+			<email>mrahman@kean.edu</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;By default, as a security measure, blackboard 9.1 will set all of your courses as unavailable to the enrolled students [Students will see the course listed in their list, but the link will be inactive therefore they will not be able to get in to the course]. Once you are comfortable to allow students in your course, you must follow the process described below to make the course available to your students.&lt;/p&gt;
+&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;By default, as a security measure, blackboard 9.1 will set all of your courses as unavailable to the enrolled students [Students will see the course listed in their list, but the link will be inactive therefore they will not be able to get in to the course]. Once you are comfortable to allow students in your course, you must follow the process described below to make the course available to your students.&lt;/p&gt;
+&lt;/div&gt;</content>
+		<category term="Featured" />
+		<category term="Instructors" />
+	</entry>
+	<entry>
+		<title>Blackboard CE8 System Retirement Notice</title>
+		<link rel="alternate" type="text/html" href="http://online.kean.edu/for-instructors/blackboard-8/login-to-blackboard-ce8"/>
+		<published>2013-08-25T12:57:23+00:00</published>
+		<updated>2013-08-25T12:57:23+00:00</updated>
+		<id>http://online.kean.edu/for-instructors/blackboard-8/login-to-blackboard-ce8</id>
+		<author>
+			<name>Mohammad Rahman</name>
+			<email>mrahman@kean.edu</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;As it has been published and advertised over past 1+ year,&amp;nbsp;&lt;span style=&quot;color: red; text-decoration: underline;&quot;&gt;Blackboard CE 8 is now retired&amp;nbsp;&lt;/span&gt;(Summer II, 2013 was the last session we had on Blackboard 8). We are now using Blackboard Learn 9.1 as our production LMS system.&lt;/p&gt;
+&lt;p&gt;If you did not do so yet, please migrate your course from Blackboard 8 to Blackboard 9 by following the instruction in the &lt;a href=&quot;index.php?option=com_content&amp;amp;view=article&amp;amp;id=13:migrating-course-content-from-blackboard-ce8-to-blackboard-release-91&amp;amp;catid=9:instructors&amp;amp;Itemid=101&quot;&gt;Course Migration article &lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;As it has been published and advertised over past 1+ year,&amp;nbsp;&lt;span style=&quot;color: red; text-decoration: underline;&quot;&gt;Blackboard CE 8 is now retired&amp;nbsp;&lt;/span&gt;(Summer II, 2013 was the last session we had on Blackboard 8). We are now using Blackboard Learn 9.1 as our production LMS system.&lt;/p&gt;
+&lt;p&gt;If you did not do so yet, please migrate your course from Blackboard 8 to Blackboard 9 by following the instruction in the &lt;a href=&quot;index.php?option=com_content&amp;amp;view=article&amp;amp;id=13:migrating-course-content-from-blackboard-ce8-to-blackboard-release-91&amp;amp;catid=9:instructors&amp;amp;Itemid=101&quot;&gt;Course Migration article &lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</content>
+		<category term="Featured" />
+		<category term="Instructors" />
+	</entry>
+	<entry>
+		<title>Migrating Course Content from Blackboard CE8 to Blackboard Release 9.1</title>
+		<link rel="alternate" type="text/html" href="http://online.kean.edu/9-instructors/13-migrating-course-content-from-blackboard-ce8-to-blackboard-release-91"/>
+		<published>2012-07-19T19:11:40+00:00</published>
+		<updated>2012-07-19T19:11:40+00:00</updated>
+		<id>http://online.kean.edu/9-instructors/13-migrating-course-content-from-blackboard-ce8-to-blackboard-release-91</id>
+		<author>
+			<name>Mohammad Rahman</name>
+			<email>mrahman@kean.edu</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;&lt;strong style=&quot;line-height: 115%; font-size: 14pt;&quot;&gt;Important Information before you attempt migration:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We require that you go over your course shell, examine the files and contents and remove unnecessary items/files/contents. This cleanup stage is vital to a successful course conversion. If your course is over 150 MB in size, your migration will fail.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;&lt;strong style=&quot;line-height: 115%; font-size: 14pt;&quot;&gt;Important Information before you attempt migration:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We require that you go over your course shell, examine the files and contents and remove unnecessary items/files/contents. This cleanup stage is vital to a successful course conversion. If your course is over 150 MB in size, your migration will fail.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;/div&gt;</content>
+		<category term="Featured" />
+		<category term="Instructors" />
+	</entry>
+	<entry>
+		<title>Blackboard 9 Interactive Videos</title>
+		<link rel="alternate" type="text/html" href="http://online.kean.edu/for-instructors/blackboard-9/interactive-videos"/>
+		<published>2012-05-17T14:15:45+00:00</published>
+		<updated>2012-05-17T14:15:45+00:00</updated>
+		<id>http://online.kean.edu/for-instructors/blackboard-9/interactive-videos</id>
+		<author>
+			<name>Sakinah Franklin</name>
+			<email>franklis@kean.edu</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;div align=&quot;center&quot;&gt;
+&lt;p&gt;&lt;a name=&quot;CourseBuilding&quot;&gt;&lt;strong&gt;Section I:&lt;/strong&gt; Understanding and Building Your Course &lt;/a&gt;&lt;br /&gt; &lt;a name=&quot;Collaboration&quot;&gt;&lt;strong&gt;Section II:&lt;/strong&gt; Communicating and Collaborating&lt;/a&gt; &lt;a name=&quot;BlogsWikis&quot;&gt;&lt;strong&gt;&lt;br /&gt; Section III:&lt;/strong&gt; Blogs, Wikis, Journals and Announcements&lt;/a&gt; &lt;br /&gt; &lt;a name=&quot;AssessingLearners&quot;&gt;&lt;strong&gt;Section IV:&lt;/strong&gt; Assessing Learners&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;div align=&quot;center&quot;&gt;
+&lt;p&gt;&lt;a name=&quot;CourseBuilding&quot;&gt;&lt;strong&gt;Section I:&lt;/strong&gt; Understanding and Building Your Course &lt;/a&gt;&lt;br /&gt; &lt;a name=&quot;Collaboration&quot;&gt;&lt;strong&gt;Section II:&lt;/strong&gt; Communicating and Collaborating&lt;/a&gt; &lt;a name=&quot;BlogsWikis&quot;&gt;&lt;strong&gt;&lt;br /&gt; Section III:&lt;/strong&gt; Blogs, Wikis, Journals and Announcements&lt;/a&gt; &lt;br /&gt; &lt;a name=&quot;AssessingLearners&quot;&gt;&lt;strong&gt;Section IV:&lt;/strong&gt; Assessing Learners&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</content>
+		<category term="Featured" />
+		<category term="blackboard 9" />
+	</entry>
+</feed>

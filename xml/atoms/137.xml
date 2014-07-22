@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?><feed
+  xmlns="http://www.w3.org/2005/Atom"
+  xmlns:thr="http://purl.org/syndication/thread/1.0"
+  xml:lang="en"
+  xml:base="http://www.plymouth.edu/dining/wp-atom.php"
+   >
+	<title type="text">Dining Services</title>
+	<subtitle type="text">Dining Services at Plymouth State University</subtitle>
+
+	<updated>2014-07-21T12:43:01Z</updated>
+
+	<link rel="alternate" type="text/html" href="http://www.plymouth.edu/dining" />
+	<id>http://www.plymouth.edu/dining/feed/atom/</id>
+	<link rel="self" type="application/atom+xml" href="http://www.plymouth.edu/dining/feed/atom/" />
+
+	<generator uri="http://wordpress.org/" version="3.2.1">WordPress</generator>
+		<entry>
+		<author>
+			<name>elmarrotte</name>
+					</author>
+		<title type="html"><![CDATA[Summer Hours of Operation]]></title>
+		<link rel="alternate" type="text/html" href="http://www.plymouth.edu/dining/whats-happening/summer-hours-2014/" />
+		<id>https://www.plymouth.edu/dining/?p=3167</id>
+		<updated>2014-05-28T13:14:38Z</updated>
+		<published>2014-05-28T13:11:40Z</published>
+		<category scheme="http://www.plymouth.edu/dining" term="What&#039;s Happening?" />		<summary type="html"><![CDATA[May 27 &#8211; August 28, 2014 Union Grille Monday-Thursday 11:30 a.m.-1:30 p.m. Prospect Hall Days of operation and times of meal periods will vary, according to summer conferences schedules. On the Go Closed The Woods Café Closed Sidewalk Cafe Closed Commons Café Closed]]></summary>
+		<content type="html" xml:base="http://www.plymouth.edu/dining/whats-happening/summer-hours-2014/"><![CDATA[<p><strong>May 27 &#8211; August 28, 2014</strong></p>
+<table width="100%" border="0">
+<tr>
+<th width="100">Union Grille</th>
+<td>Monday-Thursday</td>
+<td>11:30 a.m.-1:30 p.m.</td>
+</tr>
+<th>Prospect Hall</th>
+<td colspan="2">Days of operation and times of meal periods will vary, according to summer conferences schedules.</td>
+<tr>
+<th>On the Go</th>
+<td colspan="2">Closed</td>
+</tr>
+<tr>
+<th>The Woods Café</th>
+<td colspan="2">Closed</td>
+</tr>
+<tr>
+<th>Sidewalk Cafe</th>
+<td colspan="2">Closed</td>
+</tr>
+<tr>
+<th>Commons Café</th>
+<td colspan="2">Closed</td>
+</tr>
+</table>
+]]></content>
+		<link rel="replies" type="text/html" href="http://www.plymouth.edu/dining/whats-happening/summer-hours-2014/#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://www.plymouth.edu/dining/whats-happening/summer-hours-2014/feed/atom/" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name>elmarrotte</name>
+					</author>
+		<title type="html"><![CDATA[All Campus Cookout Today!]]></title>
+		<link rel="alternate" type="text/html" href="http://www.plymouth.edu/dining/what%e2%80%99s-happening-archive/all-campus-cookout-5-8-14/" />
+		<id>https://www.plymouth.edu/dining/?p=3129</id>
+		<updated>2014-05-28T13:12:01Z</updated>
+		<published>2014-05-08T15:40:53Z</published>
+		<category scheme="http://www.plymouth.edu/dining" term="What’s Happening Archive" />		<summary type="html"><![CDATA[May 8 11:30 a.m. -3 p.m. Today we will be doing an All Campus Cookout in conjunction with P.A.W. in front of the HUB on the Alumni Green. Food, fun, music and activities from 11:30 a.m. till 3 p.m. Both Prospect and the Union Grille will be closed during that time. Meal Plan students can [...]]]></summary>
+		<content type="html" xml:base="http://www.plymouth.edu/dining/what%e2%80%99s-happening-archive/all-campus-cookout-5-8-14/"><![CDATA[<p>May 8<br />
+11:30 a.m. -3 p.m.</p>
+<p>Today we will be doing an All Campus Cookout in conjunction with P.A.W. in front of the HUB on the Alumni Green.<br />
+Food, fun, music and activities from 11:30 a.m. till 3 p.m.</p>
+<p>Both <strong>Prospect and the Union Grille will be closed</strong> during that time. </p>
+<p>Meal Plan students can swipe and eat for free.<br />
+There is a suggested $5 donation for all others with all proceeds being donated to the &#8220;Imagine A Way&#8221; Scholarship Fund.</p>
+<p>We hope you&#8217;ll join us.</p>
+]]></content>
+		<link rel="replies" type="text/html" href="http://www.plymouth.edu/dining/what%e2%80%99s-happening-archive/all-campus-cookout-5-8-14/#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://www.plymouth.edu/dining/what%e2%80%99s-happening-archive/all-campus-cookout-5-8-14/feed/atom/" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name>elmarrotte</name>
+					</author>
+		<title type="html"><![CDATA[Local Foods]]></title>
+		<link rel="alternate" type="text/html" href="http://www.plymouth.edu/dining/what%e2%80%99s-happening-archive/local-foods/" />
+		<id>https://www.plymouth.edu/dining/?p=2934</id>
+		<updated>2014-01-30T04:48:18Z</updated>
+		<published>2014-01-29T15:32:20Z</published>
+		<category scheme="http://www.plymouth.edu/dining" term="What’s Happening Archive" />		<summary type="html"><![CDATA[Wednesday dinner (Jan 29) Prospect Dining hall will be serving hand pressed ground beef hamburgers made with local ground beef from PT Farm, Norht Haverhill NH. newenglandmeat.com Enjoy!]]></summary>
+		<content type="html" xml:base="http://www.plymouth.edu/dining/what%e2%80%99s-happening-archive/local-foods/"><![CDATA[<p><a href="http://newenglandmeat.com/"><img class="alignleft size-small wp-image-2933 noborder" src="https://www.plymouth.edu/dining/files/2014/01/pt-farm-250x187.jpg" alt="" width="250" height="187" /></a>Wednesday dinner (Jan 29) Prospect Dining hall will be serving hand pressed ground beef hamburgers made with <strong>local ground beef</strong> from <a title="PT Farm, Norht Haverhill NH" href="http://newenglandmeat.com/">PT Farm</a>, Norht Haverhill NH. </p>
+<p><a href="http://newenglandmeat.com/">newenglandmeat.com</a></p>
+<p>Enjoy!</p>
+]]></content>
+		<link rel="replies" type="text/html" href="http://www.plymouth.edu/dining/what%e2%80%99s-happening-archive/local-foods/#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://www.plymouth.edu/dining/what%e2%80%99s-happening-archive/local-foods/feed/atom/" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name>elmarrotte</name>
+					</author>
+		<title type="html"><![CDATA[Winter Hours of Operation]]></title>
+		<link rel="alternate" type="text/html" href="http://www.plymouth.edu/dining/what%e2%80%99s-happening-archive/winter-hours-2013-1014/" />
+		<id>https://www.plymouth.edu/dining/?p=2876</id>
+		<updated>2014-01-24T18:08:02Z</updated>
+		<published>2013-12-20T21:07:37Z</published>
+		<category scheme="http://www.plymouth.edu/dining" term="What’s Happening Archive" />		<summary type="html"><![CDATA[All dining venues on campus will be closed from Saturday, December 21 through Wednesday, January 1. Union Grille Winterim Hours: 7:30 a.m.-7:30 p.m. Monday-Thursday 7:30 a.m.-4:30 p.m. Friday Closed weekends and Martin Luther King, Jr. Day. Union Grille &#8220;Blue Plate Specials&#8221; for January 2014 All other venues will remain closed through the start of the [...]]]></summary>
+		<content type="html" xml:base="http://www.plymouth.edu/dining/what%e2%80%99s-happening-archive/winter-hours-2013-1014/"><![CDATA[<p>All dining venues on campus will be closed from Saturday, December 21 through Wednesday, January 1. </p>
+<p><strong>Union Grille</strong> Winterim Hours:<br />
+7:30 a.m.-7:30 p.m. Monday-Thursday<br />
+7:30 a.m.-4:30 p.m. Friday<br />
+Closed weekends and Martin Luther King, Jr. Day.<br />
+<a href="http://www.plymouth.edu/dining/files/2013/12/jan-2014-blue-plate-specials.pdf" title="Blue Plate Specials">Union Grille &#8220;Blue Plate Specials&#8221;</a> for January 2014</p>
+<p>All other venues will remain closed through the start of the Spring Semester.</p>
+]]></content>
+		<link rel="replies" type="text/html" href="http://www.plymouth.edu/dining/what%e2%80%99s-happening-archive/winter-hours-2013-1014/#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://www.plymouth.edu/dining/what%e2%80%99s-happening-archive/winter-hours-2013-1014/feed/atom/" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name>elmarrotte</name>
+					</author>
+		<title type="html"><![CDATA[Stress Less&#8230; Join us for Late Nite]]></title>
+		<link rel="alternate" type="text/html" href="http://www.plymouth.edu/dining/what%e2%80%99s-happening-archive/late-night-dec2013/" />
+		<id>https://www.plymouth.edu/dining/?p=2872</id>
+		<updated>2013-12-20T21:07:51Z</updated>
+		<published>2013-12-05T00:05:14Z</published>
+		<category scheme="http://www.plymouth.edu/dining" term="What’s Happening Archive" />		<summary type="html"><![CDATA[Late Nite Meals will be available from 9:30-11 p.m. on December 16 and Tuesday, December 17 in Prospect Hall.]]></summary>
+		<content type="html" xml:base="http://www.plymouth.edu/dining/what%e2%80%99s-happening-archive/late-night-dec2013/"><![CDATA[<p>Late Nite Meals will be available from 9:30-11 p.m. on December 16 and Tuesday, December 17 in Prospect Hall.</p>
+]]></content>
+		<link rel="replies" type="text/html" href="http://www.plymouth.edu/dining/what%e2%80%99s-happening-archive/late-night-dec2013/#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://www.plymouth.edu/dining/what%e2%80%99s-happening-archive/late-night-dec2013/feed/atom/" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name>elmarrotte</name>
+					</author>
+		<title type="html"><![CDATA[Thanksgiving Break Hours of Operation]]></title>
+		<link rel="alternate" type="text/html" href="http://www.plymouth.edu/dining/what%e2%80%99s-happening-archive/thanksgiving-hours-2013/" />
+		<id>https://www.plymouth.edu/dining/?p=2845</id>
+		<updated>2013-12-02T15:09:04Z</updated>
+		<published>2013-11-23T01:03:52Z</published>
+		<category scheme="http://www.plymouth.edu/dining" term="What’s Happening Archive" />		<summary type="html"><![CDATA[Last meal on the meal plan is Tuesday Dinner and first meal back is Sunday dinner! Prospect Hall Closes on Tuesday, November 26 at 7:20 p.m. Re-opens Monday, December 2 at 7:30 a.m. Union Grille Closes on Tuesday, November 26 at 1:30 p.m. Re-opens Sunday, December 1 at 2 p.m.* On the Go Closes on [...]]]></summary>
+		<content type="html" xml:base="http://www.plymouth.edu/dining/what%e2%80%99s-happening-archive/thanksgiving-hours-2013/"><![CDATA[<p>Last meal on the meal plan is Tuesday Dinner and first meal back is Sunday dinner!</p>
+<p><strong>Prospect Hall</strong><br />
+Closes on Tuesday, November 26 at 7:20 p.m.<br />
+Re-opens Monday, December 2 at 7:30 a.m.</p>
+<p><strong>Union Grille</strong><br />
+Closes on Tuesday, November 26 at 1:30 p.m.<br />
+Re-opens Sunday, December 1 at 2 p.m.*</p>
+<p><strong>On the Go</strong><br />
+Closes on Tuesday, November 26 at 1:30 p.m.<br />
+Re-opens Monday, December 2 at 7:30 a.m.</p>
+<p><strong>Sidewalk Cafe</strong><br />
+Closes on Tuesday, November 26 at 11 a.m<br />
+Re-opens Monday, December 2 at 7:30 a.m.</p>
+<p><strong>Commons Café</strong><br />
+Closes on Tuesday, November 26 at 11 a.m.<br />
+Re-opens Monday, December 2 at 7:30 a.m.</p>
+<p><strong>The Woods Café</strong><br />
+Closes on Tuesday, November 26 at 10 a.m.<br />
+Re-opens Monday, December 2 at 7:30 a.m.</p>
+<p>* Meal Vouchers for Sunday Dinner (good at 10 locations from 2 p.m. thru close) can be picked up on Sunday, December 1 starting at 2 p.m. in the Union Grille.</p>
+<p>HAPPY THANKSGIVING! To you and your families from the Sodexo team!</p>
+]]></content>
+		<link rel="replies" type="text/html" href="http://www.plymouth.edu/dining/what%e2%80%99s-happening-archive/thanksgiving-hours-2013/#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://www.plymouth.edu/dining/what%e2%80%99s-happening-archive/thanksgiving-hours-2013/feed/atom/" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name>elmarrotte</name>
+					</author>
+		<title type="html"><![CDATA[International Education Week &#8211; Global Chef Competition]]></title>
+		<link rel="alternate" type="text/html" href="http://www.plymouth.edu/dining/what%e2%80%99s-happening-archive/international-week-2013/" />
+		<id>https://www.plymouth.edu/dining/?p=2841</id>
+		<updated>2013-11-23T01:04:26Z</updated>
+		<published>2013-11-21T13:39:53Z</published>
+		<category scheme="http://www.plymouth.edu/dining" term="What’s Happening Archive" />		<summary type="html"><![CDATA[11:30 a.m.-2 p.m. Prospect Dining Hall Vote for your favorite Celebrity Student Chef! $11 cash, $8 flexcash, or mealplan.]]></summary>
+		<content type="html" xml:base="http://www.plymouth.edu/dining/what%e2%80%99s-happening-archive/international-week-2013/"><![CDATA[<p>11:30 a.m.-2 p.m.<br />
+Prospect Dining Hall</p>
+<p>Vote for your favorite Celebrity Student Chef!   </p>
+<p>$11 cash, $8 flexcash, or mealplan.</p>
+]]></content>
+		<link rel="replies" type="text/html" href="http://www.plymouth.edu/dining/what%e2%80%99s-happening-archive/international-week-2013/#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://www.plymouth.edu/dining/what%e2%80%99s-happening-archive/international-week-2013/feed/atom/" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name>elmarrotte</name>
+					</author>
+		<title type="html"><![CDATA[Order Your 2013 Thanksgiving Pies!]]></title>
+		<link rel="alternate" type="text/html" href="http://www.plymouth.edu/dining/what%e2%80%99s-happening-archive/thanksgiving-pies-2013/" />
+		<id>https://www.plymouth.edu/dining/?p=2830</id>
+		<updated>2013-12-01T21:40:37Z</updated>
+		<published>2013-11-08T13:36:27Z</published>
+		<category scheme="http://www.plymouth.edu/dining" term="What’s Happening Archive" />		<summary type="html"><![CDATA[Taking orders through Wednesday, November 20, 2013. With the holidays quickly approaching, we would like to remind you that it is now time to order your Thanksgiving pies! Choose from Traditional Pumpkin Pie, Traditional Apple Pie, Cran-Apple Pie, Dutch Apple Pie, Pecan Pie, Chocolate Cream Pie, Traditional Cheesecake, Pumpkin Cheesecake. Pie Tasting will take place [...]]]></summary>
+		<content type="html" xml:base="http://www.plymouth.edu/dining/what%e2%80%99s-happening-archive/thanksgiving-pies-2013/"><![CDATA[<p><a href="http://www.plymouth.edu/dining/files/2013/11/thanksgiving-pies-2013.pdf" title="Order Your Thanksgiving Pies"><img src="https://www.plymouth.edu/dining/files/2012/10/order-thanksgiving-pies-460x192.jpg" alt="" width="460" height="192" class="alignnone size-medium wp-image-2094 noborder" /></a>Taking orders through Wednesday, November 20, 2013.</p>
+<p>With the holidays quickly approaching, we would like to remind you that it is now time to order your Thanksgiving pies!</p>
+<p>Choose from <a href="http://www.plymouth.edu/dining/files/2013/11/thanksgiving-pies-2013.pdf" title="Order Your Thanksgiving Pies">Traditional Pumpkin Pie</a>, <a href="http://www.plymouth.edu/dining/files/2013/11/thanksgiving-pies-2013.pdf" title="Order Your Thanksgiving Pies">Traditional Apple Pie</a>, <a href="http://www.plymouth.edu/dining/files/2013/11/thanksgiving-pies-2013.pdf" title="Order Your Thanksgiving Pies">Cran-Apple Pie</a>, <a href="http://www.plymouth.edu/dining/files/2013/11/thanksgiving-pies-2013.pdf" title="Order Your Thanksgiving Pies">Dutch Apple Pie</a>, <a href="http://www.plymouth.edu/dining/files/2013/11/thanksgiving-pies-2013.pdf" title="Order Your Thanksgiving Pies">Pecan Pie</a>, <a href="http://www.plymouth.edu/dining/files/2013/11/thanksgiving-pies-2013.pdf" title="Order Your Thanksgiving Pies">Chocolate Cream Pie</a>, <a href="http://www.plymouth.edu/dining/files/2013/11/thanksgiving-pies-2013.pdf" title="Order Your Thanksgiving Pies">Traditional Cheesecake</a>, <a href="http://www.plymouth.edu/dining/files/2013/11/thanksgiving-pies-2013.pdf" title="Order Your Thanksgiving Pies">Pumpkin Cheesecake</a>.</p>
+<p>Pie Tasting will take place in</p>
+<ul>
+<li>Union Grille on Tuesday, November 5 and in
+</li>
+<li>Prospect Hall on Wednesday, November 6 during lunch.
+</li>
+</ul>
+<p><a href="http://www.plymouth.edu/dining/files/2013/11/thanksgiving-pies-2013.pdf" title="Order Your Thanksgiving Pies">Order Your Thanksgiving Pies Today!</a> (PDF)</p>
+<p>Pies must be prepaid with your order. Phone: 535-2710 Fax: 535-3273</p>
+<p>Pies will be ready for pickup at Prospect Hall between 10 a.m.-6 p.m. on Tuesday November 26, 2013.</p>
+]]></content>
+		<link rel="replies" type="text/html" href="http://www.plymouth.edu/dining/what%e2%80%99s-happening-archive/thanksgiving-pies-2013/#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://www.plymouth.edu/dining/what%e2%80%99s-happening-archive/thanksgiving-pies-2013/feed/atom/" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name>elmarrotte</name>
+					</author>
+		<title type="html"><![CDATA[Halloween Dinner in Prospect Hall]]></title>
+		<link rel="alternate" type="text/html" href="http://www.plymouth.edu/dining/what%e2%80%99s-happening-archive/halloween-dinner-2013/" />
+		<id>https://www.plymouth.edu/dining/?p=2786</id>
+		<updated>2013-11-01T13:51:47Z</updated>
+		<published>2013-10-26T23:59:04Z</published>
+		<category scheme="http://www.plymouth.edu/dining" term="What’s Happening Archive" />		<summary type="html"><![CDATA[October 31, 5-7:30 pm Prospect Hall Costume Contest Entertainment Prizes &#38; Fun Free Candy!! Menu: Pumpkin Soup Graveyard Ribs Mummy&#8217;s Meatloaf Ghoul-Ash (vegetarian) Voodoo Pizza Zombie Sandwich Scarface Pasta Eye of Newt Dead Man&#8217;s Burger Warlock Fingers The Casket Vampire Smashed Brains Gremlin&#8217;s Nest Salad Bar Candy Apples Pumpkin Cheesecake Cider &#38; Donuts]]></summary>
+		<content type="html" xml:base="http://www.plymouth.edu/dining/what%e2%80%99s-happening-archive/halloween-dinner-2013/"><![CDATA[<p><strong>October 31, 5-7:30 pm</strong><br />
+<strong>Prospect Hall</strong></p>
+<p>Costume Contest<br />
+Entertainment<br />
+Prizes &amp; Fun<br />
+Free Candy!!</p>
+<p>Menu:</p>
+<ul>
+<li>Pumpkin Soup</li>
+<li>Graveyard Ribs</li>
+<li>Mummy&#8217;s Meatloaf</li>
+<li>Ghoul-Ash (vegetarian)</li>
+<li>Voodoo Pizza</li>
+<li>Zombie Sandwich</li>
+<li>Scarface Pasta</li>
+<li>Eye of Newt</li>
+<li>Dead Man&#8217;s Burger</li>
+<li>Warlock Fingers</li>
+<li>The Casket</li>
+<li>Vampire Smashed Brains</li>
+<li>Gremlin&#8217;s Nest Salad Bar</li>
+<li>Candy Apples</li>
+<li>Pumpkin Cheesecake</li>
+<li>Cider &amp; Donuts</li>
+</ul>
+]]></content>
+		<link rel="replies" type="text/html" href="http://www.plymouth.edu/dining/what%e2%80%99s-happening-archive/halloween-dinner-2013/#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://www.plymouth.edu/dining/what%e2%80%99s-happening-archive/halloween-dinner-2013/feed/atom/" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name>elmarrotte</name>
+					</author>
+		<title type="html"><![CDATA[Veteran&#8217;s Day Hours of Operation]]></title>
+		<link rel="alternate" type="text/html" href="http://www.plymouth.edu/dining/what%e2%80%99s-happening-archive/veterans-day-2013/" />
+		<id>https://www.plymouth.edu/dining/?p=2784</id>
+		<updated>2013-11-21T13:35:13Z</updated>
+		<published>2013-10-26T23:54:29Z</published>
+		<category scheme="http://www.plymouth.edu/dining" term="What’s Happening Archive" />		<summary type="html"><![CDATA[Prospect Dining Hall Regular Hours Union Grille Closes Friday, November 8 at 1:30 p.m. Reopens Monday, November 11 at 2 p.m. Sidewalk Cafe Closes Friday, November 8 at 1:30 p.m. Reopens Tuesday, November 12 at 7:30 a.m. On the Go Closes Friday, November 8 at 1:30 p.m. Reopens Tuesday, November 12 at 7:30 a.m. Commons [...]]]></summary>
+		<content type="html" xml:base="http://www.plymouth.edu/dining/what%e2%80%99s-happening-archive/veterans-day-2013/"><![CDATA[<p><strong>Prospect Dining Hall</strong><br />
+<a href="https://www.plymouth.edu/dining/hours-of-operation/">Regular Hours</a></p>
+<p><strong>Union Grille</strong><br />
+Closes Friday, November 8 at 1:30 p.m.<br />
+Reopens Monday, November 11 at 2 p.m.</p>
+<p><strong>Sidewalk Cafe</strong><br />
+Closes Friday, November 8 at 1:30 p.m.<br />
+Reopens Tuesday, November 12 at 7:30 a.m.</p>
+<p><strong>On the Go</strong><br />
+Closes Friday, November 8 at 1:30 p.m.<br />
+Reopens Tuesday, November 12 at 7:30 a.m.</p>
+<p><strong>Commons Café</strong><br />
+Closes Friday, November 8 at 1:30 p.m.<br />
+Reopens Tuesday, November 12 at 7:30 a.m.</p>
+<p><strong>The Woods Café</strong><br />
+Closes Friday, November 8 at 10 a.m.<br />
+Reopens Tuesday, November 12 at 7:30 a.m.</p>
+]]></content>
+		<link rel="replies" type="text/html" href="http://www.plymouth.edu/dining/what%e2%80%99s-happening-archive/veterans-day-2013/#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://www.plymouth.edu/dining/what%e2%80%99s-happening-archive/veterans-day-2013/feed/atom/" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+	</feed>

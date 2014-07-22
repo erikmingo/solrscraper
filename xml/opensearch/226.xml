@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+  <ShortName>ExploreUK</ShortName>
+  <Description>ExploreUK Search</Description>
+  <Image height="16" width="16" type="image/x-icon">/favicon.ico</Image>
+  <Contact/>
+  <Url type="text/html" method="get" template="http://exploreuk.uky.edu/?q={searchTerms}"/>
+  <Url type="application/rss+xml" method="get" template="http://exploreuk.uky.edu/.rss?q={searchTerms}"/>
+  <Url type="application/atom+xml" method="get" template="http://exploreuk.uky.edu/.atom?q={searchTerms}"/>
+  <Url type="application/x-suggestions+json" method="get" template="http://exploreuk.uky.edu/catalog/opensearch.json?q={searchTerms}"/>
+</OpenSearchDescription>

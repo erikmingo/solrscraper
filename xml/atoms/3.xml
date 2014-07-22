@@ -1,0 +1,875 @@
+<?xml version="1.0" encoding='utf-8'?>
+<?xml-stylesheet type="text/xsl" href="http://www.unidata.ucar.edu/blogs/roller-ui/styles/atom.xsl" media="screen"?><feed xmlns="http://www.w3.org/2005/Atom">
+    <title type="html">News@Unidata</title>
+    <subtitle type="html">Unidata news</subtitle>
+    <id>http://www.unidata.ucar.edu/blogs/news/feed/entries/atom</id>
+            <link rel="self" type="application/atom+xml" href="http://www.unidata.ucar.edu/blogs/news/feed/entries/atom" />
+        <link rel="alternate" type="text/html" href="http://www.unidata.ucar.edu/blogs/news/" />
+        <updated>2014-07-21T08:19:29-06:00</updated>
+    <generator uri="http://roller.apache.org" version="4.0.1 (20090102102238:dave)">Apache Roller (incubating)</generator>
+                 <entry>
+        <id>http://www.unidata.ucar.edu/blogs/news/entry/nhc_hurricane_tracks_in_python</id>
+        <title type="html">NHC Hurricane Tracks in Python</title>
+        <author><name>Unidata News</name></author>
+        <link rel="alternate" type="text/html" href="http://www.unidata.ucar.edu/blogs/news/entry/nhc_hurricane_tracks_in_python"/>
+        <published>2014-07-18T12:07:06-06:00</published>
+        <updated>2014-07-18T12:07:06-06:00</updated> 
+        <category term="/Unidata" label="Unidata" />
+        <category term="internship" scheme="http://roller.apache.org/ns/tags/" />
+        <category term="python" scheme="http://roller.apache.org/ns/tags/" />
+        <category term="ticker" scheme="http://roller.apache.org/ns/tags/" />
+        <content type="html">&lt;p class=&quot;byline&quot;&gt;
+Editor&apos;s note: Florita Rodriguez is a 2014 Unidata Summer
+Intern from Marble Falls, TX. She graduated with a Bachelor
+of Science in Meteorology from Texas A&amp;amp;M University in
+May, 2014.
+&lt;/p&gt;
+&lt;p&gt;Florita Rodriguez writes:&lt;/p&gt;
+
+&lt;p class=&quot;quoteroman&quot;&gt;
+I created this hurricane track IPython notebook for all to
+enjoy. This project was suggested to me by some Python
+enthusiasts here at Unidata and while I was familiar with
+IPython and its notebook feature, this was a great
+opportunity for me to explore the interactive use provided
+by IPython interactive widgets and how to create an
+interactive environment in which National Hurricane Center
+data could be visualized.
+&lt;/p&gt;
+&lt;p&gt;
+Read Florita&apos;s full posting over on the &lt;a href=&quot;http://www.unidata.ucar.edu/blogs/developer/en/entry/nhc_hurricane_tracks_in_python&quot;&gt;Unidata Developers&apos; Blog&lt;/a&gt;.
+&lt;/p&gt;</content>
+    </entry>
+    <entry>
+        <id>http://www.unidata.ucar.edu/blogs/news/entry/netcdf_fortran_4_4_0</id>
+        <title type="html">NetCDF-Fortran 4.4.0</title>
+        <author><name>Unidata News</name></author>
+        <link rel="alternate" type="text/html" href="http://www.unidata.ucar.edu/blogs/news/entry/netcdf_fortran_4_4_0"/>
+        <published>2014-07-14T11:21:27-06:00</published>
+        <updated>2014-07-14T11:21:27-06:00</updated> 
+        <category term="/Software/NetCDF" label="NetCDF" />
+        <category term="netcdf" scheme="http://roller.apache.org/ns/tags/" />
+        <category term="release" scheme="http://roller.apache.org/ns/tags/" />
+        <category term="fortran" scheme="http://roller.apache.org/ns/tags/" />
+        <category term="software" scheme="http://roller.apache.org/ns/tags/" />
+        <summary type="html">&lt;p&gt;
+Version 4.4.0 of the netCDF-Fortran library is now available.
+&lt;/p&gt;
+
+&lt;p&gt;
+Some highlights of the 4.4.0 release:
+&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;
+For 32-bit platforms fixed integer fill parameters, initialized potentially
+unitialized variables, and provided some missing defaults (Thanks to R. Weed).
+&lt;/li&gt;
+
+&lt;li&gt;
+Fixed CMake builds on 32-bit platforms.
+&lt;/li&gt;
+
+&lt;li&gt;
+Added new &lt;code&gt;inq_path&lt;/code&gt; and &lt;code&gt;rename_grps&lt;/code&gt; functions analogous to
+corresponding C functions. Added associated tests. (Thanks to R. Weed)
+&lt;/li&gt;
+
+&lt;li&gt;
+Added support for &lt;code&gt;NF_MPIIO&lt;/code&gt;, &lt;code&gt;NF_MPIPOSIX&lt;/code&gt;, &lt;code&gt;NF_PNETCDF&lt;/code&gt; flags and
+&lt;code&gt;NF_FILL_UINT&lt;/code&gt;. (Thanks to R. Weed)
+&lt;/li&gt;
+
+&lt;li&gt;
+Fixed potential bug in attribute functions for integer values when
+Fortran &lt;code&gt;INTEGER*1&lt;/code&gt; or &lt;code&gt;INTEGER*2&lt;/code&gt; types are the same size as C
+long. (Thanks to R. Weed)
+&lt;/li&gt;
+
+&lt;li&gt;
+Added test for compiler support of Fortran 2008 &lt;code&gt;ISO_FORTRAN_ENV&lt;/code&gt;
+additions and TS29113 standard extension.
+&lt;/li&gt;
+
+&lt;li&gt;
+Fixed &lt;code&gt;C_PTR_DIFF_T&lt;/code&gt; issue reported by Orion Poplowski. (Thanks to R. Weed)
+&lt;/li&gt;
+&lt;/ul&gt;</summary>
+        <content type="html">&lt;p&gt;
+Version 4.4.0 of the netCDF-Fortran library is now available.
+&lt;/p&gt;
+
+&lt;p&gt;
+Some highlights of the 4.4.0 release:
+&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;
+For 32-bit platforms fixed integer fill parameters, initialized potentially
+unitialized variables, and provided some missing defaults (Thanks to R. Weed).
+&lt;/li&gt;
+
+&lt;li&gt;
+Fixed CMake builds on 32-bit platforms.
+&lt;/li&gt;
+
+&lt;li&gt;
+Added new &lt;code&gt;inq_path&lt;/code&gt; and &lt;code&gt;rename_grps&lt;/code&gt; functions analogous to
+corresponding C functions. Added associated tests. (Thanks to R. Weed)
+&lt;/li&gt;
+
+&lt;li&gt;
+Added support for &lt;code&gt;NF_MPIIO&lt;/code&gt;, &lt;code&gt;NF_MPIPOSIX&lt;/code&gt;, &lt;code&gt;NF_PNETCDF&lt;/code&gt; flags and
+&lt;code&gt;NF_FILL_UINT&lt;/code&gt;. (Thanks to R. Weed)
+&lt;/li&gt;
+
+&lt;li&gt;
+Fixed potential bug in attribute functions for integer values when
+Fortran &lt;code&gt;INTEGER*1&lt;/code&gt; or &lt;code&gt;INTEGER*2&lt;/code&gt; types are the same size as C
+long. (Thanks to R. Weed)
+&lt;/li&gt;
+
+&lt;li&gt;
+Added test for compiler support of Fortran 2008 &lt;code&gt;ISO_FORTRAN_ENV&lt;/code&gt;
+additions and TS29113 standard extension.
+&lt;/li&gt;
+
+&lt;li&gt;
+Fixed &lt;code&gt;C_PTR_DIFF_T&lt;/code&gt; issue reported by Orion Poplowski. (Thanks to R. Weed)
+&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;
+Since our initial move to github, we&#8217;ve refined our release process using the netCDF-C project.
+Hopefully this has helped minimize the issues introduced in this, our first full netCDF-Fortran
+release hosted on github.
+&lt;/p&gt;
+
+&lt;p&gt;
+Source-code zip and tar.gz archives can be found on
+&lt;a href=&quot;https://github.com/Unidata/netcdf-fortran/releases/tag/v4.4.0&quot; target=&quot;_blank&quot;&gt;Unidata&apos;s netCDF-Fortran GitHub site&lt;/a&gt;.
+&lt;/p&gt;
+
+&lt;p&gt;
+Detailed information about the release is available in the
+&lt;a href=&quot;https://github.com/Unidata/netcdf-fortran/blob/master/RELEASE_NOTES.md&quot; target=&quot;_blank&quot;&gt;Release Notes&lt;/a&gt;.
+&lt;/p&gt;
+
+&lt;p&gt;
+Additional documentation:
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&quot;http://www.unidata.ucar.edu/software/netcdf/docs/building_netcdf_fortran.html&quot;&gt;Building netCDF-Fortran&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&quot;http://www.unidata.ucar.edu/software/netcdf/docs/index-413.html&quot;&gt; Historic documentation &lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</content>
+    </entry>
+    <entry>
+        <id>http://www.unidata.ucar.edu/blogs/news/entry/udunits_version_2_2_16</id>
+        <title type="html">UDUNITS Version 2.2.16</title>
+        <author><name>Unidata News</name></author>
+        <link rel="alternate" type="text/html" href="http://www.unidata.ucar.edu/blogs/news/entry/udunits_version_2_2_16"/>
+        <published>2014-07-03T10:40:13-06:00</published>
+        <updated>2014-07-03T10:40:13-06:00</updated> 
+        <category term="/Software/UDUNITS" label="UDUNITS" />
+        <category term="software" scheme="http://roller.apache.org/ns/tags/" />
+        <category term="release" scheme="http://roller.apache.org/ns/tags/" />
+        <category term="udunits" scheme="http://roller.apache.org/ns/tags/" />
+        <summary type="html">&lt;p&gt;
+Version 2.2.16 of the UDUNITS package has been released.
+This version is recommended for all users. The latest update can be
+downloaded at &lt;a href=&quot;http://www.unidata.ucar.edu/downloads/udunits&quot;&gt;http://www.unidata.ucar.edu/downloads/udunits&lt;/a&gt;.
+&lt;/p&gt;</summary>
+        <content type="html">&lt;p&gt;
+Version 2.2.16 of the UDUNITS package has been released.
+This version is recommended for all users. The latest update can be
+downloaded at &lt;a href=&quot;http://www.unidata.ucar.edu/downloads/udunits&quot;&gt;http://www.unidata.ucar.edu/downloads/udunits&lt;/a&gt;.
+&lt;/p&gt;
+&lt;p&gt;
+In addition to a number of bug fixes and configuration updates, version 2.2.16
+incorporates the following enhancements:
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+Added units &amp;quot;molecule&amp;quot; (for conversion with &amp;quot;mole&amp;quot;) and &amp;quot;bit&amp;quot;.
+&lt;/li&gt;
+&lt;li&gt;
+Added &amp;quot;-H have&amp;quot; and &amp;quot;-W want&amp;quot; options.
+&lt;/li&gt;
+&lt;li&gt;
+Added &amp;quot;nucleon&amp;quot; (alias &amp;quot;nuc&amp;quot;) to database as &amp;quot;mole/(avogadro&apos;s number)&amp;quot; to
+support units like &amp;quot;Mev/nucleon&amp;quot;.
+&lt;/li&gt;
+&lt;li&gt;
+Added &amp;quot;octet&amp;quot; and &amp;quot;byte&amp;quot; to common units as aliases for the dimensionless
+unit &amp;quot;8&amp;quot;. (The unit &amp;quot;bit&amp;quot; was already defined).
+&lt;/li&gt;
+&lt;/ul&gt;</content>
+    </entry>
+    <entry>
+        <id>http://www.unidata.ucar.edu/blogs/news/entry/seminar_on_geoss_common_infrastructure</id>
+        <title type="html">Seminar on GEOSS Common Infrastructure</title>
+        <author><name>Unidata News</name></author>
+        <link rel="alternate" type="text/html" href="http://www.unidata.ucar.edu/blogs/news/entry/seminar_on_geoss_common_infrastructure"/>
+        <published>2014-07-02T09:36:59-06:00</published>
+        <updated>2014-07-08T13:36:16-06:00</updated> 
+        <category term="/Community" label="Community" />
+        <category term="seminar" scheme="http://roller.apache.org/ns/tags/" />
+        <category term="data" scheme="http://roller.apache.org/ns/tags/" />
+        <category term="brokering" scheme="http://roller.apache.org/ns/tags/" />
+        <category term="geoss" scheme="http://roller.apache.org/ns/tags/" />
+        <category term="ticker" scheme="http://roller.apache.org/ns/tags/" />
+        <summary type="html">&lt;div class=&quot;img_l&quot; style=&quot;width: 100px;&quot;&gt;
+&lt;img width=&quot;100&quot; src=&quot;http://www.unidata.ucar.edu/blog_content/images/logos/geo_logo.png&quot; alt=&quot;GEO&quot; /&gt;
+&lt;/div&gt;
+&lt;p&gt;
+The Unidata Seminar Series presents a talk by
+Dr. Stefano Nativi of the National Research Council of Italy
+(IIA-CNR, Florence Division). The talk, titled
+&lt;i&gt;GEOSS Common Infrastructure and the Brokering Framework,&lt;/i&gt;
+will describe progress on using service brokering techniques
+in a federated multidisciplinary data environment as part of the
+&lt;a href=&quot;https://www.earthobservations.org/geoss.shtml&quot;&gt;Global Earth Observation System of Systems&lt;/a&gt;.
+&lt;/p&gt;</summary>
+        <content type="html">&lt;div class=&quot;img_l&quot; style=&quot;width: 100px;&quot;&gt;
+&lt;img width=&quot;100&quot; src=&quot;http://www.unidata.ucar.edu/blog_content/images/logos/geo_logo.png&quot; alt=&quot;GEO&quot; /&gt;
+&lt;/div&gt;
+&lt;p&gt;
+The Unidata Seminar Series presents a talk by
+Dr. Stefano Nativi of the National Research Council of Italy
+(IIA-CNR, Florence Division). The talk, titled
+&lt;em&gt;GEOSS Common Infrastructure and the Brokering Framework,&lt;/em&gt;
+will describe progress on using service brokering techniques
+in a federated multidisciplinary data environment as part of the
+&lt;a href=&quot;https://www.earthobservations.org/geoss.shtml&quot;&gt;Global Earth Observation System of Systems&lt;/a&gt;.
+&lt;/p&gt;
+&lt;p&gt;
+Nativi provided this abstract for his talk:
+&lt;/p&gt;
+&lt;p class=&quot;quote&quot;&gt;
+Global sustainability research requires an integrated
+multidisciplinary effort underpinned by a collaborative
+environment discovering and accessing heterogeneous data
+across disciplines. Traditionally, interoperability has been
+achieved by implementing federation of systems. The
+federating approach entails the adoption of a set of common
+technologies and standards. This presentation argues that
+for complex (and uncontrolled) environments (such as global,
+multidisciplinary, and voluntary-based infrastructures)
+federated solutions must be completed and enhanced by a
+brokering approach &#8212; making available a set of brokering
+services. In fact, brokerage services allows a
+cyber-infrastructure to lower entry barriers (for both data
+producers and users) and to better address the different
+domain specificities.
+&lt;/p&gt;
+
+&lt;p class=&quot;quote&quot;&gt;
+The brokering interoperability approach was successfully
+applied and enhanced by the GEOSS (Global Earth Observation
+System of Systems) Initiative. The GEOSS Common
+Infrastructure (GCI) adopts a powerful brokering framework
+called GEO DAB (Discovery and Access Broker). GEO DAB
+provides a services platform to discover, evaluate, access,
+transform, and portrayal geospatial datasets. GCI and the
+GEO DAB address most of the Bi Data challenges affecting
+GEOSS. The seminar introduces the GCI with particular
+attention to the DAB role and the next coming research and
+development topics.
+&lt;/p&gt;
+
+&lt;p&gt;
+Nativi will present his seminar in room 1001 (the small auditorium)
+at UCAR Foothills Lab 2, on Thursday, July 10th at 4:00 pm. The seminar
+will be webcast live at &lt;a href=&quot;http://www.fin.ucar.edu/it/mms/fl2-live.htm&quot;&gt;this URL&lt;/a&gt;.
+&lt;/p&gt;
+
+&lt;p&gt;
+For additional details and a link to the recorded webcast
+(available after the talk), see the
+&lt;a href=&quot;http://www.unidata.ucar.edu/community/seminars/index.html#2014&quot;&gt;Seminar Series&lt;/a&gt; page.
+&lt;/p&gt;</content>
+    </entry>
+    <entry>
+        <id>http://www.unidata.ucar.edu/blogs/news/entry/unidata_update_june_2014</id>
+        <title type="html">Unidata Update: June 2014</title>
+        <author><name>Unidata News</name></author>
+        <link rel="alternate" type="text/html" href="http://www.unidata.ucar.edu/blogs/news/entry/unidata_update_june_2014"/>
+        <published>2014-07-01T09:16:09-06:00</published>
+        <updated>2014-07-01T09:16:09-06:00</updated> 
+        <category term="/Community" label="Community" />
+        <category term="june" scheme="http://roller.apache.org/ns/tags/" />
+        <category term="wrap-up" scheme="http://roller.apache.org/ns/tags/" />
+        <summary type="html">&lt;p&gt;
+In case you missed it &#8212; here&apos;s a recap of news from the Unidata Program Center for
+the month of &lt;a href=&quot;http://www.unidata.ucar.edu/blogs/news/date/201406&quot;&gt;June, 2014&lt;/a&gt;.
+&lt;/p&gt;</summary>
+        <content type="html">&lt;p&gt;
+In case you missed it &#8212; here&apos;s a recap of news from the Unidata Program Center for
+the month of &lt;a href=&quot;http://www.unidata.ucar.edu/blogs/news/date/201406&quot;&gt;June, 2014&lt;/a&gt;.
+&lt;/p&gt;
+
+&lt;h3 class=&quot;wrapup&quot;&gt;&lt;a href=&quot;http://www.unidata.ucar.edu/blogs/news/entry/nws_requests_input_on_open&quot;&gt;NWS Requests Input on Open Environmental Information Services&lt;/a&gt;&lt;/h3&gt;
+&lt;div class=&quot;img_l&quot;&gt;
+&lt;img alt=&quot;NOAA/NWS&quot; src=&quot;http://www.unidata.ucar.edu/blog_content/images/logos/noaa_nws.png&quot; /&gt;
+&lt;/div&gt;
+&lt;p&gt;
+In a 2011 whitepaper titled Towards Open Weather and Climate
+Services, the Environmental Information Services Working
+Group (EISWG) of the NOAA Science Advisory Board proposed
+that the National Weather Service begin working toward an
+&#8220;Open Weather and Climate Services&#8221; (later re-envisioned
+as Open Environmental Information Services, or OpenEIS)
+paradigm. The working group identified the expansion of
+access to data collected and created by the NWS as one of
+the principal benefits of the OpenEIS approach.
+&lt;/p&gt;
+&lt;p&gt;
+Read on for additional information and ways to provide your feedback.
+&lt;/p&gt;
+&lt;h3 class=&quot;wrapup&quot;&gt;&lt;a href=&quot;http://www.unidata.ucar.edu/blogs/news/entry/unidata_committee_nominations_open3&quot;&gt;Unidata Committee Nominations Open&lt;/a&gt;&lt;/h3&gt;
+&lt;div class=&quot;img_l&quot;&gt;
+&lt;img alt=&quot;Committees&quot; src=&quot;http://www.unidata.ucar.edu/blog_content/images/2013/20130605_joint_committee.jpg&quot; /&gt;
+&lt;/div&gt;
+&lt;p&gt;
+The Unidata Program Center is seeking new people to serve on
+Unidata&apos;s Strategic Advisory and Users Committees. This is
+your chance to make a difference on behalf of the Unidata
+community. As William Gallus, the current Chair of the
+Unidata Strategic Advisory Committee notes, &#8220;Serving as a
+member of these committees puts you in the driver&apos;s seat to
+help shape the future of Unidata and thus the future of real
+time weather data delivery and the means to work with it.&#8221;
+&lt;/p&gt;
+&lt;p&gt;
+Nominations are open until &lt;b&gt;July 18, 2014&lt;/b&gt; for committee terms
+beginning with the September and October 2014 committee
+meetings. There will be several openings on each committee.
+Why not consider nominating one of your colleagues (or
+yourself!) to serve a three-year term, beginning in the fall
+of 2014?
+&lt;/p&gt;
+&lt;h3 class=&quot;wrapup&quot;&gt;&lt;a href=&quot;http://www.unidata.ucar.edu/blogs/news/entry/new_idv_tutorial_videos_adaptive&quot;&gt;New IDV Tutorial Videos: Adaptive Resolution and More&lt;/a&gt;&lt;/h3&gt;
+&lt;div class=&quot;img_l&quot;&gt;
+&lt;img alt=&quot;IDV&quot; src=&quot;http://www.unidata.ucar.edu/blog_content/images/2014/20140606_idv_adaptive.png&quot; /&gt;
+&lt;/div&gt;
+&lt;p&gt;
+Three new screencasts related to the IDV have been posted to
+the Unidata YouTube channel in the past month. Two are
+contributions from members of the IDV user community, and
+one was created by Unidata Program Center staff to explain
+several features of the newly released IDV version 5.0.
+&lt;/p&gt;
+&lt;h3 class=&quot;wrapup&quot;&gt;&lt;a href=&quot;http://www.unidata.ucar.edu/blogs/news/entry/nasa_launches_earth_science_challenges&quot;&gt;NASA Launches Earth Science Challenges with OpenNEX Cloud Data&lt;/a&gt;&lt;/h3&gt;
+&lt;div class=&quot;img_l&quot;&gt;
+&lt;img alt=&quot;NASA&quot; src=&quot;http://www.unidata.ucar.edu/blog_content/images/logos/nasa-logo.gif&quot; /&gt;
+&lt;/div&gt;
+&lt;p&gt;
+The NASA Earth Exchange (NEX), in collaboration with Amazon
+Web Services Inc. and Innocentive, had announced the OpenNEX
+challenge and workshop. They invite the general public,
+climate scientists, software engineers, and data analysts to
+design and implement concepts that enable climate
+resilience. There will be $60,000 in prize money available
+for participants as a reward for their innovations.
+&lt;/p&gt;
+
+&lt;div id=&quot;developers&quot;&gt;
+&lt;h2&gt;On the Developer&apos;s Blog&lt;/h2&gt;
+&lt;p&gt;
+Unidata Program Center developers write regularly on technical topics on the
+&lt;a href=&quot;http://www.unidata.ucar.edu/blogs/developer/&quot;&gt;Unidata Developer&apos;s Blog&lt;/a&gt;.
+Recent articles have dealt with using Python to create CF-compliant netCDF files,
+AWIPS&amp;nbsp;II, GEMPAK, and netCDF compression.
+&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div id=&quot;committees&quot;&gt;
+&lt;h2&gt;Governing Committee News&lt;/h2&gt;
+&lt;p&gt;
+Unidata&apos;s &lt;a href=&quot;http://www.unidata.ucar.edu/committees/usercom/&quot;&gt;Users Committee&lt;/a&gt; met
+March 31-April 1 2014. The meeting summary is available
+&lt;a href=&quot;http://www.unidata.ucar.edu/committees/usercom/2014Apr/summary.html&quot;&gt;here&lt;/a&gt;.
+The next meeting will be 15-16 September 2014 in Boulder, Colorado.
+&lt;/p&gt;
+&lt;p&gt;
+Unidata&apos;s &lt;a href=&quot;http://www.unidata.ucar.edu/committees/stratcom/&quot;&gt;Strategic Advisory Committee&lt;/a&gt;
+(formerly the Policy Committee) met
+May 20-21, 2014. The meeting summary is available
+&lt;a href=&quot;http://www.unidata.ucar.edu/committees/stratcom/2014May/summary.html&quot;&gt;here&lt;/a&gt;.
+The next meeting will be October 8-9, 2014.
+&lt;/p&gt;
+&lt;/div&gt;</content>
+    </entry>
+    <entry>
+        <id>http://www.unidata.ucar.edu/blogs/news/entry/nasa_launches_earth_science_challenges</id>
+        <title type="html">NASA Launches Earth Science Challenges with OpenNEX Cloud Data</title>
+        <author><name>Unidata News</name></author>
+        <link rel="alternate" type="text/html" href="http://www.unidata.ucar.edu/blogs/news/entry/nasa_launches_earth_science_challenges"/>
+        <published>2014-06-24T15:52:14-06:00</published>
+        <updated>2014-06-24T15:52:14-06:00</updated> 
+        <category term="/Data" label="Data" />
+        <category term="community" scheme="http://roller.apache.org/ns/tags/" />
+        <category term="ticker" scheme="http://roller.apache.org/ns/tags/" />
+        <category term="grant" scheme="http://roller.apache.org/ns/tags/" />
+        <category term="challenge" scheme="http://roller.apache.org/ns/tags/" />
+        <category term="nasa" scheme="http://roller.apache.org/ns/tags/" />
+        <content type="html">&lt;div style=&quot;width: 100px;&quot; class=&quot;img_l&quot;&gt;
+ &lt;img width=&quot;100&quot; alt=&quot;NASA&quot; src=&quot;http://www.unidata.ucar.edu/blog_content/images/logos/nasa-logo.gif&quot; /&gt;
+&lt;/div&gt;
+&lt;p&gt;
+The NASA Earth Exchange (NEX), in collaboration with Amazon
+Web Services Inc. and Innocentive, had announced the OpenNEX
+challenge and workshop. They invite the general public,
+climate scientists, software engineers, and data analysts to
+design and implement concepts that enable climate
+resilience. There will be $60,000 in prize money available
+for participants as a reward for their innovations.
+&lt;/p&gt;
+&lt;p&gt;
+The first stage of the challenge runs July 1 through August
+1, 2014, and offers as much as $10,000 in awards for ideas
+on novel uses of the large collection of climate and Earth 
+science satellite data sets &#8212; including global land surface 
+images, vegetation conditions, climate observations, and climate 
+projections &#8212; that are being made available to participants.
+The second stage, beginning
+in August, will offer between $30,000 and $50,000 in awards
+for the development of an application or algorithm that
+promotes climate resilience using the OpenNEX data, based on
+ideas from the first stage of the challenge. NASA will
+announce the overall challenge winners in December.
+&lt;/p&gt;
+&lt;p&gt;
+Read more in &lt;a href=&quot;http://www.nasa.gov/press/2014/june/nasa-launches-earth-science-challenges-with-opennex-cloud-data&quot;&gt;NASA&apos;s news release&lt;/a&gt;
+and on the &lt;a href=&quot;https://nex.nasa.gov/opennex/&quot;&gt;OpenNEX web site&lt;/a&gt;.
+&lt;/p&gt;</content>
+    </entry>
+    <entry>
+        <id>http://www.unidata.ucar.edu/blogs/news/entry/new_idv_tutorial_videos_adaptive</id>
+        <title type="html">New IDV Tutorial Videos: Adaptive Resolution and More</title>
+        <author><name>Unidata News</name></author>
+        <link rel="alternate" type="text/html" href="http://www.unidata.ucar.edu/blogs/news/entry/new_idv_tutorial_videos_adaptive"/>
+        <published>2014-06-06T10:32:28-06:00</published>
+        <updated>2014-06-06T10:32:28-06:00</updated> 
+        <category term="/Software/IDV" label="IDV" />
+        <category term="video" scheme="http://roller.apache.org/ns/tags/" />
+        <category term="ticker" scheme="http://roller.apache.org/ns/tags/" />
+        <category term="youtube" scheme="http://roller.apache.org/ns/tags/" />
+        <category term="idv" scheme="http://roller.apache.org/ns/tags/" />
+        <summary type="html">&lt;div style=&quot;width: 150px;&quot; class=&quot;img_l&quot;&gt;
+&lt;a href=&quot;https://www.youtube.com/user/unidatanews/featured&quot;&gt;&lt;img width=&quot;150&quot; alt=&quot;Description&quot; src=&quot;http://www.unidata.ucar.edu/blog_content/images/2014/20140606_idv_adaptive.png&quot; /&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;p&gt;
+Three new screencasts related to the IDV have been posted to the
+Unidata YouTube channel in the past month. Two are contributions
+from members of the IDV user community, and one was created by
+Unidata Program Center staff to explain several features of the
+&lt;a href=&quot;http://www.unidata.ucar.edu/blogs/news/entry/idv_5_0&quot;&gt;newly released IDV version 5.0&lt;/a&gt;.
+&lt;/p&gt;</summary>
+        <content type="html">&lt;div style=&quot;width: 150px;&quot; class=&quot;img_l&quot;&gt;
+&lt;a href=&quot;https://www.youtube.com/user/unidatanews/featured&quot;&gt;&lt;img width=&quot;150&quot; alt=&quot;Description&quot; src=&quot;http://www.unidata.ucar.edu/blog_content/images/2014/20140606_idv_adaptive.png&quot; /&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;p&gt;
+Three screencasts related to the IDV have been posted to the
+Unidata YouTube channel in the past month. Two are contributions
+from members of the IDV user community, and one was created by
+Unidata Program Center staff to explain several features of the
+newly released &lt;a href=&quot;http://www.unidata.ucar.edu/blogs/news/entry/idv_5_0&quot;&gt;IDV version 5.0&lt;/a&gt;.
+&lt;/p&gt;
+&lt;p style=&quot;clear: both;&quot;&gt;The new screencasts are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=7hiYQW7TYQE&quot;&gt;Screencast 10 - Matthew Dewey explores synoptic meteorology&lt;/a&gt; looks at the IDV
+from the point of view of a student doing lab excercises for a synoptic meteorology course at Metro State University in Denver, CO.
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=nGkV8hy2HNE&quot;&gt;Screecast 11 - Professor Mapes IDV Seminar on Climate and Weather&lt;/a&gt; presents a
+talk given by Professor Brian Mapes of the University of Miami on studying weather and climate using tools including the IDV
+and RAMADDA.
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=fH7BJOilQg0&quot;&gt;Screencast 12 - Adaptive Resolution and Match Display Region&lt;/a&gt; is a quick
+overview of two new features in the IDV 5.0 release that make it faster and easier to work with large satellite images using the IDV.
+&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;
+We encourage
+those interested in learning more about the IDV to watch
+and send comments and feedback to the Unidata IDV development team.
+We are open to suggestions for future screencast topics,
+and encourage you to send in topic requests. If you are interested
+in featuring a video you&apos;ve created on the Unidata YouTube channel,
+please get in touch with us at the support e-mail address listed below.
+&lt;/p&gt;
+&lt;p&gt;
+When viewing videos on YouTube, be sure to select &amp;quot;720p HD&amp;quot; (or the
+highest quality video your Internet connection will allow) from the YouTube
+settings menu (the gear-shaped icon in the lower right corner of
+the video window). You may also want to view the videos in full-screen
+mode.
+&lt;/p&gt;
+&lt;p&gt;
+IDV videos created at the Unidata Program Center are also available for download from Unidata&apos;s RAMADDA at:
+&lt;br /&gt;
+&lt;a href=&quot;http://motherlode.ucar.edu/repository/alias/IDV_screencasts&quot;&gt;http://motherlode.ucar.edu/repository/alias/IDV_screencasts&lt;/a&gt;
+&lt;/p&gt;&lt;p&gt;
+Please contact us by e-mail at &lt;a href=&quot;mailto:support-idv@unidata.ucar.edu&quot;&gt;support-idv@unidata.ucar.edu&lt;/a&gt; if you
+have questions or suggestions about the IDV video series.
+&lt;/p&gt;</content>
+    </entry>
+    <entry>
+        <id>http://www.unidata.ucar.edu/blogs/news/entry/unidata_committee_nominations_open3</id>
+        <title type="html">Unidata Committee Nominations Open</title>
+        <author><name>Unidata News</name></author>
+        <link rel="alternate" type="text/html" href="http://www.unidata.ucar.edu/blogs/news/entry/unidata_committee_nominations_open3"/>
+        <published>2014-06-05T09:12:26-06:00</published>
+        <updated>2014-06-05T10:00:07-06:00</updated> 
+        <category term="/Community" label="Community" />
+        <category term="nomination" scheme="http://roller.apache.org/ns/tags/" />
+        <category term="frontpage" scheme="http://roller.apache.org/ns/tags/" />
+        <category term="committee" scheme="http://roller.apache.org/ns/tags/" />
+        <summary type="html">&lt;div class=&quot;img_l&quot; style=&quot;margin-top: 0px;width:200px;&quot;&gt;
+&lt;img width=&quot;200&quot; alt=&quot;Description&quot; src=&quot;http://www.unidata.ucar.edu/blog_content/images/2013/20130605_joint_committee.jpg&quot; /&gt;
+&lt;div width=&quot;200&quot; class=&quot;caption&quot;&gt;
+Unidata Users and Strategic Advisory Committees
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;
+Unidata is governed by its community. Our governing
+committees facilitate consensus building for future
+directions of the Unidata Program and establish standards
+of involvement for the community.
+&lt;/p&gt;
+&lt;p&gt;
+The Unidata Program Center is seeking new people to serve on
+Unidata&apos;s Strategic Advisory and Users Committees. This is your chance
+to make a difference on behalf of the Unidata community. As
+William Gallus, the current Chair of the Unidata Strategic Advisory
+Committee notes, &#8220;Serving as a member of these committees puts
+you in the driver&apos;s seat to help shape the future of Unidata and thus
+the future of real time weather data delivery and the means to work
+with it.&#8221;
+&lt;/p&gt;</summary>
+        <content type="html">&lt;link media=&quot;screen&quot; href=&quot;http://www.unidata.ucar.edu/css/jquery/jquery.lightbox-0.5.css&quot; type=&quot;text/css&quot; rel=&quot;stylesheet&quot; /&gt;
+&lt;link media=&quot;screen&quot; href=&quot;http://www.unidata.ucar.edu/css/lightbox.css&quot; type=&quot;text/css&quot; rel=&quot;stylesheet&quot; /&gt;
+&lt;script src=&quot;http://www.unidata.ucar.edu/js/jquery/jquery.lightbox-0.5.min.js&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;
+$(document).ready(function() {
+  $(&apos;a.lightbox&apos;).lightBox();
+});
+&lt;/script&gt;
+&lt;!-- End Lightbox stuff --&gt;
+
+&lt;div style=&quot;width: 230px; padding-top: 0.4em;&quot; class=&quot;img_l&quot;&gt;
+&lt;a href=&quot;http://www.unidata.ucar.edu/blog_content/images/2013/20130605_joint_committee.jpg&quot; title=&quot;Joint meeting of the Unidata Users and Policy Committees, Fall 2012&quot; class=&quot;lightbox&quot;&gt; &lt;img width=&quot;230&quot; alt=&quot;Description&quot; src=&quot;http://www.unidata.ucar.edu/blog_content/images/2013/20130605_joint_committee.jpg&quot; /&gt; &lt;/a&gt;
+&lt;div class=&quot;caption&quot;&gt;
+Unidata Users and Strategic Advisory Committees
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;
+Unidata is governed by its community. Our governing
+committees facilitate consensus building for future
+directions of the Unidata Program and establish standards
+of involvement for the community.
+&lt;/p&gt;
+&lt;p&gt;
+The Unidata Program Center is seeking new people to serve on
+Unidata&apos;s Strategic Advisory and Users Committees. This is your chance
+to make a difference on behalf of the Unidata community. As
+William Gallus, the current Chair of the Unidata Strategic Advisory
+Committee notes, &#8220;Serving as a member of these committees puts
+you in the driver&apos;s seat to help shape the future of Unidata and thus
+the future of real time weather data delivery and the means to work
+with it.&#8221;
+&lt;/p&gt;
+&lt;p&gt;
+We are looking for creative people at
+U.S. universities and colleges who are using Unidata
+products and services &#8212; or who are familiar with Unidata
+&#8212; to help guide the program in addressing the needs of our
+broadening community. We need the insights of active
+educators and researchers to spot new opportunities and take
+advantage of the expanding range of scientific data. We&apos;re looking
+for help identifying new tools and services &#8212; along with
+improvements to our existing offerings &#8212; that will advance the
+scientific and educational goals of the community.
+&lt;/p&gt;
+&lt;p&gt;
+Nominations are open until &lt;b&gt;July 18, 2014&lt;/b&gt; for committee terms
+beginning with the September and October 2014 committee meetings.
+There will be several openings on each committee. Why not consider
+nominating one of your colleagues (or yourself!) to serve a
+three-year term, beginning in the fall of 2014?
+&lt;/p&gt;
+&lt;h3 class=&quot;button shadow&quot;&gt; To make a nomination, use the &lt;a href=&quot;http://www.unidata.ucar.edu/community/nominations/nomination_form.html&quot;&gt;Nomination
+Form&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;
+For additional information about the roles played by Unidata&apos;s governing
+committees and the appointment process, see the &lt;a href=&quot;http://www.unidata.ucar.edu/community/index.html#governance&quot;&gt;Unidata
+Governing Committee pages&lt;/a&gt;.
+&lt;/p&gt;</content>
+    </entry>
+    <entry>
+        <id>http://www.unidata.ucar.edu/blogs/news/entry/nws_requests_input_on_open</id>
+        <title type="html">NWS Requests Input on Open Environmental Information Services</title>
+        <author><name>Unidata News</name></author>
+        <link rel="alternate" type="text/html" href="http://www.unidata.ucar.edu/blogs/news/entry/nws_requests_input_on_open"/>
+        <published>2014-06-04T09:17:47-06:00</published>
+        <updated>2014-06-04T09:17:47-06:00</updated> 
+        <category term="/Data" label="Data" />
+        <category term="owcs" scheme="http://roller.apache.org/ns/tags/" />
+        <category term="openeis" scheme="http://roller.apache.org/ns/tags/" />
+        <category term="noaa" scheme="http://roller.apache.org/ns/tags/" />
+        <category term="ticker" scheme="http://roller.apache.org/ns/tags/" />
+        <category term="data" scheme="http://roller.apache.org/ns/tags/" />
+        <category term="nws" scheme="http://roller.apache.org/ns/tags/" />
+        <summary type="html">&lt;div class=&quot;img_l&quot; style=&quot;width: 200px;&quot;&gt;
+&lt;img width=&quot;200&quot; src=&quot;http://www.unidata.ucar.edu/blog_content/images/logos/noaa_nws.png&quot; alt=&quot;NOAA / NWS&quot; /&gt;
+&lt;/div&gt;
+&lt;p&gt;The National Weather Service is investigating ways to make greater amounts of data available to the geoscience community. Read on for additional information and ways to provide your feedback.&lt;/p&gt;</summary>
+        <content type="html">&lt;div class=&quot;img_l&quot; style=&quot;width: 200px;&quot;&gt;
+&lt;img width=&quot;200&quot; src=&quot;http://www.unidata.ucar.edu/blog_content/images/logos/noaa_nws.png&quot; alt=&quot;NOAA / NWS&quot; /&gt;
+&lt;/div&gt;
+&lt;p&gt;
+In a 2011 whitepaper titled &lt;a href=&quot;http://www.unidata.ucar.edu/projects/owcs/Towards%20Open%20Weather%20and%20Climate%20Services.DRAFT.v4.pdf&quot;&gt;Towards Open Weather and Climate
+Services&lt;/a&gt;, the Environmental Information Services Working
+Group (EISWG) of the NOAA Science Advisory Board proposed
+that the National Weather Service begin working toward an
+&#8220;Open Weather and Climate Services&#8221; (later re-envisioned
+as Open Environmental Information Services, or OpenEIS) paradigm.
+The
+working group identified the expansion of access to data
+collected and created by the NWS as one of the principal
+benefits of the OpenEIS approach.
+&lt;/p&gt;
+&lt;p&gt;
+Initial steps toward this goal centered around a limited-time experiment
+to make high spatial- and temporal-resolution model output from the
+NWS high-performance computing center in Reston, VA directly available
+to a core group of commercial and non-commercial
+organizations. As a representative of the university geoscience research and
+education community, Unidata had plans to participate in this experiment.
+(You can read more on the &lt;a href=&quot;http://www.unidata.ucar.edu/projects/index.html#owcs&quot;&gt;OWCS Project Page&lt;/a&gt;.)
+&lt;/p&gt;
+&lt;p&gt;
+In the course of defining business rules governing the experiment, NWS
+determined that providing data products only to the experimental core
+group could be construed as providing privileged access to the participants,
+which is prohibited by U.S. Government information policies.
+As an alternative, NWS will seek to expand access to model
+data using other existing mechanisms such as &lt;a href=&quot;http://nomads.ncep.noaa.gov/&quot;&gt;NOMADS&lt;/a&gt;. In the longer term, increasing
+access to NOAA data will fall under the umbrella of the U.S. Department
+of Commerce&apos;s &lt;a href=&quot;https://www.federalregister.gov/articles/2014/03/04/2014-04660/government-big-data-request-for-information#h-5&quot;&gt;Big Data Initiative&lt;/a&gt;.
+&lt;/p&gt;
+
+&lt;p&gt;
+NWS is investigating ways to provide additional access to NWS data
+by considering the following:
+&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+What operational model (GFS, GEFS, NAM, &lt;i&gt;etc.&lt;/i&gt;) customers would like
+enhanced output from.
+&lt;/li&gt;
+&lt;li&gt;
+What specific output is sought from that model in terms of
+geographic extent, temporal sampling, vertical sampling, and
+parameters. For ensemble systems, what are preferences
+regarding sampling of ensemble members.
+&lt;/li&gt;
+&lt;li&gt;
+What output format customers are prepared to use. In
+particular, NWS will be investigating whether customers are
+prepared to use NWP model output data in its internal
+numerical solution form which would allow NCEP to avoid
+processing steps required to cre ate files organized in
+common georeferenced coordinates (e.g. GRIB2) and may thus
+allow NCEP to further increase NWP model sampling.
+&lt;/li&gt;
+&lt;li&gt;
+How long customers will need to have access to the enhanced
+model output to evaluate its usefulness for the intended
+application.
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;
+We encourage members of the Unidata community to read the 
+&lt;a href=&quot;http://www.nws.noaa.gov/sp/OEIS_proposal.pdf&quot;&gt;full text of the announcement&lt;/a&gt;
+and to provide information
+about potential uses of expanded access to NWS model output for 
+geoscience education and research
+by &lt;b&gt;July 3, 2014&lt;/b&gt; to:
+&lt;/p&gt;
+&lt;p&gt;
+Ben Kyger
+&lt;br /&gt;
+Director, NCEP Central Operations
+&lt;br /&gt;
+&lt;a href=&quot;mailto:ben.kyger@noaa.gov&quot;&gt;ben.kyger@noaa.gov&lt;/a&gt;
+&lt;/p&gt;</content>
+    </entry>
+    <entry>
+        <id>http://www.unidata.ucar.edu/blogs/news/entry/unidata_update_may_2014</id>
+        <title type="html">Unidata Update: May 2014</title>
+        <author><name>Unidata News</name></author>
+        <link rel="alternate" type="text/html" href="http://www.unidata.ucar.edu/blogs/news/entry/unidata_update_may_2014"/>
+        <published>2014-06-02T09:37:45-06:00</published>
+        <updated>2014-06-02T09:37:45-06:00</updated> 
+        <category term="/Community" label="Community" />
+        <category term="may" scheme="http://roller.apache.org/ns/tags/" />
+        <category term="wrap-up" scheme="http://roller.apache.org/ns/tags/" />
+        <summary type="html">&lt;p&gt;
+In case you missed it &#8212; here&apos;s a recap of news from the Unidata Program Center for
+the month of &lt;a href=&quot;http://www.unidata.ucar.edu/blogs/news/date/201405&quot;&gt;May, 2014&lt;/a&gt;.
+&lt;/p&gt;</summary>
+        <content type="html">&lt;p&gt;
+In case you missed it &#8212; here&apos;s a recap of news from the Unidata Program Center for
+the month of &lt;a href=&quot;http://www.unidata.ucar.edu/blogs/news/date/201405&quot;&gt;May, 2014&lt;/a&gt;.
+&lt;/p&gt;
+
+&lt;h3 class=&quot;wrapup&quot;&gt;&lt;a href=&quot;http://www.unidata.ucar.edu/blogs/news/entry/ramadda_1_6_available&quot;&gt;RAMADDA 1.6 Available&lt;/a&gt;&lt;/h3&gt;
+&lt;div class=&quot;img_l&quot;&gt;
+&lt;img alt=&quot;RAMADDA&quot; src=&quot;http://www.unidata.ucar.edu/img/v3/logos/ramadda-75x75.png&quot; /&gt;
+&lt;/div&gt;
+&lt;p&gt;
+The RAMADDA development team is announced the
+release of RAMADDA 1.6. The Repository for Archiving,
+Managing and Accessing Diverse Data (RAMADDA) is an Open
+Source information management and data repository framework
+for the geosciences that provides a turnkey system enabling
+data providers and users to upload, manage, and share data
+holdings.
+&lt;/p&gt;
+&lt;h3 class=&quot;wrapup&quot;&gt;&lt;a href=&quot;http://www.unidata.ucar.edu/blogs/news/entry/2014_community_equipment_awards&quot;&gt;2014 Community Equipment Awards&lt;/a&gt;&lt;/h3&gt;
+&lt;div class=&quot;img_l&quot;&gt;
+&lt;img alt=&quot;Equipment Awards&quot; src=&quot;http://www.unidata.ucar.edu/img/v3/logos/unidata_community-75x75.png&quot; /&gt;
+&lt;/div&gt;
+&lt;p&gt;
+&lt;/p&gt;&lt;p&gt;
+Unidata is happy to announce the Community Equipment Award
+recipients for 2014. Seven institutions received funding
+this year:
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+Creighton University
+&lt;/li&gt;
+&lt;li&gt;
+Embry-Riddle Aeronautical University
+&lt;/li&gt;
+&lt;li&gt;
+Metropolitan State University of Denver
+&lt;/li&gt;
+&lt;li&gt;
+Pennsylvania State University
+&lt;/li&gt;
+&lt;li&gt;
+San Jose State University
+&lt;/li&gt;
+&lt;li&gt;
+University of Iowa
+&lt;/li&gt;
+&lt;li&gt;
+University of Missouri
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 class=&quot;wrapup&quot;&gt;&lt;a href=&quot;http://www.unidata.ucar.edu/blogs/news/entry/2014_software_training_workshop_coming&quot;&gt;2014 Software Training Workshop Coming in October&lt;/a&gt;&lt;/h3&gt;
+&lt;div class=&quot;img_l&quot;&gt;
+&lt;img alt=&quot;Training&quot; src=&quot;http://www.unidata.ucar.edu/blog_content/images/2013/20130403_training.jpg&quot; /&gt;
+&lt;/div&gt;
+&lt;p&gt;
+The Unidata Program Center is pleased to announce its 2014
+Software Training Workshop. The workshop features Unidata&apos;s
+display and analysis packages GEMPAK (with an introduction
+to AWIPS-II) and the IDV, as well as data access and
+management tools including the Local Data Manager (LDM) and
+the THREDDS Data Server (TDS). This year&apos;s workshop will
+also include a session on using the Python programming
+language with Unidata technologies.
+&lt;/p&gt;
+&lt;h3 class=&quot;wrapup&quot;&gt;&lt;a href=&quot;http://www.unidata.ucar.edu/blogs/news/entry/netcdf_java_library_and_tds7&quot;&gt;NetCDF-Java library and TDS version 4.3.22&lt;/a&gt;&lt;/h3&gt;
+&lt;div class=&quot;img_l&quot;&gt;
+&lt;img alt=&quot;TDS/CDM&quot; src=&quot;http://www.unidata.ucar.edu/img/v3/logos/netcdfjava-75x75.png&quot; /&gt;
+&lt;/div&gt;
+&lt;p&gt;
+The NetCDF-Java/Common Data Model (CDM) library and THREDDS
+Data Server (TDS) version 4.3.22 were released on May 27,
+2014. The development team recommends this upgrade for
+anyone using the CDM or TDS.
+&lt;/p&gt;
+&lt;h3 class=&quot;wrapup&quot;&gt;&lt;a href=&quot;http://www.unidata.ucar.edu/blogs/news/entry/summer_interns_join_unidata_program&quot;&gt;Summer Interns Join Unidata Program Center Staff&lt;/a&gt;&lt;/h3&gt;
+&lt;div class=&quot;img_l&quot;&gt;
+&lt;img alt=&quot;Interns&quot; src=&quot;http://www.unidata.ucar.edu/blog_content/images/2014/20140528_interns.jpg&quot; /&gt;
+&lt;/div&gt;
+&lt;p&gt;
+The Unidata Program Center is happy to be hosting two
+student interns this summer: Florita Rodriguez from Texas
+A&amp;amp;M Univeristy in College Station, TX, and Shawn Cheeks from
+Marshall University in Huntington, WV.
+&lt;/p&gt;
+&lt;p&gt;
+The Unidata Summer Internships offer undergraduate
+and graduate students an opportunity to work with Unidata
+software engineers and scientists on projects drawn from a
+wide variety of areas in the atmospheric and computational
+sciences.
+&lt;/p&gt;
+&lt;h3 class=&quot;wrapup&quot;&gt;&lt;a href=&quot;http://www.unidata.ucar.edu/blogs/news/entry/netcdf_operators_nco_version_423&quot;&gt;NetCDF operators (NCO) version 4.4.4&lt;/a&gt;&lt;/h3&gt;
+&lt;div class=&quot;img_l&quot;&gt;
+&lt;img alt=&quot;NCO&quot; src=&quot;http://www.unidata.ucar.edu/img/v3/logos/netcdf-75x75.png&quot; /&gt;
+&lt;/div&gt;
+&lt;p&gt;
+Version 4.4.4 of the netCDF Operators (NCO) has been
+released. NCO is an Open Source package that consists of a
+dozen standalone, command-line programs that take netCDF
+files as input, then operate (e.g., derive new data,
+average, print, hyperslab, manipulate metadata) and output
+the results to screen or files in text, binary, or netCDF
+formats.
+&lt;/p&gt;
+&lt;h3 class=&quot;wrapup&quot;&gt;&lt;a href=&quot;http://www.unidata.ucar.edu/blogs/news/entry/idv_5_0&quot;&gt;IDV 5.0&lt;/a&gt;&lt;/h3&gt;
+&lt;div class=&quot;img_l&quot;&gt;
+&lt;img alt=&quot;IDV&quot; src=&quot;http://www.unidata.ucar.edu/img/v3/logos/idv-75x75.png&quot; /&gt;
+&lt;/div&gt;
+&lt;p&gt;
+The Integrated Data Viewer (IDV) version 5.0 was released on May 30, 2014. 
+This is a major release and is recommended for all users.
+&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;div id=&quot;developers&quot;&gt;
+&lt;h2&gt;On the Developer&apos;s Blog&lt;/h2&gt;
+&lt;p&gt;
+Unidata Program Center developers write regularly on technical topics on the
+&lt;a href=&quot;http://www.unidata.ucar.edu/blogs/developer/&quot;&gt;Unidata Developer&apos;s Blog&lt;/a&gt;.
+Recent articles have dealt with AWIPS&amp;nbsp;II, GEMPAK, and netCDF compression.
+&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div id=&quot;committees&quot;&gt;
+&lt;h2&gt;Governing Committee News&lt;/h2&gt;
+&lt;p&gt;
+Unidata&apos;s &lt;a href=&quot;http://www.unidata.ucar.edu/committees/usercom/&quot;&gt;Users Committee&lt;/a&gt; is
+meeting March 31-April 1 2014. The meeting summary is available
+&lt;a href=&quot;http://www.unidata.ucar.edu/committees/usercom/2014Apr/summary.html&quot;&gt;here&lt;/a&gt;.
+The next meeting will be 15-16 September 2014 in Boulder, Colorado.
+&lt;/p&gt;
+&lt;p&gt;
+Unidata&apos;s &lt;a href=&quot;http://www.unidata.ucar.edu/committees/stratcom/&quot;&gt;Strategic Advisory Committee&lt;/a&gt;
+(formerly the Policy Committee) met
+May 20-21, 2014. 
+&lt;!--
+The meeting summary is available
+&lt;a href=&quot;http://www.unidata.ucar.edu/committees/stratcom/2014May/summary.html&quot;&gt;here&lt;/a&gt;.
+--&gt;
+The next meeting will be October 8-9, 2014.
+&lt;/p&gt;
+&lt;/div&gt;</content>
+    </entry>
+    </feed>
+

@@ -1,0 +1,714 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>SSU Information Technology</title>
+    <link rel="alternate" type="text/html" href="http://www.sonoma.edu/it/" />
+    <link rel="self" type="application/atom+xml" href="http://www.sonoma.edu/it/atom.xml" />
+    <id>tag:www.sonoma.edu,2011-07-25:/it//94</id>
+    <updated>2014-04-10T19:16:18Z</updated>
+    
+    <generator uri="http://www.sixapart.com/movabletype/">Movable Type 4.26</generator>
+
+<entry>
+    <title>Annual Moodle Update Coming Soon</title>
+    <link rel="alternate" type="text/html" href="http://www.sonoma.edu/it/news/2014/04/annual-moodle-update-coming-soon.html" />
+    <id>tag:www.sonoma.edu,2014:/it//94.17104</id>
+
+    <published>2014-04-02T15:14:59Z</published>
+    <updated>2014-04-10T19:16:18Z</updated>
+
+    <summary> SSU Information Technology will be deploying a new Moodle server for the new academic year, in time for Summer 2014 classes. Moodle courses for Summer classes will become available to teachers on April 11, 2014. Fall 2014 courses will...</summary>
+    <author>
+        <name>Barbara Moore</name>
+        
+    </author>
+    
+        <category term="homepage" scheme="http://www.sixapart.com/ns/types#category" />
+    
+    
+    <content type="html" xml:lang="en-us" xml:base="http://www.sonoma.edu/it/">
+        <![CDATA[ <p> SSU Information Technology will be deploying a new Moodle server for the new academic year, in time for Summer 2014 classes. Moodle courses for Summer classes will become available to teachers on April 11, 2014.  Fall 2014 courses will be become available on July 15, 2014. </p>
+
+<p>On May 19, 2014, the current Moodle server will be put into Archive mode. The old Moodle archive (hosting courses from Summer 2012 -Spring 2013) will be taken offline.  </p>
+
+<p>Faculty should read the full announcement linked below. Links for further information and instructions are included.</p>]]>
+        <![CDATA[
+<div id="toc" class="right">
+<h3>Table of Contents</h3>
+<ol>
+<li><a href="#why">Why do we need a new server?</a></li>
+<li><a href="#moodleb">What happens to the old Moodle server and courses?</a></li>
+<li><a href="#archive">What will happen to the courses from Summer'12-Spring '13?</a></li>
+<li><a href="#when">When will this happen?</a></li>
+<li><a href="#copy">How can teachers copy courses to the new Moodle server?</a></li>
+<li><a href="#misc">What about Miscellaneous and Sandbox courses?</a></li>
+<li><a href="#nonstandard">What about courses with non-standard start and end dates?</a></li>
+<li><a href="#moodle26">Is the Moodle server being upgraded? Are there new features or other changes I should know about?</a></li>
+<li><a href="#todo">What do Faculty and other Moodle Teachers need to do?</a></li>
+<li><a href="#students">What does this mean for students?</a></li>
+<li><a href="#questions">Questions?</a></li>
+</ol>
+</div>
+
+
+<h3><a name="why" id="why"></a>Why do we need a new Moodle server?</h3>
+In order to provide the fastest and most reliable learning management system for SSU faculty and students, SSU IT deploys a new Moodle server once per academic year. The new Moodle server will have the most recent full version of Moodle, with all available patches, and host the active Moodle courses for that academic year.
+</p>
+<p>The main reason we do this is performance. Moodle's architecture is such that SSU cannot maintain thousands of courses indefinitely without seriously impacting performance of active courses. The longer a Moodle server is used, the slower it eventually becomes, even when it is diligently maintained.  </p>
+<p>SSU also needs to keep current with Moodle's major and minor version releases to ensure security. </p>
+<p><a href="http://www.sonoma.edu/it/faculty/moodle-life-cycle.pdf">See this Moodle Lifespan chart for the full deployment schedule</a>. </p>
+<h3><a name="moodleb" id="moodleb"></a>What happens to the old server and courses?</h3>
+<p>Every year, as a new server is deployed, the older Moodle server will be put into archive mode for one year. During this time, faculty can still access the old courses to copy content to the new server, or check on saved student work for grade appeal. Students can also have access to the old courses at the instructor's discretion (as long as the student still has valid Seawolf ID). Instructors who wish to keep a copy of any old courses can make and download backup files. </p>
+The Faculty Center can provide advice and assistance to faculty who wish to preserve their own copies of courses and student work.
+</p>
+<p>After a year in archive mode, old Moodle servers are sent to the Moodle Graveyard, where IT securely dismantles the server and destroys the old data.<br />
+</p>
+<h3><a name="archive" id="archive"></a>What will happen to the courses from Summer 2012 - Spring 2013 that are currently on Moodle Archive?</h3>
+The old Moodle Archive has reached the end of its lifespan. Effective May 19, 2014, it will no longer be available to faculty and students, and will be dismantled.<br />
+Instructions for downloading copies of Moodle courses are available in the Moodle Community course.
+</p>
+<p>Faculty who wish to make copies of courses from the old Moodle Archive must do so BEFORE May 19, 2014.</p>
+<h3><a name="when" id="when"></a>When will this happen?</h3>
+The new Moodle 2.6 server will be available to faculty on April 11, 2014. This will allow faculty who teach summer courses to prepare.
+</p>
+<ul>
+  <li>Initially, the new server will be called &quot;<strong>Future Moodle</strong>&quot; in the Online Services portal.</li>
+  <li>On May 19, 2014, after finals and before the summer session begins, the &quot;Future Moodle&quot; link will be renamed &quot;<strong>Moodle</strong>&quot;, and the old Moodle link will be renamed &quot;<strong>Moodle Archive</strong>.&quot;</li>
+</ul>
+<h3><a name="copy" id="copy"></a>How can teachers copy courses to the new Moodle server?</h3>
+<p> Courses can be copied from the old server to the new one using the same Backup and Restore method used over the last few years. Updated instructions for this process will be posted in the Moodle Community course).<br />
+  Faculty should prioritize making backups of courses on the current Moodle Archive, as that server will no longer be available effective May 19, 2014.</p>
+<h3><a name="misc" id="misc"></a>What about Miscellaneous and Sandbox courses?</h3>
+<p>The Faculty Center staff can assist in moving Miscellaneous courses to the new server as needed. Only courses that are activly used should move to the new server. Teachers of Miscellaneous courses will receive email from the Faculty Center with information about how to move those courses.</p>
+<p> New sandbox courses can be created on the new server by request. However, the Faculty Center will not move sandbox course content from the old server for faculty. Please keep in mind that sandbox courses are intended as temporary exploration spaces to help instructors learn how to use Moodle. If you used a Sandbox course to build or store a course for future use, remember that you will continue to have access to that Sandbox in Archive mode until May 2015.</p>
+<h3><a name="nonstandard" id="nonstandard"></a>What about courses with non-standard start and end dates?</h3>
+<p> Some departments and programs offer courses that have start and end dates that don't match the official first and last days of instruction.</p>
+<p>Faculty who use Moodle with courses that start in Spring 2014 and end in Summer or Fall should contact the Moodle Administrator to determine the best course of action for their courses and students, ASAP.</p>
+<p>Send email to <a href="mailto:faculty.center@sonoma.edu">faculty.center@sonoma.edu</a>.</p>
+
+
+<h3><a name="moodle26" id="moodle26"></a>Is the Moodle server being upgraded? Are there new features or other changes I should know about?</h3>
+<p>
+Yes, Moodle is being upgraded to the most recent release of Moodle 2.6.  There are several new features and changes that faculty and students should take note of.  Some of these are:</p>
+<ul>
+<li>New responsive themes, friendly for desktop, mobile and tablet.</li>
+<li>Interface is steamlined, and easier to use </li>
+<li>New HTML editor </li>
+<li>Supports Open Badges </li>
+<li>New version of Turnitin includes Peermark (for peer assessment)</li>
+<li>iClicker support</li>
+<li>Assignment module has PDF annotation</li>
+<li>Embedded file repository</li>
+<li>and more...</li></ul>
+<p>The Moodle Community course will link to more information and instructions for new features.</p>
+
+<h3><a name="todo" id="todo"></a>What do Faculty and other Moodle Teachers need to do?</h3>
+<p>
+Faculty should consider this list of possible To-Dos, ordered by urgency. The Faculty Center can assist Moodle Teachers.
+</p>
+<ul>
+  <li>If you teach a course with non-standard start end dates beginning in Spring 2014 and ending in Summer or Fall 2015, contact the Faculty Center ASAP.</li>
+  <li>If you have courses on the Moodle Archive, decide if you need to copy them.</li>
+ <!-- <ul>
+    <li>(link?) The Faculty Center's Advice Sheet for further details and instructions will be posted in the Moodle Community course.</li>
+  </ul>
+-->
+  <li>If you're teaching a Summer 2014 course, login to Future Moodle (available April 15) to start building it. <br />
+  <ul>
+    <li>Build your course from scratch, or</li>
+    <li>Use the Backup/Restore method to copy content from an existing Moodle course.</li>
+  </ul></li>
+  <li>If you have a course in the Miscellaneous category, talk with the Faculty Center about whether or not it needs to move to the new server.</li>
+  <li>If you have courses on Moodle 2.4 that you will teach again in Fall 2014 -Spring 2015, you can delay moving that content until you are ready to prepare for the new course. Remember, Moodle 2.4  Fall 2013 - Summer 2014 courses will be in archive mode until May 2015.</li>
+</ul>
+<h3><a name="students" id="students"></a>What does this mean for students?</h3>
+<p>Students will continue to click the &quot;Moodle&quot; link in the portal to access active courses. A small number of students - those who are enrolled in classes with non-standard start of end dates, may need to access a course on &quot;Future Moodle&quot; or &quot;Moodle Archive.&quot; Faculty of those classes should inform their students if this is the case. </p>
+<h3><a name="questions" id="questions"></a>Questions? Need Help?</h3>
+<p> Contact the <a href="/facultycenter/">Faculty Center</a> if you need assistance with Moodle.</p>
+ <p>  Contact <a href="mailto:barbara.moore@sonoma.edu">Barbara Moore</a> if you have questions about the Moodle Life Cycle or deployment schedule.</p>
+ <p>  Faculty and other Moodle Teachers can login to the <a href="https://moodle.sonoma.edu/B/course/view.php?id=569">Moodle Community</a> course for further information about new features and instructions for copying courses.</p>]]>
+    </content>
+</entry>
+
+<entry>
+    <title>Faculty Center Training</title>
+    <link rel="alternate" type="text/html" href="http://www.sonoma.edu/it/news/2014/01/faculty-center-training.html" />
+    <id>tag:www.sonoma.edu,2014:/it//94.16762</id>
+
+    <published>2014-01-15T21:32:14Z</published>
+    <updated>2014-04-01T22:06:33Z</updated>
+
+    <summary> Several workshops have just been added to the Faculty Center&apos;s training schedule. Moodle KickStart Use Moodle to post your syllabus, share course materials and efficiently collect student assignments. Jan. 15, 12 to 1pm Jan. 23, 2 to 3pm Communicate...</summary>
+    <author>
+        <name>Barbara Moore</name>
+        
+    </author>
+    
+    
+    <content type="html" xml:lang="en-us" xml:base="http://www.sonoma.edu/it/">
+        <![CDATA[ <p>Several workshops have just been added to the Faculty Center's training schedule.</p>
+
+<p><strong>Moodle KickStart</strong> <br />
+Use Moodle to post your syllabus, share course materials and efficiently collect student assignments. <br /> 
+Jan. 15, 12 to 1pm<br />
+Jan. 23, 2 to 3pm</p>
+
+<p><strong>Communicate</strong> <br />
+ Save time by streamlining your course communications while also keeping students on task with Moodle  forums, chat, messaging and QuickMail.<br /> 
+Jan. 28, 3 to 4pm<br />
+Feb. 4, 12 to 1pm</p>
+
+<p><strong>Lecture Online</strong> <br />
+Use  Blackboard Collaborate web conferencing via Moodle to meet your students online and deliver a live lecture with video, voice, chat, PowerPoint, and screen sharing. <br /> 
+Feb. 25, 12 to 1pm</p>
+
+
+<p>Location:  Schulz 1112<br /> 
+Phone: 707-664-2659<br /> 
+Email: <a href="mailto:faculty.center@sonoma.edu">faculty.center@sonoma.edu</a><br />
+<a href="/facultycenter/">Faculty Center website</a>
+</p>]]>
+        
+    </content>
+</entry>
+
+<entry>
+    <title>More Moodle Training for Faculty</title>
+    <link rel="alternate" type="text/html" href="http://www.sonoma.edu/it/news/2013/09/more-moodle-training-for-faculty.html" />
+    <id>tag:www.sonoma.edu,2013:/it//94.16379</id>
+
+    <published>2013-09-23T21:25:08Z</published>
+    <updated>2014-01-15T21:36:38Z</updated>
+
+    <summary>Several workshops have just been added to the Faculty Center&apos;s training schedule. Register here (Seawolf ID required) Moodle 2.4 Basics For faculty who want to learn how to get started using Moodle. Wednesday, Oct 2, 2013, 12:00pm - 1:00pm Moodle...</summary>
+    <author>
+        <name>babs</name>
+        
+    </author>
+    
+    
+    <content type="html" xml:lang="en-us" xml:base="http://www.sonoma.edu/it/">
+        <![CDATA[<p>Several workshops have just been added to the Faculty Center's training schedule.</p>
+<p><a href="http://www.sonoma.edu/it/training">Register here (Seawolf ID required) </a></p>
+
+
+<p><strong>Moodle 2.4 Basics</strong> <br />
+For faculty who want to learn how to get started using Moodle.  <br /> 
+Wednesday, Oct 2, 2013, 12:00pm - 1:00pm</p>
+
+<p><strong>Moodle Gradebook (with snacks!)</strong> <br />
+Learn to use the Moodle Grade Book effectively, while enjoying tasty bagels and tea.<br /> 
+Wednesday, Oct 9, 2013, 3:30pm - 4:30pm </p>
+
+<p><strong>Creating and Grading Moodle Forums</strong> <br />
+Increase your understanding of using the forum tool for class discussions and class activities.<br /> 
+Tues, Oct. 22, 2013, 3:30pm - 4:15pm</p>
+
+<p><strong>Turnitin Assignments and GradeMark</strong> <br />
+Turnitin is the leading originality checking and plagiarism prevention service.<br /> 
+Tues, Oct. 29, 2013, 12:15pm - 1:00pm</p>
+]]>
+        
+    </content>
+</entry>
+
+<entry>
+    <title>Moodle Training Sessions for Faculty</title>
+    <link rel="alternate" type="text/html" href="http://www.sonoma.edu/it/news/2013/08/moodle-training-sessions-for-faculty.html" />
+    <id>tag:www.sonoma.edu,2013:/it//94.16232</id>
+
+    <published>2013-08-19T17:15:43Z</published>
+    <updated>2013-09-23T21:33:25Z</updated>
+
+    <summary>Several workshops have just been added to the Faculty Center&apos;s training schedule. Register here (Seawolf ID required) Moodle 2.4 Basics For faculty who want to learn how to get started using Moodle. Thursday, Aug 21, 2013, 3:15 pm - 4:30pm...</summary>
+    <author>
+        <name>babs</name>
+        
+    </author>
+    
+    
+    <content type="html" xml:lang="en-us" xml:base="http://www.sonoma.edu/it/">
+        <![CDATA[<p>Several workshops have just been added to the Faculty Center's training schedule.</p>
+<p><a href="http://www.sonoma.edu/it/training">Register here (Seawolf ID required) </a></p>
+
+
+<p><strong>Moodle 2.4 Basics</strong> <br />
+For faculty who want to learn how to get started using Moodle.  <br /> 
+Thursday, Aug 21, 2013, 3:15 pm - 4:30pm</p>
+
+<p><strong>Set Up Your Fall Moodle Course</strong> <br />
+Get your questions answered and receive hands-on help in setting up your Moodle courses.  <br /> 
+Friday, Aug 23, 2013, 9:00am-1:00pm  <br />
+Wednesday, Aug 28, 2013, 2:00pm-5:00pm</p>
+
+<p><strong>Brown Bag Session: Taming the Moodle Gradebook</strong> <br />
+Learn how to use the Moodle Grade Book! This workshop will help you set up your grade book correctly right from the beginning. The workshop is 20 minutes of "overview" and then you can sit with Faculty Center staff to work on your own gradebook.  <br /> 
+Wednesday, Sept 4, 2013, 12:00pm - 1:15pm</p>]]>
+        
+    </content>
+</entry>
+
+<entry>
+    <title>Moodle Update Coming Soon</title>
+    <link rel="alternate" type="text/html" href="http://www.sonoma.edu/it/news/2013/03/moodle-update-coming-soon.html" />
+    <id>tag:www.sonoma.edu,2013:/it//94.12013</id>
+
+    <published>2013-03-28T18:29:32Z</published>
+    <updated>2013-08-19T17:02:23Z</updated>
+
+    <summary>SSU Information Technology is deploying a new Moodle server in time for Summer 2013 courses, available on April 4, 2013. On May 17, 2013, the current Moodle server will be put into Archive mode. The old Moodle archive (hosting courses...</summary>
+    <author>
+        <name>babs</name>
+        
+    </author>
+    
+    
+    <content type="html" xml:lang="en-us" xml:base="http://www.sonoma.edu/it/">
+        <![CDATA[<p>SSU Information Technology is deploying a new Moodle server in time for Summer 2013 courses, available on April 4, 2013.  </p>  
+
+<p>On May 17, 2013, the current Moodle server will be put into Archive mode.  The old Moodle archive (hosting courses from Fall 2010-Spring 2012) will be dismantled and no longer available.</p>  
+
+<p class="notice information">Faculty should read the information below and follow links to the <a href="https://moodle.sonoma.edu/A/course/view.php?id=581">Moodle Community</a> course for more information and instructions.</p>]]>
+        <![CDATA[<div id="toc" class="right">
+<h3>Table of Contents</h3>
+<ol>
+<li><a href="#why">Why do we need a new server?</a></li>
+<li><a href="#moodlea">What happens to the old Moodle server and courses?</a></li>
+<li><a href="#archive">What will happen to the courses from Fall '10-Spring '12?</a></li>
+<li><a href="#when">When will this happen?</a></li>
+<li><a href="#copy">How can teachers copy courses to the new Moodle server?</a></li>
+<li><a href="#misc">What about Miscellaneous and Sandbox courses?</a></li>
+<li><a href="#nonstandard">What about courses with non-standard start and end dates?</a></li>
+<li><a href="#todo">What do Faculty and other Moodle Teachers need to do?</a></li>
+<li><a href="#students">What does this mean for students?</a></li>
+<li><a href="#questions">Questions?</a></li>
+</ol>
+</div>
+
+
+<h3><a name="why" id="why"></a>Why do we need a new Moodle server?</h3>
+
+<p>The main reason is performance.  Moodle's architecture is such that SSU cannot maintain thousands of courses indefinitely without seriously impacting performance of active courses.  The longer a Moodle server is used, the slower it eventually becomes, even when it is diligently maintained.  </p>
+
+<p>SSU also needs to keep current with Moodle's major and minor version releases. Upgrading to a new major version (i.e., from 2.3 to 2.4) in place would mean likely disruption of courses, changes to functionality mid-term, downtime and some things breaking unpredictably in live courses.</p>
+
+<p>When IT deployed Moodle on campus last year, we included high availability as a component of the project. Deploying a new Moodle server allows us to move closer to that goal.  By the time summer session begins, Moodle will have highly available web frontend, database and storage backends.</p>
+
+<p>So, in order to provide the fastest and most reliable learning management system for SSU faculty and students, SSU IT will deploy a new Moodle server once per academic year.  The new Moodle server will have the most recent full version of Moodle, with all available patches, and host the active Moodle courses for that academic year.</p>
+
+<p class="notice pdf"><a href="http://www.sonoma.edu/it/faculty/moodle-life-cycle.pdf">See this Moodle Lifespan chart for the full deployment schedule</a>. </p>
+
+<h3><a name="moodlea" id="moodlea"></a>What happens to the old server and courses?</h3>
+
+<p>Every year, as a new server is deployed, the older Moodle server will be put into archive mode for one year.  During this time, faculty can still access the old courses to copy content to the new server, or check on saved student work for grade appeal.  Students can also have access to the old courses at the instructor's discretion (as long as the student still has valid Seawolf ID).</p>
+
+<p>After a year in archive mode, old Moodle servers are sent to the Moodle Graveyard, where IT securely dismantles the server and destroys the old data.</p>
+
+<p>Instructors who wish to keep a copy of any old courses can make and download backup files.  The Faculty Center can provide advice and assistance to faculty who wish to preserve their own copies of courses and student work.</p>
+
+<h3><a name="archive" id="archive"></a>What will happen to the courses from Fall 2010 - Spring 2012 that are currently on the old Moodle 1.9 Archive?</h3>
+
+<p>The old Moodle Archive has reached the end of its lifespan.  Effective May 17, 2013, it will no longer be available to faculty and students, and will be dismantled.  </p>
+
+<p>Faculty who wish to make copies of courses from the old Moodle 1.9 Archive must do so BEFORE May 17, 2013.</p>
+
+<p>Instructions for downloading copies of Moodle 1.9 courses are available in the Moodle Community course.</p>
+
+<h3><a name="when" id="when"></a>When will this happen?</h3>
+
+<p>The new Moodle 2.4 server will be available to faculty on April 4, 2013.  This will allow faculty who teach summer courses to prepare.  Initially, the new server will be called "Future Moodle" in the Online Services portal.</p>
+
+<p>On May 17, 2013, after finals and before the summer session begins, the "Future Moodle" link will be renamed "Moodle", and the old Moodle link will be renamed "Moodle Archive."  The link to the Moodle 1.9 archive (for courses from 2010-Spring 2012) will no longer be available.</p>
+
+<h3><a name="copy" id="copy"></a>How can teachers copy courses to the new Moodle server?</h3>
+
+<p>Courses can be copied from the old server to the new one using the same Backup and Restore method used over the last few years.  Updated instructions for this process will be posted in the Moodle Community course).  </p>
+
+<p>Faculty should prioritize making backups of Moodle 1.9 courses on the current Moodle Archive, as that server will no longer be available effective May 17, 2013.</p>
+
+<h3><a name="misc" id="misc"></a>What about Miscellaneous and Sandbox courses?</h3>
+
+<p>The Faculty Center staff can assist in moving Miscellaneous courses to the new server as needed.  Only courses that need to continue being active should move to the new server.  Teachers of Miscellaneous courses will receive email from the Faculty Center with information about how to move those courses.</p>
+
+<p>New sandbox courses can be created on the new server by request.  However, the Faculty Center will not move sandbox course content from the old server for faculty. Please keep in mind that sandbox courses are intended as temporary exploration spaces to help instructors learn how to use Moodle.   If you used a Sandbox course to build or store a course for future use, remember that you will continue to have access to that Sandbox in Archive mode until Summer 2014.</p>
+
+<h3><a name="nonstandard" id="nonstandard"></a>What about courses with non-standard start and end dates?</h3>
+
+<p>Some departments and programs offer courses that have start and end dates that don't match the official first and last days of instruction.  Faculty who use Moodle with courses that start in Spring 2013 and end in Summer or Fall should contact the Faculty Center to determine the best course of action for their courses and students, ASAP.  </p>
+
+<p>Send email to martha.ezell@sonoma.edu, tim.hensel@sonoma.edu, or barbara.moore@sonoma.edu.</p>
+
+<h3><a name="todo" id="todo"></a>What do Faculty and other Moodle Teachers need to do?</h3>
+
+<p>Faculty should consider this list of possible To-Dos, ordered by urgency. The Faculty Center can assist Moodle Teachers.</p>
+
+<ol>
+	<li>If you teach a course with non-standard start end dates beginning in Spring 2013 and ending in Summer or Fall 2013, contact the Faculty Center ASAP.</li>
+
+	<li>If you have courses on the old Moodle 1.9 Archive, decide if you need a copy them. <ul>
+	<li>The Faculty Center's Advice Sheet for further details and instructions will be posted in the Moodle Community course. </li></ul></li>
+	<li>If you're teaching a Summer 2013 course, login to Future Moodle (available April 4) to start building it.<ul>
+	<li>Build your course from scratch, or</li>
+	<li>Use the Backup/Restore method to copy content from an existing course 1.9 or 2.3 course. </li></ul></li>
+	<li>If you have a course in the Miscellaneous category, talk with the Faculty Center about whether or not it needs to move to the new server.</li>
+	<li>If you have courses on Moodle 2.3 that you will teach again in Fall 2013 -Spring 2014, you can delay moving that content until you are ready to the new course. Remember, Moodle 2.3 will be in archive mode until Summer 2014.</li>
+</ol>
+
+<h3><a name="students" id="students"></a>What does this mean for students?</h3>
+
+<p>Students will continue to click the "Moodle" link in the portal to access active courses.  A small number of students - those who are enrolled in classes with non-standard start of end dates, may need to access a course on "Future Moodle" or "Moodle Archive."  Faculty of those classes should inform their students if this is the case.</p>
+
+<h3><a name="questions" id="questions"></a>Questions? Need Help?</h3>
+
+<p class="notice email">Contact <a href="mailto:martha.ezell@sonoma.edu">Martha Ezell</a> or <a href="mailto:hensel@sonoma.edu">Tim Hensel</a> in the Faculty Center if you need assistance.</p>
+<p class="notice email">Contact <a href="mailto:barbara.moore@sonoma.edu">Barbara Moore</a> if you have questions about the Moodle Life Cycle or deployment schedule.</p>]]>
+    </content>
+</entry>
+
+<entry>
+    <title>Adobe Master Collection Available</title>
+    <link rel="alternate" type="text/html" href="http://www.sonoma.edu/it/news/2012/12/adobe-master-collection-available.html" />
+    <id>tag:www.sonoma.edu,2012:/it//94.11565</id>
+
+    <published>2012-12-04T00:23:32Z</published>
+    <updated>2013-03-28T19:14:58Z</updated>
+
+    <summary> SSU IT is pleased to announce that the campus has entered into an agreement with Adobe for the licensing of Adobe Master Collection CS6. The agreement with Adobe is a volume licensing agreement that allows the use of the...</summary>
+    <author>
+        <name>babs</name>
+        
+    </author>
+    
+    
+    <content type="html" xml:lang="en-us" xml:base="http://www.sonoma.edu/it/">
+        <![CDATA[ <p>SSU IT is pleased to announce that the campus has entered into an agreement with Adobe for the licensing of Adobe Master Collection CS6. The agreement with Adobe is a volume licensing agreement that allows the use of the entire Master Collection by faculty and staff here at Sonoma. While this is not a site license the license model does provide enough licensing to accommodate any faculty or staff member here at Sonoma. The software is available for installation on any university owned computer. As an added benefit the license agreement does contain a "Work at Home" clause allowing faculty to install a single copy on their personal computer.</p>
+
+<p><a href="http://www.sonoma.edu/it/faculty/adobemastercollection.html">Get Adobe Master Collection!</a></p>]]>
+        
+    </content>
+</entry>
+
+<entry>
+    <title>Test Scanning Improvements &amp; Changes</title>
+    <link rel="alternate" type="text/html" href="http://www.sonoma.edu/it/news/2012/09/test-scanning-improvements-changes.html" />
+    <id>tag:www.sonoma.edu,2012:/it//94.11309</id>
+
+    <published>2012-09-12T20:31:03Z</published>
+    <updated>2012-12-04T00:25:57Z</updated>
+
+    <summary>For Faculty convenience, self-service test scanning stations are now available in two locations: Faculty Center (Schulz 1125) and Darwin 105. The self-service scanning stations use both the 100 answer half-sheet (Form 882-E) and the 100 answer full-sheet (Form SC982-E) which...</summary>
+    <author>
+        <name>Barbara Moore</name>
+        
+    </author>
+    
+    
+    <content type="html" xml:lang="en-us" xml:base="http://www.sonoma.edu/it/">
+        <![CDATA[<p>For Faculty convenience, self-service test scanning stations are now available in two locations:  Faculty Center (Schulz 1125) and Darwin 105.</p>
+
+<p>The self-service scanning stations use both the 100 answer half-sheet (Form 882-E) and the 100 answer full-sheet (Form SC982-E) which can be purchased at the Bookstore or Zinfandel Market.</p>]]>
+        <![CDATA[<ul>
+	<li>Form 882-E (green half sheet 100 answers); available at SSU Bookstore or Zinfandel Marketplace</li>
+	<li>Form 9700 Item Analysis; located in the Faculty Center.</li>
+	<li>Form SC982-E (blue sheet 100 answers); available at SSU Bookstore or Zinfandel Marketplace.</li>
+</ul>
+
+<h3>Benefits</h3>
+
+<ul>
+	<li>Ease of Use</li>
+	<li>No more waiting; grades and reports instantly available.</li>
+	<li>One stop shopping.</li>
+	<li>Flexible Faculty Center hours</li>
+	<li>Excel Reports  (comparable to IT test reports) using Form SC982-E only.</li>
+</ul>
+ 
+
+<h3>For more information:</h3>
+
+<ul>
+	<li><a href="/it/helpdesk/self-service-scanning.html">Self-Service Scanning web page</a></li>
+	<li>Contact Martha Ezell or Tim Hensel  in the Faculty Center.</li>
+	<li>See the printed manual available in the Faculty Center.</li>
+</ul>
+
+
+<h2>Darwin Self-Service Scanner</h2>
+ 
+<p>Available in Darwin 105B (copy room); takes Form 882-E (green half sheet) only.  For assistance, contact Cory Oates, Science & Technology, X42171.</p>
+ 
+ 
+<h2>IT Scanning News</h2>
+ 
+<ul>
+	<li>Effective Fall 2012, IT Test Scanning turnaround time for the 200 Answer Score Sheet will be 2 working days with results sent by email only. </li>
+	<li>Note:  To save time, you can process your own tests within minutes on the New Self-Service Scanner. </li>
+	<li>Due to limited resources, no more hard copy results will be generated. </li>
+	<li>When submitting more than one test version (Form A-D), a key is required for EACH version. </li>
+	<li>More than one test version (Form A-D) can be included in one test packet.  There is no need to fill out separate request forms or sort tests by version.</li>
+	<li>Test version (Form A-D) must be bubbled in on ALL tests, including the key(s).</li>
+	<li>Test packets missing any required data on the 200 Answer Score Sheet will not be scanned.  The Instructor will be notified to make correction(s).</li>
+	<li>The updated Scanning Request Form can be found at the <a href="/it/helpdesk/scanning.html">Scanning Service page</a>.</li>
+</ul>
+
+ ]]>
+    </content>
+</entry>
+
+<entry>
+    <title>Moodle 2 Now Available!</title>
+    <link rel="alternate" type="text/html" href="http://www.sonoma.edu/it/news/2012/04/moodle-2-now-available.html" />
+    <id>tag:www.sonoma.edu,2012:/it//94.10797</id>
+
+    <published>2012-04-20T16:26:00Z</published>
+    <updated>2012-09-12T20:52:20Z</updated>
+
+    <summary> SSU&apos;s new Moodle 2 server is now available. To access it, login to Online Services and click Moodle Future. Summer 2013 courses have been loaded, and faculty may start adding content and activities. Instructions for copying course content from...</summary>
+    <author>
+        <name>babs</name>
+        
+    </author>
+    
+    
+    <content type="html" xml:lang="en-us" xml:base="http://www.sonoma.edu/it/">
+        <![CDATA[<p> SSU's new Moodle 2 server is now available.  To access it, <a href="https://login.sonoma.edu/">login to Online Services</a> and click Moodle Future.</p>
+
+<p>Summer 2013 courses have been loaded, and faculty may start adding content and activities.</p>
+
+<p>Instructions for copying course content from Moodle 1.9 to Moodle 2 can be found in the Moodle Users Group course.  Faculty and others with the Moodle Teacher role can contact the Faculty Center for assistance.</p>
+
+<p>Email: <a href="mailto:centerf@sonoma.edu">centerf@sonoma.edu</a><br />
+Phone:  (707) 664-2659<br />
+Drop-in: Schulz 1125</p>]]>
+        
+    </content>
+</entry>
+
+<entry>
+    <title>Phone &amp; Network Upgrades</title>
+    <link rel="alternate" type="text/html" href="http://www.sonoma.edu/it/news/2012/02/phone-network-upgrades.html" />
+    <id>tag:www.sonoma.edu,2012:/it//94.10530</id>
+
+    <published>2012-02-17T18:19:11Z</published>
+    <updated>2012-04-20T16:27:05Z</updated>
+
+    <summary>From February 20 through April 30, the campus phone and network systems will go through a major upgrade. Some services will be interrupted. Read below for details....</summary>
+    <author>
+        <name>babs</name>
+        
+    </author>
+    
+    
+    <content type="html" xml:lang="en-us" xml:base="http://www.sonoma.edu/it/">
+        <![CDATA[<p>From February 20 through April 30, the campus phone and network systems will go through a major upgrade.  Some services will be interrupted.  Read below for details.</p>
+
+]]>
+        <![CDATA[<h3>Network Downtime and Upgrade</h3>
+ 
+<p>The University's core networking equipment for each of the academic and administrative buildings will be upgraded over the week of spring break.</p>
+ 
+<p>During this time, each building will have network access interrupted for a period of time as the actual equipment is swapped out. An exact calendar of downtime for each building will be forthcoming.</p>
+
+<p class="notice announce"><a href="/it/news/network-refresh-schedule.html">Network Refresh Downtime Schedule</a></p>
+ 
+<p>In order to prepare for this switch,  Information Technology will not be able to make any form of network changes (activating or inactivating network jacks) from the period of  Monday, February 20 through Sunday, April 15.</p>
+ 
+<h3>Telephone System Upgrade</h3>
+ 
+<p>Information Technology is beginning the process of transitioning off of SSU's 11-year old telephone system onto something newer and more sustainable. In order to prepare for this transition, we will need to put a freeze on some telecommunication transactions from March 1, 2012 through April 30, 2012.</p>
+
+<p>During this 2 month period, we will not be able to:</p>
+
+<ul>
+	<li>Add new phone extensions</li>
+	<li>Move phone extensions between offices</li>
+	<li>Add new voicemail boxes or voicemail trees</li>
+	<li>Add new members to existing voicemail trees</li>
+</ul>
+ 
+<p>We will be able to:</p>
+
+<ul>
+	<li>Reset voicemail box passwords</li>
+	<li>Re-enable digital phone lines that are disabled because they are unplugged overnight</li>
+	<li>Change the name displayed on an existing phone</li>
+</ul>
+ 
+<p>There will be a lot more information coming out in regards to the actual implementation plan for the transition and what this means to individual departments and employees as the timeline and project plan is solidified.</p>
+ 
+<p>Information Technology is working to make this as transparent as possible to all end users, but we apologize for any inconvenience this may cause. Thank you for your patience and understanding.  If you have any questions or concerns, please contact Jason Wenrick, <a href="mailto:jason.wenrick@sonoma.edu">jason.wenrick@sonoma.edu</a>.</p>]]>
+    </content>
+</entry>
+
+<entry>
+    <title>Moodle 2 Coming to SSU</title>
+    <link rel="alternate" type="text/html" href="http://www.sonoma.edu/it/news/2012/02/moodle-2-coming-to-ssu.html" />
+    <id>tag:www.sonoma.edu,2012:/it//94.10584</id>
+
+    <published>2012-02-16T20:53:20Z</published>
+    <updated>2012-08-01T22:25:18Z</updated>
+
+    <summary> The University&apos;s Moodle system will be going through an upgrade from version 1.9 to 2.2. This upgrade will bring improvements to the user interface and underlying architecture. Faculty, students and others who use SSU Moodle will find the new...</summary>
+    <author>
+        <name>babs</name>
+        
+    </author>
+    
+    
+    <content type="html" xml:lang="en-us" xml:base="http://www.sonoma.edu/it/">
+        <![CDATA[ <p>The University's Moodle system will be going through an upgrade from version 1.9 to 2.2.  This upgrade will bring improvements to the user interface and underlying architecture.   Faculty, students and others who use SSU Moodle will find the new version to be very similar, and will not need to re-learn Moodle.  Faculty who use Moodle may wish to attend one of the Moodle 2 preview and training sessions offered by the Faculty Center.</p>
+]]>
+        <![CDATA[ <p>The University's Moodle system will be going through an upgrade from version 1.9 to 2.2.  This upgrade will bring improvements to the user interface and underlying architecture.   Faculty, students and others who use SSU Moodle will find the new version to be very similar, and will not need to re-learn Moodle.  Faculty who use Moodle may wish to attend one of the Moodle 2 preview and training sessions offered by the Faculty Center.</p>
+<h3>Timeline</h3>
+<p>Moodle 2 will be in use for Summer 2012 courses (and beyond). Moodle 1.9 will not be used for live courses after the Spring 2012 semester.</p>
+<ul>
+  <li><strong>March:  </strong>Faculty Center will offer Moodle 2 Preview demonstrations.</li>
+  <li><strong>April: </strong>Moodle 2 Basics hands-on training for faculty will be provided in the Faculty Center.</li>
+  <li><strong>Last week of April:  </strong>Moodle courses for Summer 2012 will be available for faculty.</li>
+  <li><strong>Mid-June:  </strong>Moodle 1.9 courses will be available on archive server.</li>
+</ul>
+<h4>Previews &amp; Training</h4>
+<table width="50%" border="1" cellpadding="1" cellspacing="0" summary="training sessions with rows for Place, Time and Date">
+  <caption>
+    <strong>Demonstrations of Moodle 2 </strong>
+  </caption>
+  <tr>
+    <th scope="row">Place:</th>
+    <td>Faculty Center, Schulz 1125</td>
+  </tr>
+  <tr>
+    <th scope="row">Time:</th>
+    <td>Noon-1:00pm</td>
+  </tr>
+  <tr>
+    <th rowspan="5" scope="row">Dates:</th>
+    <td>Wednesday, March 7<br /></td>
+  </tr>
+  <tr>
+    <td>Thursday, March 8<br /></td>
+  </tr>
+  <tr>
+    <td>Thursday, March 15<br /></td>
+  </tr>
+  <tr>
+    <td>Friday, March 16<br /></td>
+  </tr>
+  <tr>
+    <td>Wednesday, March 21</td>
+  </tr>
+</table>
+<p>&nbsp; </p>
+<table width="50%" border="1" cellpadding="1" cellspacing="0" summary="training sessions with rows for Place, Time and Date">
+  <caption>
+  <strong>Moodle 2 Hands-On Training </strong>
+  </caption>
+  <tr>
+    <th scope="row">Place:</th>
+    <td>Faculty Center, Schulz 1125</td>
+  </tr>
+  <tr>
+    <th scope="row">Time:</th>
+    <td>Noon-1:00pm</td>
+  </tr>
+  <tr>
+    <th rowspan="6" scope="row">Dates:</th>
+    <td>Tuesday, April 3</td>
+  </tr>
+  <tr>
+    <td>Thursday, April 5</td>
+  </tr>
+  <tr>
+    <td>Monday, April 9</td>
+  </tr>
+  <tr>
+    <td>Wednesday, April 11</td>
+  </tr>
+  <tr>
+    <td>Tuesday, April 17</td>
+  </tr>
+  <tr>
+    <td>Wednesday, April 18</td>
+  </tr>
+  <tr>
+    <th scope="row">Sign Up:</th>
+    <td><a href="https://www.sonoma.edu/users/m/mooreb/workshops/list.php">Register Online with Seawolf ID </a></td>
+  </tr>
+</table>
+<p><br />
+</p>
+<h3>Frequently Asked Questions</h3>
+<p><strong>Will my Moodle 1.9 course work in Moodle 2?</strong><br />
+Yes.  For most courses, converting a 1.9 course to Moodle 2 will be just like copying a course from a past semester into a new course. </p>
+<p><strong>Will all my Moodle 1.9 courses be automatically converted to Moodle 2?</strong><br />
+No.  Conversion is &quot;self-serve.&quot;  Faculty should decide which courses they want to carry forward.  Step-by-step instructions will be available for faculty who wish to convert an older course to Moodle 2, and hands-on support will be available in the Faculty Center.  Moodle 1.9 courses will be available on a Moodle Archive server until the end of May, 2013.  Faculty may also download a backup of any course to save on their own computer.</p>
+<p><strong>Can I just keep using Moodle 1.9 until I'm ready to use Moodle 2?</strong><br />
+No. Effective Summer 2012 session, Moodle 2 will be SSU's production Learning Management System.  SSU's Moodle 1.9 server will not be available for use with live courses.   Moodle 2 is very similar to Moodle 1.9, and should not require completely re-learning how to use Moodle.</p>
+<p><strong>Will I still automatically have access to my courses?  And will my students still be automatically enrolled?</strong><br />
+Yes.  All official University courses will automatically be created and populated in Moodle based on CMS course and enrollment data. </p>
+<p><strong>What improvements will faculty and students see?</strong><br />
+  There are many improvements in Moodle 2.  Some of these are:<br />
+</p>
+<ul>
+  <li>Improved performance</li>
+  <li>Updated look and feel</li>
+  <li>Improved navigation</li>
+  <li>Rubric grading option in assignments</li>
+  <li>Conditional Activities</li>
+  <li>Activity Completion options</li>
+  <li>Duplicate activity/resource function</li>
+  <li>More robust HTML editor</li>
+</ul>
+<h3>More Information</h3>
+<p> More information about Moodle 2 will be posted at www.sonoma.edu/moodle as it becomes available.</p>
+<h3>  Questions about Moodle 2?</h3>
+<p> If you have questions about the Moodle 2 upgrade, contact Barbara Moore <a href="mailto:barbara.moore@sonoma.edu">barbara.moore@sonoma.edu</a>.</p>
+<p>If you have questions about using Moodle 2, contact Martha Ezell <a href="mailto:martha.ezell@sonoma.edu">martha.ezell@sonoma.edu</a>, or Tim Hensel <a href="mailto:hensel@sonoma.edu">hensel@sonoma.edu</a>, in the Faculty Center.</p>]]>
+    </content>
+</entry>
+
+<entry>
+    <title>Call for Participation: Quality Online Learning and Teaching Awards Pilot</title>
+    <link rel="alternate" type="text/html" href="http://www.sonoma.edu/it/news/2012/02/call-for-participation-quality-online-learning-and-teaching-awards-pilot.html" />
+    <id>tag:www.sonoma.edu,2012:/it//94.10451</id>
+
+    <published>2012-02-01T22:19:04Z</published>
+    <updated>2012-04-20T16:27:47Z</updated>
+
+    <summary>CSU Learning Management Systems Services is sponsoring a Quality Online Learning and Teaching (QOLT) program to recognize exemplary teaching and learning efforts using Moodle. SSU instructors teaching via Moodle are encouraged to participate....</summary>
+    <author>
+        <name>babs</name>
+        
+    </author>
+    
+    
+    <content type="html" xml:lang="en-us" xml:base="http://www.sonoma.edu/it/">
+        <![CDATA[<p>CSU Learning Management Systems Services is sponsoring a Quality Online Learning and Teaching (QOLT) program to recognize exemplary teaching and learning efforts using Moodle.  </p>
+
+<p><a href="/it/faculty/qolt2012.html">SSU instructors teaching via Moodle are encouraged to participate</a>.</p>]]>
+        
+    </content>
+</entry>
+
+<entry>
+    <title>Mathematica 8 is now available</title>
+    <link rel="alternate" type="text/html" href="http://www.sonoma.edu/it/news/2011/08/mathematica-8-is-now-available.html" />
+    <id>tag:www.sonoma.edu,2011:/it-new//94.8757</id>
+
+    <published>2011-08-15T19:09:51Z</published>
+    <updated>2012-04-20T16:28:01Z</updated>
+
+    <summary>Mathematica 8 is now available to faculty and staff. For the first time it is also available for home use to students. Please see our FAQ for Mathematica for instructions on how to get Mathematica 8. In addition Mathematica 8...</summary>
+    <author>
+        <name>babs</name>
+        
+    </author>
+    
+    
+    <content type="html" xml:lang="en-us" xml:base="http://www.sonoma.edu/it/">
+        <![CDATA[<p>Mathematica 8 is now available to faculty and staff. For the first time it is also available for home use to students.</p>
+
+<p>Please see our <a href="/it/helpdesk/faq.html#mathematica">FAQ for Mathematica</a> for instructions on how to get Mathematica 8.  In addition Mathematica 8 is also available in all IT managed computer labs. If you have a department lab and are in need of version 8 for your lab please contact the IT Helpdesk for assistance with this, x44357.</p>]]>
+        
+    </content>
+</entry>
+
+</feed>

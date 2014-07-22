@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">MSU College of Veterinary Medicine - Home</title>
+	<subtitle type="text"></subtitle>
+	<link rel="alternate" type="text/html" href="http://www.cvm.msstate.edu"/>
+	<id>http://www.cvm.msstate.edu/index.php</id>
+	<updated>2014-07-21T17:59:39+00:00</updated>
+	<generator uri="http://joomla.org" version="2.5">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="http://www.cvm.msstate.edu/?format=feed&amp;type=atom"/>
+	<entry>
+		<title>CVM News</title>
+		<link rel="alternate" type="text/html" href="http://www.cvm.msstate.edu/20-top-news-of-the-week"/>
+		<published>2013-08-15T05:24:00+00:00</published>
+		<updated>2013-08-15T05:24:00+00:00</updated>
+		<id>http://www.cvm.msstate.edu/20-top-news-of-the-week</id>
+		<author>
+			<name>Super User</name>
+			<email>beth@getquest.clm</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;&lt;span style=&quot;background-color: #ffff00;&quot;&gt;&lt;span style=&quot;background-color: #ffff00;&quot;&gt;&lt;strong&gt;A&lt;strong&gt;pplications are now being accepted&amp;nbsp;through the&amp;nbsp;Veterinary Medical College Application Service (VMCAS).&amp;nbsp; The application is available at&amp;nbsp;&amp;nbsp;&lt;/strong&gt;&lt;a href=&quot;http://www.aavmc.org/&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;www.aavmc.org&lt;/strong&gt;&lt;/a&gt;.&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;images/frontpage-news/coyne-research.jpg&quot; alt=&quot;coyne-research&quot; width=&quot;558&quot; height=&quot;402&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Dr. Cody Coyne, professor of molecular pharmacology and immunology in the Department of Basic Sciences at the MSU College of Veterinary Medicine, and his team of scientists are researching more effective ways to kill cancer cells. &lt;a href=&quot;http://msucares.com/news/print/cvm/cvm14/20140616.html&quot;&gt;Read more here...&lt;/a&gt;&lt;/p&gt;
+&lt;div class=&quot;smallmarginbottom submedmargintop rt-relative&quot;&gt;
+&lt;div class=&quot;rt-floatright rt-teaser&quot;&gt;&lt;a class=&quot;button rt-btn-condensed&quot; href=&quot;http://cvmnewsevents.blogspot.com/&quot;&gt;News &amp;amp; Events&lt;/a&gt;&lt;/div&gt;
+&lt;p&gt;&amp;nbsp;&lt;a href=&quot;index.php?option=com_content&amp;amp;view=article&amp;amp;id=295:the-mississippi-animal-disaster-relief-fund&amp;amp;catid=20:outreach&amp;amp;Itemid=256&quot;&gt;&lt;br /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;&lt;span style=&quot;background-color: #ffff00;&quot;&gt;&lt;span style=&quot;background-color: #ffff00;&quot;&gt;&lt;strong&gt;A&lt;strong&gt;pplications are now being accepted&amp;nbsp;through the&amp;nbsp;Veterinary Medical College Application Service (VMCAS).&amp;nbsp; The application is available at&amp;nbsp;&amp;nbsp;&lt;/strong&gt;&lt;a href=&quot;http://www.aavmc.org/&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;www.aavmc.org&lt;/strong&gt;&lt;/a&gt;.&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;images/frontpage-news/coyne-research.jpg&quot; alt=&quot;coyne-research&quot; width=&quot;558&quot; height=&quot;402&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Dr. Cody Coyne, professor of molecular pharmacology and immunology in the Department of Basic Sciences at the MSU College of Veterinary Medicine, and his team of scientists are researching more effective ways to kill cancer cells. &lt;a href=&quot;http://msucares.com/news/print/cvm/cvm14/20140616.html&quot;&gt;Read more here...&lt;/a&gt;&lt;/p&gt;
+&lt;div class=&quot;smallmarginbottom submedmargintop rt-relative&quot;&gt;
+&lt;div class=&quot;rt-floatright rt-teaser&quot;&gt;&lt;a class=&quot;button rt-btn-condensed&quot; href=&quot;http://cvmnewsevents.blogspot.com/&quot;&gt;News &amp;amp; Events&lt;/a&gt;&lt;/div&gt;
+&lt;p&gt;&amp;nbsp;&lt;a href=&quot;index.php?option=com_content&amp;amp;view=article&amp;amp;id=295:the-mississippi-animal-disaster-relief-fund&amp;amp;catid=20:outreach&amp;amp;Itemid=256&quot;&gt;&lt;br /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;</content>
+		<category term="Frontpage" />
+	</entry>
+</feed>

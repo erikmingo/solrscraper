@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><feed
+  xmlns="http://www.w3.org/2005/Atom"
+  xmlns:thr="http://purl.org/syndication/thread/1.0"
+  xml:lang="en"
+  xml:base="https://faculty.franklin.edu/souren-soumbatiants/wp-atom.php"
+   >
+	<title type="text">Souren Soumbatiants, Ph.D.</title>
+	<subtitle type="text">Program Chair, Business Economics</subtitle>
+
+	<updated>2010-10-12T14:22:39Z</updated>
+	<generator uri="http://wordpress.org/" version="2.9.1">WordPress</generator>
+
+	<link rel="alternate" type="text/html" href="https://faculty.franklin.edu/souren-soumbatiants" />
+	<id>https://faculty.franklin.edu/souren-soumbatiants/feed/atom/</id>
+	<link rel="self" type="application/atom+xml" href="http://faculty.franklin.edu/souren-soumbatiants/feed/atom/" />
+
+			<entry>
+		<author>
+			<name>Souren Soumbatiants</name>
+					</author>
+		<title type="html"><![CDATA[New Business Economics Major at Franklin]]></title>
+		<link rel="alternate" type="text/html" href="https://faculty.franklin.edu/souren-soumbatiants/2010/10/12/new-business-economics-major-at-franklin/" />
+		<id>https://faculty.franklin.edu/souren-soumbatiants/?p=19</id>
+		<updated>2010-10-12T14:22:39Z</updated>
+		<published>2010-10-12T14:22:39Z</published>
+		<category scheme="https://faculty.franklin.edu/souren-soumbatiants" term="Curriculum" /><category scheme="https://faculty.franklin.edu/souren-soumbatiants" term="economics major tracks new_program" />		<summary type="html"><![CDATA[Welcome to my blog.
+I am currently working on developing course for Business Economics major at Franklin. There are several career tracks that are available to students in the major. Here at Franklin we decided to concentrate on Investor Relations, Business Analytics, and Market Analytics.
+]]></summary>
+		<content type="html" xml:base="https://faculty.franklin.edu/souren-soumbatiants/2010/10/12/new-business-economics-major-at-franklin/"><![CDATA[<p>Welcome to my blog.</p>
+<p>I am currently working on developing course for Business Economics major at Franklin. There are several career tracks that are available to students in the major. Here at Franklin we decided to concentrate on Investor Relations, Business Analytics, and Market Analytics.</p>
+]]></content>
+		<link rel="replies" type="text/html" href="https://faculty.franklin.edu/souren-soumbatiants/2010/10/12/new-business-economics-major-at-franklin/#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="https://faculty.franklin.edu/souren-soumbatiants/2010/10/12/new-business-economics-major-at-franklin/feed/atom/" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+	</feed>

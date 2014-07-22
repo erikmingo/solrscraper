@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+          <kml xmlns="http://earth.google.com/kml/2.1">
+          <Document>
+          		<name>NWS AHPS</name>
+          		<NetworkLink>
+          				<visibility>1</visibility>
+          				<name>NOAA/NWS Logos</name>
+          				<Link>
+          						<href>http://forecast.weather.gov/branding.kml</href>
+          				</Link>
+          		</NetworkLink>
+
+     
+     		<Style id="ci-cc33ff">
+     				<IconStyle>
+     						<scale>1</scale>
+     						<Icon>
+     								<href>http://water.weather.gov/ahps2/images/mapmarkers/ci-cc33ff.png</href>
+     						</Icon>
+     				</IconStyle>
+     		</Style>
+     		<Style id="ci-ff0000">
+     				<IconStyle>
+     						<scale>1</scale>
+     						<Icon>
+     								<href>http://water.weather.gov/ahps2/images/mapmarkers/ci-ff0000.png</href>
+     						</Icon>
+     				</IconStyle>
+     		</Style>
+     		<Style id="ci-ff9900">
+     				<IconStyle>
+     						<scale>1</scale>
+     						<Icon>
+     								<href>http://water.weather.gov/ahps2/images/mapmarkers/ci-ff9900.png</href>
+     						</Icon>
+     				</IconStyle>
+     		</Style>
+     		<Style id="ci-ffff00">
+     				<IconStyle>
+     						<scale>1</scale>
+     						<Icon>
+     								<href>http://water.weather.gov/ahps2/images/mapmarkers/ci-ffff00.png</href>
+     						</Icon>
+     				</IconStyle>
+     		</Style>
+     		<Style id="ci-00ff00">
+     				<IconStyle>
+     						<scale>1</scale>
+     						<Icon>
+     								<href>http://water.weather.gov/ahps2/images/mapmarkers/ci-00ff00.png</href>
+     						</Icon>
+     				</IconStyle>
+     		</Style>
+     		<Style id="ci-666666">
+     				<IconStyle>
+     						<scale>1</scale>
+     						<Icon>
+     								<href>http://water.weather.gov/ahps2/images/mapmarkers/ci-666666.png</href>
+     						</Icon>
+     				</IconStyle>
+     		</Style>
+     		<Style id="ci-bdc2bb">
+     				<IconStyle>
+     						<scale>1</scale>
+     						<Icon>
+     								<href>http://water.weather.gov/ahps2/images/mapmarkers/ci-bdc2bb.png</href>
+     						</Icon>
+     				</IconStyle>
+     		</Style>
+     		<Style id="ci-8c8c8c">
+     				<IconStyle>
+     						<scale>1</scale>
+     						<Icon>
+     								<href>http://water.weather.gov/ahps2/images/mapmarkers/ci-8c8c8c.png</href>
+     						</Icon>
+     				</IconStyle>
+     		</Style>
+     		<Style id="sq-cc33ff">
+     				<IconStyle>
+     						<scale>1</scale>
+     						<Icon>
+     								<href>http://water.weather.gov/ahps2/images/mapmarkers/sq-cc33ff.png</href>
+     						</Icon>
+     				</IconStyle>
+     		</Style>
+     		<Style id="sq-ff0000">
+     				<IconStyle>
+     						<scale>1</scale>
+     						<Icon>
+     								<href>http://water.weather.gov/ahps2/images/mapmarkers/sq-ff0000.png</href>
+     						</Icon>
+     				</IconStyle>
+     		</Style>
+     		<Style id="sq-ff9900">
+     				<IconStyle>
+     						<scale>1</scale>
+     						<Icon>
+     								<href>http://water.weather.gov/ahps2/images/mapmarkers/sq-ff9900.png</href>
+     						</Icon>
+     				</IconStyle>
+     		</Style>
+     		<Style id="sq-ffff00">
+     				<IconStyle>
+     						<scale>1</scale>
+     						<Icon>
+     								<href>http://water.weather.gov/ahps2/images/mapmarkers/sq-ffff00.png</href>
+     						</Icon>
+     				</IconStyle>
+     		</Style>
+     		<Style id="sq-00ff00">
+     				<IconStyle>
+     						<scale>1</scale>
+     						<Icon>
+     								<href>http://water.weather.gov/ahps2/images/mapmarkers/sq-00ff00.png</href>
+     						</Icon>
+     				</IconStyle>
+     		</Style>
+     		<Style id="sq-666666">
+     				<IconStyle>
+     						<scale>1</scale>
+     						<Icon>
+     								<href>http://water.weather.gov/ahps2/images/mapmarkers/sq-666666.png</href>
+     						</Icon>
+     				</IconStyle>
+     		</Style>
+     		<Style id="sq-bdc2bb">
+     				<IconStyle>
+     						<scale>1</scale>
+     						<Icon>
+     								<href>http://water.weather.gov/ahps2/images/mapmarkers/sq-bdc2bb.png</href>
+     						</Icon>
+     				</IconStyle>
+     		</Style>
+     		<Style id="sq-8c8c8c">
+     				<IconStyle>
+     						<scale>1</scale>
+     						<Icon>
+     								<href>http://water.weather.gov/ahps2/images/mapmarkers/sq-8c8c8c.png</href>
+     						</Icon>
+     				</IconStyle>
+     		</Style>		<Placemark>
+				<name><![CDATA[Kennebec River at Augusta (astm1)]]></name>
+				<description><![CDATA[<a href="http://water.weather.gov/ahps2/hydrograph.php?wfo=gyx&gage=astm1">View the hydrograph for this marker (0.5)</a>]]></description>
+				<styleUrl>#ci-00ff00</styleUrl>
+				<Point><coordinates>-69.771389,44.318333</coordinates></Point>
+		</Placemark>		<Placemark>
+				<name><![CDATA[Androscoggin River at Auburn (aubm1)]]></name>
+				<description><![CDATA[<a href="http://water.weather.gov/ahps2/hydrograph.php?wfo=gyx&gage=aubm1">View the hydrograph for this marker (0.5)</a>]]></description>
+				<styleUrl>#ci-00ff00</styleUrl>
+				<Point><coordinates>-70.208611,44.072222</coordinates></Point>
+		</Placemark>		<Placemark>
+				<name><![CDATA[Ammonoosuc River at Bethlehem (betn3)]]></name>
+				<description><![CDATA[<a href="http://water.weather.gov/ahps2/hydrograph.php?wfo=gyx&gage=betn3">View the hydrograph for this marker (0.5)</a>]]></description>
+				<styleUrl>#ci-00ff00</styleUrl>
+				<Point><coordinates>-71.630833,44.268611</coordinates></Point>
+		</Placemark>		<Placemark>
+				<name><![CDATA[Kennebec River at Bingham (bngm1)]]></name>
+				<description><![CDATA[<a href="http://water.weather.gov/ahps2/hydrograph.php?wfo=gyx&gage=bngm1">View the hydrograph for this marker (0.5)</a>]]></description>
+				<styleUrl>#ci-00ff00</styleUrl>
+				<Point><coordinates>-69.900000,45.066667</coordinates></Point>
+		</Placemark>		<Placemark>
+				<name><![CDATA[Smith River  (NH) at Bristol (brsn3)]]></name>
+				<description><![CDATA[<a href="http://water.weather.gov/ahps2/hydrograph.php?wfo=gyx&gage=brsn3">View the hydrograph for this marker (0.5)</a>]]></description>
+				<styleUrl>#ci-00ff00</styleUrl>
+				<Point><coordinates>-71.748333,43.567778</coordinates></Point>
+		</Placemark>		<Placemark>
+				<name><![CDATA[Saco River near Conway (cnwn3)]]></name>
+				<description><![CDATA[<a href="http://water.weather.gov/ahps2/hydrograph.php?wfo=gyx&gage=cnwn3">View the hydrograph for this marker (0.5)</a>]]></description>
+				<styleUrl>#ci-00ff00</styleUrl>
+				<Point><coordinates>-71.090556,43.990833</coordinates></Point>
+		</Placemark>		<Placemark>
+				<name><![CDATA[Merrimack River at Concord (conn3)]]></name>
+				<description><![CDATA[<a href="http://water.weather.gov/ahps2/hydrograph.php?wfo=gyx&gage=conn3">View the hydrograph for this marker (0.5)</a>]]></description>
+				<styleUrl>#ci-00ff00</styleUrl>
+				<Point><coordinates>-71.530833,43.208889</coordinates></Point>
+		</Placemark>		<Placemark>
+				<name><![CDATA[Barton River near Coventry (covv1)]]></name>
+				<description><![CDATA[<a href="http://water.weather.gov/ahps2/hydrograph.php?wfo=btv&gage=covv1">View the hydrograph for this marker (0.5)</a>]]></description>
+				<styleUrl>#sq-00ff00</styleUrl>
+				<Point><coordinates>-72.200556,44.871389</coordinates></Point>
+		</Placemark>		<Placemark>
+				<name><![CDATA[Black River (Northern VT) at Coventry (cvyv1)]]></name>
+				<description><![CDATA[<a href="http://water.weather.gov/ahps2/hydrograph.php?wfo=btv&gage=cvyv1">View the hydrograph for this marker (0.5)</a>]]></description>
+				<styleUrl>#sq-00ff00</styleUrl>
+				<Point><coordinates>-72.270556,44.868889</coordinates></Point>
+		</Placemark>		<Placemark>
+				<name><![CDATA[Warner River at Davisville (davn3)]]></name>
+				<description><![CDATA[<a href="http://water.weather.gov/ahps2/hydrograph.php?wfo=gyx&gage=davn3">View the hydrograph for this marker (0.5)</a>]]></description>
+				<styleUrl>#ci-00ff00</styleUrl>
+				<Point><coordinates>-71.732778,43.250833</coordinates></Point>
+		</Placemark>		<Placemark>
+				<name><![CDATA[Connecticut River at Dalton (dltn3)]]></name>
+				<description><![CDATA[<a href="http://water.weather.gov/ahps2/hydrograph.php?wfo=gyx&gage=dltn3">View the hydrograph for this marker (0.5)</a>]]></description>
+				<styleUrl>#ci-00ff00</styleUrl>
+				<Point><coordinates>-71.721111,44.410000</coordinates></Point>
+		</Placemark>		<Placemark>
+				<name><![CDATA[Piscataquis River at Dover-Foxcroft (dovm1)]]></name>
+				<description><![CDATA[<a href="http://water.weather.gov/ahps2/hydrograph.php?wfo=car&gage=dovm1">View the hydrograph for this marker (0.5)</a>]]></description>
+				<styleUrl>#ci-00ff00</styleUrl>
+				<Point><coordinates>-69.314722,45.175000</coordinates></Point>
+		</Placemark>		<Placemark>
+				<name><![CDATA[Missisquoi River at East Berkshire (ebkv1)]]></name>
+				<description><![CDATA[<a href="http://water.weather.gov/ahps2/hydrograph.php?wfo=btv&gage=ebkv1">View the hydrograph for this marker (0.5)</a>]]></description>
+				<styleUrl>#ci-00ff00</styleUrl>
+				<Point><coordinates>-72.696944,44.960000</coordinates></Point>
+		</Placemark>		<Placemark>
+				<name><![CDATA[East Branch of the Passumpsic River at East Haven (ehvv1)]]></name>
+				<description><![CDATA[<a href="http://water.weather.gov/ahps2/hydrograph.php?wfo=btv&gage=ehvv1">View the hydrograph for this marker (0.5)</a>]]></description>
+				<styleUrl>#sq-00ff00</styleUrl>
+				<Point><coordinates>-71.898056,44.633889</coordinates></Point>
+		</Placemark>		<Placemark>
+				<name><![CDATA[Merrimack River at Franklin Jct. (frjn3)]]></name>
+				<description><![CDATA[<a href="http://water.weather.gov/ahps2/hydrograph.php?wfo=gyx&gage=frjn3">View the hydrograph for this marker (0.5)</a>]]></description>
+				<styleUrl>#ci-00ff00</styleUrl>
+				<Point><coordinates>-71.653333,43.422778</coordinates></Point>
+		</Placemark>		<Placemark>
+				<name><![CDATA[Piscataquog River at Goffstown (gffn3)]]></name>
+				<description><![CDATA[<a href="http://water.weather.gov/ahps2/hydrograph.php?wfo=box&gage=gffn3">View the hydrograph for this marker (0.5)</a>]]></description>
+				<styleUrl>#ci-00ff00</styleUrl>
+				<Point><coordinates>-71.551111,43.016667</coordinates></Point>
+		</Placemark>		<Placemark>
+				<name><![CDATA[Merrimack River at Goffs Falls (gofn3)]]></name>
+				<description><![CDATA[<a href="http://water.weather.gov/ahps2/hydrograph.php?wfo=box&gage=gofn3">View the hydrograph for this marker (0.5)</a>]]></description>
+				<styleUrl>#ci-00ff00</styleUrl>
+				<Point><coordinates>-71.463889,42.948056</coordinates></Point>
+		</Placemark>		<Placemark>
+				<name><![CDATA[Androscoggin River at Gorham (grmn3)]]></name>
+				<description><![CDATA[<a href="http://water.weather.gov/ahps2/hydrograph.php?wfo=gyx&gage=grmn3">View the hydrograph for this marker (0.5)</a>]]></description>
+				<styleUrl>#ci-00ff00</styleUrl>
+				<Point><coordinates>-71.190833,44.436111</coordinates></Point>
+		</Placemark>		<Placemark>
+				<name><![CDATA[Contoocook River at Henniker (henn3)]]></name>
+				<description><![CDATA[<a href="http://water.weather.gov/ahps2/hydrograph.php?wfo=gyx&gage=henn3">View the hydrograph for this marker (0.5)</a>]]></description>
+				<styleUrl>#ci-00ff00</styleUrl>
+				<Point><coordinates>-71.857778,43.151944</coordinates></Point>
+		</Placemark>		<Placemark>
+				<name><![CDATA[Lamoille River at Johnson (jonv1)]]></name>
+				<description><![CDATA[<a href="http://water.weather.gov/ahps2/hydrograph.php?wfo=btv&gage=jonv1">View the hydrograph for this marker (0.5)</a>]]></description>
+				<styleUrl>#ci-00ff00</styleUrl>
+				<Point><coordinates>-72.676667,44.622778</coordinates></Point>
+		</Placemark>		<Placemark>
+				<name><![CDATA[Lamprey River near Newmarket (lamn3)]]></name>
+				<description><![CDATA[<a href="http://water.weather.gov/ahps2/hydrograph.php?wfo=gyx&gage=lamn3">View the hydrograph for this marker (0.5)</a>]]></description>
+				<styleUrl>#ci-00ff00</styleUrl>
+				<Point><coordinates>-70.953056,43.102500</coordinates></Point>
+		</Placemark>		<Placemark>
+				<name><![CDATA[North Branch Winooski River at Montpelier Langdon St.Bridge (lngv1)]]></name>
+				<description><![CDATA[<a href="http://water.weather.gov/ahps2/hydrograph.php?wfo=btv&gage=lngv1">View the hydrograph for this marker (0.5)</a>]]></description>
+				<styleUrl>#sq-00ff00</styleUrl>
+				<Point><coordinates>-72.576389,44.260833</coordinates></Point>
+		</Placemark>		<Placemark>
+				<name><![CDATA[Lake Memphremagog at Newport (memv1)]]></name>
+				<description><![CDATA[<a href="http://water.weather.gov/ahps2/hydrograph.php?wfo=btv&gage=memv1">View the hydrograph for this marker (0.5)</a>]]></description>
+				<styleUrl>#sq-00ff00</styleUrl>
+				<Point><coordinates>-72.206667,44.937778</coordinates></Point>
+		</Placemark>		<Placemark>
+				<name><![CDATA[Sandy River (ME) at Mercer (merm1)]]></name>
+				<description><![CDATA[<a href="http://water.weather.gov/ahps2/hydrograph.php?wfo=gyx&gage=merm1">View the hydrograph for this marker (0.5)</a>]]></description>
+				<styleUrl>#ci-00ff00</styleUrl>
+				<Point><coordinates>-69.939167,44.707222</coordinates></Point>
+		</Placemark>		<Placemark>
+				<name><![CDATA[Winooski River at Montpelier (monv1)]]></name>
+				<description><![CDATA[<a href="http://water.weather.gov/ahps2/hydrograph.php?wfo=btv&gage=monv1">View the hydrograph for this marker (0.5)</a>]]></description>
+				<styleUrl>#ci-00ff00</styleUrl>
+				<Point><coordinates>-72.593889,44.256667</coordinates></Point>
+		</Placemark>		<Placemark>
+				<name><![CDATA[Winooski River at Montpelier 2 SE (mopv1)]]></name>
+				<description><![CDATA[<a href="http://water.weather.gov/ahps2/hydrograph.php?wfo=btv&gage=mopv1">View the hydrograph for this marker (0.5)</a>]]></description>
+				<styleUrl>#sq-00ff00</styleUrl>
+				<Point><coordinates>-72.548889,44.245556</coordinates></Point>
+		</Placemark>		<Placemark>
+				<name><![CDATA[Carrabassett River at North Anson (nanm1)]]></name>
+				<description><![CDATA[<a href="http://water.weather.gov/ahps2/hydrograph.php?wfo=gyx&gage=nanm1">View the hydrograph for this marker (0.5)</a>]]></description>
+				<styleUrl>#ci-00ff00</styleUrl>
+				<Point><coordinates>-69.955556,44.869167</coordinates></Point>
+		</Placemark>		<Placemark>
+				<name><![CDATA[Suncook River at North Chichester (nchn3)]]></name>
+				<description><![CDATA[<a href="http://water.weather.gov/ahps2/hydrograph.php?wfo=gyx&gage=nchn3">View the hydrograph for this marker (0.5)</a>]]></description>
+				<styleUrl>#ci-00ff00</styleUrl>
+				<Point><coordinates>-71.370000,43.256667</coordinates></Point>
+		</Placemark>		<Placemark>
+				<name><![CDATA[Dog River at Northfield Falls (nffv1)]]></name>
+				<description><![CDATA[<a href="http://water.weather.gov/ahps2/hydrograph.php?wfo=btv&gage=nffv1">View the hydrograph for this marker (0.5)</a>]]></description>
+				<styleUrl>#sq-00ff00</styleUrl>
+				<Point><coordinates>-72.641111,44.182500</coordinates></Point>
+		</Placemark>		<Placemark>
+				<name><![CDATA[Ottauquechee River at North Hartland (nhdv1)]]></name>
+				<description><![CDATA[<a href="http://water.weather.gov/ahps2/hydrograph.php?wfo=btv&gage=nhdv1">View the hydrograph for this marker (0.5)</a>]]></description>
+				<styleUrl>#ci-00ff00</styleUrl>
+				<Point><coordinates>-72.354722,43.602500</coordinates></Point>
+		</Placemark>		<Placemark>
+				<name><![CDATA[Black River (Southern VT) at North Springfield (nosv1)]]></name>
+				<description><![CDATA[<a href="http://water.weather.gov/ahps2/hydrograph.php?wfo=btv&gage=nosv1">View the hydrograph for this marker (0.5)</a>]]></description>
+				<styleUrl>#sq-00ff00</styleUrl>
+				<Point><coordinates>-72.505556,43.339167</coordinates></Point>
+		</Placemark>		<Placemark>
+				<name><![CDATA[Connecticut River at North Stratford (nstn3)]]></name>
+				<description><![CDATA[<a href="http://water.weather.gov/ahps2/hydrograph.php?wfo=gyx&gage=nstn3">View the hydrograph for this marker (0.5)</a>]]></description>
+				<styleUrl>#ci-00ff00</styleUrl>
+				<Point><coordinates>-71.630556,44.748889</coordinates></Point>
+		</Placemark>		<Placemark>
+				<name><![CDATA[Missisquoi River at North Troy (ntyv1)]]></name>
+				<description><![CDATA[<a href="http://water.weather.gov/ahps2/hydrograph.php?wfo=btv&gage=ntyv1">View the hydrograph for this marker (0.5)</a>]]></description>
+				<styleUrl>#ci-00ff00</styleUrl>
+				<Point><coordinates>-72.385833,44.972778</coordinates></Point>
+		</Placemark>		<Placemark>
+				<name><![CDATA[Clyde River at Newport (nwpv1)]]></name>
+				<description><![CDATA[<a href="http://water.weather.gov/ahps2/hydrograph.php?wfo=btv&gage=nwpv1">View the hydrograph for this marker (0.5)</a>]]></description>
+				<styleUrl>#sq-00ff00</styleUrl>
+				<Point><coordinates>-72.189722,44.940278</coordinates></Point>
+		</Placemark>		<Placemark>
+				<name><![CDATA[Passumpsic River at Passumpsic (pasv1)]]></name>
+				<description><![CDATA[<a href="http://water.weather.gov/ahps2/hydrograph.php?wfo=btv&gage=pasv1">View the hydrograph for this marker (0.5)</a>]]></description>
+				<styleUrl>#ci-00ff00</styleUrl>
+				<Point><coordinates>-72.039722,44.365556</coordinates></Point>
+		</Placemark>		<Placemark>
+				<name><![CDATA[Sebasticook River at Pittsfield (pitm1)]]></name>
+				<description><![CDATA[<a href="http://water.weather.gov/ahps2/hydrograph.php?wfo=gyx&gage=pitm1">View the hydrograph for this marker (0.5)</a>]]></description>
+				<styleUrl>#ci-bdc2bb</styleUrl>
+				<Point><coordinates>-69.413889,44.716667</coordinates></Point>
+		</Placemark>		<Placemark>
+				<name><![CDATA[Pemigewasset River at Plymouth (plmn3)]]></name>
+				<description><![CDATA[<a href="http://water.weather.gov/ahps2/hydrograph.php?wfo=gyx&gage=plmn3">View the hydrograph for this marker (0.5)</a>]]></description>
+				<styleUrl>#ci-00ff00</styleUrl>
+				<Point><coordinates>-71.686111,43.759167</coordinates></Point>
+		</Placemark>		<Placemark>
+				<name><![CDATA[Ayers Brook at Randolph (ranv1)]]></name>
+				<description><![CDATA[<a href="http://water.weather.gov/ahps2/hydrograph.php?wfo=btv&gage=ranv1">View the hydrograph for this marker (0.5)</a>]]></description>
+				<styleUrl>#sq-00ff00</styleUrl>
+				<Point><coordinates>-72.658333,43.934444</coordinates></Point>
+		</Placemark>		<Placemark>
+				<name><![CDATA[Williams River near Rockingham (rkgv1)]]></name>
+				<description><![CDATA[<a href="http://water.weather.gov/ahps2/hydrograph.php?wfo=aly&gage=rkgv1">View the hydrograph for this marker (0.5)</a>]]></description>
+				<styleUrl>#sq-00ff00</styleUrl>
+				<Point><coordinates>-72.485556,43.191667</coordinates></Point>
+		</Placemark>		<Placemark>
+				<name><![CDATA[Androscoggin River at Rumford (rmfm1)]]></name>
+				<description><![CDATA[<a href="http://water.weather.gov/ahps2/hydrograph.php?wfo=gyx&gage=rmfm1">View the hydrograph for this marker (0.5)</a>]]></description>
+				<styleUrl>#ci-00ff00</styleUrl>
+				<Point><coordinates>-70.543889,44.551111</coordinates></Point>
+		</Placemark>		<Placemark>
+				<name><![CDATA[Swift River at Roxbury (roxm1)]]></name>
+				<description><![CDATA[<a href="http://water.weather.gov/ahps2/hydrograph.php?wfo=gyx&gage=roxm1">View the hydrograph for this marker (0.5)</a>]]></description>
+				<styleUrl>#ci-00ff00</styleUrl>
+				<Point><coordinates>-70.588056,44.642222</coordinates></Point>
+		</Placemark>		<Placemark>
+				<name><![CDATA[Baker River at Rumney (rumn3)]]></name>
+				<description><![CDATA[<a href="http://water.weather.gov/ahps2/hydrograph.php?wfo=gyx&gage=rumn3">View the hydrograph for this marker (0.5)</a>]]></description>
+				<styleUrl>#ci-00ff00</styleUrl>
+				<Point><coordinates>-71.845000,43.796111</coordinates></Point>
+		</Placemark>		<Placemark>
+				<name><![CDATA[Saxtons River at Saxtons River (saxv1)]]></name>
+				<description><![CDATA[<a href="http://water.weather.gov/ahps2/hydrograph.php?wfo=aly&gage=saxv1">View the hydrograph for this marker (0.5)</a>]]></description>
+				<styleUrl>#ci-00ff00</styleUrl>
+				<Point><coordinates>-72.488611,43.137500</coordinates></Point>
+		</Placemark>		<Placemark>
+				<name><![CDATA[Kennebec River at North Sidney (sidm1)]]></name>
+				<description><![CDATA[<a href="http://water.weather.gov/ahps2/hydrograph.php?wfo=gyx&gage=sidm1">View the hydrograph for this marker (0.5)</a>]]></description>
+				<styleUrl>#ci-00ff00</styleUrl>
+				<Point><coordinates>-69.685556,44.473611</coordinates></Point>
+		</Placemark>		<Placemark>
+				<name><![CDATA[Kennebec River at Skowhegan (skom1)]]></name>
+				<description><![CDATA[<a href="http://water.weather.gov/ahps2/hydrograph.php?wfo=gyx&gage=skom1">View the hydrograph for this marker (0.5)</a>]]></description>
+				<styleUrl>#ci-00ff00</styleUrl>
+				<Point><coordinates>-69.716667,44.766667</coordinates></Point>
+		</Placemark>		<Placemark>
+				<name><![CDATA[Soucook River at Pembroke (soun3)]]></name>
+				<description><![CDATA[<a href="http://water.weather.gov/ahps2/hydrograph.php?wfo=gyx&gage=soun3">View the hydrograph for this marker (0.5)</a>]]></description>
+				<styleUrl>#ci-00ff00</styleUrl>
+				<Point><coordinates>-71.480278,43.213056</coordinates></Point>
+		</Placemark>		<Placemark>
+				<name><![CDATA[West River below Townshend Lake (towv1)]]></name>
+				<description><![CDATA[<a href="http://water.weather.gov/ahps2/hydrograph.php?wfo=aly&gage=towv1">View the hydrograph for this marker (0.5)</a>]]></description>
+				<styleUrl>#sq-00ff00</styleUrl>
+				<Point><coordinates>-72.700556,43.051111</coordinates></Point>
+		</Placemark>		<Placemark>
+				<name><![CDATA[Ompompanoosuc River at Union Village Dam (unvv1)]]></name>
+				<description><![CDATA[<a href="http://water.weather.gov/ahps2/hydrograph.php?wfo=btv&gage=unvv1">View the hydrograph for this marker (0.5)</a>]]></description>
+				<styleUrl>#sq-00ff00</styleUrl>
+				<Point><coordinates>-72.255278,43.790000</coordinates></Point>
+		</Placemark>		<Placemark>
+				<name><![CDATA[Moose River at Victory (vicv1)]]></name>
+				<description><![CDATA[<a href="http://water.weather.gov/ahps2/hydrograph.php?wfo=btv&gage=vicv1">View the hydrograph for this marker (0.5)</a>]]></description>
+				<styleUrl>#sq-00ff00</styleUrl>
+				<Point><coordinates>-71.836944,44.511667</coordinates></Point>
+		</Placemark>		<Placemark>
+				<name><![CDATA[Presumpscot River at Westbrook (wbkm1)]]></name>
+				<description><![CDATA[<a href="http://water.weather.gov/ahps2/hydrograph.php?wfo=gyx&gage=wbkm1">View the hydrograph for this marker (0.5)</a>]]></description>
+				<styleUrl>#sq-00ff00</styleUrl>
+				<Point><coordinates>-70.346944,43.686944</coordinates></Point>
+		</Placemark>		<Placemark>
+				<name><![CDATA[Saco River at West Buxton (wbxm1)]]></name>
+				<description><![CDATA[<a href="http://water.weather.gov/ahps2/hydrograph.php?wfo=gyx&gage=wbxm1">View the hydrograph for this marker (0.5)</a>]]></description>
+				<styleUrl>#ci-00ff00</styleUrl>
+				<Point><coordinates>-70.603056,43.666667</coordinates></Point>
+		</Placemark>		<Placemark>
+				<name><![CDATA[Sugar River (NH) at West Claremont (wcln3)]]></name>
+				<description><![CDATA[<a href="http://water.weather.gov/ahps2/hydrograph.php?wfo=gyx&gage=wcln3">View the hydrograph for this marker (0.5)</a>]]></description>
+				<styleUrl>#ci-00ff00</styleUrl>
+				<Point><coordinates>-72.362500,43.387500</coordinates></Point>
+		</Placemark>		<Placemark>
+				<name><![CDATA[White River at West Hartford (wehv1)]]></name>
+				<description><![CDATA[<a href="http://water.weather.gov/ahps2/hydrograph.php?wfo=btv&gage=wehv1">View the hydrograph for this marker (0.5)</a>]]></description>
+				<styleUrl>#ci-00ff00</styleUrl>
+				<Point><coordinates>-72.418611,43.714167</coordinates></Point>
+		</Placemark>		<Placemark>
+				<name><![CDATA[Connecticut River at Wells River (welv1)]]></name>
+				<description><![CDATA[<a href="http://water.weather.gov/ahps2/hydrograph.php?wfo=gyx&gage=welv1">View the hydrograph for this marker (0.5)</a>]]></description>
+				<styleUrl>#ci-00ff00</styleUrl>
+				<Point><coordinates>-72.042778,44.153611</coordinates></Point>
+		</Placemark>		<Placemark>
+				<name><![CDATA[Connecticut River at West Lebanon (wlbn3)]]></name>
+				<description><![CDATA[<a href="http://water.weather.gov/ahps2/hydrograph.php?wfo=gyx&gage=wlbn3">View the hydrograph for this marker (0.5)</a>]]></description>
+				<styleUrl>#ci-00ff00</styleUrl>
+				<Point><coordinates>-72.312778,43.646111</coordinates></Point>
+		</Placemark>		<Placemark>
+				<name><![CDATA[Connecticut River at North Walpole (wlpn3)]]></name>
+				<description><![CDATA[<a href="http://water.weather.gov/ahps2/hydrograph.php?wfo=box&gage=wlpn3">View the hydrograph for this marker (0.5)</a>]]></description>
+				<styleUrl>#ci-00ff00</styleUrl>
+				<Point><coordinates>-72.437222,43.126111</coordinates></Point>
+		</Placemark>		<Placemark>
+				<name><![CDATA[Wells River at Wells River (wlrv1)]]></name>
+				<description><![CDATA[<a href="http://water.weather.gov/ahps2/hydrograph.php?wfo=btv&gage=wlrv1">View the hydrograph for this marker (0.5)</a>]]></description>
+				<styleUrl>#sq-00ff00</styleUrl>
+				<Point><coordinates>-72.065556,44.150278</coordinates></Point>
+		</Placemark>		<Placemark>
+				<name><![CDATA[Pemigewasset River at Woodstock (woon3)]]></name>
+				<description><![CDATA[<a href="http://water.weather.gov/ahps2/hydrograph.php?wfo=gyx&gage=woon3">View the hydrograph for this marker (0.5)</a>]]></description>
+				<styleUrl>#ci-00ff00</styleUrl>
+				<Point><coordinates>-71.680000,43.976111</coordinates></Point>
+		</Placemark>		<Placemark>
+				<name><![CDATA[North Branch Winooski River at Wrightsville (wrtv1)]]></name>
+				<description><![CDATA[<a href="http://water.weather.gov/ahps2/hydrograph.php?wfo=btv&gage=wrtv1">View the hydrograph for this marker (0.5)</a>]]></description>
+				<styleUrl>#sq-00ff00</styleUrl>
+				<Point><coordinates>-72.579167,44.299444</coordinates></Point>
+		</Placemark>		<Placemark>
+				<name><![CDATA[North Branch Winooski River at Wrightsville Detention Reservoir (wvrv1)]]></name>
+				<description><![CDATA[<a href="http://water.weather.gov/ahps2/hydrograph.php?wfo=btv&gage=wvrv1">View the hydrograph for this marker (0.5)</a>]]></description>
+				<styleUrl>#sq-00ff00</styleUrl>
+				<Point><coordinates>-72.575278,44.310556</coordinates></Point>
+		</Placemark></Document>
+</kml>

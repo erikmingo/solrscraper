@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="http://microformats.org/wiki/skins/common/feed.css?164"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+		<id>http://microformats.org/wiki/index.php?title=Special:RecentChanges&amp;feed=atom</id>
+		<title>Microformats Wiki  - Recent changes [en]</title>
+		<link rel="self" type="application/atom+xml" href="http://microformats.org/wiki/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+		<link rel="alternate" type="text/html" href="http://microformats.org/wiki/Special:RecentChanges"/>
+		<updated>2014-07-21T10:53:41Z</updated>
+		<subtitle>Track the most recent changes to the wiki in this feed.</subtitle>
+		<generator>MediaWiki 1.13.2</generator>
+
+	<entry>
+		<id>http://microformats.org/wiki/index.php?title=question-answer-brainstorming&amp;diff=64428&amp;oldid=prev</id>
+		<title>question-answer-brainstorming</title>
+		<link rel="alternate" type="text/html" href="http://microformats.org/wiki/index.php?title=question-answer-brainstorming&amp;diff=64428&amp;oldid=prev"/>
+				<updated>2014-07-18T10:20:53Z</updated>
+		
+		<summary type="html">&lt;p&gt;&lt;span class=&quot;autocomment&quot;&gt;See also:&amp;#32;&lt;/span&gt; &lt;/p&gt;
+
+			&lt;table style=&quot;background-color: white; color:black;&quot;&gt;
+			&lt;col class='diff-marker' /&gt;
+			&lt;col class='diff-content' /&gt;
+			&lt;col class='diff-marker' /&gt;
+			&lt;col class='diff-content' /&gt;
+			&lt;tr valign='top'&gt;
+				&lt;td colspan='2' style=&quot;background-color: white; color:black;&quot;&gt;←Older revision&lt;/td&gt;
+				&lt;td colspan='2' style=&quot;background-color: white; color:black;&quot;&gt;Revision as of 10:20, 18 July 2014&lt;/td&gt;
+			&lt;/tr&gt;
+		&lt;tr&gt;&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;Line 88:&lt;/td&gt;
+&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;Line 88:&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;* [[question-answer-examples]]&lt;/div&gt;&lt;/td&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;* [[question-answer-examples]]&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;* [[question-answer-formats]]&lt;/div&gt;&lt;/td&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;* [[question-answer-formats]]&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td colspan=&quot;2&quot;&gt;&amp;nbsp;&lt;/td&gt;&lt;td class='diff-marker'&gt;+&lt;/td&gt;&lt;td style=&quot;background: #cfc; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;&lt;ins style=&quot;color: red; font-weight: bold; text-decoration: none;&quot;&gt;* [http://essayacademia.com/choosing-reliable-essay-writing-company-service.php[reliable essay writing service]]&lt;/ins&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;!-- diff generator: internal 2014-07-21 10:53:41 --&gt;
+&lt;/table&gt;</summary>
+		<author><name>MythiliIyer</name></author>	</entry>
+
+	<entry>
+		<id>http://microformats.org/wiki/index.php?title=microformats2-parsing&amp;diff=64427&amp;oldid=prev</id>
+		<title>microformats2-parsing</title>
+		<link rel="alternate" type="text/html" href="http://microformats.org/wiki/index.php?title=microformats2-parsing&amp;diff=64427&amp;oldid=prev"/>
+				<updated>2014-07-17T11:39:50Z</updated>
+		
+		<summary type="html">&lt;p&gt;&lt;span class=&quot;autocomment&quot;&gt;parsing an e- property:&amp;#32;&lt;/span&gt; added URL resolution detail&lt;/p&gt;
+
+			&lt;table style=&quot;background-color: white; color:black;&quot;&gt;
+			&lt;col class='diff-marker' /&gt;
+			&lt;col class='diff-content' /&gt;
+			&lt;col class='diff-marker' /&gt;
+			&lt;col class='diff-content' /&gt;
+			&lt;tr valign='top'&gt;
+				&lt;td colspan='2' style=&quot;background-color: white; color:black;&quot;&gt;←Older revision&lt;/td&gt;
+				&lt;td colspan='2' style=&quot;background-color: white; color:black;&quot;&gt;Revision as of 11:39, 17 July 2014&lt;/td&gt;
+			&lt;/tr&gt;
+		&lt;tr&gt;&lt;td colspan='4' align='center' class='diff-multi'&gt;(One intermediate revision not shown.)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;Line 47:&lt;/td&gt;
+&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;Line 47:&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;* else if data.p-x[value] or input.p-x[value], then return the value attribute&lt;/div&gt;&lt;/td&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;* else if data.p-x[value] or input.p-x[value], then return the value attribute&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;* else if img.p-x[alt] or area.p-x[alt], then return the alt attribute&lt;/div&gt;&lt;/td&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;* else if img.p-x[alt] or area.p-x[alt], then return the alt attribute&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class='diff-marker'&gt;-&lt;/td&gt;&lt;td style=&quot;background: #ffa; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;* else return the textContent of the element, replacing any nested &amp;lt;code&amp;gt;&amp;amp;lt;img&amp;gt;&amp;lt;/code&amp;gt; elements with their &amp;lt;code&amp;gt;alt&amp;lt;/code&amp;gt; attribute if present, or otherwise their &amp;lt;code&amp;gt;src&amp;lt;/code&amp;gt; attribute if present.&lt;/div&gt;&lt;/td&gt;&lt;td class='diff-marker'&gt;+&lt;/td&gt;&lt;td style=&quot;background: #cfc; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;* else return the textContent of the element, replacing any nested &amp;lt;code&amp;gt;&amp;amp;lt;img&amp;gt;&amp;lt;/code&amp;gt; elements with their &amp;lt;code&amp;gt;alt&amp;lt;/code&amp;gt; attribute if present, or otherwise their &amp;lt;code&amp;gt;src&amp;lt;/code&amp;gt; attribute if present&lt;ins class=&quot;diffchange diffchange-inline&quot;&gt;, resolving any relative URLs&lt;/ins&gt;.&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;/td&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;==== parsing a u- property ====&lt;/div&gt;&lt;/td&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;==== parsing a u- property ====&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;Line 72:&lt;/td&gt;
+&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;Line 72:&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;* return a dictionary with two keys:&lt;/div&gt;&lt;/td&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;* return a dictionary with two keys:&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;** &amp;lt;code&amp;gt;html&amp;lt;/code&amp;gt;: the innerHTML of the element by using the [http://www.whatwg.org/specs/web-apps/current-work/multipage/the-end.html#serializing-html-fragments HTML spec: Serializing HTML Fragments algorithm].&lt;/div&gt;&lt;/td&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;** &amp;lt;code&amp;gt;html&amp;lt;/code&amp;gt;: the innerHTML of the element by using the [http://www.whatwg.org/specs/web-apps/current-work/multipage/the-end.html#serializing-html-fragments HTML spec: Serializing HTML Fragments algorithm].&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class='diff-marker'&gt;-&lt;/td&gt;&lt;td style=&quot;background: #ffa; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;** &amp;lt;code&amp;gt;value&amp;lt;/code&amp;gt;: the textContent of the element, replacing any nested &amp;lt;code&amp;gt;&amp;amp;lt;img&amp;gt;&amp;lt;/code&amp;gt; elements with their &amp;lt;code&amp;gt;alt&amp;lt;/code&amp;gt; attribute if present, or otherwise their &amp;lt;code&amp;gt;src&amp;lt;/code&amp;gt; attribute if present.&lt;/div&gt;&lt;/td&gt;&lt;td class='diff-marker'&gt;+&lt;/td&gt;&lt;td style=&quot;background: #cfc; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;** &amp;lt;code&amp;gt;value&amp;lt;/code&amp;gt;: the textContent of the element, replacing any nested &amp;lt;code&amp;gt;&amp;amp;lt;img&amp;gt;&amp;lt;/code&amp;gt; elements with their &amp;lt;code&amp;gt;alt&amp;lt;/code&amp;gt; attribute if present, or otherwise their &amp;lt;code&amp;gt;src&amp;lt;/code&amp;gt; attribute if present&lt;ins class=&quot;diffchange diffchange-inline&quot;&gt;, resolving the URL if it’s relative&lt;/ins&gt;.&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;/td&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;==== parsing for implied properties ====&lt;/div&gt;&lt;/td&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;==== parsing for implied properties ====&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;!-- diff generator: internal 2014-07-21 10:53:41 --&gt;
+&lt;/table&gt;</summary>
+		<author><name>Barnabywalters</name></author>	</entry>
+
+	<entry>
+		<id>http://microformats.org/wiki/index.php?title=h-entry&amp;diff=64425&amp;oldid=prev</id>
+		<title>h-entry</title>
+		<link rel="alternate" type="text/html" href="http://microformats.org/wiki/index.php?title=h-entry&amp;diff=64425&amp;oldid=prev"/>
+				<updated>2014-07-14T20:37:47Z</updated>
+		
+		<summary type="html">&lt;p&gt;&lt;span class=&quot;autocomment&quot;&gt;Validating:&amp;#32;&lt;/span&gt; update link from indiewebify.waterpigs.co.uk to the more common indiewebify.me&lt;/p&gt;
+
+			&lt;table style=&quot;background-color: white; color:black;&quot;&gt;
+			&lt;col class='diff-marker' /&gt;
+			&lt;col class='diff-content' /&gt;
+			&lt;col class='diff-marker' /&gt;
+			&lt;col class='diff-content' /&gt;
+			&lt;tr valign='top'&gt;
+				&lt;td colspan='2' style=&quot;background-color: white; color:black;&quot;&gt;←Older revision&lt;/td&gt;
+				&lt;td colspan='2' style=&quot;background-color: white; color:black;&quot;&gt;Revision as of 20:37, 14 July 2014&lt;/td&gt;
+			&lt;/tr&gt;
+		&lt;tr&gt;&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;Line 153:&lt;/td&gt;
+&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;Line 153:&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;/td&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;== Validating ==&lt;/div&gt;&lt;/td&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;== Validating ==&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class='diff-marker'&gt;-&lt;/td&gt;&lt;td style=&quot;background: #ffa; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;* '''[http://indiewebify.&lt;del class=&quot;diffchange diffchange-inline&quot;&gt;waterpigs.co.uk&lt;/del&gt;/validate-h-entry/ indiewebify.me h-entry validator]''' parses [[h-entry]] markup, finds common errors and makes suggestions for things to add, with code samples&lt;/div&gt;&lt;/td&gt;&lt;td class='diff-marker'&gt;+&lt;/td&gt;&lt;td style=&quot;background: #cfc; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;* '''[http://indiewebify.&lt;ins class=&quot;diffchange diffchange-inline&quot;&gt;me&lt;/ins&gt;/validate-h-entry/ indiewebify.me h-entry validator]''' parses [[h-entry]] markup, finds common errors and makes suggestions for things to add, with code samples&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;{{h-spec-section-validating}}&lt;/div&gt;&lt;/td&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;{{h-spec-section-validating}}&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;/td&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;!-- diff generator: internal 2014-07-21 10:53:41 --&gt;
+&lt;/table&gt;</summary>
+		<author><name>Kylewm</name></author>	</entry>
+
+	<entry>
+		<id>http://microformats.org/wiki/index.php?title=sheet-music-formats&amp;diff=64424&amp;oldid=prev</id>
+		<title>sheet-music-formats</title>
+		<link rel="alternate" type="text/html" href="http://microformats.org/wiki/index.php?title=sheet-music-formats&amp;diff=64424&amp;oldid=prev"/>
+				<updated>2014-07-14T14:14:04Z</updated>
+		
+		<summary type="html">&lt;p&gt;&lt;span class=&quot;autocomment&quot;&gt;PDF:&amp;#32;&lt;/span&gt; &lt;/p&gt;
+
+			&lt;table style=&quot;background-color: white; color:black;&quot;&gt;
+			&lt;col class='diff-marker' /&gt;
+			&lt;col class='diff-content' /&gt;
+			&lt;col class='diff-marker' /&gt;
+			&lt;col class='diff-content' /&gt;
+			&lt;tr valign='top'&gt;
+				&lt;td colspan='2' style=&quot;background-color: white; color:black;&quot;&gt;←Older revision&lt;/td&gt;
+				&lt;td colspan='2' style=&quot;background-color: white; color:black;&quot;&gt;Revision as of 14:14, 14 July 2014&lt;/td&gt;
+			&lt;/tr&gt;
+		&lt;tr&gt;&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;Line 63:&lt;/td&gt;
+&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;Line 63:&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;* Examples in the Wild&lt;/div&gt;&lt;/td&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;* Examples in the Wild&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;** [http://www.freesheetmusic.net/ Free Sheet Music.net] — vast amounts of sheet music locked up in .pdf format&lt;/div&gt;&lt;/td&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;** [http://www.freesheetmusic.net/ Free Sheet Music.net] — vast amounts of sheet music locked up in .pdf format&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td colspan=&quot;2&quot;&gt;&amp;nbsp;&lt;/td&gt;&lt;td class='diff-marker'&gt;+&lt;/td&gt;&lt;td style=&quot;background: #cfc; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;&lt;ins style=&quot;color: red; font-weight: bold; text-decoration: none;&quot;&gt;** [http://www.fortenotation.com/en/free-sheet-music/ Forte Notation Free Sheet Music] — A selection of sheet music for free download. You can select different pieces of the most common classical composers (Bach, Mozart, Schubert etc.)&lt;/ins&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;/td&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;==== Images ====&lt;/div&gt;&lt;/td&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;==== Images ====&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;!-- diff generator: internal 2014-07-21 10:53:41 --&gt;
+&lt;/table&gt;</summary>
+		<author><name>ForteMNS</name></author>	</entry>
+
+	</feed>

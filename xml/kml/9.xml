@@ -1,0 +1,199 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document>
+<name>&lt;a href=&quot;http://nsidc.org/data/virtual_globes/&quot;&gt;NSIDC&lt;/a&gt;</name>
+<description>Glaciers and permafrost</description><open>1</open>
+
+ <LookAt>
+   <longitude>-43</longitude>
+   <latitude>74</latitude>
+   <range>2000000</range>
+</LookAt>
+
+<Style id="NSIDC_Files">
+    <BalloonStyle>
+      <!-- a background color for the balloon -->
+      <bgColor>ffffffff</bgColor>
+      <!-- styling of the balloon text -->
+      <text><![CDATA[
+      <br/><br/>
+      <font face="Arial">$[description]</font>
+      ]]></text>
+    </BalloonStyle>
+  </Style>
+
+<Style>
+<ListStyle>
+<listItemType>radioFolder</listItemType>
+</ListStyle>
+</Style>
+
+<NetworkLink>
+  <name>Glacier Pairs</name>
+  <visibility>0</visibility>
+ <Link>
+    <href>http://nsidc.org/data/google_earth/noaa/NSIDC_glacier_pairs.kml</href>
+    <refreshMode>onChange</refreshMode>
+  </Link> 
+  <LookAt>
+	<longitude>-147.05</longitude>
+	<latitude>64.17</latitude>
+	<range>2100000</range>
+  </LookAt>
+</NetworkLink> 
+
+<NetworkLink>
+  <name>Glacier photos - Canada</name>
+  <visibility>0</visibility>
+  <Link>
+    <href>http://nsidc.org/data/google_earth/noaa/Canada_glacier_photos.kml</href>
+    <refreshMode>onChange</refreshMode>
+  </Link>
+  <LookAt>
+    <longitude>-110</longitude>
+    <latitude>56</latitude>
+    <range>4100000</range>
+    <altitudeMode>relativeToGround</altitudeMode>
+  </LookAt>
+</NetworkLink>
+
+<NetworkLink>
+  <name>Glacier photos - France</name>
+  <visibility>0</visibility>
+  <Link>
+    <href>http://nsidc.org/data/google_earth/noaa/France_glacier_photos.kml</href>
+    <refreshMode>onChange</refreshMode>
+  </Link>
+  <LookAt>
+    <longitude>4</longitude>
+    <latitude>48</latitude>
+    <range>4100000</range>
+    <altitudeMode>relativeToGround</altitudeMode>
+  </LookAt>
+</NetworkLink>
+
+<NetworkLink>
+  <name>Glacier photos - Greenland</name>
+  <visibility>1</visibility>
+  <Link>
+    <href>http://nsidc.org/data/google_earth/noaa/Greenland_glacier_photos.kml</href>
+    <refreshMode>onChange</refreshMode>
+  </Link>
+  <LookAt>
+    <longitude>-19</longitude>
+    <latitude>70</latitude>
+    <range>3100000</range>
+    <altitudeMode>relativeToGround</altitudeMode>
+  </LookAt>
+</NetworkLink>
+
+<NetworkLink>
+  <name>Glacier photos - Italy</name>
+  <visibility>0</visibility>
+  <Link>
+    <href>http://nsidc.org/data/google_earth/noaa/Italy_glacier_photos.kml</href>
+    <refreshMode>onChange</refreshMode>
+  </Link>
+  <LookAt>
+    <longitude>4</longitude>
+    <latitude>48</latitude>
+    <range>3100000</range>
+    <altitudeMode>relativeToGround</altitudeMode>
+  </LookAt>
+</NetworkLink>
+
+<NetworkLink>
+<name>Glacier photos – New Zealand</name>
+  <visibility>0</visibility>
+  <Link>
+<href>http://nsidc.org/data/google_earth/noaa/New_Zealand_glacier_photos.kml</href>
+    <refreshMode>onChange</refreshMode>
+  </Link>
+  <LookAt>
+    <longitude>174</longitude>
+    <latitude>-43</latitude>
+    <range>3100000</range>
+    <altitudeMode>relativeToGround</altitudeMode>
+  </LookAt>
+</NetworkLink>
+
+<NetworkLink>
+<name>Glacier photos - Peru</name>
+  <visibility>0</visibility>
+  <Link>
+
+<href>http://nsidc.org/data/google_earth/noaa/Peru_glacier_photos.kml</href>
+    <refreshMode>onChange</refreshMode>
+  </Link>
+  <LookAt>
+    <longitude>-70.5</longitude>
+    <latitude>-13.54</latitude>
+    <range>3100000</range>
+    <altitudeMode>relativeToGround</altitudeMode>
+  </LookAt>
+</NetworkLink>
+
+<NetworkLink>
+  <name>Glacier photos - Switzerland</name>
+  <visibility>0</visibility>
+  <Link>
+    <href>http://nsidc.org/data/google_earth/noaa/Switzerland_glacier_photos.kml</href>
+    <refreshMode>onChange</refreshMode>
+  </Link>
+  <LookAt>
+    <longitude>4</longitude>
+    <latitude>48</latitude>
+    <range>3100000</range>
+    <altitudeMode>relativeToGround</altitudeMode>
+  </LookAt>
+</NetworkLink>
+
+<NetworkLink>
+  <name>Glacier photos - USA</name>
+  <visibility>0</visibility>
+  <Link>
+    <href>http://nsidc.org/data/google_earth/noaa/USA_glacier_photos.kml</href>
+    <refreshMode>onChange</refreshMode>
+  </Link>
+  <LookAt>
+    <longitude>-120</longitude>
+    <latitude>55</latitude>
+    <range>3100000</range>
+    <altitudeMode>relativeToGround</altitudeMode>
+  </LookAt>
+</NetworkLink>
+
+<NetworkLink>
+  <name>Glacier photos – USA/CA</name>
+  <visibility>0</visibility>
+  <Link>
+   <href>http://nsidc.org/data/google_earth/noaa/USA_CA_glacier_photos.kml</href>
+    <refreshMode>onChange</refreshMode>
+  </Link>
+  <LookAt>
+    <longitude>-120</longitude>
+    <latitude>55</latitude>
+    <range>3100000</range>
+    <altitudeMode>relativeToGround</altitudeMode>
+  </LookAt>
+</NetworkLink>
+
+<NetworkLink id="permafrost">
+  <name>Permafrost</name>
+  <visibility>0</visibility>
+  <Link>
+   <href>http://nsidc.org/data/google_earth/noaa/NSIDC_permafrost.kml</href>
+    <refreshMode>onChange</refreshMode>
+  </Link>
+  <LookAt>
+    <longitude>150</longitude>
+    <latitude>88</latitude>
+    <range>3100000</range>
+    <altitudeMode>relativeToGround</altitudeMode>
+  </LookAt>
+</NetworkLink>
+
+</Document>
+</kml>
+
+

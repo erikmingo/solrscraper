@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?><feed
+  xmlns="http://www.w3.org/2005/Atom"
+  xmlns:thr="http://purl.org/syndication/thread/1.0"
+  xml:lang="en-US"
+  xml:base="http://news.aurora.edu/wp-atom.php"
+   >
+	<title type="text">AU Today — News from the Aurora University Community</title>
+	<subtitle type="text">News from the Aurora University Community</subtitle>
+
+	<updated>2014-07-18T18:56:14Z</updated>
+
+	<link rel="alternate" type="text/html" href="http://news.aurora.edu" />
+	<id>http://news.aurora.edu/feed/atom/</id>
+	<link rel="self" type="application/atom+xml" href="http://news.aurora.edu/feed/atom/" />
+
+	<generator uri="http://wordpress.org/" version="3.9.1">WordPress</generator>
+	<entry>
+		<author>
+			<name>Aurora University</name>
+						<uri>http://www.aurora.edu</uri>
+					</author>
+		<title type="html"><![CDATA[Ed Howerton named Assistant to the President for STEM at Aurora University]]></title>
+		<link rel="alternate" type="text/html" href="http://news.aurora.edu/ed-howerton-named-assistant-to-the-president-for-stem-at-aurora-university/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=ed-howerton-named-assistant-to-the-president-for-stem-at-aurora-university" />
+		<id>http://news.aurora.edu/?p=8351</id>
+		<updated>2014-07-18T18:56:14Z</updated>
+		<published>2014-07-18T18:56:14Z</published>
+		<category scheme="http://news.aurora.edu" term="Around Campus" /><category scheme="http://news.aurora.edu" term="Aurora University" /><category scheme="http://news.aurora.edu" term="Featured" /><category scheme="http://news.aurora.edu" term="General" /><category scheme="http://news.aurora.edu" term="academics" /><category scheme="http://news.aurora.edu" term="AU Online" /><category scheme="http://news.aurora.edu" term="education" /><category scheme="http://news.aurora.edu" term="institute" /><category scheme="http://news.aurora.edu" term="STEM" />		<summary type="html"><![CDATA[Aurora University announced today that Dr. Ed Howerton, who serves currently as Assistant Director of the School of Education at AU, has been named Assistant to the President for STEM. In this role, Howerton will lead the next phase of development of the John C. Dunham STEM Partnership School on the AU campus and ensure that all is ready for the arrival of students in August.]]></summary>
+			<link rel="replies" type="text/html" href="http://news.aurora.edu/ed-howerton-named-assistant-to-the-president-for-stem-at-aurora-university/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=ed-howerton-named-assistant-to-the-president-for-stem-at-aurora-university#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://news.aurora.edu/ed-howerton-named-assistant-to-the-president-for-stem-at-aurora-university/feed/atom/" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name>Aurora University</name>
+						<uri>http://www.aurora.edu</uri>
+					</author>
+		<title type="html"><![CDATA[Phillips Library enhances the student experience with online resources]]></title>
+		<link rel="alternate" type="text/html" href="http://news.aurora.edu/phillips-library-enhances-the-student-experience-with-online-resources/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=phillips-library-enhances-the-student-experience-with-online-resources" />
+		<id>http://news.aurora.edu/?p=8344</id>
+		<updated>2014-07-17T20:52:56Z</updated>
+		<published>2014-07-17T20:52:56Z</published>
+		<category scheme="http://news.aurora.edu" term="General" /><category scheme="http://news.aurora.edu" term="academics" /><category scheme="http://news.aurora.edu" term="campus services" /><category scheme="http://news.aurora.edu" term="library" /><category scheme="http://news.aurora.edu" term="student activities" />		<summary type="html"><![CDATA[Since 1962, Phillips Library has served Aurora University students with their research and educational needs. According to Amy Schlumpf Manion, Information Services Librarian, steps taken in previous years have enabled the library to better connect students to necessary information.]]></summary>
+			<link rel="replies" type="text/html" href="http://news.aurora.edu/phillips-library-enhances-the-student-experience-with-online-resources/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=phillips-library-enhances-the-student-experience-with-online-resources#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://news.aurora.edu/phillips-library-enhances-the-student-experience-with-online-resources/feed/atom/" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name>Jeremy Pittenger</name>
+						<uri>http://www.aurora.edu</uri>
+					</author>
+		<title type="html"><![CDATA[Economic impact of Aurora University increases in Fox Valley, Chicagoland]]></title>
+		<link rel="alternate" type="text/html" href="http://news.aurora.edu/economic-impact-of-aurora-university-increases-in-fox-valley-chicagoland/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=economic-impact-of-aurora-university-increases-in-fox-valley-chicagoland" />
+		<id>http://news.aurora.edu/?p=8337</id>
+		<updated>2014-07-15T20:40:31Z</updated>
+		<published>2014-07-15T20:40:31Z</published>
+		<category scheme="http://news.aurora.edu" term="Around Campus" /><category scheme="http://news.aurora.edu" term="Aurora University" /><category scheme="http://news.aurora.edu" term="General" /><category scheme="http://news.aurora.edu" term="In the Community" /><category scheme="http://news.aurora.edu" term="in the news" />		<summary type="html"><![CDATA[As excitement builds for the transformation of the south campus and the pending arrival of a new freshman class, a new study shows that Aurora University continues to make significant contributions throughout its surrounding communities.]]></summary>
+			<link rel="replies" type="text/html" href="http://news.aurora.edu/economic-impact-of-aurora-university-increases-in-fox-valley-chicagoland/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=economic-impact-of-aurora-university-increases-in-fox-valley-chicagoland#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://news.aurora.edu/economic-impact-of-aurora-university-increases-in-fox-valley-chicagoland/feed/atom/" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name>Jeremy Pittenger</name>
+						<uri>http://www.aurora.edu</uri>
+					</author>
+		<title type="html"><![CDATA[Writing leads to alumna&#8217;s success story]]></title>
+		<link rel="alternate" type="text/html" href="http://news.aurora.edu/writing-leads-to-alumnas-success-story/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=writing-leads-to-alumnas-success-story" />
+		<id>http://news.aurora.edu/?p=8320</id>
+		<updated>2014-07-03T18:16:16Z</updated>
+		<published>2014-07-03T16:26:43Z</published>
+		<category scheme="http://news.aurora.edu" term="Aurora University" /><category scheme="http://news.aurora.edu" term="Featured" /><category scheme="http://news.aurora.edu" term="General" /><category scheme="http://news.aurora.edu" term="academics" /><category scheme="http://news.aurora.edu" term="alumni" /><category scheme="http://news.aurora.edu" term="career" /><category scheme="http://news.aurora.edu" term="humanities" />		<summary type="html"><![CDATA[Katie Kather’s passion for telling people’s stories is resulting in professional accolades and personal rewards. Her experience in journalism began as a student in the Aurora University adult degree completion program.]]></summary>
+			<link rel="replies" type="text/html" href="http://news.aurora.edu/writing-leads-to-alumnas-success-story/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=writing-leads-to-alumnas-success-story#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://news.aurora.edu/writing-leads-to-alumnas-success-story/feed/atom/" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name>Sara Meers</name>
+					</author>
+		<title type="html"><![CDATA[Spartan Spotlight: Tiffany Cunnally, AU &#8217;14]]></title>
+		<link rel="alternate" type="text/html" href="http://news.aurora.edu/spartan-spotlight-tiffany-cunnally-au-14/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=spartan-spotlight-tiffany-cunnally-au-14" />
+		<id>http://news.aurora.edu/?p=8305</id>
+		<updated>2014-06-30T20:03:21Z</updated>
+		<published>2014-06-30T20:03:21Z</published>
+		<category scheme="http://news.aurora.edu" term="Around Campus" /><category scheme="http://news.aurora.edu" term="General" /><category scheme="http://news.aurora.edu" term="In the Community" /><category scheme="http://news.aurora.edu" term="accolades" /><category scheme="http://news.aurora.edu" term="alumni" /><category scheme="http://news.aurora.edu" term="leadership" /><category scheme="http://news.aurora.edu" term="service" /><category scheme="http://news.aurora.edu" term="social work" /><category scheme="http://news.aurora.edu" term="student activities" />		<summary type="html"><![CDATA[Discover what matters. And build your life around it. That is exactly what social work major Tiffany Cunnally did during her time at Aurora University.]]></summary>
+			<link rel="replies" type="text/html" href="http://news.aurora.edu/spartan-spotlight-tiffany-cunnally-au-14/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=spartan-spotlight-tiffany-cunnally-au-14#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://news.aurora.edu/spartan-spotlight-tiffany-cunnally-au-14/feed/atom/" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name>Christina Young</name>
+					</author>
+		<title type="html"><![CDATA[Wackerlin Center&#8217;s Volunteer Fox Valley continues to connect volunteers to area opportunities]]></title>
+		<link rel="alternate" type="text/html" href="http://news.aurora.edu/wackerlin-centers-volunteer-fox-valley-continues-to-connect-volunteers-to-area-opportunities/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=wackerlin-centers-volunteer-fox-valley-continues-to-connect-volunteers-to-area-opportunities" />
+		<id>http://news.aurora.edu/?p=8297</id>
+		<updated>2014-06-27T19:10:50Z</updated>
+		<published>2014-06-27T19:09:47Z</published>
+		<category scheme="http://news.aurora.edu" term="Around Campus" /><category scheme="http://news.aurora.edu" term="General" /><category scheme="http://news.aurora.edu" term="In the Community" /><category scheme="http://news.aurora.edu" term="leadership" /><category scheme="http://news.aurora.edu" term="service" /><category scheme="http://news.aurora.edu" term="Wackerlin" />		<summary type="html"><![CDATA[Since its launch in February, Volunteer Fox Valley (VFV) has been connecting nonprofit organizations to community members seeking volunteer opportunities in a free and easy way. More than 85 nonprofit organizations and almost 500 community members and AU students have registered for the virtual volunteer center.]]></summary>
+			<link rel="replies" type="text/html" href="http://news.aurora.edu/wackerlin-centers-volunteer-fox-valley-continues-to-connect-volunteers-to-area-opportunities/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=wackerlin-centers-volunteer-fox-valley-continues-to-connect-volunteers-to-area-opportunities#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://news.aurora.edu/wackerlin-centers-volunteer-fox-valley-continues-to-connect-volunteers-to-area-opportunities/feed/atom/" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name>Brian Kipley</name>
+					</author>
+		<title type="html"><![CDATA[Spartan athletic programs have successful year]]></title>
+		<link rel="alternate" type="text/html" href="http://news.aurora.edu/spartan-athletic-programs-have-successful-year/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=spartan-athletic-programs-have-successful-year" />
+		<id>http://news.aurora.edu/?p=8277</id>
+		<updated>2014-06-25T17:13:05Z</updated>
+		<published>2014-06-25T17:07:13Z</published>
+		<category scheme="http://news.aurora.edu" term="Around Campus" /><category scheme="http://news.aurora.edu" term="General" /><category scheme="http://news.aurora.edu" term="On the Field" /><category scheme="http://news.aurora.edu" term="accolades" /><category scheme="http://news.aurora.edu" term="baseball" /><category scheme="http://news.aurora.edu" term="basketball" /><category scheme="http://news.aurora.edu" term="cross country" /><category scheme="http://news.aurora.edu" term="football" /><category scheme="http://news.aurora.edu" term="softball" /><category scheme="http://news.aurora.edu" term="student activities" /><category scheme="http://news.aurora.edu" term="tennis" /><category scheme="http://news.aurora.edu" term="track and field" /><category scheme="http://news.aurora.edu" term="volleyball" />		<summary type="html"><![CDATA[Aurora University repeated as the Northern Athletics Collegiate Conference (NACC) All-Sports champion in women’s sports and received a second place finish for the title in men’s sports. ]]></summary>
+			<link rel="replies" type="text/html" href="http://news.aurora.edu/spartan-athletic-programs-have-successful-year/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=spartan-athletic-programs-have-successful-year#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://news.aurora.edu/spartan-athletic-programs-have-successful-year/feed/atom/" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name>Stephanie Kollm</name>
+					</author>
+		<title type="html"><![CDATA[Spartan Spotlight: Ignacio Cervantes, &#8217;14]]></title>
+		<link rel="alternate" type="text/html" href="http://news.aurora.edu/spartan-spotlight-ignacio-cervantes-14/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=spartan-spotlight-ignacio-cervantes-14" />
+		<id>http://news.aurora.edu/?p=8259</id>
+		<updated>2014-06-23T20:56:48Z</updated>
+		<published>2014-06-23T20:56:28Z</published>
+		<category scheme="http://news.aurora.edu" term="Around Campus" /><category scheme="http://news.aurora.edu" term="General" /><category scheme="http://news.aurora.edu" term="In the Community" /><category scheme="http://news.aurora.edu" term="Online" /><category scheme="http://news.aurora.edu" term="alumni" /><category scheme="http://news.aurora.edu" term="career" /><category scheme="http://news.aurora.edu" term="criminal justice" /><category scheme="http://news.aurora.edu" term="leadership" /><category scheme="http://news.aurora.edu" term="service" />		<summary type="html"><![CDATA["I came to AU because they offered me what other colleges couldn't—a chance to connect community and campus while I earned my degree," sayscriminal justice and Spanish major Ignacio "Nacho" Cervantes, AU '14. And for Cervantes, the combination of campus and community is what motivated him throughout his four years. ]]></summary>
+			<link rel="replies" type="text/html" href="http://news.aurora.edu/spartan-spotlight-ignacio-cervantes-14/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=spartan-spotlight-ignacio-cervantes-14#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://news.aurora.edu/spartan-spotlight-ignacio-cervantes-14/feed/atom/" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name>Aurora University</name>
+						<uri>http://www.aurora.edu</uri>
+					</author>
+		<title type="html"><![CDATA[Aurora University announces spring 2014 Dean’s List]]></title>
+		<link rel="alternate" type="text/html" href="http://news.aurora.edu/aurora-university-announces-spring-2014-deans-list/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=aurora-university-announces-spring-2014-deans-list" />
+		<id>http://news.aurora.edu/?p=8266</id>
+		<updated>2014-06-18T20:14:04Z</updated>
+		<published>2014-06-18T20:14:04Z</published>
+		<category scheme="http://news.aurora.edu" term="Around Campus" /><category scheme="http://news.aurora.edu" term="Featured" /><category scheme="http://news.aurora.edu" term="General" /><category scheme="http://news.aurora.edu" term="In the Community" /><category scheme="http://news.aurora.edu" term="academics" /><category scheme="http://news.aurora.edu" term="accolades" />		<summary type="html"><![CDATA[Aurora University congratulates the 898 undergraduate students who earned Dean’s List honors for the spring 2014 semester. ]]></summary>
+			<link rel="replies" type="text/html" href="http://news.aurora.edu/aurora-university-announces-spring-2014-deans-list/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=aurora-university-announces-spring-2014-deans-list#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://news.aurora.edu/aurora-university-announces-spring-2014-deans-list/feed/atom/" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name>Amy Schlumpf Manion</name>
+						<uri>http://www.aurora.edu/academics/library/index.html</uri>
+					</author>
+		<title type="html"><![CDATA[Phillips Library issues summer reading challenge]]></title>
+		<link rel="alternate" type="text/html" href="http://news.aurora.edu/phillips-library-issues-summer-reading-challenge/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=phillips-library-issues-summer-reading-challenge" />
+		<id>http://news.aurora.edu/?p=8246</id>
+		<updated>2014-06-16T14:25:54Z</updated>
+		<published>2014-06-16T14:25:54Z</published>
+		<category scheme="http://news.aurora.edu" term="Around Campus" /><category scheme="http://news.aurora.edu" term="Aurora University" /><category scheme="http://news.aurora.edu" term="Featured" /><category scheme="http://news.aurora.edu" term="General" /><category scheme="http://news.aurora.edu" term="alumni" /><category scheme="http://news.aurora.edu" term="library" />		<summary type="html"><![CDATA[Phillips Library is marking the start of the summer season with the release of its 12th annual Books of Summer brochure and corresponding book display.]]></summary>
+			<link rel="replies" type="text/html" href="http://news.aurora.edu/phillips-library-issues-summer-reading-challenge/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=phillips-library-issues-summer-reading-challenge#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://news.aurora.edu/phillips-library-issues-summer-reading-challenge/feed/atom/" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+	</feed>

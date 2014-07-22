@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><feed
+  xmlns="http://www.w3.org/2005/Atom"
+  xmlns:thr="http://purl.org/syndication/thread/1.0"
+  xml:lang="en"
+  xml:base="https://faculty.franklin.edu/todd-whittaker/wp-atom.php"
+   >
+	<title type="text">Todd A. Whittaker</title>
+	<subtitle type="text">Program Chair, Information Technology, Information Security</subtitle>
+
+	<updated>2011-06-15T19:42:48Z</updated>
+	<generator uri="http://wordpress.org/" version="2.9.1">WordPress</generator>
+
+	<link rel="alternate" type="text/html" href="https://faculty.franklin.edu/todd-whittaker" />
+	<id>https://faculty.franklin.edu/todd-whittaker/feed/atom/</id>
+	<link rel="self" type="application/atom+xml" href="http://faculty.franklin.edu/todd-whittaker/feed/atom/" />
+
+			<entry>
+		<author>
+			<name>Todd Whittaker</name>
+					</author>
+		<title type="html"><![CDATA[Changes to Information Technology 2011-2012]]></title>
+		<link rel="alternate" type="text/html" href="https://faculty.franklin.edu/todd-whittaker/2011/06/15/changes-to-itec-2011-2012/" />
+		<id>https://faculty.franklin.edu/todd-whittaker/?p=50</id>
+		<updated>2011-06-15T19:42:48Z</updated>
+		<published>2011-06-15T19:39:44Z</published>
+		<category scheme="https://faculty.franklin.edu/todd-whittaker" term="Curriculum" /><category scheme="https://faculty.franklin.edu/todd-whittaker" term="ITEC curriculum security specialization" />		<summary type="html"><![CDATA[Changes to the ITEC curriculum effective fall, 2011.]]></summary>
+		<content type="html" xml:base="https://faculty.franklin.edu/todd-whittaker/2011/06/15/changes-to-itec-2011-2012/"><![CDATA[<p>There is some exciting news for the upcoming year: Franklin is launching an Information Security degree program!  If you’re reading this, it’s likely that you’re an Information Technology student, so what does this have to do with you?  In short, the launch of Information Security gives you more options for your specialization track in Information Technology at the cost of one additional course in ethics.</p>
+<p>In prior years, ITEC students were required to take MIS 484 (Information Security); for 2011-2012 and onward, students will take ISEC 300 (Principles of Information Security) in place of MIS 484.  ISEC 300 has an additional prerequisite of HUMN 211 (Introduction to Ethical Analysis and Reasoning) that MIS 484 does not have. However, it can be reasonably argued that anybody studying security should be able to make solid ethical decisions.  Otherwise, there are no changes to the bachelor’s program that require additional coursework.  If you do not wish to update to the current program year, you are not required to do so.  If you do wish to update, then you would take the new security course after completing HUMN 211.  This will open up the possibility of completing the Information Security specialization.</p>
+<p>Every ITEC student must choose an area of specialization.  Previously, those included Infrastructure Management and Systems Administration as choices.  Now, however, there is the additional option of Information Security.  The Information Security specialization consists of two courses: ISEC 325 (Network Security) and ISEC 425 (Business Continuity and Operations Security).  Course descriptions for these two courses are available at <a href="http://www.franklin.edu/degree-programs/undergraduate-majors/information-security/information-security-course-descriptions.html" target="_blank">http://www.franklin.edu/degree-programs/undergraduate-majors/information-security/information-security-course-descriptions.html</a></p>
+<p>You may be wondering what the difference between an Information Security degree and an Information Technology degree with an Information Security specialization is.  In short, Information Technology continues to focus on the hands-on technical skills needed in the field.  The two courses in the specialization will be built with that in mind.  However, Information Security is a broad field that includes application security, risk management, security architecture, and so on.  Based on this, for the Information Security major, at least one additional programming class (WEBD 236) will be required before taking ISEC 400 (Application Security).  Security experts need to know programming much more deeply than technologists!  In addition, several of the courses in the major will use the skills acquired in MATH 215 (Statistical Concepts) to make more business-related risk reduction decisions.</p>
+<p>The diagram below depicts the new structure for ITEC prerequisites for the 2011-2012 academic year.</p>
+<div id="attachment_51" class="wp-caption aligncenter" style="width: 310px"><a href="https://faculty.franklin.edu/todd-whittaker/files/2011/06/ITEC_Prerequisites_2011.png"><img class="size-medium wp-image-51 " title="ITEC Prerequisites 2011-2012" src="https://faculty.franklin.edu/todd-whittaker/files/2011/06/ITEC_Prerequisites_2011-300x267.png" alt="ITEC Prerequisites 2011-2012" width="300" height="267" /></a><p class="wp-caption-text">ITEC Prerequisites 2011-2012</p></div>
+<p>If you have any questions, please feel free to contact your academic advisor.  Thanks!</p>
+]]></content>
+		<link rel="replies" type="text/html" href="https://faculty.franklin.edu/todd-whittaker/2011/06/15/changes-to-itec-2011-2012/#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="https://faculty.franklin.edu/todd-whittaker/2011/06/15/changes-to-itec-2011-2012/feed/atom/" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+	</feed>

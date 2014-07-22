@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><feed
+  xmlns="http://www.w3.org/2005/Atom"
+  xmlns:thr="http://purl.org/syndication/thread/1.0"
+  xml:lang="en"
+  xml:base="http://faculty.franklin.edu/bruce-campbell/wp-atom.php"
+   >
+	<title type="text">Bruce Campbell, Ph.D., CTP</title>
+	<subtitle type="text">Program Chair, MBA and Financial Management</subtitle>
+
+	<updated>2010-10-07T18:54:06Z</updated>
+	<generator uri="http://wordpress.org/" version="2.9.1">WordPress</generator>
+
+	<link rel="alternate" type="text/html" href="http://faculty.franklin.edu/bruce-campbell" />
+	<id>http://faculty.franklin.edu/bruce-campbell/feed/atom/</id>
+	<link rel="self" type="application/atom+xml" href="http://faculty.franklin.edu/bruce-campbell/feed/atom/" />
+
+			<entry>
+		<author>
+			<name>Ron Street</name>
+					</author>
+		<title type="html"><![CDATA[No blog entries posted at this time]]></title>
+		<link rel="alternate" type="text/html" href="http://faculty.franklin.edu/bruce-campbell/2010/10/07/no-blog-entries-posted-at-this-time/" />
+		<id>http://faculty.franklin.edu/bruce-campbell/2010/10/07/no-blog-entries-posted-at-this-time/</id>
+		<updated>2010-10-07T18:54:06Z</updated>
+		<published>2010-10-07T18:54:06Z</published>
+		<category scheme="http://faculty.franklin.edu/bruce-campbell" term="Uncategorized" />		<summary type="html"><![CDATA[]]></summary>
+		<content type="html" xml:base="http://faculty.franklin.edu/bruce-campbell/2010/10/07/no-blog-entries-posted-at-this-time/"><![CDATA[]]></content>
+		<link rel="replies" type="text/html" href="http://faculty.franklin.edu/bruce-campbell/2010/10/07/no-blog-entries-posted-at-this-time/#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://faculty.franklin.edu/bruce-campbell/2010/10/07/no-blog-entries-posted-at-this-time/feed/atom/" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+	</feed>

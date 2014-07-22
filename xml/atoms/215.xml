@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2005/Atom">
+<title>SSU ScholarWorks</title>
+<link href="http://hdl.handle.net/10211.3/1474" rel="alternate"/>
+<subtitle/>
+<id>http://hdl.handle.net/10211.3/1474</id>
+<updated>2014-07-21T17:58:47Z</updated>
+<dc:date>2014-07-21T17:58:47Z</dc:date>
+<entry>
+<title>Maternal Traits and Reproductive Effort in Northern Elephant Seals</title>
+<link href="http://hdl.handle.net/10211.3/122873" rel="alternate"/>
+<author>
+<name>Crocker, Daniel E.</name>
+</author>
+<author>
+<name>Williams, Jeannine D.</name>
+</author>
+<author>
+<name>Costa, Daniel P.</name>
+</author>
+<author>
+<name>Le Boeuf, Burney J.</name>
+</author>
+<id>http://hdl.handle.net/10211.3/122873</id>
+<updated>2014-07-16T01:43:59Z</updated>
+<published>2001-12-01T00:00:00Z</published>
+<summary type="text">Maternal Traits and Reproductive Effort in Northern Elephant Seals
+Crocker, Daniel E.; Williams, Jeannine D.; Costa, Daniel P.; Le Boeuf, Burney J.
+The aim of this study was to determine the effects of maternal traits on&#13;
+reproductive expenditure and energy delivery to the offspring in a capital breeder, the&#13;
+northern elephant seal (Mirounga angustirostris). Changes in maternal and offspring energy&#13;
+reserves and milk-energy delivery were examined in relation to maternal parturition mass,&#13;
+body composition, and age in females and pups breeding at An˜o Nuevo State Reserve,&#13;
+California. Maternal body mass and composition had significant effects on maternal energy&#13;
+expenditure over lactation. Path analysis suggested no significant effects of maternal age&#13;
+on reproductive effort of parous females. The efficiency of milk production increased&#13;
+significantly with maternal age. Offspring metabolism was a relatively small component&#13;
+of maternal energy expenditure, with pups storing 84% of the energy obtained from milk.&#13;
+These effects are an important consequence of the phocid strategy for enabling terrestrial&#13;
+parturition despite marine feeding. This strategy has resulted in an abbreviated and highly&#13;
+efficient lactation system that is strongly impacted by body reserves, linking foraging&#13;
+success at sea with reproductive success on land. Maternal size, body composition, and&#13;
+age were important features of reproduction in northern elephant seals. These characteristics&#13;
+are rarely considered concurrently in life history studies.
+Published by and copyright of the Ecological Society of America. The definitive version of this article is available at: http://www.esajournals.org/doi/pdf/10.1890/0012-9658%282001%29082%5B3541%3AMTAREI%5D2.0.CO%3B2
+</summary>
+<dc:date>2001-12-01T00:00:00Z</dc:date>
+</entry>
+<entry>
+<title>Accuracy of ARGOS Locations of Pinnipeds at-Sea Estimated Using Fastloc GPS</title>
+<link href="http://hdl.handle.net/10211.3/122872" rel="alternate"/>
+<author>
+<name>Costa, Daniel P.</name>
+</author>
+<author>
+<name>Robinson, Patrick W.</name>
+</author>
+<author>
+<name>Arnould, John P. Y.</name>
+</author>
+<author>
+<name>Harrison, Autumn-Lynn</name>
+</author>
+<author>
+<name>Simmons, Samantha E.</name>
+</author>
+<author>
+<name>Hassrick, Jason L.</name>
+</author>
+<author>
+<name>Hoskins, Andrew J.</name>
+</author>
+<author>
+<name>Kirkman, Stephen P.</name>
+</author>
+<author>
+<name>Oosthuizen, Herman</name>
+</author>
+<author>
+<name>Villegas-Amtmann, Stella</name>
+</author>
+<author>
+<name>Crocker, Daniel E.</name>
+</author>
+<id>http://hdl.handle.net/10211.3/122872</id>
+<updated>2014-07-16T00:18:44Z</updated>
+<published>2010-01-01T00:00:00Z</published>
+<summary type="text">Accuracy of ARGOS Locations of Pinnipeds at-Sea Estimated Using Fastloc GPS
+Costa, Daniel P.; Robinson, Patrick W.; Arnould, John P. Y.; Harrison, Autumn-Lynn; Simmons, Samantha E.; Hassrick, Jason L.; Hoskins, Andrew J.; Kirkman, Stephen P.; Oosthuizen, Herman; Villegas-Amtmann, Stella; Crocker, Daniel E.
+Background: ARGOS satellite telemetry is one of the most widely used methods to track the movements of free-ranging&#13;
+marine and terrestrial animals and is fundamental to studies of foraging ecology, migratory behavior and habitat-use.&#13;
+ARGOS location estimates do not include complete error estimations, and for many marine organisms, the most commonly&#13;
+acquired locations (Location Class 0, A, B, or Z) are provided with no declared error estimate.&#13;
+Methodology/Principal Findings: We compared the accuracy of ARGOS locations to those obtained using Fastloc GPS from&#13;
+the same electronic tags on five species of pinnipeds: 9 California sea lions (Zalophus californianus), 4 Galapagos sea lions&#13;
+(Zalophus wollebaeki), 6 Cape fur seals (Arctocephalus pusillus pusillus), 3 Australian fur seals (A. p. doriferus) and 5 northern&#13;
+elephant seals (Mirounga angustirostris). These species encompass a range of marine habitats (highly pelagic vs coastal),&#13;
+diving behaviors (mean dive durations 2–21 min) and range of latitudes (equator to temperate). A total of 7,318 ARGOS&#13;
+positions and 27,046 GPS positions were collected. Of these, 1,105 ARGOS positions were obtained within five minutes of a&#13;
+GPS position and were used for comparison. The 68th percentile ARGOS location errors as measured in this study were LC-3&#13;
+0.49 km, LC-2 1.01 km, LC-1 1.20 km, LC-0 4.18 km, LC-A 6.19 km, LC-B 10.28 km.&#13;
+Conclusions/Significance: The ARGOS errors measured here are greater than those provided by ARGOS, but within the&#13;
+range of other studies. The error was non-normally distributed with each LC highly right-skewed. Locations of species that&#13;
+make short duration dives and spend extended periods on the surface (sea lions and fur seals) had less error than species&#13;
+like elephant seals that spend more time underwater and have shorter surface intervals. Supplemental data (S1) are&#13;
+provided allowing the creation of density distributions that can be used in a variety of filtering algorithms to improve the&#13;
+quality of ARGOS tracking data.
+Published by PLoS ONE and copyright of Costa et al. The definitive version of this article is available at: http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0008677
+</summary>
+<dc:date>2010-01-01T00:00:00Z</dc:date>
+</entry>
+<entry>
+<title>Impact of Body Reserves on Energy Expenditure, Water Flux, and Mating Success in Breeding Male Northern Elephant Seals</title>
+<link href="http://hdl.handle.net/10211.3/122867" rel="alternate"/>
+<author>
+<name>Crocker, Daniel E.</name>
+</author>
+<author>
+<name>Houser, Dorian S.</name>
+</author>
+<author>
+<name>Webb, Paul M.</name>
+</author>
+<id>http://hdl.handle.net/10211.3/122867</id>
+<updated>2014-07-15T23:44:26Z</updated>
+<published>2012-01-01T00:00:00Z</published>
+<summary type="text">Impact of Body Reserves on Energy Expenditure, Water Flux, and Mating Success in Breeding Male Northern Elephant Seals
+Crocker, Daniel E.; Houser, Dorian S.; Webb, Paul M.
+In capital breeders, individual differences in body size and condition&#13;
+can impact mating effort and success. In addition to the&#13;
+collateral advantages of large body size in competition, large&#13;
+nutrient reserves may offer advantages in endurance rivalry and&#13;
+enable the high rates of energy expenditure associated with&#13;
+mating success. We examined the impacts of body reserves and&#13;
+dominance rank on energy expenditure, water flux, mating&#13;
+success, and breeding tenure in the adult male northern elephant&#13;
+seal, a polygynous, capital breeder. Adult males expended&#13;
+energy at a rate of 195   ±&#13;
+49 MJ &#13;
+d-1,&#13;
+, which is equivalent to 3.1&#13;
+times the standard metabolic rate predicted by Kleiber’s equation.&#13;
+Despite high rates of energy expenditure and a long fasting&#13;
+duration, males spared lean tissue effectively, deriving a mean&#13;
+of 7% of their metabolism from protein catabolism. Body composition&#13;
+had a strong impact on the ability to spare lean tissue&#13;
+during breeding. When controlling for body size, energy expenditure,&#13;
+depletion of blubber reserves, and water efflux were&#13;
+significantly greater in alpha males than in subordinate males.&#13;
+Large body size was associated with increased reproductive effort,&#13;
+tenure on shore, dominance rank, and reproductive success.&#13;
+Terrestrial locomotion and topography appeared to&#13;
+strongly influence energy expenditure. Comparisons with conspecific&#13;
+females suggest greater total seasonal reproductive effort&#13;
+in male northern elephant seals when controlling for the&#13;
+effects of body mass. In polygynous capital breeding systems,&#13;
+male effort may be strongly influenced by physiological state&#13;
+and exceed that of females.
+Published by and copyright of the University of Chicago Press. The definitive version of this article is available at: http://www.jstor.org/discover/10.1086/663634?uid=34994&amp;uid=3739560&amp;uid=2134&amp;uid=2&amp;uid=70&amp;uid=3&amp;uid=34993&amp;uid=67&amp;uid=5909976&amp;uid=62&amp;uid=3739256&amp;sid=21104337426417
+</summary>
+<dc:date>2012-01-01T00:00:00Z</dc:date>
+</entry>
+<entry>
+<title>Protein Catabolism and Renal Function in Lactating Northern Elephant Seals</title>
+<link href="http://hdl.handle.net/10211.3/122854" rel="alternate"/>
+<author>
+<name>Crocker, Daniel E.</name>
+</author>
+<author>
+<name>Webb, Paul M.</name>
+</author>
+<author>
+<name>Costa, Daniel P.</name>
+</author>
+<author>
+<name>Le Boeuf, Burney J.</name>
+</author>
+<id>http://hdl.handle.net/10211.3/122854</id>
+<updated>2014-07-15T21:30:08Z</updated>
+<published>1998-01-01T00:00:00Z</published>
+<summary type="text">Protein Catabolism and Renal Function in Lactating Northern Elephant Seals
+Crocker, Daniel E.; Webb, Paul M.; Costa, Daniel P.; Le Boeuf, Burney J.
+Northern elephant seals, Mirounga angustirostris, fast completely from food and water during lactation. Previous investigations of maternal investment suggested physiological constraints on the level of energy expenditure during lactation. In this study, two components of phocid fasting physiology, protein sparing and reduced glomerular filtration rate, were examined for effects of changing body composition and lactation&#13;
+duration. Protein catabolism was estimated from C-urea turnover in five mid- and five late-lactation females. Body&#13;
+composition was determined by using an ultrasound scanner to measure blubber depth coupled with morphometrics. Glomerular filtration rate was measured in five females at mid- and late-lactation using plasma clearance of 3H-inulin. Protein&#13;
+catabolism increased significantly between measurements. The contribution of protein to metabolism varied with body composition and lactation duration. Mass-proportional glomerular filtration rate increased significantly between measurements.&#13;
+These data suggest that conflicting metabolic demands of lactation and fasting might constrain the duration and magnitude&#13;
+of maternal investment in northern elephant seals.
+Published by and copyright of the University of Chicago Press. The definitive version of this article is available at: http://www.jstor.org/stable/10.1086/515971
+</summary>
+<dc:date>1998-01-01T00:00:00Z</dc:date>
+</entry>
+</feed>

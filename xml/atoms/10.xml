@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/">
+  <title>Square Cell Grid Atom Feed</title>
+  <link rel="alternate" href="http://www.ngdc.noaa.gov/dem/squareCellGrid/feed" />
+  <subtitle>A news feed powered by Grails</subtitle>
+  <entry>
+    <title>Kodiak v2, AK 1/3 arc-second MHW DEM</title>
+    <link rel="alternate" href="http://www.ngdc.noaa.gov/dem/squareCellGrid/download/4930" />
+    <author>
+      <name>NOAA / NGDC</name>
+    </author>
+    <updated>2014-06-25T21:26:49Z</updated>
+    <published>2014-06-25T21:26:49Z</published>
+    <dc:creator>NOAA / NGDC</dc:creator>
+    <dc:date>2014-06-25T21:26:49Z</dc:date>
+  </entry>
+  <entry>
+    <title>Bermuda,  1 arc-second Sea level DEM</title>
+    <link rel="alternate" href="http://www.ngdc.noaa.gov/dem/squareCellGrid/download/5010" />
+    <author>
+      <name>NOAA / NGDC</name>
+    </author>
+    <updated>2014-05-12T14:24:16Z</updated>
+    <published>2014-05-12T14:24:16Z</published>
+    <content type="HTML">The NOAA National Geophysical Data Center (NGDC) developed two integrated topographic-bathymetric Digital Elevation Models (DEMs) of Bermuda for the NOAA Pacific Marine Environmental Laboratory (PMEL) to support tsunami inundation modeling in the region. The first DEM, centered on the Islands of Bermuda and the adjacent reef platform, was developed at a resolution of 1 arc-second. A larger-footprint, lower-resolution 3 arc-second DEM incorporates the extent of the 1 arc-second DEM and includes more of the Bermuda Rise and adjacent seafloor.</content>
+    <dc:creator>NOAA / NGDC</dc:creator>
+    <dc:date>2014-05-12T14:24:16Z</dc:date>
+  </entry>
+  <entry>
+    <title>Bermuda,  3 arc-second Sea level DEM</title>
+    <link rel="alternate" href="http://www.ngdc.noaa.gov/dem/squareCellGrid/download/5011" />
+    <author>
+      <name>NOAA / NGDC</name>
+    </author>
+    <updated>2014-05-08T14:46:44Z</updated>
+    <published>2014-05-08T14:46:44Z</published>
+    <content type="HTML">The NOAA National Geophysical Data Center (NGDC) developed two integrated topographic-bathymetric Digital Elevation Models (DEMs) of Bermuda for the NOAA Pacific Marine Environmental Laboratory (PMEL) to support tsunami inundation modeling in the region. The first DEM, centered on the Islands of Bermuda and the adjacent reef platform, was developed at a resolution of 1 arc-second. A larger-footprint, lower-resolution 3 arc-second DEM incorporates the extent of the 1 arc-second DEM and includes more of the Bermuda Rise and adjacent seafloor.</content>
+    <dc:creator>NOAA / NGDC</dc:creator>
+    <dc:date>2014-05-08T14:46:44Z</dc:date>
+  </entry>
+  <entry>
+    <title>Tutuila, AS 1/3 arc-second MHW DEM</title>
+    <link rel="alternate" href="http://www.ngdc.noaa.gov/dem/squareCellGrid/download/4610" />
+    <author>
+      <name>NOAA / NGDC</name>
+    </author>
+    <updated>2014-05-07T17:57:40Z</updated>
+    <published>2014-05-07T17:57:40Z</published>
+    <content type="HTML">The 1/3 arc-second Tutuila DEM is an update to the previously developed Pago Pago, American Samoa DEM and will be used to support the modeling system to simulate tsunami generation, propagation, and inundation. This DEM covers the area immediately surrounding the island of Tutuila and Aunu'u, American Samoa.</content>
+    <dc:creator>NOAA / NGDC</dc:creator>
+    <dc:date>2014-05-07T17:57:40Z</dc:date>
+  </entry>
+  <entry>
+    <title>Sand Point V2, AK 1/3 arc-second MHW DEM</title>
+    <link rel="alternate" href="http://www.ngdc.noaa.gov/dem/squareCellGrid/download/3549" />
+    <author>
+      <name>NOAA / NGDC</name>
+    </author>
+    <updated>2014-05-06T19:08:23Z</updated>
+    <published>2014-05-06T19:08:23Z</published>
+    <dc:creator>NOAA / NGDC</dc:creator>
+    <dc:date>2014-05-06T19:08:23Z</dc:date>
+  </entry>
+  <entry>
+    <title>Western Gulf of Mexico, TX 3 arc-second Sea level DEM</title>
+    <link rel="alternate" href="http://www.ngdc.noaa.gov/dem/squareCellGrid/download/286" />
+    <author>
+      <name>NOAA / NGDC</name>
+    </author>
+    <updated>2014-04-21T19:58:46Z</updated>
+    <published>2014-04-21T19:58:46Z</published>
+    <content type="HTML">NGDC's 3 arc-second U.S. Coastal Relief Model (CRM) provides the first comprehensive view of the U.S. coastal zone, integrating offshore bathymetry with land topography into a seamless representation of the coast. The CRM spans the U.S. East and West Coasts, the northern coast of the Gulf of Mexico, Puerto Rico, and Hawaii, reaching out to, and in places even beyond, the continental slope.</content>
+    <dc:creator>NOAA / NGDC</dc:creator>
+    <dc:date>2014-04-21T19:58:46Z</dc:date>
+  </entry>
+  <entry>
+    <title>Southern California v.2, CA variable MSL DEM</title>
+    <link rel="alternate" href="http://www.ngdc.noaa.gov/dem/squareCellGrid/download/4970" />
+    <author>
+      <name>NOAA / NGDC</name>
+    </author>
+    <updated>2014-04-21T19:58:09Z</updated>
+    <published>2014-04-21T19:58:09Z</published>
+    <content type="HTML">This model incorporates the most recent, publicly available bathymetric data to update the Southern California volume of NGDC's U.S. Coastal Relief Model (CRM), which provides a comprehensive view of the U.S. coastal zone by integrating offshore bathymetry with land topography. The Southern California CRM includes data from a variety of sources, including multibeam swath sonar bathymetry surveys from various academic institutions; NDGC's digital elevation models of the coastline; the U.S. Geological Survey (USGS) topographical datasets; and other federal government agencies and academic institutions.</content>
+    <dc:creator>NOAA / NGDC</dc:creator>
+    <dc:date>2014-04-21T19:58:09Z</dc:date>
+  </entry>
+  <entry>
+    <title>Southern California, CA 3 arc-second Sea level DEM</title>
+    <link rel="alternate" href="http://www.ngdc.noaa.gov/dem/squareCellGrid/download/709" />
+    <author>
+      <name>NOAA / NGDC</name>
+    </author>
+    <updated>2014-04-21T19:57:11Z</updated>
+    <published>2014-04-21T19:57:11Z</published>
+    <content type="HTML">NGDC's 3 arc-second U.S. Coastal Relief Model (CRM) provides the first comprehensive view of the U.S. coastal zone, integrating offshore bathymetry with land topography into a seamless representation of the coast. The CRM spans the U.S. East and West Coasts, the northern coast of the Gulf of Mexico, Puerto Rico, and Hawaii, reaching out to, and in places even beyond, the continental slope.</content>
+    <dc:creator>NOAA / NGDC</dc:creator>
+    <dc:date>2014-04-21T19:57:11Z</dc:date>
+  </entry>
+  <entry>
+    <title>Southeast Atlantic, NJ/VA/MD/SC/GA/NC/DE 3 arc-second Sea level DEM</title>
+    <link rel="alternate" href="http://www.ngdc.noaa.gov/dem/squareCellGrid/download/305" />
+    <author>
+      <name>NOAA / NGDC</name>
+    </author>
+    <updated>2014-04-21T19:56:13Z</updated>
+    <published>2014-04-21T19:56:13Z</published>
+    <content type="HTML">NGDC's 3 arc-second U.S. Coastal Relief Model (CRM) provides the first comprehensive view of the U.S. coastal zone, integrating offshore bathymetry with land topography into a seamless representation of the coast. The CRM spans the U.S. East and West Coasts, the northern coast of the Gulf of Mexico, Puerto Rico, and Hawaii, reaching out to, and in places even beyond, the continental slope.</content>
+    <dc:creator>NOAA / NGDC</dc:creator>
+    <dc:date>2014-04-21T19:56:13Z</dc:date>
+  </entry>
+  <entry>
+    <title>Puerto Rico, PR 3 arc-second Sea level DEM</title>
+    <link rel="alternate" href="http://www.ngdc.noaa.gov/dem/squareCellGrid/download/290" />
+    <author>
+      <name>NOAA / NGDC</name>
+    </author>
+    <updated>2014-04-21T19:55:19Z</updated>
+    <published>2014-04-21T19:55:19Z</published>
+    <content type="HTML">NGDC's 3 arc-second U.S. Coastal Relief Model (CRM) provides the first comprehensive view of the U.S. coastal zone, integrating offshore bathymetry with land topography into a seamless representation of the coast. The CRM spans the U.S. East and West Coasts, the northern coast of the Gulf of Mexico, Puerto Rico, and Hawaii, reaching out to, and in places even beyond, the continental slope.</content>
+    <dc:creator>NOAA / NGDC</dc:creator>
+    <dc:date>2014-04-21T19:55:19Z</dc:date>
+  </entry>
+  <entry>
+    <title>Northwest Pacific, WA/OR 3 arc-second Sea level DEM</title>
+    <link rel="alternate" href="http://www.ngdc.noaa.gov/dem/squareCellGrid/download/288" />
+    <author>
+      <name>NOAA / NGDC</name>
+    </author>
+    <updated>2014-04-21T19:54:48Z</updated>
+    <published>2014-04-21T19:54:48Z</published>
+    <content type="HTML">NGDC's 3 arc-second U.S. Coastal Relief Model (CRM) provides the first comprehensive view of the U.S. coastal zone, integrating offshore bathymetry with land topography into a seamless representation of the coast. The CRM spans the U.S. East and West Coasts, the northern coast of the Gulf of Mexico, Puerto Rico, and Hawaii, reaching out to, and in places even beyond, the continental slope.</content>
+    <dc:creator>NOAA / NGDC</dc:creator>
+    <dc:date>2014-04-21T19:54:48Z</dc:date>
+  </entry>
+  <entry>
+    <title>Northeast Atlantic, NJ/NY/RI/ME/NH/MA/null 3 arc-second Sea level DEM</title>
+    <link rel="alternate" href="http://www.ngdc.noaa.gov/dem/squareCellGrid/download/713" />
+    <author>
+      <name>NOAA / NGDC</name>
+    </author>
+    <updated>2014-04-21T19:53:50Z</updated>
+    <published>2014-04-21T19:53:50Z</published>
+    <content type="HTML">NGDC's 3 arc-second U.S. Coastal Relief Model (CRM) provides the first comprehensive view of the U.S. coastal zone, integrating offshore bathymetry with land topography into a seamless representation of the coast. The CRM spans the U.S. East and West Coasts, the northern coast of the Gulf of Mexico, Puerto Rico, and Hawaii, reaching out to, and in places even beyond, the continental slope.</content>
+    <dc:creator>NOAA / NGDC</dc:creator>
+    <dc:date>2014-04-21T19:53:50Z</dc:date>
+  </entry>
+  <entry>
+    <title>Hawaii, HI 3 arc-second Sea level DEM</title>
+    <link rel="alternate" href="http://www.ngdc.noaa.gov/dem/squareCellGrid/download/711" />
+    <author>
+      <name>NOAA / NGDC</name>
+    </author>
+    <updated>2014-04-21T19:53:00Z</updated>
+    <published>2014-04-21T19:53:00Z</published>
+    <content type="HTML">NGDC's 3 arc-second U.S. Coastal Relief Model (CRM) provides the first comprehensive view of the U.S. coastal zone, integrating offshore bathymetry with land topography into a seamless representation of the coast. The CRM spans the U.S. East and West Coasts, the northern coast of the Gulf of Mexico, Puerto Rico, and Hawaii, reaching out to, and in places even beyond, the continental slope.</content>
+    <dc:creator>NOAA / NGDC</dc:creator>
+    <dc:date>2014-04-21T19:53:00Z</dc:date>
+  </entry>
+  <entry>
+    <title>Florida and East Gulf of Mexico, FL/GA/AL 3 arc-second Sea level DEM</title>
+    <link rel="alternate" href="http://www.ngdc.noaa.gov/dem/squareCellGrid/download/307" />
+    <author>
+      <name>NOAA / NGDC</name>
+    </author>
+    <updated>2014-04-21T19:52:22Z</updated>
+    <published>2014-04-21T19:52:22Z</published>
+    <content type="HTML">NGDC's 3 arc-second U.S. Coastal Relief Model (CRM) provides the first comprehensive view of the U.S. coastal zone, integrating offshore bathymetry with land topography into a seamless representation of the coast. The CRM spans the U.S. East and West Coasts, the northern coast of the Gulf of Mexico, Puerto Rico, and Hawaii, reaching out to, and in places even beyond, the continental slope.</content>
+    <dc:creator>NOAA / NGDC</dc:creator>
+    <dc:date>2014-04-21T19:52:22Z</dc:date>
+  </entry>
+  <entry>
+    <title>Central Pacific, OR/CA 3 arc-second Sea level DEM</title>
+    <link rel="alternate" href="http://www.ngdc.noaa.gov/dem/squareCellGrid/download/348" />
+    <author>
+      <name>NOAA / NGDC</name>
+    </author>
+    <updated>2014-04-21T19:49:04Z</updated>
+    <published>2014-04-21T19:49:04Z</published>
+    <content type="HTML">NGDC's 3 arc-second U.S. Coastal Relief Model (CRM) provides the first comprehensive view of the U.S. coastal zone, integrating offshore bathymetry with land topography into a seamless representation of the coast. The CRM spans the U.S. East and West Coasts, the northern coast of the Gulf of Mexico, Puerto Rico, and Hawaii, reaching out to, and in places even beyond, the continental slope.</content>
+    <dc:creator>NOAA / NGDC</dc:creator>
+    <dc:date>2014-04-21T19:49:04Z</dc:date>
+  </entry>
+  <entry>
+    <title>Central Gulf of Mexico, LA/MS/AL 3 arc-second Sea level DEM</title>
+    <link rel="alternate" href="http://www.ngdc.noaa.gov/dem/squareCellGrid/download/309" />
+    <author>
+      <name>NOAA / NGDC</name>
+    </author>
+    <updated>2014-04-21T19:47:46Z</updated>
+    <published>2014-04-21T19:47:46Z</published>
+    <content type="HTML">NGDC's 3 arc-second U.S. Coastal Relief Model (CRM) provides the first comprehensive view of the U.S. coastal zone, integrating offshore bathymetry with land topography into a seamless representation of the coast. The CRM spans the U.S. East and West Coasts, the northern coast of the Gulf of Mexico, Puerto Rico, and Hawaii, reaching out to, and in places even beyond, the continental slope.</content>
+    <dc:creator>NOAA / NGDC</dc:creator>
+    <dc:date>2014-04-21T19:47:46Z</dc:date>
+  </entry>
+  <entry>
+    <title>Southern Alaska, AK 24 arc-second Sea level DEM</title>
+    <link rel="alternate" href="http://www.ngdc.noaa.gov/dem/squareCellGrid/download/703" />
+    <author>
+      <name>NOAA / NGDC</name>
+    </author>
+    <updated>2014-04-21T19:46:30Z</updated>
+    <published>2014-04-21T19:46:30Z</published>
+    <content type="HTML">The Southern Alaska Coastal Relief Model is a 24 arc-second digital elevation model ranging from 170° to 230° and 48.5° to 66.5° N. It integrates bathymetry and topography to represent Earth's surface and spans over the Gulf of Alaska, Bering Sea, Aleutian Islands, and Alaska's largest communities: Anchorage, Fairbanks, and Juneau. The relief model was built from a variety of source datasets acquired from the National Geophysical Data Center, National Ocean Service, United States Geological Survey, National Aeronautics and Space Administration, and other U.S. and international agencies.</content>
+    <dc:creator>NOAA / NGDC</dc:creator>
+    <dc:date>2014-04-21T19:46:30Z</dc:date>
+  </entry>
+  <entry>
+    <title>Lake Ontario, NY 3 arc-second Lake LWD DEM</title>
+    <link rel="alternate" href="http://www.ngdc.noaa.gov/dem/squareCellGrid/download/282" />
+    <author>
+      <name>NOAA / NGDC</name>
+    </author>
+    <updated>2014-04-21T19:44:42Z</updated>
+    <published>2014-04-21T19:44:42Z</published>
+    <dc:creator>NOAA / NGDC</dc:creator>
+    <dc:date>2014-04-21T19:44:42Z</dc:date>
+  </entry>
+  <entry>
+    <title>Lake Michigan, null/null/null/null 3 arc-second Lake LWD DEM</title>
+    <link rel="alternate" href="http://www.ngdc.noaa.gov/dem/squareCellGrid/download/264" />
+    <author>
+      <name>NOAA / NGDC</name>
+    </author>
+    <updated>2014-04-21T19:43:58Z</updated>
+    <published>2014-04-21T19:43:58Z</published>
+    <dc:creator>NOAA / NGDC</dc:creator>
+    <dc:date>2014-04-21T19:43:58Z</dc:date>
+  </entry>
+  <entry>
+    <title>Lake Huron, null 3 arc-second Lake LWD DEM</title>
+    <link rel="alternate" href="http://www.ngdc.noaa.gov/dem/squareCellGrid/download/284" />
+    <author>
+      <name>NOAA / NGDC</name>
+    </author>
+    <updated>2014-04-21T19:43:11Z</updated>
+    <published>2014-04-21T19:43:11Z</published>
+    <dc:creator>NOAA / NGDC</dc:creator>
+    <dc:date>2014-04-21T19:43:11Z</dc:date>
+  </entry>
+</feed>
+

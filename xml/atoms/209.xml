@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?><feed
+  xmlns="http://www.w3.org/2005/Atom"
+  xmlns:thr="http://purl.org/syndication/thread/1.0"
+  xml:lang="en"
+  xml:base="http://www.plymouth.edu/department/hhp/wp-atom.php"
+   >
+	<title type="text">Health and Human Performance</title>
+	<subtitle type="text"></subtitle>
+
+	<updated>2014-05-22T18:25:16Z</updated>
+
+	<link rel="alternate" type="text/html" href="http://www.plymouth.edu/department/hhp" />
+	<id>http://www.plymouth.edu/department/hhp/feed/atom/</id>
+	<link rel="self" type="application/atom+xml" href="http://www.plymouth.edu/department/hhp/feed/atom/" />
+
+	<generator uri="http://wordpress.org/" version="3.2.1">WordPress</generator>
+		<entry>
+		<author>
+			<name>Eric</name>
+					</author>
+		<title type="html"><![CDATA[immersion video embed]]></title>
+		<link rel="alternate" type="text/html" href="http://www.plymouth.edu/department/hhp/863/863/" />
+		<id>https://www.plymouth.edu/department/hhp/?p=863</id>
+		<updated>2014-05-16T18:57:14Z</updated>
+		<published>2014-05-16T18:55:25Z</published>
+		<category scheme="http://www.plymouth.edu/department/hhp" term="video embed" />		<summary type="html"><![CDATA[]]></summary>
+		<content type="html" xml:base="http://www.plymouth.edu/department/hhp/863/863/"><![CDATA[<p><iframe width="471" height="265" src="//www.youtube.com/embed/mRTkQXnrSdE?rel=0" frameborder="0" allowfullscreen></iframe></p>
+]]></content>
+		<link rel="replies" type="text/html" href="http://www.plymouth.edu/department/hhp/863/863/#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://www.plymouth.edu/department/hhp/863/863/feed/atom/" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name>Eric</name>
+					</author>
+		<title type="html"><![CDATA[The Immersion Seminar]]></title>
+		<link rel="alternate" type="text/html" href="http://www.plymouth.edu/department/hhp/836/the-immersion-seminar/" />
+		<id>https://www.plymouth.edu/department/hhp/?p=836</id>
+		<updated>2014-02-19T19:35:00Z</updated>
+		<published>2014-02-19T19:35:00Z</published>
+		<category scheme="http://www.plymouth.edu/department/hhp" term="video popover link" />		<summary type="html"><![CDATA[play videoAdventure Education The Immersion Semester]]></summary>
+		<content type="html" xml:base="http://www.plymouth.edu/department/hhp/836/the-immersion-seminar/"><![CDATA[<p><a class="sprite-177 adved-immersion thickbox" href="https://www.youtube.com/embed/mRTkQXnrSdE?rel=0" onclick="_gaq.push(['_trackEvent', 'Video', 'Click', 'HHP: The Immersion Semester']);" title="The Immersion Semester"><span>play video</span><span class="thumb-caption">Adventure Education<br /> The Immersion Semester</span></a></p>
+]]></content>
+		<link rel="replies" type="text/html" href="http://www.plymouth.edu/department/hhp/836/the-immersion-seminar/#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://www.plymouth.edu/department/hhp/836/the-immersion-seminar/feed/atom/" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name>Eric</name>
+					</author>
+		<title type="html"><![CDATA[First Year Solos]]></title>
+		<link rel="alternate" type="text/html" href="http://www.plymouth.edu/department/hhp/830/first-year-solos/" />
+		<id>https://www.plymouth.edu/department/hhp/?p=830</id>
+		<updated>2014-02-19T19:19:14Z</updated>
+		<published>2014-02-19T19:17:33Z</published>
+		<category scheme="http://www.plymouth.edu/department/hhp" term="video popover link" />		<summary type="html"><![CDATA[play videoAdventure Education First Year Solos]]></summary>
+		<content type="html" xml:base="http://www.plymouth.edu/department/hhp/830/first-year-solos/"><![CDATA[<p><a class="sprite-177 adved-solos thickbox" href="https://www.youtube.com/embed/E0gKBAvNaKA?rel=0" onclick="_gaq.push(['_trackEvent', 'Video', 'Click', 'HHP: First Year Solos']);" title="First Year Solos"><span>play video</span><span class="thumb-caption">Adventure Education<br /> First Year Solos</span></a></p>
+]]></content>
+		<link rel="replies" type="text/html" href="http://www.plymouth.edu/department/hhp/830/first-year-solos/#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://www.plymouth.edu/department/hhp/830/first-year-solos/feed/atom/" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name>Eric</name>
+					</author>
+		<title type="html"><![CDATA[Alex Sanguily video]]></title>
+		<link rel="alternate" type="text/html" href="http://www.plymouth.edu/department/hhp/808/alex-sanguily-video/" />
+		<id>https://www.plymouth.edu/department/hhp/?p=808</id>
+		<updated>2013-12-17T16:03:00Z</updated>
+		<published>2013-12-17T14:46:33Z</published>
+		<category scheme="http://www.plymouth.edu/department/hhp" term="video popover link" />		<summary type="html"><![CDATA[play videoAdventure Education Alex Sanguily]]></summary>
+		<content type="html" xml:base="http://www.plymouth.edu/department/hhp/808/alex-sanguily-video/"><![CDATA[<p><a class="sprite-177 adved-alex thickbox" href="https://www.youtube.com/embed/lQnrHhujKQw?rel=0" onclick="_gaq.push(['_trackEvent', 'Video', 'Click', 'HHP: Alex Sanguily']);" title="Alex Sanguily"><span>play video</span><span class="thumb-caption">Adventure Education<br /> Alex Sanguily</span></a></p>
+]]></content>
+		<link rel="replies" type="text/html" href="http://www.plymouth.edu/department/hhp/808/alex-sanguily-video/#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://www.plymouth.edu/department/hhp/808/alex-sanguily-video/feed/atom/" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name>Eric</name>
+					</author>
+		<title type="html"><![CDATA[Athlete Testing video]]></title>
+		<link rel="alternate" type="text/html" href="http://www.plymouth.edu/department/hhp/804/athlete-testing-video/" />
+		<id>https://www.plymouth.edu/department/hhp/?p=804</id>
+		<updated>2013-12-17T16:04:49Z</updated>
+		<published>2013-12-17T14:39:04Z</published>
+		<category scheme="http://www.plymouth.edu/department/hhp" term="video popover link" />		<summary type="html"><![CDATA[play videoAthlete Testing]]></summary>
+		<content type="html" xml:base="http://www.plymouth.edu/department/hhp/804/athlete-testing-video/"><![CDATA[<p><a class="sprite-177 hhp thickbox" href="https://www.youtube.com/embed/_yIVlRzz_40?rel=0" onclick="_gaq.push(['_trackEvent', 'Video', 'Click', 'HHP: athlete testing']);" title="athlete testing"><span>play video</span><span class="thumb-caption">Athlete Testing</span></a></p>
+]]></content>
+		<link rel="replies" type="text/html" href="http://www.plymouth.edu/department/hhp/804/athlete-testing-video/#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://www.plymouth.edu/department/hhp/804/athlete-testing-video/feed/atom/" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name>Bridget</name>
+					</author>
+		<title type="html"><![CDATA[PSU&#8217;s New Ice Arena: Partnering with the Public]]></title>
+		<link rel="alternate" type="text/html" href="http://www.plymouth.edu/news/fullstory.php?number=6867" />
+		<id>http://www.plymouth.edu/department/hhp/?p=138</id>
+		<updated>2010-07-26T20:02:15Z</updated>
+		<published>2010-07-26T20:02:15Z</published>
+		<category scheme="http://www.plymouth.edu/department/hhp" term="News" />		<summary type="html"><![CDATA[]]></summary>
+		<content type="html" xml:base="http://www.plymouth.edu/news/fullstory.php?number=6867"><![CDATA[]]></content>
+		<link rel="replies" type="text/html" href="http://www.plymouth.edu/news/fullstory.php?number=6867#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://www.plymouth.edu/news/fullstory.php?number=6867/feed/atom/" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name>Bridget</name>
+					</author>
+		<title type="html"><![CDATA[Construction Begins on PSU Ice Arena]]></title>
+		<link rel="alternate" type="text/html" href="http://www.plymouth.edu/news/fullstory.php?number=6638" />
+		<id>http://www.plymouth.edu/department/hhp/?p=136</id>
+		<updated>2010-07-26T20:00:37Z</updated>
+		<published>2010-07-26T20:00:37Z</published>
+		<category scheme="http://www.plymouth.edu/department/hhp" term="News" />		<summary type="html"><![CDATA[]]></summary>
+		<content type="html" xml:base="http://www.plymouth.edu/news/fullstory.php?number=6638"><![CDATA[]]></content>
+		<link rel="replies" type="text/html" href="http://www.plymouth.edu/news/fullstory.php?number=6638#comments" thr:count="1"/>
+		<link rel="replies" type="application/atom+xml" href="http://www.plymouth.edu/news/fullstory.php?number=6638/feed/atom/" thr:count="1"/>
+		<thr:total>1</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name>Bridget</name>
+					</author>
+		<title type="html"><![CDATA[Class of 2008: More Than 800 Graduate From PSU]]></title>
+		<link rel="alternate" type="text/html" href="http://www.plymouth.edu/news/fullstory.php?number=6344" />
+		<id>http://www.plymouth.edu/department/hhp/?p=134</id>
+		<updated>2010-07-26T19:54:52Z</updated>
+		<published>2010-07-26T19:54:52Z</published>
+		<category scheme="http://www.plymouth.edu/department/hhp" term="News" />		<summary type="html"><![CDATA[]]></summary>
+		<content type="html" xml:base="http://www.plymouth.edu/news/fullstory.php?number=6344"><![CDATA[]]></content>
+		<link rel="replies" type="text/html" href="http://www.plymouth.edu/news/fullstory.php?number=6344#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://www.plymouth.edu/news/fullstory.php?number=6344/feed/atom/" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name>Bridget</name>
+					</author>
+		<title type="html"><![CDATA[If I earn my certification in New Hampshire, will I be eligible to teach in another state?]]></title>
+		<link rel="alternate" type="text/html" href="http://www.plymouth.edu/department/hhp/92/if-i-earn-my-certification-in-new-hampshire-will-i-be-eligible-to-teach-in-another-state/" />
+		<id>http://www.plymouth.edu/department/hhp/92/if-i-earn-my-certification-in-new-hampshire-will-i-be-eligible-to-teach-in-another-state/</id>
+		<updated>2010-06-17T13:42:55Z</updated>
+		<published>2010-06-17T13:42:55Z</published>
+		<category scheme="http://www.plymouth.edu/department/hhp" term="teacher faq" />		<summary type="html"><![CDATA[New Hampshire is a member of the Interstate Certification Contract. A graduate is eligible to earn a certificate or license in another Contract state upon application to that state&#8217;s department of education. There are approximately 41 other states involved in this reciprocal certification.]]></summary>
+		<content type="html" xml:base="http://www.plymouth.edu/department/hhp/92/if-i-earn-my-certification-in-new-hampshire-will-i-be-eligible-to-teach-in-another-state/"><![CDATA[<p>New Hampshire is a member of the Interstate Certification Contract. A  graduate is eligible to earn a certificate or license in another  Contract state upon application to that state&#8217;s department of education.  There are approximately 41 other states involved in this reciprocal  certification.</p>
+]]></content>
+		<link rel="replies" type="text/html" href="http://www.plymouth.edu/department/hhp/92/if-i-earn-my-certification-in-new-hampshire-will-i-be-eligible-to-teach-in-another-state/#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://www.plymouth.edu/department/hhp/92/if-i-earn-my-certification-in-new-hampshire-will-i-be-eligible-to-teach-in-another-state/feed/atom/" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name>Bridget</name>
+					</author>
+		<title type="html"><![CDATA[If I become eligible to teach physical education, can I teach another content area?]]></title>
+		<link rel="alternate" type="text/html" href="http://www.plymouth.edu/department/hhp/91/if-i-become-eligible-to-teach-physical-education-can-i-teach-another-content-area/" />
+		<id>http://www.plymouth.edu/department/hhp/91/if-i-become-eligible-to-teach-physical-education-can-i-teach-another-content-area/</id>
+		<updated>2010-06-17T13:41:48Z</updated>
+		<published>2010-06-17T13:41:48Z</published>
+		<category scheme="http://www.plymouth.edu/department/hhp" term="teacher faq" />		<summary type="html"><![CDATA[Many schools allow teaching in another content area as long as you teach within your content area for the majority of the time.]]></summary>
+		<content type="html" xml:base="http://www.plymouth.edu/department/hhp/91/if-i-become-eligible-to-teach-physical-education-can-i-teach-another-content-area/"><![CDATA[<p>Many schools allow teaching in another content area as long as you  teach within your content area for the majority of the time.</p>
+]]></content>
+		<link rel="replies" type="text/html" href="http://www.plymouth.edu/department/hhp/91/if-i-become-eligible-to-teach-physical-education-can-i-teach-another-content-area/#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://www.plymouth.edu/department/hhp/91/if-i-become-eligible-to-teach-physical-education-can-i-teach-another-content-area/feed/atom/" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+	</feed>

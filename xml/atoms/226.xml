@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://scholar.library.miami.edu/digital/items/browse?output=atom</id>
+  <title><![CDATA[UM Libraries Digital Exhibits]]></title>
+  <author>
+    <name><![CDATA[Unknown]]></name>
+  </author>
+  <updated>2014-07-21T13:58:55-04:00</updated>
+  <generator>Omeka</generator>
+  <link rel="self" href="http://scholar.library.miami.edu/digital/items/browse?output=atom"/>
+  <link rel="first" type="application/atom+xml" href="http://scholar.library.miami.edu/digital/items/browse/page/1?output=atom"/>
+  <link rel="next" type="application/atom+xml" href="http://scholar.library.miami.edu/digital/items/browse/page/2?output=atom"/>
+  <link rel="last" type="application/atom+xml" href="http://scholar.library.miami.edu/digital/items/browse/page/5?output=atom"/>
+  <entry>
+    <id>http://scholar.library.miami.edu/digital/items/show/277</id>
+    <title><![CDATA[Mejías family stepping out of an airplane, ca. 1962]]></title>
+    <updated>2013-12-11T08:45:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="http://scholar.library.miami.edu/digital/items/show/277"/>
+    <link rel="enclosure" href="http://scholar.library.miami.edu/digital/files/original/7e74c494d79218cf38fe22541db08a1e.jpg" type="image/jpeg" length="129176"/>
+    <content type="html"><![CDATA[<div class="element-set">
+    <h2>Dublin Core</h2>
+        <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">Mejías family stepping out of an airplane, ca. 1962</div>
+            </div><!-- end element -->
+        <div id="dublin-core-identifier" class="element">
+        <h3>Identifier</h3>
+                    <div class="element-text">chc02180000230001001</div>
+            </div><!-- end element -->
+        <div id="dublin-core-is-part-of" class="element">
+        <h3>Is Part Of</h3>
+                    <div class="element-text">University of Miami Libraries, Cuban Heritage Collection, Cuban Refugee Center Records, CHC0218. Box No. 52; Folder No. 230; Folder Title: Personalities: Nugent, Randolph, Rev. 1970. http://merrick.library.miami.edu/cdm/ref/collection/chc0218/id/32</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>http://scholar.library.miami.edu/digital/items/show/276</id>
+    <title><![CDATA[Elderly refugees Edit  Test]]></title>
+    <summary><![CDATA[Description]]></summary>
+    <updated>2013-10-15T07:48:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://scholar.library.miami.edu/digital/items/show/276"/>
+    <link rel="enclosure" href="http://scholar.library.miami.edu/digital/files/original/0de116645babafb6ec2af27db3a52714.jpg" type="image/jpeg" length="214525"/>
+    <content type="html"><![CDATA[<div class="element-set">
+    <h2>Dublin Core</h2>
+        <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">Elderly refugees Edit  Test</div>
+            </div><!-- end element -->
+        <div id="dublin-core-subject" class="element">
+        <h3>Subject</h3>
+                    <div class="element-text">Subjects</div>
+            </div><!-- end element -->
+        <div id="dublin-core-description" class="element">
+        <h3>Description</h3>
+                    <div class="element-text">Description</div>
+            </div><!-- end element -->
+        <div id="dublin-core-creator" class="element">
+        <h3>Creator</h3>
+                    <div class="element-text">Creator</div>
+            </div><!-- end element -->
+        <div id="dublin-core-contributor" class="element">
+        <h3>Contributor</h3>
+                    <div class="element-text">Contributor</div>
+            </div><!-- end element -->
+        <div id="dublin-core-publisher" class="element">
+        <h3>Publisher</h3>
+                    <div class="element-text">Publisher</div>
+            </div><!-- end element -->
+        <div id="dublin-core-identifier" class="element">
+        <h3>Identifier</h3>
+                    <div class="element-text">chc02180000180001001</div>
+            </div><!-- end element -->
+        <div id="dublin-core-is-part-of" class="element">
+        <h3>Is Part Of</h3>
+                    <div class="element-text">University of Miami Libraries, Cuban Heritage Collection, Cuban Refugee Center Records, CHC0218. Box No. 46; Folder No. 133; Folder Title: Cuban Refugee Center: Freedom House Refugees. http://merrick.library.miami.edu/cdm/ref/collection/chc0218/id/40</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>http://scholar.library.miami.edu/digital/items/show/275</id>
+    <title><![CDATA[Cuban family at the Miami airport]]></title>
+    <summary><![CDATA[Family portraits]]></summary>
+    <updated>2013-12-11T08:45:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="http://scholar.library.miami.edu/digital/items/show/275"/>
+    <link rel="enclosure" href="http://scholar.library.miami.edu/digital/files/original/6c132348e318060c87fc9bc90960a0e1.jpg" type="image/jpeg" length="377241"/>
+    <content type="html"><![CDATA[<div class="element-set">
+    <h2>Dublin Core</h2>
+        <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">Cuban family at the Miami airport</div>
+            </div><!-- end element -->
+        <div id="dublin-core-description" class="element">
+        <h3>Description</h3>
+                    <div class="element-text">Family portraits</div>
+            </div><!-- end element -->
+        <div id="dublin-core-identifier" class="element">
+        <h3>Identifier</h3>
+                    <div class="element-text">chc02180000150001001</div>
+            </div><!-- end element -->
+        <div id="dublin-core-is-part-of" class="element">
+        <h3>Is Part Of</h3>
+                    <div class="element-text">University of Miami Libraries, Cuban Heritage Collection, Cuban Refugee Center Records, CHC0218. Box No. 44; Folder No. 78; Folder Title: Cuban Refugee C. R. Resettlement Program: HIAS. http://merrick.library.miami.edu/cdm/ref/collection/chc0218/id/11</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>http://scholar.library.miami.edu/digital/items/show/274</id>
+    <title><![CDATA[Cuban couple with children]]></title>
+    <summary><![CDATA[Family portraits]]></summary>
+    <updated>2013-12-11T08:45:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="http://scholar.library.miami.edu/digital/items/show/274"/>
+    <link rel="enclosure" href="http://scholar.library.miami.edu/digital/files/original/654c43e1bb6129a0bc2cb0a77981d4b1.jpg" type="image/jpeg" length="416145"/>
+    <content type="html"><![CDATA[<div class="element-set">
+    <h2>Dublin Core</h2>
+        <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">Cuban couple with children</div>
+            </div><!-- end element -->
+        <div id="dublin-core-description" class="element">
+        <h3>Description</h3>
+                    <div class="element-text">Family portraits</div>
+            </div><!-- end element -->
+        <div id="dublin-core-identifier" class="element">
+        <h3>Identifier</h3>
+                    <div class="element-text">chc02180000130001001</div>
+            </div><!-- end element -->
+        <div id="dublin-core-is-part-of" class="element">
+        <h3>Is Part Of</h3>
+                    <div class="element-text">University of Miami Libraries, Cuban Heritage Collection, Cuban Refugee Center Records, CHC0218. Box No. 43;  Folder Title: Resettlements 1968. http://merrick.library.miami.edu/cdm/ref/collection/chc0218/id/60</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>http://scholar.library.miami.edu/digital/items/show/273</id>
+    <title><![CDATA[Cuban couple with children]]></title>
+    <summary><![CDATA[Family portraits]]></summary>
+    <updated>2013-12-11T08:45:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="http://scholar.library.miami.edu/digital/items/show/273"/>
+    <link rel="enclosure" href="http://scholar.library.miami.edu/digital/files/original/7afb0d5bfa34570aa1fac26a1a5b892e.jpg" type="image/jpeg" length="332259"/>
+    <content type="html"><![CDATA[<div class="element-set">
+    <h2>Dublin Core</h2>
+        <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">Cuban couple with children</div>
+            </div><!-- end element -->
+        <div id="dublin-core-description" class="element">
+        <h3>Description</h3>
+                    <div class="element-text">Family portraits</div>
+            </div><!-- end element -->
+        <div id="dublin-core-identifier" class="element">
+        <h3>Identifier</h3>
+                    <div class="element-text">chc02180000120001001</div>
+            </div><!-- end element -->
+        <div id="dublin-core-is-part-of" class="element">
+        <h3>Is Part Of</h3>
+                    <div class="element-text">University of Miami Libraries, Cuban Heritage Collection, Cuban Refugee Center Records, CHC0218. Box No. 43;  Folder Title: Resettlements 1968. http://merrick.library.miami.edu/cdm/ref/collection/chc0218/id/71</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>http://scholar.library.miami.edu/digital/items/show/271</id>
+    <title><![CDATA[Cuban mother with her children]]></title>
+    <summary><![CDATA[Family portraits]]></summary>
+    <updated>2013-12-11T08:45:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="http://scholar.library.miami.edu/digital/items/show/271"/>
+    <link rel="enclosure" href="http://scholar.library.miami.edu/digital/files/original/fa74262727786cea312d04dea4a93a3d.jpg" type="image/jpeg" length="322799"/>
+    <content type="html"><![CDATA[<div class="element-set">
+    <h2>Dublin Core</h2>
+        <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">Cuban mother with her children</div>
+            </div><!-- end element -->
+        <div id="dublin-core-description" class="element">
+        <h3>Description</h3>
+                    <div class="element-text">Family portraits</div>
+            </div><!-- end element -->
+        <div id="dublin-core-identifier" class="element">
+        <h3>Identifier</h3>
+                    <div class="element-text">chc02180000100001001</div>
+            </div><!-- end element -->
+        <div id="dublin-core-is-part-of" class="element">
+        <h3>Is Part Of</h3>
+                    <div class="element-text">University of Miami Libraries, Cuban Heritage Collection, Cuban Refugee Center Records, CHC0218. Box No. 43; Folder Title: Resettlements 1968. http://merrick.library.miami.edu/cdm/ref/collection/chc0218/id/47</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>http://scholar.library.miami.edu/digital/items/show/272</id>
+    <title><![CDATA[Cuban family]]></title>
+    <summary><![CDATA[Family portraits]]></summary>
+    <updated>2013-12-11T08:45:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="http://scholar.library.miami.edu/digital/items/show/272"/>
+    <link rel="enclosure" href="http://scholar.library.miami.edu/digital/files/original/d4c41fc1ee80306a328e855785286a0b.jpg" type="image/jpeg" length="351062"/>
+    <content type="html"><![CDATA[<div class="element-set">
+    <h2>Dublin Core</h2>
+        <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">Cuban family</div>
+            </div><!-- end element -->
+        <div id="dublin-core-description" class="element">
+        <h3>Description</h3>
+                    <div class="element-text">Family portraits</div>
+            </div><!-- end element -->
+        <div id="dublin-core-identifier" class="element">
+        <h3>Identifier</h3>
+                    <div class="element-text">chc02180000110001001</div>
+            </div><!-- end element -->
+        <div id="dublin-core-is-part-of" class="element">
+        <h3>Is Part Of</h3>
+                    <div class="element-text">University of Miami Libraries, Cuban Heritage Collection, Cuban Refugee Center Records, CHC0218. Box No. 43; Folder Title: Resettlements 1968. http://merrick.library.miami.edu/cdm/ref/collection/chc0218/id/29</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>http://scholar.library.miami.edu/digital/items/show/270</id>
+    <title><![CDATA[Cuban mother with daughters]]></title>
+    <summary><![CDATA[Family portraits]]></summary>
+    <updated>2013-12-11T08:45:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="http://scholar.library.miami.edu/digital/items/show/270"/>
+    <link rel="enclosure" href="http://scholar.library.miami.edu/digital/files/original/187ffe03892298edf1473b06610c381b.jpg" type="image/jpeg" length="290363"/>
+    <content type="html"><![CDATA[<div class="element-set">
+    <h2>Dublin Core</h2>
+        <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">Cuban mother with daughters</div>
+            </div><!-- end element -->
+        <div id="dublin-core-description" class="element">
+        <h3>Description</h3>
+                    <div class="element-text">Family portraits</div>
+            </div><!-- end element -->
+        <div id="dublin-core-identifier" class="element">
+        <h3>Identifier</h3>
+                    <div class="element-text">chc02180000090001001</div>
+            </div><!-- end element -->
+        <div id="dublin-core-is-part-of" class="element">
+        <h3>Is Part Of</h3>
+                    <div class="element-text">University of Miami Libraries, Cuban Heritage Collection, Cuban Refugee Center Records, CHC0218. Box No. 43; Folder Title: Resettlements 1968. http://merrick.library.miami.edu/cdm/ref/collection/chc0218/id/14</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>http://scholar.library.miami.edu/digital/items/show/269</id>
+    <title><![CDATA[Elderly couple with daughter]]></title>
+    <summary><![CDATA[Family portraits]]></summary>
+    <updated>2013-12-11T08:45:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="http://scholar.library.miami.edu/digital/items/show/269"/>
+    <link rel="enclosure" href="http://scholar.library.miami.edu/digital/files/original/2fa4c0d975696211e6d89df85b78afff.jpg" type="image/jpeg" length="445809"/>
+    <content type="html"><![CDATA[<div class="element-set">
+    <h2>Dublin Core</h2>
+        <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">Elderly couple with daughter</div>
+            </div><!-- end element -->
+        <div id="dublin-core-description" class="element">
+        <h3>Description</h3>
+                    <div class="element-text">Family portraits</div>
+            </div><!-- end element -->
+        <div id="dublin-core-identifier" class="element">
+        <h3>Identifier</h3>
+                    <div class="element-text">chc02180000080001001</div>
+            </div><!-- end element -->
+        <div id="dublin-core-is-part-of" class="element">
+        <h3>Is Part Of</h3>
+                    <div class="element-text">University of Miami Libraries, Cuban Heritage Collection, Cuban Refugee Center Records, CHC0218. Box No. 43; Folder Title: Resettlements 1968. http://merrick.library.miami.edu/cdm/ref/collection/chc0218/id/5</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>http://scholar.library.miami.edu/digital/items/show/268</id>
+    <title><![CDATA[Cuban family at the Refugee Center]]></title>
+    <summary><![CDATA[Family portraits]]></summary>
+    <updated>2013-12-11T08:45:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="http://scholar.library.miami.edu/digital/items/show/268"/>
+    <link rel="enclosure" href="http://scholar.library.miami.edu/digital/files/original/d79a6e9f367517d59cfede6f5798f27b.jpg" type="image/jpeg" length="405962"/>
+    <content type="html"><![CDATA[<div class="element-set">
+    <h2>Dublin Core</h2>
+        <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">Cuban family at the Refugee Center</div>
+            </div><!-- end element -->
+        <div id="dublin-core-description" class="element">
+        <h3>Description</h3>
+                    <div class="element-text">Family portraits</div>
+            </div><!-- end element -->
+        <div id="dublin-core-identifier" class="element">
+        <h3>Identifier</h3>
+                    <div class="element-text">chc02180000070001001</div>
+            </div><!-- end element -->
+        <div id="dublin-core-is-part-of" class="element">
+        <h3>Is Part Of</h3>
+                    <div class="element-text">University of Miami Libraries, Cuban Heritage Collection, Cuban Refugee Center Records, CHC0218. Box No. 43; Folder Title: Resettlements 1968. http://merrick.library.miami.edu/cdm/ref/collection/chc0218/id/4</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+</feed>

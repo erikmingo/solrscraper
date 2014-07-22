@@ -1,0 +1,1781 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/css" href="http://wiki.creativecommons.org/skins/common/feed.css?303"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+		<id>http://wiki.creativecommons.org/index.php?title=Special:RecentChanges&amp;feed=atom</id>
+		<title>CC Wiki  - Recent changes [en]</title>
+		<link rel="self" type="application/atom+xml" href="http://wiki.creativecommons.org/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+		<link rel="alternate" type="text/html" href="http://wiki.creativecommons.org/Special:RecentChanges"/>
+		<updated>2014-07-21T12:55:05Z</updated>
+		<subtitle>Track the most recent changes to the wiki in this feed.</subtitle>
+		<generator>MediaWiki 1.20.5</generator>
+
+	<entry>
+		<id>http://wiki.creativecommons.org/index.php?title=Belarus&amp;diff=98789&amp;oldid=98747</id>
+		<title>Belarus</title>
+		<link rel="alternate" type="text/html" href="http://wiki.creativecommons.org/index.php?title=Belarus&amp;diff=98789&amp;oldid=98747"/>
+				<updated>2014-07-21T12:54:06Z</updated>
+		
+		<summary type="html">&lt;p&gt;&lt;/p&gt;
+&lt;table class='diff diff-contentalign-left'&gt;
+				&lt;col class='diff-marker' /&gt;
+				&lt;col class='diff-content' /&gt;
+				&lt;col class='diff-marker' /&gt;
+				&lt;col class='diff-content' /&gt;
+			&lt;tr style='vertical-align: top;'&gt;
+			&lt;td colspan='2' style=&quot;background-color: white; color:black;&quot;&gt;← Older revision&lt;/td&gt;
+			&lt;td colspan='2' style=&quot;background-color: white; color:black;&quot;&gt;Revision as of 12:54, 21 July 2014&lt;/td&gt;
+			&lt;/tr&gt;&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;Line 55:&lt;/td&gt;
+  &lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;Line 55:&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;*Media activists for viral campaign (social media manager)&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;*Media activists for viral campaign (social media manager)&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;-&lt;/td&gt;
+  &lt;td style=&quot;background: #ffa; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;
+Now we deploy the CC affiliate project on &lt;span class=&quot;diffchange diffchange-inline&quot;&gt;some &lt;/span&gt;crowdsourcing platform.
+  &lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;+&lt;/td&gt;
+  &lt;td style=&quot;background: #cfc; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;
+Now we deploy the CC affiliate project on &lt;span class=&quot;diffchange diffchange-inline&quot;&gt;a [http://www.talaka.by/projects/521/ &lt;/span&gt;crowdsourcing platform&lt;span class=&quot;diffchange diffchange-inline&quot;&gt;]&lt;/span&gt;.
+  &lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;== 6. Sustainability and scalability ==&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;== 6. Sustainability and scalability ==&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;</summary>
+		<author><name>Rizoma</name></author>	</entry>
+
+	<entry>
+		<id>http://wiki.creativecommons.org/index.php?title=UbicoArte&amp;diff=98788&amp;oldid=0</id>
+		<title>UbicoArte</title>
+		<link rel="alternate" type="text/html" href="http://wiki.creativecommons.org/index.php?title=UbicoArte&amp;diff=98788&amp;oldid=0"/>
+				<updated>2014-07-21T03:24:56Z</updated>
+		
+		<summary type="html">&lt;p&gt;Created page with &amp;quot;{{ContentDirectory |mainurl=http://ubicoarte.url.ph/ |format=Image, InteractiveResource, Geodata, Data }}  |free text=}}&amp;quot;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;New page&lt;/b&gt;&lt;/p&gt;&lt;div&gt;{{ContentDirectory&lt;br /&gt;
+|mainurl=http://ubicoarte.url.ph/&lt;br /&gt;
+|format=Image, InteractiveResource, Geodata, Data&lt;br /&gt;
+}}&lt;br /&gt;
+&lt;br /&gt;
+|free text=}}&lt;/div&gt;</summary>
+		<author><name>El Cyberalphabetizador</name></author>	</entry>
+
+	<entry>
+		<id>http://wiki.creativecommons.org/index.php?title=Social_Regards&amp;diff=98787&amp;oldid=0</id>
+		<title>Social Regards</title>
+		<link rel="alternate" type="text/html" href="http://wiki.creativecommons.org/index.php?title=Social_Regards&amp;diff=98787&amp;oldid=0"/>
+				<updated>2014-07-21T03:20:58Z</updated>
+		
+		<summary type="html">&lt;p&gt;Sitio Web Social de Listas de Regalos.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;New page&lt;/b&gt;&lt;/p&gt;&lt;div&gt;{{ContentDirectory&lt;br /&gt;
+|format=Image, Data&lt;br /&gt;
+}}&lt;br /&gt;
+&lt;br /&gt;
+|free text=}}&lt;/div&gt;</summary>
+		<author><name>El Cyberalphabetizador</name></author>	</entry>
+
+	<entry>
+		<id>http://wiki.creativecommons.org/index.php?title=Submissions_to_Public_Agencies&amp;diff=98786&amp;oldid=98604</id>
+		<title>Submissions to Public Agencies</title>
+		<link rel="alternate" type="text/html" href="http://wiki.creativecommons.org/index.php?title=Submissions_to_Public_Agencies&amp;diff=98786&amp;oldid=98604"/>
+				<updated>2014-07-21T01:02:15Z</updated>
+		
+		<summary type="html">&lt;p&gt;&lt;/p&gt;
+&lt;table class='diff diff-contentalign-left'&gt;
+				&lt;col class='diff-marker' /&gt;
+				&lt;col class='diff-content' /&gt;
+				&lt;col class='diff-marker' /&gt;
+				&lt;col class='diff-content' /&gt;
+			&lt;tr style='vertical-align: top;'&gt;
+			&lt;td colspan='2' style=&quot;background-color: white; color:black;&quot;&gt;← Older revision&lt;/td&gt;
+			&lt;td colspan='2' style=&quot;background-color: white; color:black;&quot;&gt;Revision as of 01:02, 21 July 2014&lt;/td&gt;
+			&lt;/tr&gt;&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;Line 19:&lt;/td&gt;
+  &lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;Line 19:&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;-&lt;/td&gt;
+  &lt;td style=&quot;background: #ffa; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;
+'''Recommendations to Federal Agencies on 2014 updates to Open Government Plans
+  &lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;+&lt;/td&gt;
+  &lt;td style=&quot;background: #cfc; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;
+'''Recommendations to Federal Agencies on 2014 updates to Open Government Plans&lt;span class=&quot;diffchange diffchange-inline&quot;&gt;'''&lt;/span&gt;
+  &lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;* [http://www.whitehouse.gov/blog/2014/04/30/open-government-public-participation-we-can-t-do-it-without-you Blog post]&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;* [http://www.whitehouse.gov/blog/2014/04/30/open-government-public-participation-we-can-t-do-it-without-you Blog post]&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;* [http://wiki.creativecommons.org/images/9/9b/CC_and_SPARC_recs_for_Open_Gov_plans.pdf CC and SPARC recommendations]&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;* [http://wiki.creativecommons.org/images/9/9b/CC_and_SPARC_recs_for_Open_Gov_plans.pdf CC and SPARC recommendations]&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;** recommendations sent to Department of Agriculture, Department of Commerce, Department of Education, Department of Health and Human Services, Department of Homeland Security, Department of Labor, Department of State, Department of Justice, Department of Transportation, Department of the Treasury, Environmental Protection Agency, General Services Administration, NASA, Nuclear Regulatory Commission, Office of personnel Management, Small Business Administration, Social Security Administration&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;** recommendations sent to Department of Agriculture, Department of Commerce, Department of Education, Department of Health and Human Services, Department of Homeland Security, Department of Labor, Department of State, Department of Justice, Department of Transportation, Department of the Treasury, Environmental Protection Agency, General Services Administration, NASA, Nuclear Regulatory Commission, Office of personnel Management, Small Business Administration, Social Security Administration&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;-&lt;/td&gt;
+  &lt;td style=&quot;background: #ffa; color:black; font-size: smaller;&quot;&gt;&lt;/td&gt;
+  &lt;td colspan=&quot;2&quot;&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;-&lt;/td&gt;
+  &lt;td style=&quot;background: #ffa; color:black; font-size: smaller;&quot;&gt;&lt;/td&gt;
+  &lt;td colspan=&quot;2&quot;&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;-&lt;/td&gt;
+  &lt;td style=&quot;background: #ffa; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;'''Copyright Office Notice of Inquiry Regarding “Reengineering of Recordation of Documents'''&lt;/div&gt;&lt;/td&gt;
+  &lt;td colspan=&quot;2&quot;&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;-&lt;/td&gt;
+  &lt;td style=&quot;background: #ffa; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;* [https://www.federalregister.gov/articles/2014/01/15/2014-00638/strategic-plan-for-recordation-of-documents Federal Register Notice of Inquiry]&lt;/div&gt;&lt;/td&gt;
+  &lt;td colspan=&quot;2&quot;&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;-&lt;/td&gt;
+  &lt;td style=&quot;background: #ffa; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;* [http://wiki.creativecommons.org/images/6/6f/Creative_Commons_comments_on_Reengineering_of_Recordation_of_Documents.pdf CC response]&lt;/div&gt;&lt;/td&gt;
+  &lt;td colspan=&quot;2&quot;&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;!-- diff cache key cc_wiki:diff:version:1.11a:oldid:98604:newid:98786 --&gt;
+&lt;/table&gt;</summary>
+		<author><name>Tvol</name></author>	</entry>
+
+	<entry>
+		<id>http://wiki.creativecommons.org/index.php?title=User:El_Cyberalphabetizador&amp;diff=98785&amp;oldid=97765</id>
+		<title>User:El Cyberalphabetizador</title>
+		<link rel="alternate" type="text/html" href="http://wiki.creativecommons.org/index.php?title=User:El_Cyberalphabetizador&amp;diff=98785&amp;oldid=97765"/>
+				<updated>2014-07-21T01:00:27Z</updated>
+		
+		<summary type="html">&lt;p&gt;&lt;/p&gt;
+&lt;table class='diff diff-contentalign-left'&gt;
+				&lt;col class='diff-marker' /&gt;
+				&lt;col class='diff-content' /&gt;
+				&lt;col class='diff-marker' /&gt;
+				&lt;col class='diff-content' /&gt;
+			&lt;tr style='vertical-align: top;'&gt;
+			&lt;td colspan='2' style=&quot;background-color: white; color:black;&quot;&gt;← Older revision&lt;/td&gt;
+			&lt;td colspan='2' style=&quot;background-color: white; color:black;&quot;&gt;Revision as of 01:00, 21 July 2014&lt;/td&gt;
+			&lt;/tr&gt;&lt;tr&gt;&lt;td colspan='4' style='text-align: center;' class='diff-multi'&gt;(2 intermediate revisions by one user not shown)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;Line 1:&lt;/td&gt;
+  &lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;Line 1:&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;-&lt;/td&gt;
+  &lt;td style=&quot;background: #ffa; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;
+== &lt;span class=&quot;diffchange diffchange-inline&quot;&gt;'&lt;/span&gt;''El Cyberalphabetizador'' ==
+  &lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;+&lt;/td&gt;
+  &lt;td style=&quot;background: #cfc; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;
+== ''El Cyberalphabetizador'' ==
+  &lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;Márquez Norberto Rubén&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;Márquez Norberto Rubén&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot;&gt;&amp;nbsp;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;+&lt;/td&gt;
+  &lt;td style=&quot;background: #cfc; color:black; font-size: smaller;&quot;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;''cyberalpha@gmail.com''&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;''cyberalpha@gmail.com''&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot;&gt;&amp;nbsp;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;+&lt;/td&gt;
+  &lt;td style=&quot;background: #cfc; color:black; font-size: smaller;&quot;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot;&gt;&amp;nbsp;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;+&lt;/td&gt;
+  &lt;td style=&quot;background: #cfc; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;[www.cyberalpha.com.ar]&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;!-- diff cache key cc_wiki:diff:version:1.11a:oldid:97765:newid:98785 --&gt;
+&lt;/table&gt;</summary>
+		<author><name>El Cyberalphabetizador</name></author>	</entry>
+
+	<entry>
+		<id>http://wiki.creativecommons.org/index.php?title=Legal_Tools_Translation/4.0/Maori&amp;diff=98782&amp;oldid=0</id>
+		<title>Legal Tools Translation/4.0/Maori</title>
+		<link rel="alternate" type="text/html" href="http://wiki.creativecommons.org/index.php?title=Legal_Tools_Translation/4.0/Maori&amp;diff=98782&amp;oldid=0"/>
+				<updated>2014-07-20T23:40:01Z</updated>
+		
+		<summary type="html">&lt;p&gt;Created page with &amp;quot;{{4.0 Translation |jurisdictions=New Zealand |coordinationplan=The language is specific to New Zealand. |date=2014/07/21 |draftdate=2014/07/30 |publicdate=2014/08/01 |publicen...&amp;quot;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;New page&lt;/b&gt;&lt;/p&gt;&lt;div&gt;{{4.0 Translation&lt;br /&gt;
+|jurisdictions=New Zealand&lt;br /&gt;
+|coordinationplan=The language is specific to New Zealand.&lt;br /&gt;
+|date=2014/07/21&lt;br /&gt;
+|draftdate=2014/07/30&lt;br /&gt;
+|publicdate=2014/08/01&lt;br /&gt;
+|publicenddate=2014/09/01&lt;br /&gt;
+|end_date=2014/09/15&lt;br /&gt;
+|process=We will contract Ian Cormack, who is an experienced translator, to make the translation. &lt;br /&gt;
+&lt;br /&gt;
+We will reach out to indigenous communities using our CC networks; we will also work will relevant people in public agencies who may wish to use the licences for public sector information.  &lt;br /&gt;
+|website=TBD&lt;br /&gt;
+|team=Matt McGregor, Public Lead CCANZ. I'll manage the process, including consultation&lt;br /&gt;
+&lt;br /&gt;
+Karaitiana Taiuru, CCANZ Advisory Panel member. He will provide Matt with advice on how to manage the process.&lt;br /&gt;
+&lt;br /&gt;
+Ian Cormack, translator. He will translate the licences&lt;br /&gt;
+|wordchoice=TBD&lt;br /&gt;
+|affirm=Yes&lt;br /&gt;
+|status=Proposed&lt;br /&gt;
+}}&lt;/div&gt;</summary>
+		<author><name>Matt McGregor</name></author>	</entry>
+
+	<entry>
+		<id>http://wiki.creativecommons.org/index.php?title=Open_Licensing_Policy_Guidelines&amp;diff=98781&amp;oldid=98754</id>
+		<title>Open Licensing Policy Guidelines</title>
+		<link rel="alternate" type="text/html" href="http://wiki.creativecommons.org/index.php?title=Open_Licensing_Policy_Guidelines&amp;diff=98781&amp;oldid=98754"/>
+				<updated>2014-07-18T23:40:42Z</updated>
+		
+		<summary type="html">&lt;p&gt;&lt;/p&gt;
+&lt;table class='diff diff-contentalign-left'&gt;
+				&lt;col class='diff-marker' /&gt;
+				&lt;col class='diff-content' /&gt;
+				&lt;col class='diff-marker' /&gt;
+				&lt;col class='diff-content' /&gt;
+			&lt;tr style='vertical-align: top;'&gt;
+			&lt;td colspan='2' style=&quot;background-color: white; color:black;&quot;&gt;← Older revision&lt;/td&gt;
+			&lt;td colspan='2' style=&quot;background-color: white; color:black;&quot;&gt;Revision as of 23:40, 18 July 2014&lt;/td&gt;
+			&lt;/tr&gt;&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;Line 7:&lt;/td&gt;
+  &lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;Line 7:&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;|Language code=en&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;|Language code=en&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;|OER Policy Jurisdiction=National&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;|OER Policy Jurisdiction=National&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;-&lt;/td&gt;
+  &lt;td style=&quot;background: #ffa; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;
+|Country=India,
+  &lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;+&lt;/td&gt;
+  &lt;td style=&quot;background: #cfc; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;
+|Country=India, 
+  &lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;|Tag=education&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;|Tag=education&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;|License short name=copyright&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;|License short name=copyright&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;}}&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;}}&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;Commonwealth of Learning (COL) blog post: [http://www.col.org/blog/Lists/Posts/Post.aspx?ID=177]&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;Commonwealth of Learning (COL) blog post: [http://www.col.org/blog/Lists/Posts/Post.aspx?ID=177]&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot;&gt;&amp;nbsp;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;+&lt;/td&gt;
+  &lt;td style=&quot;background: #cfc; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;NMEICT: [http://www.nmeict.iitkgp.ernet.in/]&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;!-- diff cache key cc_wiki:diff:version:1.11a:oldid:98754:newid:98781 --&gt;
+&lt;/table&gt;</summary>
+		<author><name>Cgreen</name></author>	</entry>
+
+	<entry>
+		<id>http://wiki.creativecommons.org/index.php?title=Supplemental_Priorities_and_Definitions_for_Discretionary_Grant_Programs&amp;diff=98780&amp;oldid=98774</id>
+		<title>Supplemental Priorities and Definitions for Discretionary Grant Programs</title>
+		<link rel="alternate" type="text/html" href="http://wiki.creativecommons.org/index.php?title=Supplemental_Priorities_and_Definitions_for_Discretionary_Grant_Programs&amp;diff=98780&amp;oldid=98774"/>
+				<updated>2014-07-18T19:41:08Z</updated>
+		
+		<summary type="html">&lt;p&gt;&lt;/p&gt;
+&lt;table class='diff diff-contentalign-left'&gt;
+				&lt;col class='diff-marker' /&gt;
+				&lt;col class='diff-content' /&gt;
+				&lt;col class='diff-marker' /&gt;
+				&lt;col class='diff-content' /&gt;
+			&lt;tr style='vertical-align: top;'&gt;
+			&lt;td colspan='2' style=&quot;background-color: white; color:black;&quot;&gt;← Older revision&lt;/td&gt;
+			&lt;td colspan='2' style=&quot;background-color: white; color:black;&quot;&gt;Revision as of 19:41, 18 July 2014&lt;/td&gt;
+			&lt;/tr&gt;&lt;tr&gt;&lt;td colspan='4' style='text-align: center;' class='diff-multi'&gt;(5 intermediate revisions by one user not shown)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;Line 4:&lt;/td&gt;
+  &lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;Line 4:&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;|Description=&quot;To support a comprehensive education agenda, the Secretary proposes 15 priorities and related definitions for use in discretionary grant programs. These proposed priorities and definitions are intended to replace the current supplemental priorities for discretionary grant programs that were published in 2010. These priorities reflect the lessons learned from implementing discretionary grant programs, as well as our current policy objectives, and emerging needs in education.&quot;&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;|Description=&quot;To support a comprehensive education agenda, the Secretary proposes 15 priorities and related definitions for use in discretionary grant programs. These proposed priorities and definitions are intended to replace the current supplemental priorities for discretionary grant programs that were published in 2010. These priorities reflect the lessons learned from implementing discretionary grant programs, as well as our current policy objectives, and emerging needs in education.&quot;&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;-&lt;/td&gt;
+  &lt;td style=&quot;background: #ffa; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;
+&lt;span class=&quot;diffchange diffchange-inline&quot;&gt;(1) Technology can accelerate or enhance the implementation &lt;/span&gt;of &lt;span class=&quot;diffchange diffchange-inline&quot;&gt;the other priorities proposed in this document by&lt;/span&gt;:
+  &lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;+&lt;/td&gt;
+  &lt;td style=&quot;background: #cfc; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;
+&lt;span class=&quot;diffchange diffchange-inline&quot;&gt;'''OER policy mentions &lt;/span&gt;of &lt;span class=&quot;diffchange diffchange-inline&quot;&gt;note&lt;/span&gt;:&lt;span class=&quot;diffchange diffchange-inline&quot;&gt;'''&lt;/span&gt;
+  &lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;-&lt;/td&gt;
+  &lt;td style=&quot;background: #ffa; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;Accessing *open educational resources* (as defined in this notice) aligned with internationally benchmarked college- and career-ready standards;&lt;/div&gt;&lt;/td&gt;
+  &lt;td colspan=&quot;2&quot;&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;-&lt;/td&gt;
+  &lt;td style=&quot;background: #ffa; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;
+(&lt;span class=&quot;diffchange diffchange-inline&quot;&gt;2&lt;/span&gt;) &lt;span class=&quot;diffchange diffchange-inline&quot;&gt;While &lt;/span&gt;the &lt;span class=&quot;diffchange diffchange-inline&quot;&gt;use of digital tools was part &lt;/span&gt;of the &lt;span class=&quot;diffchange diffchange-inline&quot;&gt;2010 Supplemental Priorities, we are revising this priority to include more specific strategies to promote technology integration and enhance student and educator learning. This &lt;/span&gt;proposed &lt;span class=&quot;diffchange diffchange-inline&quot;&gt;priority would explicitly support projects that help students and educators take full advantage of access to high-speed Internet, digital tools and materials, and *open educational resources* (as defined &lt;/span&gt;in this &lt;span class=&quot;diffchange diffchange-inline&quot;&gt;notice).&lt;/span&gt;
+  &lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;+&lt;/td&gt;
+  &lt;td style=&quot;background: #cfc; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;
+(&lt;span class=&quot;diffchange diffchange-inline&quot;&gt;1&lt;/span&gt;) &lt;span class=&quot;diffchange diffchange-inline&quot;&gt;&quot;Technology can accelerate or enhance &lt;/span&gt;the &lt;span class=&quot;diffchange diffchange-inline&quot;&gt;implementation &lt;/span&gt;of the &lt;span class=&quot;diffchange diffchange-inline&quot;&gt;other priorities &lt;/span&gt;proposed in this &lt;span class=&quot;diffchange diffchange-inline&quot;&gt;document by:&lt;/span&gt;
+  &lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot;&gt;&amp;nbsp;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;+&lt;/td&gt;
+  &lt;td style=&quot;background: #cfc; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;Accessing '''open educational resources''' (as defined in this notice) aligned with internationally benchmarked college- and career-ready standards;&quot;&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;-&lt;/td&gt;
+  &lt;td style=&quot;background: #ffa; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;
+(&lt;span class=&quot;diffchange diffchange-inline&quot;&gt;3&lt;/span&gt;) &lt;span class=&quot;diffchange diffchange-inline&quot;&gt;Proposed Priority 11--Leveraging Technology &lt;/span&gt;to &lt;span class=&quot;diffchange diffchange-inline&quot;&gt;Support Instructional Practice &lt;/span&gt;and &lt;span class=&quot;diffchange diffchange-inline&quot;&gt;Professional Development&lt;/span&gt;. &lt;span class=&quot;diffchange diffchange-inline&quot;&gt;Projects &lt;/span&gt;that &lt;span class=&quot;diffchange diffchange-inline&quot;&gt;are designed to leverage technology through one or more &lt;/span&gt;of &lt;span class=&quot;diffchange diffchange-inline&quot;&gt;the following:&lt;/span&gt;
+  &lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;+&lt;/td&gt;
+  &lt;td style=&quot;background: #cfc; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;
+(&lt;span class=&quot;diffchange diffchange-inline&quot;&gt;2&lt;/span&gt;) &lt;span class=&quot;diffchange diffchange-inline&quot;&gt;&quot;While the use of digital tools was part of the 2010 Supplemental Priorities, we are revising this priority &lt;/span&gt;to &lt;span class=&quot;diffchange diffchange-inline&quot;&gt;include more specific strategies to promote technology integration and enhance student &lt;/span&gt;and &lt;span class=&quot;diffchange diffchange-inline&quot;&gt;educator learning&lt;/span&gt;. &lt;span class=&quot;diffchange diffchange-inline&quot;&gt;This proposed priority would explicitly support projects &lt;/span&gt;that &lt;span class=&quot;diffchange diffchange-inline&quot;&gt;help students and educators take full advantage &lt;/span&gt;of &lt;span class=&quot;diffchange diffchange-inline&quot;&gt;access to high-speed Internet, digital tools and materials, and '''open educational resources''' (as defined in this notice).&quot;&lt;/span&gt;
+  &lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;-&lt;/td&gt;
+  &lt;td style=&quot;background: #ffa; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;(a) Using high-need Internet access and devices that increase students’ and educators’ access to high-quality digital tools, materials, and assessments, particularly *open educational resources* (as defined in this notice).&lt;/div&gt;&lt;/td&gt;
+  &lt;td colspan=&quot;2&quot;&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;-&lt;/td&gt;
+  &lt;td style=&quot;background: #ffa; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;
+(&lt;span class=&quot;diffchange diffchange-inline&quot;&gt;4&lt;/span&gt;) &lt;span class=&quot;diffchange diffchange-inline&quot;&gt;Definition&lt;/span&gt;:
+  &lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;+&lt;/td&gt;
+  &lt;td style=&quot;background: #cfc; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;
+(&lt;span class=&quot;diffchange diffchange-inline&quot;&gt;3&lt;/span&gt;) &lt;span class=&quot;diffchange diffchange-inline&quot;&gt;&quot;Proposed Priority 11--Leveraging Technology to Support Instructional Practice and Professional Development. Projects that are designed to leverage technology through one or more of the following&lt;/span&gt;:
+  &lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;-&lt;/td&gt;
+  &lt;td style=&quot;background: #ffa; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;
+&lt;span class=&quot;diffchange diffchange-inline&quot;&gt;Open educational resources &lt;/span&gt;(&lt;span class=&quot;diffchange diffchange-inline&quot;&gt;OER&lt;/span&gt;) &lt;span class=&quot;diffchange diffchange-inline&quot;&gt;means teaching&lt;/span&gt;, &lt;span class=&quot;diffchange diffchange-inline&quot;&gt;learning&lt;/span&gt;, and &lt;span class=&quot;diffchange diffchange-inline&quot;&gt;research &lt;/span&gt;resources &lt;span class=&quot;diffchange diffchange-inline&quot;&gt;that reside &lt;/span&gt;in &lt;span class=&quot;diffchange diffchange-inline&quot;&gt;the public domain or have been released under an intellectual property license that permits their free use and repurposing by others&lt;/span&gt;.
+  &lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;+&lt;/td&gt;
+  &lt;td style=&quot;background: #cfc; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;
+(&lt;span class=&quot;diffchange diffchange-inline&quot;&gt;a&lt;/span&gt;) &lt;span class=&quot;diffchange diffchange-inline&quot;&gt;Using high-need Internet access and devices that increase students’ and educators’ access to high-quality digital tools&lt;/span&gt;, &lt;span class=&quot;diffchange diffchange-inline&quot;&gt;materials&lt;/span&gt;, and &lt;span class=&quot;diffchange diffchange-inline&quot;&gt;assessments, particularly '''open educational &lt;/span&gt;resources&lt;span class=&quot;diffchange diffchange-inline&quot;&gt;''' (as defined &lt;/span&gt;in &lt;span class=&quot;diffchange diffchange-inline&quot;&gt;this notice)&lt;/span&gt;.&lt;span class=&quot;diffchange diffchange-inline&quot;&gt;&quot;&lt;/span&gt;
+  &lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;-&lt;/td&gt;
+  &lt;td style=&quot;background: #ffa; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;
+&lt;span class=&quot;diffchange diffchange-inline&quot;&gt;|Author=U.S. Department of Education, &lt;/span&gt;
+  &lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;+&lt;/td&gt;
+  &lt;td style=&quot;background: #cfc; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;
+
+  &lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot;&gt;&amp;nbsp;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;+&lt;/td&gt;
+  &lt;td style=&quot;background: #cfc; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;(4) &quot;Definition: '''Open educational resources (OER)''' means teaching, learning, and research resources that reside in the public domain or have been released under an intellectual property license that permits their free use and repurposing by others.&quot;&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot;&gt;&amp;nbsp;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;+&lt;/td&gt;
+  &lt;td style=&quot;background: #cfc; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;|Author=U.S. Department of Education,&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;|OER Policy Date=2014/06/24&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;|OER Policy Date=2014/06/24&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;|OER Policy Status=Proposed&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;|OER Policy Status=Proposed&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;|Language code=en&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;|Language code=en&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;|OER Policy Jurisdiction=National&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;|OER Policy Jurisdiction=National&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;-&lt;/td&gt;
+  &lt;td style=&quot;background: #ffa; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;
+|Country=USA, 
+  &lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;+&lt;/td&gt;
+  &lt;td style=&quot;background: #cfc; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;
+|Country=USA,
+  &lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;|License short name=copyright&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;|License short name=copyright&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;}}&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;}}&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;-&lt;/td&gt;
+  &lt;td style=&quot;background: #ffa; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;
+Additional links&lt;span class=&quot;diffchange diffchange-inline&quot;&gt;:&lt;/span&gt;
+  &lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;+&lt;/td&gt;
+  &lt;td style=&quot;background: #cfc; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;
+&lt;span class=&quot;diffchange diffchange-inline&quot;&gt;'''&lt;/span&gt;Additional links&lt;span class=&quot;diffchange diffchange-inline&quot;&gt;'''&lt;/span&gt;
+  &lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;-&lt;/td&gt;
+  &lt;td style=&quot;background: #ffa; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;
+&lt;span class=&quot;diffchange diffchange-inline&quot;&gt; - &lt;/span&gt;[https://scout.sunlightfoundation.com/item/regulation/2014-14671/education-department-secretarys-proposed-supplemental-priorities-and-definitions-for-discretionary-grant-programs]
+  &lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;+&lt;/td&gt;
+  &lt;td style=&quot;background: #cfc; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;
+&lt;span class=&quot;diffchange diffchange-inline&quot;&gt;* &lt;/span&gt;[https://scout.sunlightfoundation.com/item/regulation/2014-14671/education-department-secretarys-proposed-supplemental-priorities-and-definitions-for-discretionary-grant-programs &lt;span class=&quot;diffchange diffchange-inline&quot;&gt;Sunlight Foundation&lt;/span&gt;]
+  &lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;-&lt;/td&gt;
+  &lt;td style=&quot;background: #ffa; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;
+&lt;span class=&quot;diffchange diffchange-inline&quot;&gt; - &lt;/span&gt;https://s3.amazonaws.com/public-inspection.federalregister.gov/2014-14671.pdf
+  &lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;+&lt;/td&gt;
+  &lt;td style=&quot;background: #cfc; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;
+&lt;span class=&quot;diffchange diffchange-inline&quot;&gt;* [&lt;/span&gt;https://s3.amazonaws.com/public-inspection.federalregister.gov/2014-14671.pdf &lt;span class=&quot;diffchange diffchange-inline&quot;&gt;Federal Register]&lt;/span&gt;
+  &lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;!-- diff cache key cc_wiki:diff:version:1.11a:oldid:98774:newid:98780 --&gt;
+&lt;/table&gt;</summary>
+		<author><name>Billymeinke</name></author>	</entry>
+
+	<entry>
+		<id>http://wiki.creativecommons.org/index.php?title=Supplemental_Priorities_and_Definitions_for_Discretionary_Grant_Programs&amp;diff=98774&amp;oldid=0</id>
+		<title>Supplemental Priorities and Definitions for Discretionary Grant Programs</title>
+		<link rel="alternate" type="text/html" href="http://wiki.creativecommons.org/index.php?title=Supplemental_Priorities_and_Definitions_for_Discretionary_Grant_Programs&amp;diff=98774&amp;oldid=0"/>
+				<updated>2014-07-18T19:31:43Z</updated>
+		
+		<summary type="html">&lt;p&gt;Created page with &amp;quot;{{OER Policy |OER Policy Title=Supplemental Priorities and Definitions for Discretionary Grant Programs |OER Policy URL=https://www.federalregister.gov/articles/2014/06/24/201...&amp;quot;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;New page&lt;/b&gt;&lt;/p&gt;&lt;div&gt;{{OER Policy&lt;br /&gt;
+|OER Policy Title=Supplemental Priorities and Definitions for Discretionary Grant Programs&lt;br /&gt;
+|OER Policy URL=https://www.federalregister.gov/articles/2014/06/24/2014-14671/secretarys-proposed-supplemental-priorities-and-definitions-for-discretionary-grant-programs&lt;br /&gt;
+|Description=&amp;quot;To support a comprehensive education agenda, the Secretary proposes 15 priorities and related definitions for use in discretionary grant programs. These proposed priorities and definitions are intended to replace the current supplemental priorities for discretionary grant programs that were published in 2010. These priorities reflect the lessons learned from implementing discretionary grant programs, as well as our current policy objectives, and emerging needs in education.&amp;quot;&lt;br /&gt;
+&lt;br /&gt;
+(1) Technology can accelerate or enhance the implementation of the other priorities proposed in this document by:&lt;br /&gt;
+Accessing *open educational resources* (as defined in this notice) aligned with internationally benchmarked college- and career-ready standards;&lt;br /&gt;
+&lt;br /&gt;
+(2) While the use of digital tools was part of the 2010 Supplemental Priorities, we are revising this priority to include more specific strategies to promote technology integration and enhance student and educator learning. This proposed priority would explicitly support projects that help students and educators take full advantage of access to high-speed Internet, digital tools and materials, and *open educational resources* (as defined in this notice).&lt;br /&gt;
+&lt;br /&gt;
+(3) Proposed Priority 11--Leveraging Technology to Support Instructional Practice and Professional Development. Projects that are designed to leverage technology through one or more of the following:&lt;br /&gt;
+(a) Using high-need Internet access and devices that increase students’ and educators’ access to high-quality digital tools, materials, and assessments, particularly *open educational resources* (as defined in this notice).&lt;br /&gt;
+&lt;br /&gt;
+(4) Definition:&lt;br /&gt;
+Open educational resources (OER) means teaching, learning, and research resources that reside in the public domain or have been released under an intellectual property license that permits their free use and repurposing by others.&lt;br /&gt;
+|Author=U.S. Department of Education, &lt;br /&gt;
+|OER Policy Date=2014/06/24&lt;br /&gt;
+|OER Policy Status=Proposed&lt;br /&gt;
+|Language code=en&lt;br /&gt;
+|OER Policy Jurisdiction=National&lt;br /&gt;
+|Country=USA, &lt;br /&gt;
+|License short name=copyright&lt;br /&gt;
+}}&lt;br /&gt;
+Additional links:&lt;br /&gt;
+ - [https://scout.sunlightfoundation.com/item/regulation/2014-14671/education-department-secretarys-proposed-supplemental-priorities-and-definitions-for-discretionary-grant-programs]&lt;br /&gt;
+ - https://s3.amazonaws.com/public-inspection.federalregister.gov/2014-14671.pdf&lt;/div&gt;</summary>
+		<author><name>Billymeinke</name></author>	</entry>
+
+	<entry>
+		<id>http://wiki.creativecommons.org/index.php?title=CC0_use_for_data&amp;diff=98773&amp;oldid=97772</id>
+		<title>CC0 use for data</title>
+		<link rel="alternate" type="text/html" href="http://wiki.creativecommons.org/index.php?title=CC0_use_for_data&amp;diff=98773&amp;oldid=97772"/>
+				<updated>2014-07-18T18:52:13Z</updated>
+		
+		<summary type="html">&lt;p&gt;&lt;/p&gt;
+&lt;table class='diff diff-contentalign-left'&gt;
+				&lt;col class='diff-marker' /&gt;
+				&lt;col class='diff-content' /&gt;
+				&lt;col class='diff-marker' /&gt;
+				&lt;col class='diff-content' /&gt;
+			&lt;tr style='vertical-align: top;'&gt;
+			&lt;td colspan='2' style=&quot;background-color: white; color:black;&quot;&gt;← Older revision&lt;/td&gt;
+			&lt;td colspan='2' style=&quot;background-color: white; color:black;&quot;&gt;Revision as of 18:52, 18 July 2014&lt;/td&gt;
+			&lt;/tr&gt;&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;Line 51:&lt;/td&gt;
+  &lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;Line 51:&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;&amp;lt;br style=&quot;clear: left;&quot; /&amp;gt;&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;&amp;lt;br style=&quot;clear: left;&quot; /&amp;gt;&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;&amp;lt;/div&amp;gt;&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;&amp;lt;/div&amp;gt;&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot;&gt;&amp;nbsp;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;+&lt;/td&gt;
+  &lt;td style=&quot;background: #cfc; color:black; font-size: smaller;&quot;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot;&gt;&amp;nbsp;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;+&lt;/td&gt;
+  &lt;td style=&quot;background: #cfc; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;=== European Union ===&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot;&gt;&amp;nbsp;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;+&lt;/td&gt;
+  &lt;td style=&quot;background: #cfc; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;The European Commission released [https://creativecommons.org/weblog/entry/43316 licensing recommendations] to support the reuse of public sector information in Europe. In addition to providing guidance on baseline license principles for public sector content and data, the guidelines suggest that Member States should adopt standardized open licenses – such as Creative Commons licenses. &quot;Open standard licences, for example the most recent Creative Commons (CC) licences (version 4.0), could allow the re-use of PSI without the need to develop and update custom-made licences at national or sub-national level. Of these, the CC0 public domain dedication is of particular interest. As a legal tool that allows waiving copyright and database rights on PSI, it ensures full flexibility for re-users and reduces the complications associated with handling numerous licences, with possibly conflicting provisions.&quot;&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;===[[Case_Studies/Europeana|Europeana]]===&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;===[[Case_Studies/Europeana|Europeana]]===&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;!-- diff cache key cc_wiki:diff:version:1.11a:oldid:97772:newid:98773 --&gt;
+&lt;/table&gt;</summary>
+		<author><name>Tvol</name></author>	</entry>
+
+	<entry>
+		<id>http://wiki.creativecommons.org/index.php?title=Government_use_of_Creative_Commons&amp;diff=98772&amp;oldid=98729</id>
+		<title>Government use of Creative Commons</title>
+		<link rel="alternate" type="text/html" href="http://wiki.creativecommons.org/index.php?title=Government_use_of_Creative_Commons&amp;diff=98772&amp;oldid=98729"/>
+				<updated>2014-07-18T18:50:53Z</updated>
+		
+		<summary type="html">&lt;p&gt;&lt;/p&gt;
+&lt;table class='diff diff-contentalign-left'&gt;
+				&lt;col class='diff-marker' /&gt;
+				&lt;col class='diff-content' /&gt;
+				&lt;col class='diff-marker' /&gt;
+				&lt;col class='diff-content' /&gt;
+			&lt;tr style='vertical-align: top;'&gt;
+			&lt;td colspan='2' style=&quot;background-color: white; color:black;&quot;&gt;← Older revision&lt;/td&gt;
+			&lt;td colspan='2' style=&quot;background-color: white; color:black;&quot;&gt;Revision as of 18:50, 18 July 2014&lt;/td&gt;
+			&lt;/tr&gt;&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;Line 62:&lt;/td&gt;
+  &lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;Line 62:&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;== Czech Republic ==&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;== Czech Republic ==&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;* [http://wiki.creativecommons.org/Case_Studies/RVP_Metodicky_Portal RVP Metodicky Portal] is an educational portal to Czech open educational resources (OER) licensed under [http://creativecommons.org/licenses/by-nc-sa/3.0/cz/ CC Attribution-Noncommercial-ShareAlike] and [http://creativecommons.org/licenses/by-nc-nd/3.0/cz/ CC Attribution-Noncommercial-NoDerivatives]. It is a government-funded initiative by the Czech Republic and the European Social Fund, and is run as part of a research project by the Institute of Education in Prague and the National Institute of Vocational Education.&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;* [http://wiki.creativecommons.org/Case_Studies/RVP_Metodicky_Portal RVP Metodicky Portal] is an educational portal to Czech open educational resources (OER) licensed under [http://creativecommons.org/licenses/by-nc-sa/3.0/cz/ CC Attribution-Noncommercial-ShareAlike] and [http://creativecommons.org/licenses/by-nc-nd/3.0/cz/ CC Attribution-Noncommercial-NoDerivatives]. It is a government-funded initiative by the Czech Republic and the European Social Fund, and is run as part of a research project by the Institute of Education in Prague and the National Institute of Vocational Education.&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot;&gt;&amp;nbsp;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;+&lt;/td&gt;
+  &lt;td style=&quot;background: #cfc; color:black; font-size: smaller;&quot;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot;&gt;&amp;nbsp;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;+&lt;/td&gt;
+  &lt;td style=&quot;background: #cfc; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;== European Union ==&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot;&gt;&amp;nbsp;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;+&lt;/td&gt;
+  &lt;td style=&quot;background: #cfc; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;* The European Commission released [https://creativecommons.org/weblog/entry/43316 licensing recommendations] to support the reuse of public sector information in Europe. In addition to providing guidance on baseline license principles for public sector content and data, the guidelines suggest that Member States should adopt standardized open licenses – such as Creative Commons licenses. &quot;Open standard licences, for example the most recent Creative Commons (CC) licences (version 4.0), could allow the re-use of PSI without the need to develop and update custom-made licences at national or sub-national level. Of these, the CC0 public domain dedication is of particular interest. As a legal tool that allows waiving copyright and database rights on PSI, it ensures full flexibility for re-users and reduces the complications associated with handling numerous licences, with possibly conflicting provisions.&quot;&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;== Georgia ==&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;== Georgia ==&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;!-- diff cache key cc_wiki:diff:version:1.11a:oldid:98729:newid:98772 --&gt;
+&lt;/table&gt;</summary>
+		<author><name>Tvol</name></author>	</entry>
+
+	<entry>
+		<id>http://wiki.creativecommons.org/index.php?title=Uganda&amp;diff=98771&amp;oldid=90702</id>
+		<title>Uganda</title>
+		<link rel="alternate" type="text/html" href="http://wiki.creativecommons.org/index.php?title=Uganda&amp;diff=98771&amp;oldid=90702"/>
+				<updated>2014-07-18T12:58:41Z</updated>
+		
+		<summary type="html">&lt;p&gt;&lt;/p&gt;
+&lt;table class='diff diff-contentalign-left'&gt;
+				&lt;col class='diff-marker' /&gt;
+				&lt;col class='diff-content' /&gt;
+				&lt;col class='diff-marker' /&gt;
+				&lt;col class='diff-content' /&gt;
+			&lt;tr style='vertical-align: top;'&gt;
+			&lt;td colspan='2' style=&quot;background-color: white; color:black;&quot;&gt;← Older revision&lt;/td&gt;
+			&lt;td colspan='2' style=&quot;background-color: white; color:black;&quot;&gt;Revision as of 12:58, 18 July 2014&lt;/td&gt;
+			&lt;/tr&gt;&lt;tr&gt;&lt;td colspan='4' style='text-align: center;' class='diff-multi'&gt;(13 intermediate revisions by one user not shown)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;Line 8:&lt;/td&gt;
+  &lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;Line 8:&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;|social=https://twitter.com/CCUGANDA1&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;|social=https://twitter.com/CCUGANDA1&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;|otherurl=wiki.creativecommons.org/uganda&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;|otherurl=wiki.creativecommons.org/uganda&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;-&lt;/td&gt;
+  &lt;td style=&quot;background: #ffa; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;
+|mailing= C/O CEHURD, P.O. BOX 16617, WANDEGEYA - KAMPALA, UGANDA
+  &lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;+&lt;/td&gt;
+  &lt;td style=&quot;background: #cfc; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;
+|mailing=C/O CEHURD, P.O. BOX 16617, WANDEGEYA - KAMPALA, UGANDA
+  &lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;-&lt;/td&gt;
+  &lt;td style=&quot;background: #ffa; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;
+Plot &lt;span class=&quot;diffchange diffchange-inline&quot;&gt;613&lt;/span&gt;, &lt;span class=&quot;diffchange diffchange-inline&quot;&gt;Tufnell Drive Kamwokya&lt;/span&gt;, Kampala
+  &lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;+&lt;/td&gt;
+  &lt;td style=&quot;background: #cfc; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;
+Plot &lt;span class=&quot;diffchange diffchange-inline&quot;&gt;833&lt;/span&gt;, &lt;span class=&quot;diffchange diffchange-inline&quot;&gt;Old Kira Road Ntinda&lt;/span&gt;, Kampala
+  &lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;|region=Africa&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;|region=Africa&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;|affiliated=NABOTU Book Trust of Uganda&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;|affiliated=NABOTU Book Trust of Uganda&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;|affurl=http://www.nabotu.or.ug/&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;|affurl=http://www.nabotu.or.ug/&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;-&lt;/td&gt;
+  &lt;td style=&quot;background: #ffa; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;
+|afffocus=&lt;span class=&quot;diffchange diffchange-inline&quot;&gt;literary works&lt;/span&gt;
+  &lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;+&lt;/td&gt;
+  &lt;td style=&quot;background: #cfc; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;
+|afffocus=&lt;span class=&quot;diffchange diffchange-inline&quot;&gt;NGO&lt;/span&gt;
+  &lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;|afftype=NGO&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;|afftype=NGO&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;|affiliated2=Center for Health, Human rights &amp;amp; Development (CEHURD)&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;|affiliated2=Center for Health, Human rights &amp;amp; Development (CEHURD)&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;|affurl2=http://www.cehurd.org/&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;|affurl2=http://www.cehurd.org/&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;-&lt;/td&gt;
+  &lt;td style=&quot;background: #ffa; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;
+|afffocus2=&lt;span class=&quot;diffchange diffchange-inline&quot;&gt;Intellectual property &amp;amp; Human rights&lt;/span&gt;
+  &lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;+&lt;/td&gt;
+  &lt;td style=&quot;background: #cfc; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;
+|afffocus2=&lt;span class=&quot;diffchange diffchange-inline&quot;&gt;NGO&lt;/span&gt;
+  &lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;|afftype2=NGO&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;|afftype2=NGO&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot;&gt;&amp;nbsp;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;+&lt;/td&gt;
+  &lt;td style=&quot;background: #cfc; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;|affiliated3=Sipilaw Advocates&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot;&gt;&amp;nbsp;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;+&lt;/td&gt;
+  &lt;td style=&quot;background: #cfc; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;|affurl3=http://www.sipilawuganda.com/&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot;&gt;&amp;nbsp;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;+&lt;/td&gt;
+  &lt;td style=&quot;background: #cfc; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;|afffocus3=Lawfirm&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot;&gt;&amp;nbsp;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;+&lt;/td&gt;
+  &lt;td style=&quot;background: #cfc; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;|afftype3=law firm&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot;&gt;&amp;nbsp;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;+&lt;/td&gt;
+  &lt;td style=&quot;background: #cfc; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;|affiliated4=Consortium of Uganda University Libraries (CUUL)&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot;&gt;&amp;nbsp;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;+&lt;/td&gt;
+  &lt;td style=&quot;background: #cfc; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;|affurl4=http://cuul.or.ug/&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot;&gt;&amp;nbsp;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;+&lt;/td&gt;
+  &lt;td style=&quot;background: #cfc; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;|afffocus4=Academic Institutions&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;|plead1=Moses Lumumba&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;|plead1=Moses Lumumba&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;|pemail1=mulumba_moses@yahoo.com&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;|pemail1=mulumba_moses@yahoo.com&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;|ptitle1=Legal Lead&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;|ptitle1=Legal Lead&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;-&lt;/td&gt;
+  &lt;td style=&quot;background: #ffa; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;
+|plead2=&lt;span class=&quot;diffchange diffchange-inline&quot;&gt;Tony Kakooza&lt;/span&gt;
+  &lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;+&lt;/td&gt;
+  &lt;td style=&quot;background: #cfc; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;
+|plead2=&lt;span class=&quot;diffchange diffchange-inline&quot;&gt;Charles Batambuze&lt;/span&gt;
+  &lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;-&lt;/td&gt;
+  &lt;td style=&quot;background: #ffa; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;
+|pemail2=&lt;span class=&quot;diffchange diffchange-inline&quot;&gt;tony&lt;/span&gt;@&lt;span class=&quot;diffchange diffchange-inline&quot;&gt;sipilawuganda&lt;/span&gt;.com
+  &lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;+&lt;/td&gt;
+  &lt;td style=&quot;background: #cfc; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;
+|pemail2=&lt;span class=&quot;diffchange diffchange-inline&quot;&gt;batambuze_charles&lt;/span&gt;@&lt;span class=&quot;diffchange diffchange-inline&quot;&gt;hotmail&lt;/span&gt;.com
+  &lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;-&lt;/td&gt;
+  &lt;td style=&quot;background: #ffa; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;
+|&lt;span class=&quot;diffchange diffchange-inline&quot;&gt;plead3&lt;/span&gt;=&lt;span class=&quot;diffchange diffchange-inline&quot;&gt;Charles Batambuze&lt;/span&gt;
+  &lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;+&lt;/td&gt;
+  &lt;td style=&quot;background: #cfc; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;
+|&lt;span class=&quot;diffchange diffchange-inline&quot;&gt;ptitle2&lt;/span&gt;=&lt;span class=&quot;diffchange diffchange-inline&quot;&gt;Public Lead&lt;/span&gt;
+  &lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;-&lt;/td&gt;
+  &lt;td style=&quot;background: #ffa; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;
+|&lt;span class=&quot;diffchange diffchange-inline&quot;&gt;pemail3&lt;/span&gt;=&lt;span class=&quot;diffchange diffchange-inline&quot;&gt;batambuze_charles@hotmail.com&lt;/span&gt;
+  &lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;+&lt;/td&gt;
+  &lt;td style=&quot;background: #cfc; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;
+|&lt;span class=&quot;diffchange diffchange-inline&quot;&gt;plead3&lt;/span&gt;=&lt;span class=&quot;diffchange diffchange-inline&quot;&gt;Primah Kwagala&lt;/span&gt;
+  &lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;-&lt;/td&gt;
+  &lt;td style=&quot;background: #ffa; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;
+|&lt;span class=&quot;diffchange diffchange-inline&quot;&gt;ptitle3&lt;/span&gt;=&lt;span class=&quot;diffchange diffchange-inline&quot;&gt;Public Lead&lt;/span&gt;
+  &lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;+&lt;/td&gt;
+  &lt;td style=&quot;background: #cfc; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;
+|&lt;span class=&quot;diffchange diffchange-inline&quot;&gt;pemail3&lt;/span&gt;=&lt;span class=&quot;diffchange diffchange-inline&quot;&gt;kwagalap@gmail.com&lt;/span&gt;
+  &lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;-&lt;/td&gt;
+  &lt;td style=&quot;background: #ffa; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;
+|&lt;span class=&quot;diffchange diffchange-inline&quot;&gt;plead4&lt;/span&gt;=&lt;span class=&quot;diffchange diffchange-inline&quot;&gt;Primah Kwagala&lt;/span&gt;
+  &lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;+&lt;/td&gt;
+  &lt;td style=&quot;background: #cfc; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;
+|&lt;span class=&quot;diffchange diffchange-inline&quot;&gt;ptitle3&lt;/span&gt;=&lt;span class=&quot;diffchange diffchange-inline&quot;&gt;Project Lead&lt;/span&gt;
+  &lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;-&lt;/td&gt;
+  &lt;td style=&quot;background: #ffa; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;
+|&lt;span class=&quot;diffchange diffchange-inline&quot;&gt;pemail4&lt;/span&gt;=&lt;span class=&quot;diffchange diffchange-inline&quot;&gt;kwagalap@gmail.com&lt;/span&gt;
+  &lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;+&lt;/td&gt;
+  &lt;td style=&quot;background: #cfc; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;
+|&lt;span class=&quot;diffchange diffchange-inline&quot;&gt;plead4&lt;/span&gt;=&lt;span class=&quot;diffchange diffchange-inline&quot;&gt;Javie Ssozi&lt;/span&gt;
+  &lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;-&lt;/td&gt;
+  &lt;td style=&quot;background: #ffa; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;
+|&lt;span class=&quot;diffchange diffchange-inline&quot;&gt;ptitle4&lt;/span&gt;=&lt;span class=&quot;diffchange diffchange-inline&quot;&gt;Co-rdinator&lt;/span&gt;
+  &lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;+&lt;/td&gt;
+  &lt;td style=&quot;background: #cfc; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;
+|&lt;span class=&quot;diffchange diffchange-inline&quot;&gt;pemail4&lt;/span&gt;=&lt;span class=&quot;diffchange diffchange-inline&quot;&gt;ssozi.javie@gmail.com&lt;/span&gt;
+  &lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;-&lt;/td&gt;
+  &lt;td style=&quot;background: #ffa; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;
+|&lt;span class=&quot;diffchange diffchange-inline&quot;&gt;plead5&lt;/span&gt;=&lt;span class=&quot;diffchange diffchange-inline&quot;&gt;Javie Ssozi&lt;/span&gt;
+  &lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;+&lt;/td&gt;
+  &lt;td style=&quot;background: #cfc; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;
+|&lt;span class=&quot;diffchange diffchange-inline&quot;&gt;ptitle4&lt;/span&gt;=&lt;span class=&quot;diffchange diffchange-inline&quot;&gt;Technology Lead&lt;/span&gt;
+  &lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;-&lt;/td&gt;
+  &lt;td style=&quot;background: #ffa; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;
+|&lt;span class=&quot;diffchange diffchange-inline&quot;&gt;pemail5&lt;/span&gt;=&lt;span class=&quot;diffchange diffchange-inline&quot;&gt;ssozi.javie@gmail.com&lt;/span&gt;
+  &lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;+&lt;/td&gt;
+  &lt;td style=&quot;background: #cfc; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;
+|&lt;span class=&quot;diffchange diffchange-inline&quot;&gt;plead5&lt;/span&gt;=&lt;span class=&quot;diffchange diffchange-inline&quot;&gt;Nsereko Ibrahim&lt;/span&gt;
+  &lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;-&lt;/td&gt;
+  &lt;td style=&quot;background: #ffa; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;
+|&lt;span class=&quot;diffchange diffchange-inline&quot;&gt;ptitle5&lt;/span&gt;=&lt;span class=&quot;diffchange diffchange-inline&quot;&gt;Technology Lead&lt;/span&gt;
+  &lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;+&lt;/td&gt;
+  &lt;td style=&quot;background: #cfc; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;
+|&lt;span class=&quot;diffchange diffchange-inline&quot;&gt;pemail5&lt;/span&gt;=&lt;span class=&quot;diffchange diffchange-inline&quot;&gt;nserekoibrahim@gmail.com&lt;/span&gt;
+  &lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot;&gt;&amp;nbsp;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;+&lt;/td&gt;
+  &lt;td style=&quot;background: #cfc; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;|ptitle5=Co-rdinator&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;|teamsize=20&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;|teamsize=20&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;}}&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;}}&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;-&lt;/td&gt;
+  &lt;td style=&quot;background: #ffa; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;
+==Uganda &lt;span class=&quot;diffchange diffchange-inline&quot;&gt;Licenses in Public Discussion&lt;/span&gt;==
+  &lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;+&lt;/td&gt;
+  &lt;td style=&quot;background: #cfc; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;
+==&lt;span class=&quot;diffchange diffchange-inline&quot;&gt;CC &lt;/span&gt;Uganda &lt;span class=&quot;diffchange diffchange-inline&quot;&gt;Affiliates’ 2014 ROAD MAP&lt;/span&gt;==
+  &lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;-&lt;/td&gt;
+  &lt;td style=&quot;background: #ffa; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;The Ugandan version 3.0 license is currently closed.  Please visit  [[Uganda/Public Discussion | the public discussion page]] to see the license draft and discussion notes.&lt;/div&gt;&lt;/td&gt;
+  &lt;td colspan=&quot;2&quot;&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;-&lt;/td&gt;
+  &lt;td style=&quot;background: #ffa; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;
+==&lt;span class=&quot;diffchange diffchange-inline&quot;&gt;CC Uganda Roadmaps&lt;/span&gt;==
+  &lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;+&lt;/td&gt;
+  &lt;td style=&quot;background: #cfc; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;
+==&lt;span class=&quot;diffchange diffchange-inline&quot;&gt;Description&lt;/span&gt;==
+  &lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;-&lt;/td&gt;
+  &lt;td style=&quot;background: #ffa; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;
+&lt;span class=&quot;diffchange diffchange-inline&quot;&gt;http://wiki&lt;/span&gt;.&lt;span class=&quot;diffchange diffchange-inline&quot;&gt;creativecommons&lt;/span&gt;.&lt;span class=&quot;diffchange diffchange-inline&quot;&gt;org/File:CC_UGANDA_-STRATEGIC_PLAN_OF_ACTION_2013&lt;/span&gt;.&lt;span class=&quot;diffchange diffchange-inline&quot;&gt;pdf&lt;/span&gt;
+  &lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;+&lt;/td&gt;
+  &lt;td style=&quot;background: #cfc; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;
+&lt;span class=&quot;diffchange diffchange-inline&quot;&gt;Creative Commons Uganda Affiliates launched the 3&lt;/span&gt;.&lt;span class=&quot;diffchange diffchange-inline&quot;&gt;0 Uganda Creative Commons (CC) Licences in December 2012&lt;/span&gt;.  &lt;span class=&quot;diffchange diffchange-inline&quot;&gt;The launch of the licenses laid foundation for the promotion of the culture of open in Uganda&lt;/span&gt;.
+  &lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;-&lt;/td&gt;
+  &lt;td style=&quot;background: #ffa; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;[[Uganda_Roadmap 2011 &lt;/div&gt;&lt;/td&gt;
+  &lt;td colspan=&quot;2&quot;&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;-&lt;/td&gt;
+  &lt;td style=&quot;background: #ffa; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;
+&lt;span class=&quot;diffchange diffchange-inline&quot;&gt;| CC Uganda Roadmap for 2011-2012]]&lt;/span&gt;
+  &lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;+&lt;/td&gt;
+  &lt;td style=&quot;background: #cfc; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;
+&lt;span class=&quot;diffchange diffchange-inline&quot;&gt;==2014 Goal==&lt;/span&gt;
+  &lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;-&lt;/td&gt;
+  &lt;td style=&quot;background: #ffa; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;
+&lt;span class=&quot;diffchange diffchange-inline&quot;&gt;=&lt;/span&gt;Uganda &lt;span class=&quot;diffchange diffchange-inline&quot;&gt;Affiliate Team=&lt;/span&gt;
+  &lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;+&lt;/td&gt;
+  &lt;td style=&quot;background: #cfc; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;
+&lt;span class=&quot;diffchange diffchange-inline&quot;&gt;To create a case for Open Educational Resources in &lt;/span&gt;Uganda
+  &lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;-&lt;/td&gt;
+  &lt;td style=&quot;background: #ffa; color:black; font-size: smaller;&quot;&gt;&lt;div&gt; &lt;/div&gt;&lt;/td&gt;
+  &lt;td colspan=&quot;2&quot;&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;-&lt;/td&gt;
+  &lt;td style=&quot;background: #ffa; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;===NATIONAL BOOK TRUST OF UGANDA===&lt;/div&gt;&lt;/td&gt;
+  &lt;td colspan=&quot;2&quot;&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;-&lt;/td&gt;
+  &lt;td style=&quot;background: #ffa; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;
+&lt;span class=&quot;diffchange diffchange-inline&quot;&gt;[http://www.nabotu.or.ug/ The National Book Trust of Uganda] '''(NABOTU)''' was founded in 1997 to promote authorship, publishing and the development of a culture of reading. Its membership is composed of both copyright holder associations of publishers and authors as well as users like libraries, education institutions and some local authorities. &lt;/span&gt;
+  &lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;+&lt;/td&gt;
+  &lt;td style=&quot;background: #cfc; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;
+&lt;span class=&quot;diffchange diffchange-inline&quot;&gt;==Priority Objectives==&lt;/span&gt;
+  &lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;-&lt;/td&gt;
+  &lt;td style=&quot;background: #ffa; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;
+&lt;span class=&quot;diffchange diffchange-inline&quot;&gt;NABOTU implements a Book Development Program whose aim amongst others is to promote greater access to quality reading materials to the Ugandan public&lt;/span&gt;. &lt;span class=&quot;diffchange diffchange-inline&quot;&gt;NABOTU also runs &lt;/span&gt;a &lt;span class=&quot;diffchange diffchange-inline&quot;&gt;copyright development program that is two pronged. It spearheaded the founding of the &lt;/span&gt;Uganda &lt;span class=&quot;diffchange diffchange-inline&quot;&gt;Reproduction Rights Organisation whose main aim is to license, collect fees and distribute royalties resulting from copying activities by users. &lt;/span&gt;
+  &lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;+&lt;/td&gt;
+  &lt;td style=&quot;background: #cfc; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;
+&lt;span class=&quot;diffchange diffchange-inline&quot;&gt;1&lt;/span&gt;. &lt;span class=&quot;diffchange diffchange-inline&quot;&gt;Promoting CC initiatives, adoption and creation of case studies based on &lt;/span&gt;a Uganda &lt;span class=&quot;diffchange diffchange-inline&quot;&gt;Context&lt;/span&gt;
+  &lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;-&lt;/td&gt;
+  &lt;td style=&quot;background: #ffa; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;
+&lt;span class=&quot;diffchange diffchange-inline&quot;&gt;NABOTU pioneered research on how the application of flexible licenses with a proper mix of new business models could promote access to learning materials in Africa&lt;/span&gt;. &lt;span class=&quot;diffchange diffchange-inline&quot;&gt;This was the Publishing &lt;/span&gt;and &lt;span class=&quot;diffchange diffchange-inline&quot;&gt;Alternative Licensing Models for Africa ([http://idl-bnc.idrc.ca/dspace/bitstream/10625/45649/1/132110.pdf PALM Africa]) project, funded by IDRC &lt;/span&gt;with &lt;span class=&quot;diffchange diffchange-inline&quot;&gt;comparative studies carried out in both Uganda and South &lt;/span&gt;Africa&lt;span class=&quot;diffchange diffchange-inline&quot;&gt;. A follow-up study on the feasibility of establishing a free-to-publish web platform for &lt;/span&gt;CC &lt;span class=&quot;diffchange diffchange-inline&quot;&gt;licensed materials across East Africa, begun in 2011. &lt;/span&gt;
+  &lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;+&lt;/td&gt;
+  &lt;td style=&quot;background: #cfc; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;
+&lt;span class=&quot;diffchange diffchange-inline&quot;&gt;2&lt;/span&gt;. &lt;span class=&quot;diffchange diffchange-inline&quot;&gt;Build ties &lt;/span&gt;and &lt;span class=&quot;diffchange diffchange-inline&quot;&gt;collaboration initiatives &lt;/span&gt;with &lt;span class=&quot;diffchange diffchange-inline&quot;&gt;East &lt;/span&gt;Africa CC &lt;span class=&quot;diffchange diffchange-inline&quot;&gt;jurisdiction projects and HQ&lt;/span&gt;
+  &lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;-&lt;/td&gt;
+  &lt;td style=&quot;background: #ffa; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;
+&lt;span class=&quot;diffchange diffchange-inline&quot;&gt;NABOTU is in partnership with CEHURD- the Centre for Health&lt;/span&gt;, &lt;span class=&quot;diffchange diffchange-inline&quot;&gt;Human Rights and Development itself a Ugandan non-profit, to further the goals of CC Uganda. CEHURD focuses &lt;/span&gt;on &lt;span class=&quot;diffchange diffchange-inline&quot;&gt;the legal issues of human rights, intellectual property and access to learning materials and is committed to the advancement of the Creative Commons Initiative &lt;/span&gt;in Uganda &lt;span class=&quot;diffchange diffchange-inline&quot;&gt;through playing an advisory role on utilising flexibilities in the copyright related laws. &lt;/span&gt;
+  &lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;+&lt;/td&gt;
+  &lt;td style=&quot;background: #cfc; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;
+&lt;span class=&quot;diffchange diffchange-inline&quot;&gt;3. Support workshops&lt;/span&gt;, &lt;span class=&quot;diffchange diffchange-inline&quot;&gt;meetings &lt;/span&gt;on &lt;span class=&quot;diffchange diffchange-inline&quot;&gt;open government initiatives &lt;/span&gt;in Uganda
+  &lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;-&lt;/td&gt;
+  &lt;td style=&quot;background: #ffa; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;
+&lt;span class=&quot;diffchange diffchange-inline&quot;&gt;The partners have together steered a legal team headed by Moses Mulumba a Director at CEHURD working together with Paul Asiimwe a Partner at Sipi Law Associates, Dr&lt;/span&gt;. &lt;span class=&quot;diffchange diffchange-inline&quot;&gt;Kakungulu Mayambala a lecturer at Makerere University, Kabanda David an ADVOCATE working with Center &lt;/span&gt;for &lt;span class=&quot;diffchange diffchange-inline&quot;&gt;Health, Human Rights and Development, and Primah Kwagala a lawyer currently coordinating the Team while working with CEHURD. The team has recently introduced more lawyers and information scientists to the Team. There is Mr. Tony Kakooza  an IP lawyer currently persuing his PHD at the University of Illinois' college of law in the USA, Mr. Daniel Kasuuti a lawyer working with the presidential initiative on banana varieties and Ms. Stella Muheki a trade lawyer and IP specialist working both as a consultant and lecturer at Makerere University Business School, Mr. Javie Ssozi an ICT consult with the Open society Foundations as the the now CC Tech Lead, Mr. Micheal Nyitegeka an ICT professional and lecturer, Mr. Mugume Collins and Ms. Ruth Aine all ICT professionals. Dr. Dick Kawooya an information scientist with the University of south Carolina, Ms. Florence Mirembe representing the Consortium of Uganda University Libraries on the Team, Ms. Juliana Nantaba, Mr. James Zeere, Ms. Florence Nabweteme, Ms. Joy Asasira, Ms. Noor Nakibuuka, and Mr. Nsereko Ibrahim all lawyers at CEHURD.&lt;/span&gt;
+  &lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;+&lt;/td&gt;
+  &lt;td style=&quot;background: #cfc; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;
+&lt;span class=&quot;diffchange diffchange-inline&quot;&gt;4&lt;/span&gt;. &lt;span class=&quot;diffchange diffchange-inline&quot;&gt;Fund raise &lt;/span&gt;for &lt;span class=&quot;diffchange diffchange-inline&quot;&gt;future sustainability&lt;/span&gt;
+  &lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;-&lt;/td&gt;
+  &lt;td style=&quot;background: #ffa; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;
+&lt;span class=&quot;diffchange diffchange-inline&quot;&gt;The group managed to successfully draft the Uganda CC License version 3.0 &lt;/span&gt;and &lt;span class=&quot;diffchange diffchange-inline&quot;&gt;launched it for public use in December 2012. The public relations lead for CC Uganda being Charles Batambuze NABOTU’s Executive Secretary.&lt;/span&gt;
+  &lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;+&lt;/td&gt;
+  &lt;td style=&quot;background: #cfc; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;
+&lt;span class=&quot;diffchange diffchange-inline&quot;&gt;===Information, Education &lt;/span&gt;and &lt;span class=&quot;diffchange diffchange-inline&quot;&gt;Communication Tools===&lt;/span&gt;
+  &lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot;&gt;&amp;nbsp;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;+&lt;/td&gt;
+  &lt;td style=&quot;background: #cfc; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;We have been able to develop and print a factsheet on why use CC licences. It can be accessed here [[http://www.cehurd.org/wp-content/uploads/downloads/2014/03/cc-uganda-factsheet-february-2014-2.pdf]] and in addition printed a pull up and standalone banner for Public events.&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot;&gt;&amp;nbsp;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;+&lt;/td&gt;
+  &lt;td style=&quot;background: #cfc; color:black; font-size: smaller;&quot;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot;&gt;&amp;nbsp;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;+&lt;/td&gt;
+  &lt;td style=&quot;background: #cfc; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;We have printed 100 T-shirts and 500 stickers of all of the six licences available for use and as well received additional support for successfully participating in the translation sprint to print Luganda Version of the 6licences and Public domain Briefs here [[http://www.cehurd.org/wp-content/uploads/downloads/2014/03/Six-Licences-Luganda.pdf]] and [[http://www.cehurd.org/wp-content/uploads/downloads/2014/03/Public-Domain-Brief-Luganda.pdf]] &lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot;&gt;&amp;nbsp;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;+&lt;/td&gt;
+  &lt;td style=&quot;background: #cfc; color:black; font-size: smaller;&quot;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot;&gt;&amp;nbsp;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;+&lt;/td&gt;
+  &lt;td style=&quot;background: #cfc; color:black; font-size: smaller;&quot;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot;&gt;&amp;nbsp;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;+&lt;/td&gt;
+  &lt;td style=&quot;background: #cfc; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;==Community==&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot;&gt;&amp;nbsp;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;+&lt;/td&gt;
+  &lt;td style=&quot;background: #cfc; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;The Community CC Uganda works with include;&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot;&gt;&amp;nbsp;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;+&lt;/td&gt;
+  &lt;td style=&quot;background: #cfc; color:black; font-size: smaller;&quot;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot;&gt;&amp;nbsp;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;+&lt;/td&gt;
+  &lt;td style=&quot;background: #cfc; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;'''Authors, innovators and/or self publishers'''; Professional and non-professional creative people who use open access as part of new business models and/or believe in free culture as a motivating cause.&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot;&gt;&amp;nbsp;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;+&lt;/td&gt;
+  &lt;td style=&quot;background: #cfc; color:black; font-size: smaller;&quot;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot;&gt;&amp;nbsp;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;+&lt;/td&gt;
+  &lt;td style=&quot;background: #cfc; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;'''Private business''': On and offline businesses including law-firms, corporations, companies and foundations who utilize open access as part of their strategic operation.&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot;&gt;&amp;nbsp;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;+&lt;/td&gt;
+  &lt;td style=&quot;background: #cfc; color:black; font-size: smaller;&quot;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot;&gt;&amp;nbsp;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;+&lt;/td&gt;
+  &lt;td style=&quot;background: #cfc; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;'''Media'''; Digital and traditional media persons promoting open access through the use of internet.Government. Agencies and staff who advocate for ‘open government’ and the principles of open access in public sector information.&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot;&gt;&amp;nbsp;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;+&lt;/td&gt;
+  &lt;td style=&quot;background: #cfc; color:black; font-size: smaller;&quot;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot;&gt;&amp;nbsp;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;+&lt;/td&gt;
+  &lt;td style=&quot;background: #cfc; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;'''Education'''; Institutions and projects promoting E-Learning and open educational resources.&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot;&gt;&amp;nbsp;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;+&lt;/td&gt;
+  &lt;td style=&quot;background: #cfc; color:black; font-size: smaller;&quot;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot;&gt;&amp;nbsp;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;+&lt;/td&gt;
+  &lt;td style=&quot;background: #cfc; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;==Affiliate Team==&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot;&gt;&amp;nbsp;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;+&lt;/td&gt;
+  &lt;td style=&quot;background: #cfc; color:black; font-size: smaller;&quot;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot;&gt;&amp;nbsp;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;+&lt;/td&gt;
+  &lt;td style=&quot;background: #cfc; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;The partners have together steered a legal team headed by Moses Mulumba a Director at CEHURD working together with Paul Asiimwe a Partner at Sipi Law Associates, Dr. Kakungulu Mayambala a lecturer at Makerere University, Kabanda David an advocate working with Center for Health, Human Rights and Development, and Primah Kwagala a lawyer currently managing the team's projects. &lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot;&gt;&amp;nbsp;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;+&lt;/td&gt;
+  &lt;td style=&quot;background: #cfc; color:black; font-size: smaller;&quot;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot;&gt;&amp;nbsp;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;+&lt;/td&gt;
+  &lt;td style=&quot;background: #cfc; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;The team has recently introduced more lawyers and information scientists to the Team. There is Dr. Tony Kakooza  an IP lawyer currently partner at Sipi Law Advocates, Mr. Javie Ssozi an ICT consult with the Open society Foundations as the the now CC Tech Lead, Mr. Micheal Nyitegeka an ICT professional and lecturer at Makerere University, Mr. Mugume Collins and Ms. Ruth Aine all ICT professionals. Dr. Dick Kawooya an information scientist with the University of South Carolina, Ms. Florence Mirembe representing the Consortium of Uganda University Libraries on the Team, Ms. Juliana Nantaba, Mr. James Zeere, Ms. Florence Nabweteme, Ms. Joy Asasira, Ms. Noor Nakibuuka, and Mr. Nsereko Ibrahim all lawyers at CEHURD.&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot;&gt;&amp;nbsp;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;+&lt;/td&gt;
+  &lt;td style=&quot;background: #cfc; color:black; font-size: smaller;&quot;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot;&gt;&amp;nbsp;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;+&lt;/td&gt;
+  &lt;td style=&quot;background: #cfc; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;===Social Community Workshops and Links===&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot;&gt;&amp;nbsp;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;+&lt;/td&gt;
+  &lt;td style=&quot;background: #cfc; color:black; font-size: smaller;&quot;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot;&gt;&amp;nbsp;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;+&lt;/td&gt;
+  &lt;td style=&quot;background: #cfc; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;See  http://creativecommonsug.wordpress.com/&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot;&gt;&amp;nbsp;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;+&lt;/td&gt;
+  &lt;td style=&quot;background: #cfc; color:black; font-size: smaller;&quot;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot;&gt;&amp;nbsp;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;+&lt;/td&gt;
+  &lt;td style=&quot;background: #cfc; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;http://creativecommonsug.wordpress.com/2014/02/10/the-future-is-open-creative-commons-salon-comes-to-uganda/&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot;&gt;&amp;nbsp;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;+&lt;/td&gt;
+  &lt;td style=&quot;background: #cfc; color:black; font-size: smaller;&quot;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot;&gt;&amp;nbsp;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;+&lt;/td&gt;
+  &lt;td style=&quot;background: #cfc; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;see https://twitter.com/search?q=%23ccuganda&amp;amp;src=typd&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot;&gt;&amp;nbsp;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;+&lt;/td&gt;
+  &lt;td style=&quot;background: #cfc; color:black; font-size: smaller;&quot;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot;&gt;&amp;nbsp;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;+&lt;/td&gt;
+  &lt;td style=&quot;background: #cfc; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;[[https://www.facebook.com/335875883192903/photos/pb.335875883192903.-2207520000.1405686900./471252686321888/?type=3&amp;amp;src=https%3A%2F%2Fscontent-b-lhr.xx.fbcdn.net%2Fhphotos-xpf1%2Ft1.0-9%2F1383807_471252686321888_174979716_n.jpg&amp;amp;size=960%2C717&amp;amp;fbid=471252686321888]]&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot;&gt;&amp;nbsp;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;+&lt;/td&gt;
+  &lt;td style=&quot;background: #cfc; color:black; font-size: smaller;&quot;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot;&gt;&amp;nbsp;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;+&lt;/td&gt;
+  &lt;td style=&quot;background: #cfc; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;https://www.facebook.com/335875883192903/photos/pb.335875883192903.-2207520000.1405686900./471252082988615/?type=3&amp;amp;src=https%3A%2F%2Ffbcdn-sphotos-g-a.akamaihd.net%2Fhphotos-ak-frc3%2Ft1.0-9%2F1394250_471252082988615_1268373231_n.jpg&amp;amp;size=960%2C717&amp;amp;fbid=471252082988615&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;!-- diff cache key cc_wiki:diff:version:1.11a:oldid:90702:newid:98771 --&gt;
+&lt;/table&gt;</summary>
+		<author><name>Primah</name></author>	</entry>
+
+	<entry>
+		<id>http://wiki.creativecommons.org/index.php?title=Modifying_the_CC_licenses&amp;diff=98757&amp;oldid=97758</id>
+		<title>Modifying the CC licenses</title>
+		<link rel="alternate" type="text/html" href="http://wiki.creativecommons.org/index.php?title=Modifying_the_CC_licenses&amp;diff=98757&amp;oldid=97758"/>
+				<updated>2014-07-17T14:54:03Z</updated>
+		
+		<summary type="html">&lt;p&gt;‎&lt;span dir=&quot;auto&quot;&gt;&lt;span class=&quot;autocomment&quot;&gt;License Modification Policy: &lt;/span&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;table class='diff diff-contentalign-left'&gt;
+				&lt;col class='diff-marker' /&gt;
+				&lt;col class='diff-content' /&gt;
+				&lt;col class='diff-marker' /&gt;
+				&lt;col class='diff-content' /&gt;
+			&lt;tr style='vertical-align: top;'&gt;
+			&lt;td colspan='2' style=&quot;background-color: white; color:black;&quot;&gt;← Older revision&lt;/td&gt;
+			&lt;td colspan='2' style=&quot;background-color: white; color:black;&quot;&gt;Revision as of 14:54, 17 July 2014&lt;/td&gt;
+			&lt;/tr&gt;&lt;tr&gt;&lt;td colspan='4' style='text-align: center;' class='diff-multi'&gt;(2 intermediate revisions by one user not shown)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;Line 4:&lt;/td&gt;
+  &lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;Line 4:&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;===License Modification Policy===&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;===License Modification Policy===&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;-&lt;/td&gt;
+  &lt;td style=&quot;background: #ffa; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;#'''If you make a change to the text of any CC license, you may no longer refer to it as a Creative Commons or CC license, and you must not use any CC trademarks (including the Creative Commons name) or branding in connection with the license.'''&lt;/div&gt;&lt;/td&gt;
+  &lt;td colspan=&quot;2&quot;&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;-&lt;/td&gt;
+  &lt;td style=&quot;background: #ffa; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;#'''If you place any restriction on use of a CC-licensed work that has the effect of limiting or further conditioning the permissions granted to the public under the standard CC license, you must not use any CC trademarks (including the Creative Commons name) or branding in connection with the license or in any way that suggests the work is available under a CC license. These restrictions often appear in terms of use on websites where CC-licensed content is hosted, or as part of terms for downloading CC-licensed content.'''&lt;/div&gt;&lt;/td&gt;
+  &lt;td colspan=&quot;2&quot;&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;-&lt;/td&gt;
+  &lt;td style=&quot;background: #ffa; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;
+&lt;span class=&quot;diffchange diffchange-inline&quot;&gt;::*Example of impermissible extra restriction: You may not use our trademarks or branding if your terms of use provide an interpretation of &lt;/span&gt;a &lt;span class=&quot;diffchange diffchange-inline&quot;&gt;license term that contradicts &lt;/span&gt;the &lt;span class=&quot;diffchange diffchange-inline&quot;&gt;plain meaning &lt;/span&gt;of &lt;span class=&quot;diffchange diffchange-inline&quot;&gt;the standard &lt;/span&gt;CC &lt;span class=&quot;diffchange diffchange-inline&quot;&gt;terms&lt;/span&gt;, &lt;span class=&quot;diffchange diffchange-inline&quot;&gt;such &lt;/span&gt;as &lt;span class=&quot;diffchange diffchange-inline&quot;&gt;stating an interpretation of NonCommercial that hinges on the type of reuser &lt;/span&gt;(the &lt;span class=&quot;diffchange diffchange-inline&quot;&gt;definition of NonCommercial does not differentiate on this basis&lt;/span&gt;) &lt;span class=&quot;diffchange diffchange-inline&quot;&gt;as opposed to &lt;/span&gt;the &lt;span class=&quot;diffchange diffchange-inline&quot;&gt;purpose for which the work is used&lt;/span&gt;.  
+  &lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;+&lt;/td&gt;
+  &lt;td style=&quot;background: #cfc; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;
+&lt;span class=&quot;diffchange diffchange-inline&quot;&gt;'''1.  If you make &lt;/span&gt;a &lt;span class=&quot;diffchange diffchange-inline&quot;&gt;change to &lt;/span&gt;the &lt;span class=&quot;diffchange diffchange-inline&quot;&gt;text &lt;/span&gt;of &lt;span class=&quot;diffchange diffchange-inline&quot;&gt;any &lt;/span&gt;CC &lt;span class=&quot;diffchange diffchange-inline&quot;&gt;license&lt;/span&gt;, &lt;span class=&quot;diffchange diffchange-inline&quot;&gt;you may no longer refer to it &lt;/span&gt;as &lt;span class=&quot;diffchange diffchange-inline&quot;&gt;a Creative Commons or CC license, and you must not use any CC trademarks &lt;/span&gt;(&lt;span class=&quot;diffchange diffchange-inline&quot;&gt;including &lt;/span&gt;the &lt;span class=&quot;diffchange diffchange-inline&quot;&gt;Creative Commons name&lt;/span&gt;) &lt;span class=&quot;diffchange diffchange-inline&quot;&gt;or branding in connection with &lt;/span&gt;the &lt;span class=&quot;diffchange diffchange-inline&quot;&gt;license&lt;/span&gt;.&lt;span class=&quot;diffchange diffchange-inline&quot;&gt;'''&lt;/span&gt;
+  &lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot;&gt;&amp;nbsp;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;+&lt;/td&gt;
+  &lt;td style=&quot;background: #cfc; color:black; font-size: smaller;&quot;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot;&gt;&amp;nbsp;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;+&lt;/td&gt;
+  &lt;td style=&quot;background: #cfc; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;'''2.  If you place any restriction on use of a CC-licensed work that has the effect of limiting or further conditioning the permissions granted to the public under the standard CC license, you must not use any CC trademarks (including the Creative Commons name) or branding in connection with the license or in any way that suggests the work is available under a CC license. These restrictions often appear in terms of use on websites where CC-licensed content is hosted, or as part of terms for downloading CC-licensed content.'''&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot;&gt;&amp;nbsp;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;+&lt;/td&gt;
+  &lt;td style=&quot;background: #cfc; color:black; font-size: smaller;&quot;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot;&gt;&amp;nbsp;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;+&lt;/td&gt;
+  &lt;td style=&quot;background: #cfc; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;::*Example of impermissible extra restriction: You may not use our trademarks or branding if your terms of use provide an interpretation of a license term that contradicts the plain meaning of the standard CC terms, such as stating an interpretation of NonCommercial that hinges on the type of reuser (the definition of NonCommercial does not differentiate on this basis) as opposed to the purpose for which the work is used.&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot;&gt;&amp;nbsp;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;+&lt;/td&gt;
+  &lt;td style=&quot;background: #cfc; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;  &lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;:::::It is permissible, however, to have trademark guidelines that govern how your logo or other trademark may be used in connection with the CC-licensed work. It is also permissible to impose website terms of use that restrict access to the website by minors pursuant to applicable law.  In neither case is use of CC’s trademarks or logo problematic so long as our [http://creativecommons.org/policies Trademark Policy] is followed.&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;:::::It is permissible, however, to have trademark guidelines that govern how your logo or other trademark may be used in connection with the CC-licensed work. It is also permissible to impose website terms of use that restrict access to the website by minors pursuant to applicable law.  In neither case is use of CC’s trademarks or logo problematic so long as our [http://creativecommons.org/policies Trademark Policy] is followed.&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;::*Example of impermissible extra restriction: You may not use our trademarks or branding if your terms of use prohibit sharing of the CC-licensed work in certain formats.&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;::*Example of impermissible extra restriction: You may not use our trademarks or branding if your terms of use prohibit sharing of the CC-licensed work in certain formats.&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot;&gt;&amp;nbsp;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;+&lt;/td&gt;
+  &lt;td style=&quot;background: #cfc; color:black; font-size: smaller;&quot;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;:::::It is permissible, however, to distribute your own CC-licensed work in a format that is not easily shared [though CC strongly discourages this) or to put your CC-licensed content behind a paywall.&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;:::::It is permissible, however, to distribute your own CC-licensed work in a format that is not easily shared [though CC strongly discourages this) or to put your CC-licensed content behind a paywall.&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;::*Example of impermissible extra restriction: You may not use our trademarks or branding if your website terms of use impose attribution requirements that are more elaborate than those found in the standard CC license.&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;::*Example of impermissible extra restriction: You may not use our trademarks or branding if your website terms of use impose attribution requirements that are more elaborate than those found in the standard CC license.&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot;&gt;&amp;nbsp;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;+&lt;/td&gt;
+  &lt;td style=&quot;background: #cfc; color:black; font-size: smaller;&quot;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;:::::It is permissible, however, to impose terms of use that have the effect of increasing (or removing the conditions on) the permissions granted to the public under the standard terms, such as waiving the attribution condition or allowing translations of an ND-licensed work (see CC+)&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;:::::It is permissible, however, to impose terms of use that have the effect of increasing (or removing the conditions on) the permissions granted to the public under the standard terms, such as waiving the attribution condition or allowing translations of an ND-licensed work (see CC+)&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;-&lt;/td&gt;
+  &lt;td style=&quot;background: #ffa; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;
+NOTE: While providing &quot;clarification&quot; of license terms can make sense intuitively, it often runs the risk of crossing the line to become a modification of how the licenses work. CC generally discourages this practice, other than creation of educational materials about how the licenses work. If you decide to try to clarify a license term on your website or elsewhere, please respect the guidelines above. 
+  &lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;+&lt;/td&gt;
+  &lt;td style=&quot;background: #cfc; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;
+NOTE: While providing &quot;clarification&quot; of license terms can make sense intuitively, it often runs the risk of crossing the line to become a modification of how the licenses work. CC generally discourages this practice, other than creation of educational materials about how the licenses work. If you decide to try to clarify a license term on your website or elsewhere, please respect the guidelines above.
+  &lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;=== Rationale for the CC policy: ‘‘the beauty of standardization’’ ===&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;=== Rationale for the CC policy: ‘‘the beauty of standardization’’ ===&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;!-- diff cache key cc_wiki:diff:version:1.11a:oldid:97758:newid:98757 --&gt;
+&lt;/table&gt;</summary>
+		<author><name>Diane Peters</name></author>	</entry>
+
+	<entry>
+		<id>http://wiki.creativecommons.org/User:Mikhail_Volchek</id>
+		<title>User:Mikhail Volchek</title>
+		<link rel="alternate" type="text/html" href="http://wiki.creativecommons.org/User:Mikhail_Volchek"/>
+				<updated>2014-07-16T21:18:53Z</updated>
+		
+		<summary type="html">&lt;p&gt;User account &lt;a href=&quot;/index.php?title=User:Mikhail_Volchek&amp;amp;action=edit&amp;amp;redlink=1&quot; class=&quot;new mw-userlink&quot; title=&quot;User:Mikhail Volchek (page does not exist)&quot;&gt;Mikhail Volchek&lt;/a&gt; was created by &lt;a href=&quot;/index.php?title=User:Dan_Mills&amp;amp;action=edit&amp;amp;redlink=1&quot; class=&quot;new mw-userlink&quot; title=&quot;User:Dan Mills (page does not exist)&quot;&gt;Dan Mills&lt;/a&gt; password sent by email&lt;/p&gt;
+</summary>
+		<author><name>Dan Mills</name></author>	</entry>
+
+	<entry>
+		<id>http://wiki.creativecommons.org/User:CC_Wiki_Bot</id>
+		<title>User:CC Wiki Bot</title>
+		<link rel="alternate" type="text/html" href="http://wiki.creativecommons.org/User:CC_Wiki_Bot"/>
+				<updated>2014-07-16T20:50:03Z</updated>
+		
+		<summary type="html">&lt;p&gt;&lt;a href=&quot;/index.php?title=User:Dan_Mills&amp;amp;action=edit&amp;amp;redlink=1&quot; class=&quot;new mw-userlink&quot; title=&quot;User:Dan Mills (page does not exist)&quot;&gt;Dan Mills&lt;/a&gt; changed group membership for &lt;a href=&quot;/User:CC_Wiki_Bot&quot; title=&quot;User:CC Wiki Bot&quot;&gt;User:CC Wiki Bot&lt;/a&gt; from bot and administrator to (none)&lt;/p&gt;
+</summary>
+		<author><name>Dan Mills</name></author>	</entry>
+
+	<entry>
+		<id>http://wiki.creativecommons.org/User:Alamal_gadael</id>
+		<title>User:Alamal gadael</title>
+		<link rel="alternate" type="text/html" href="http://wiki.creativecommons.org/User:Alamal_gadael"/>
+				<updated>2014-07-16T20:07:37Z</updated>
+		
+		<summary type="html">&lt;p&gt;User account &lt;a href=&quot;/index.php?title=User:Alamal_gadael&amp;amp;action=edit&amp;amp;redlink=1&quot; class=&quot;new mw-userlink&quot; title=&quot;User:Alamal gadael (page does not exist)&quot;&gt;Alamal gadael&lt;/a&gt; was created&lt;/p&gt;
+</summary>
+		<author><name>Alamal gadael</name></author>	</entry>
+
+	<entry>
+		<id>http://wiki.creativecommons.org/User:Kulvinder_singh</id>
+		<title>User:Kulvinder singh</title>
+		<link rel="alternate" type="text/html" href="http://wiki.creativecommons.org/User:Kulvinder_singh"/>
+				<updated>2014-07-16T18:11:37Z</updated>
+		
+		<summary type="html">&lt;p&gt;User account &lt;a href=&quot;/index.php?title=User:Kulvinder_singh&amp;amp;action=edit&amp;amp;redlink=1&quot; class=&quot;new mw-userlink&quot; title=&quot;User:Kulvinder singh (page does not exist)&quot;&gt;Kulvinder singh&lt;/a&gt; was created&lt;/p&gt;
+</summary>
+		<author><name>Kulvinder singh</name></author>	</entry>
+
+	<entry>
+		<id>http://wiki.creativecommons.org/User:Mark_Bullen</id>
+		<title>User:Mark Bullen</title>
+		<link rel="alternate" type="text/html" href="http://wiki.creativecommons.org/User:Mark_Bullen"/>
+				<updated>2014-07-16T14:42:00Z</updated>
+		
+		<summary type="html">&lt;p&gt;User account &lt;a href=&quot;/index.php?title=User:Mark_Bullen&amp;amp;action=edit&amp;amp;redlink=1&quot; class=&quot;new mw-userlink&quot; title=&quot;User:Mark Bullen (page does not exist)&quot;&gt;Mark Bullen&lt;/a&gt; was created&lt;/p&gt;
+</summary>
+		<author><name>Mark Bullen</name></author>	</entry>
+
+	<entry>
+		<id>http://wiki.creativecommons.org/User:Charles_Reed</id>
+		<title>User:Charles Reed</title>
+		<link rel="alternate" type="text/html" href="http://wiki.creativecommons.org/User:Charles_Reed"/>
+				<updated>2014-07-16T14:39:41Z</updated>
+		
+		<summary type="html">&lt;p&gt;User account &lt;a href=&quot;/index.php?title=User:Charles_Reed&amp;amp;action=edit&amp;amp;redlink=1&quot; class=&quot;new mw-userlink&quot; title=&quot;User:Charles Reed (page does not exist)&quot;&gt;Charles Reed&lt;/a&gt; was created&lt;/p&gt;
+</summary>
+		<author><name>Charles Reed</name></author>	</entry>
+
+	<entry>
+		<id>http://wiki.creativecommons.org/User:%E6%98%9F_%E9%98%BF</id>
+		<title>User:星 阿</title>
+		<link rel="alternate" type="text/html" href="http://wiki.creativecommons.org/User:%E6%98%9F_%E9%98%BF"/>
+				<updated>2014-07-16T13:18:50Z</updated>
+		
+		<summary type="html">&lt;p&gt;User account &lt;a href=&quot;/index.php?title=User:%E6%98%9F_%E9%98%BF&amp;amp;action=edit&amp;amp;redlink=1&quot; class=&quot;new mw-userlink&quot; title=&quot;User:星 阿 (page does not exist)&quot;&gt;星 阿&lt;/a&gt; was created&lt;/p&gt;
+</summary>
+		<author><name>星 阿</name></author>	</entry>
+
+	<entry>
+		<id>http://wiki.creativecommons.org/User:Globalemaillists</id>
+		<title>User:Globalemaillists</title>
+		<link rel="alternate" type="text/html" href="http://wiki.creativecommons.org/User:Globalemaillists"/>
+				<updated>2014-07-16T11:32:17Z</updated>
+		
+		<summary type="html">&lt;p&gt;User account &lt;a href=&quot;/index.php?title=User:Globalemaillists&amp;amp;action=edit&amp;amp;redlink=1&quot; class=&quot;new mw-userlink&quot; title=&quot;User:Globalemaillists (page does not exist)&quot;&gt;Globalemaillists&lt;/a&gt; was created&lt;/p&gt;
+</summary>
+		<author><name>Globalemaillists</name></author>	</entry>
+
+	<entry>
+		<id>http://wiki.creativecommons.org/User:Marchilo_dinata</id>
+		<title>User:Marchilo dinata</title>
+		<link rel="alternate" type="text/html" href="http://wiki.creativecommons.org/User:Marchilo_dinata"/>
+				<updated>2014-07-16T11:14:06Z</updated>
+		
+		<summary type="html">&lt;p&gt;User account &lt;a href=&quot;/index.php?title=User:Marchilo_dinata&amp;amp;action=edit&amp;amp;redlink=1&quot; class=&quot;new mw-userlink&quot; title=&quot;User:Marchilo dinata (page does not exist)&quot;&gt;Marchilo dinata&lt;/a&gt; was created&lt;/p&gt;
+</summary>
+		<author><name>Marchilo dinata</name></author>	</entry>
+
+	<entry>
+		<id>http://wiki.creativecommons.org/User:OpenIDUser1408</id>
+		<title>User:OpenIDUser1408</title>
+		<link rel="alternate" type="text/html" href="http://wiki.creativecommons.org/User:OpenIDUser1408"/>
+				<updated>2014-07-16T06:27:16Z</updated>
+		
+		<summary type="html">&lt;p&gt;User account &lt;a href=&quot;/index.php?title=User:OpenIDUser1408&amp;amp;action=edit&amp;amp;redlink=1&quot; class=&quot;new mw-userlink&quot; title=&quot;User:OpenIDUser1408 (page does not exist)&quot;&gt;OpenIDUser1408&lt;/a&gt; was created&lt;/p&gt;
+</summary>
+		<author><name>OpenIDUser1408</name></author>	</entry>
+
+	<entry>
+		<id>http://wiki.creativecommons.org/User:Fendyoyo_Yoyoi</id>
+		<title>User:Fendyoyo Yoyoi</title>
+		<link rel="alternate" type="text/html" href="http://wiki.creativecommons.org/User:Fendyoyo_Yoyoi"/>
+				<updated>2014-07-16T05:29:17Z</updated>
+		
+		<summary type="html">&lt;p&gt;User account &lt;a href=&quot;/index.php?title=User:Fendyoyo_Yoyoi&amp;amp;action=edit&amp;amp;redlink=1&quot; class=&quot;new mw-userlink&quot; title=&quot;User:Fendyoyo Yoyoi (page does not exist)&quot;&gt;Fendyoyo Yoyoi&lt;/a&gt; was created&lt;/p&gt;
+</summary>
+		<author><name>Fendyoyo Yoyoi</name></author>	</entry>
+
+	<entry>
+		<id>http://wiki.creativecommons.org/User:Ana_Jimenez</id>
+		<title>User:Ana Jimenez</title>
+		<link rel="alternate" type="text/html" href="http://wiki.creativecommons.org/User:Ana_Jimenez"/>
+				<updated>2014-07-16T01:08:27Z</updated>
+		
+		<summary type="html">&lt;p&gt;User account &lt;a href=&quot;/index.php?title=User:Ana_Jimenez&amp;amp;action=edit&amp;amp;redlink=1&quot; class=&quot;new mw-userlink&quot; title=&quot;User:Ana Jimenez (page does not exist)&quot;&gt;Ana Jimenez&lt;/a&gt; was created&lt;/p&gt;
+</summary>
+		<author><name>Ana Jimenez</name></author>	</entry>
+
+	<entry>
+		<id>http://wiki.creativecommons.org/User:Sergio_Rengifo</id>
+		<title>User:Sergio Rengifo</title>
+		<link rel="alternate" type="text/html" href="http://wiki.creativecommons.org/User:Sergio_Rengifo"/>
+				<updated>2014-07-15T21:19:30Z</updated>
+		
+		<summary type="html">&lt;p&gt;User account &lt;a href=&quot;/index.php?title=User:Sergio_Rengifo&amp;amp;action=edit&amp;amp;redlink=1&quot; class=&quot;new mw-userlink&quot; title=&quot;User:Sergio Rengifo (page does not exist)&quot;&gt;Sergio Rengifo&lt;/a&gt; was created&lt;/p&gt;
+</summary>
+		<author><name>Sergio Rengifo</name></author>	</entry>
+
+	<entry>
+		<id>http://wiki.creativecommons.org/User:Sabrina_Soto</id>
+		<title>User:Sabrina Soto</title>
+		<link rel="alternate" type="text/html" href="http://wiki.creativecommons.org/User:Sabrina_Soto"/>
+				<updated>2014-07-15T21:16:54Z</updated>
+		
+		<summary type="html">&lt;p&gt;User account &lt;a href=&quot;/index.php?title=User:Sabrina_Soto&amp;amp;action=edit&amp;amp;redlink=1&quot; class=&quot;new mw-userlink&quot; title=&quot;User:Sabrina Soto (page does not exist)&quot;&gt;Sabrina Soto&lt;/a&gt; was created&lt;/p&gt;
+</summary>
+		<author><name>Sabrina Soto</name></author>	</entry>
+
+	<entry>
+		<id>http://wiki.creativecommons.org/index.php?title=Open_Licensing_Policy_Guidelines&amp;diff=98754&amp;oldid=98753</id>
+		<title>Open Licensing Policy Guidelines</title>
+		<link rel="alternate" type="text/html" href="http://wiki.creativecommons.org/index.php?title=Open_Licensing_Policy_Guidelines&amp;diff=98754&amp;oldid=98753"/>
+				<updated>2014-07-15T20:52:51Z</updated>
+		
+		<summary type="html">&lt;p&gt;&lt;/p&gt;
+&lt;table class='diff diff-contentalign-left'&gt;
+				&lt;col class='diff-marker' /&gt;
+				&lt;col class='diff-content' /&gt;
+				&lt;col class='diff-marker' /&gt;
+				&lt;col class='diff-content' /&gt;
+			&lt;tr style='vertical-align: top;'&gt;
+			&lt;td colspan='2' style=&quot;background-color: white; color:black;&quot;&gt;← Older revision&lt;/td&gt;
+			&lt;td colspan='2' style=&quot;background-color: white; color:black;&quot;&gt;Revision as of 20:52, 15 July 2014&lt;/td&gt;
+			&lt;/tr&gt;&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;Line 5:&lt;/td&gt;
+  &lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;Line 5:&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;|Author=NMEICT&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;|Author=NMEICT&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;|OER Policy Status=Current&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;|OER Policy Status=Current&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot;&gt;&amp;nbsp;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;+&lt;/td&gt;
+  &lt;td style=&quot;background: #cfc; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;|Language code=en&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;|OER Policy Jurisdiction=National&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;|OER Policy Jurisdiction=National&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;-&lt;/td&gt;
+  &lt;td style=&quot;background: #ffa; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;
+|Country=India, 
+  &lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;+&lt;/td&gt;
+  &lt;td style=&quot;background: #cfc; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;
+|Country=India,
+  &lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;|Tag=education&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;|Tag=education&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;|License short name=copyright&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt; &lt;/td&gt;
+  &lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;|License short name=copyright&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;!-- diff cache key cc_wiki:diff:version:1.11a:oldid:98753:newid:98754 --&gt;
+&lt;/table&gt;</summary>
+		<author><name>Billymeinke</name></author>	</entry>
+
+	</feed>

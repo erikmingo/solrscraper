@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+	<ShortName>Holy Cross Events</ShortName>
+	<Description>Search Holy Cross Events Events.</Description>
+	<Image height="16" width="16" type="image/x-icon">http://events.holycross.edu/favicon.ico</Image>
+	<Url type="text/html" method="get" template="http://events.holycross.edu/index.php?com=searchresult&amp;k={searchTerms}" />
+</OpenSearchDescription>

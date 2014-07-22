@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet href="atom.css" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xml:base="http://www.library.ncat.edu" xml:lang="en">
+  <link rel="self" href="http://www.library.ncat.edu/atom.xml"/>
+  <title type="html">F.D. Bluford Library @ N.C. A.&amp;T. S.U.</title>
+  <subtitle>Making a difference serving the Aggie community with resources, information &amp; services promoting learning &amp; scholarship.</subtitle>
+  <updated>2013-07-17T13:43:09-04:00</updated>
+  <link rel="alternate" type="text/html" href="http://www.library.ncat.edu"/>
+  <id>urn:syndication:None</id>
+  <logo>http://www.library.ncat.edu/logo.png</logo>
+  <icon>http://www.library.ncat.edu/favicon.ico</icon>
+  <generator uri="http://www.plone.org" version="1.0">plone</generator>
+  
+  <author>
+    <name></name>
+    
+  </author>
+
+  
+    <entry>
+      <title>International Index to Music Periodicals Full Text</title>
+      <link rel="alternate" type="text/html" href="http://www.library.ncat.edu/db/I10"/>
+      
+      <id>urn:syndication:b921002e1f4543178209b771d0d5d6fa</id>
+      <summary>This database provides indexing and abstracts for several hundred international music periodicals from over 20 countries, plus full text for more than 140 of the indexed journals. The database currently includes over 770,000 records, the majority from the most recent ten years of publication. Some complete journal runs are included, with indexing back to 1874. Covers the full spectrum of subjects and all aspects of music, including music education, performance, ethnomusicology, musical theatre, theory, popular music forms and composition.</summary>
+      
+
+      <author>
+        <name></name>
+        
+      </author>
+
+      <published>2014-06-12T10:53:41-04:00</published>
+
+      <updated>2014-06-12T10:53:41-04:00</updated>
+
+
+    </entry>
+
+  
+  
+    <entry>
+      <title>InfoTrac Newsstand</title>
+      <link rel="alternate" type="text/html" href="http://www.library.ncat.edu/db/I11"/>
+      
+      <id>urn:syndication:99c41639f255423c8a297985b427f540</id>
+      <summary>InfoTrac Newsstand includes full text access to the New York Times (1985-present) as well as many other resources including The Economist and USA Today. It also includes selective or full text coverage of several North Carolina newspapers. </summary>
+      
+
+      <author>
+        <name></name>
+        
+      </author>
+
+      <published>2014-06-12T10:50:00-04:00</published>
+
+      <updated>2014-06-12T10:52:42-04:00</updated>
+
+
+    </entry>
+
+  
+  
+    <entry>
+      <title>Created Equal: Watch and Discuss Films Dealing with America’s Civil Rights Struggle</title>
+      <link rel="alternate" type="text/html" href="http://www.library.ncat.edu/created-equal"/>
+      
+      <id>urn:syndication:b3b564cfe4b1442394f7399bb1b5586f</id>
+      <summary>Created Equal: America’s Civil Rights Struggle is made possible through a major grant from the National Endowment for the Humanities, as part of its Bridging Cultures initiative, in partnership with the Gilder Lehrman Institute of American History.</summary>
+      
+
+      <author>
+        <name></name>
+        
+      </author>
+
+      <published>2014-04-08T19:25:00-04:00</published>
+
+      <updated>2014-04-16T15:59:41-04:00</updated>
+
+
+    </entry>
+
+  
+  
+    <entry>
+      <title>American Society of Mechanical Engineers Digital Collection</title>
+      <link rel="alternate" type="text/html" href="http://www.library.ncat.edu/db/A49"/>
+      
+      <id>urn:syndication:2d34bfe0af3347ce8f6dc6472013c7f3</id>
+      <summary>The American Society of Mechanical Engineers Digital Collection is the repository for the ASME's current and archival literature. Bluford Library provides access to selected journals.</summary>
+      
+
+      <author>
+        <name></name>
+        
+      </author>
+
+      <published>2014-02-25T11:55:00-04:00</published>
+
+      <updated>2014-06-11T14:47:23-04:00</updated>
+
+
+    </entry>
+
+  
+  
+    <entry>
+      <title>LSTA Survey Link</title>
+      <link rel="alternate" type="text/html" href="http://www.library.ncat.edu/survey"/>
+      
+      <id>urn:syndication:db75de26549b4ccebea1d5c51ab72ce9</id>
+      <summary></summary>
+      
+
+      <author>
+        <name></name>
+        
+      </author>
+
+      <published>2014-02-18T10:58:01-04:00</published>
+
+      <updated>2014-02-18T10:58:01-04:00</updated>
+
+      
+        <category term="redirect"/>
+      
+
+    </entry>
+
+  
+  
+    <entry>
+      <title>ProQuest Central</title>
+      <link rel="alternate" type="text/html" href="http://www.library.ncat.edu/db/P21"/>
+      
+      <id>urn:syndication:af2cac4d1a764f778aebd219d7f618fb</id>
+      <summary>ProQuest Central provides access to 27 of ProQuest's most highly used databases, with a variety of content types across over 160 subjects. ProQuest Central provides access to millions of much-coveted full text articles from thousands of scholarly journals. It also provides access to information not available in other aggregated resources such as over 70,000 full text dissertations in the areas of business, psychology, physical sciences, health, education and more; over 90,000 working papers from providers such as SSRN; and thousands of up-to-date market and industry reports, and country profiles. </summary>
+      
+
+      <author>
+        <name></name>
+        
+      </author>
+
+      <published>2014-01-31T14:35:37-04:00</published>
+
+      <updated>2014-01-31T14:35:37-04:00</updated>
+
+
+    </entry>
+
+  
+  
+    <entry>
+      <title>Redirect - ITT 703 Technical Writing LibGuide</title>
+      <link rel="alternate" type="text/html" href="http://www.library.ncat.edu/ITT703"/>
+      
+      <id>urn:syndication:ec9dd3babcb44fb385dc1cfd4d55a849</id>
+      <summary></summary>
+      
+
+      <author>
+        <name></name>
+        
+      </author>
+
+      <published>2014-01-27T17:55:19-04:00</published>
+
+      <updated>2014-01-27T17:55:19-04:00</updated>
+
+      
+        <category term="grad students"/>
+      
+
+    </entry>
+
+  
+  
+    <entry>
+      <title>Consumer Health Complete</title>
+      <link rel="alternate" type="text/html" href="http://www.library.ncat.edu/db/C24"/>
+      
+      <id>urn:syndication:0a1da16271db401c95d3d9439410de58</id>
+      <summary>Resource for consumer-oriented health content designed to support patients' information needs and foster an overall understanding of health-related topics. CHC provides content covering all areas of health and wellness from mainstream medicine to the many perspectives of complementary, holistic and integrated medicine. This full text database covers topics such as aging, cancer, diabetes, drugs &amp; alcohol, fitness, nutrition &amp; dietetics, children's health, men &amp; women's health, and more.</summary>
+      
+
+      <author>
+        <name></name>
+        
+      </author>
+
+      <published>2013-11-01T09:44:48-04:00</published>
+
+      <updated>2013-11-01T09:44:48-04:00</updated>
+
+
+    </entry>
+
+  
+  
+    <entry>
+      <title>An Evening of Literature, Jazz and Reminiscing @ F.D. Bluford Library</title>
+      <link rel="alternate" type="text/html" href="http://www.library.ncat.edu/events/2013-evening.html"/>
+      
+      <id>urn:syndication:c09cdbb3148f4f8388113269420ffbc4</id>
+      <summary>F.D. Bluford Library will host An Evening of Literature, Jazz, and Reminiscing on Thursday, October 31, 2013, 6:00-8:00 p.m., on the first floor. Refreshments will be served.</summary>
+      
+
+      <author>
+        <name></name>
+        
+      </author>
+
+      <published>2013-10-30T15:20:00-04:00</published>
+
+      <updated>2013-10-31T09:09:36-04:00</updated>
+
+      
+        <category term="public programs"/>
+      
+
+    </entry>
+
+  
+  
+    <entry>
+      <title>Student Space Shuttle Program</title>
+      <link rel="alternate" type="text/html" href="http://www.library.ncat.edu/resources/archives/space-shuttle"/>
+      
+      <id>urn:syndication:1f12619d56ee42f187783ad271379b81</id>
+      <summary>In 1994, a payload conceived, designed, built and tested by North Carolina A&amp;T State University students orbited the earth for 11 days aboard the Space Shuttle Endeavour. This collection tells the story of the events leading up to , during, and after this historical event through  photographs, newspaper articles, pictures, drawings, and other informtion resources relating to the project.</summary>
+      
+
+      <author>
+        <name></name>
+        
+      </author>
+
+      <published>2013-10-30T12:05:00-04:00</published>
+
+      <updated>2014-03-28T09:14:06-04:00</updated>
+
+      
+        <category term="redirect"/>
+      
+      
+        <category term="archives"/>
+      
+      
+        <category term="digital"/>
+      
+
+    </entry>
+
+  
+  
+    <entry>
+      <title>Commencement Programs</title>
+      <link rel="alternate" type="text/html" href="http://www.library.ncat.edu/resources/archives/commencement"/>
+      
+      <id>urn:syndication:fcc3d04039f9443f925efab9fc5cd0bd</id>
+      <summary>Digitized programs from past North Carolina Agricultural and Technical State University commencement ceremonies.</summary>
+      
+
+      <author>
+        <name></name>
+        
+      </author>
+
+      <published>2013-10-30T12:05:00-04:00</published>
+
+      <updated>2013-10-30T12:08:41-04:00</updated>
+
+      
+        <category term="redirect"/>
+      
+      
+        <category term="archives"/>
+      
+      
+        <category term="digital"/>
+      
+
+    </entry>
+
+  
+  
+    <entry>
+      <title>Faculty Research</title>
+      <link rel="alternate" type="text/html" href="http://www.library.ncat.edu/resources/archives/faculty-research"/>
+      
+      <id>urn:syndication:3f977e6de2cb4415861ed20e988c6f94</id>
+      <summary>This collection contains  bibliographies, abstracts and full texts of research journal articles, book chapters, presentations, course notes, learning objects, data sets, and other digital asserts generated by the diverse faculty  for all the schools and colleges of the University.</summary>
+      
+
+      <author>
+        <name></name>
+        
+      </author>
+
+      <published>2013-10-30T12:05:00-04:00</published>
+
+      <updated>2013-10-30T12:06:52-04:00</updated>
+
+      
+        <category term="redirect"/>
+      
+      
+        <category term="archives"/>
+      
+      
+        <category term="digital"/>
+      
+
+    </entry>
+
+  
+  
+    <entry>
+      <title>Theses and Dissertations</title>
+      <link rel="alternate" type="text/html" href="http://www.library.ncat.edu/resources/archives/etd"/>
+      
+      <id>urn:syndication:008801fbe6b240a186590c1707e3d390</id>
+      <summary>Since 2010 Students of North Carolina Agricultural and Technical State University have been submitting electronic copies of their thesis and dissertations to the library along with printed copies for open access to their scholarship in order to enhance the sharing of knowledge worldwide. This collection is searchable by title, author, academic department, major professor , and date.</summary>
+      
+
+      <author>
+        <name></name>
+        
+      </author>
+
+      <published>2013-10-30T12:05:00-04:00</published>
+
+      <updated>2014-03-28T09:14:43-04:00</updated>
+
+      
+        <category term="redirect"/>
+      
+      
+        <category term="archives"/>
+      
+      
+        <category term="digital"/>
+      
+
+    </entry>
+
+  
+  
+    <entry>
+      <title>Aggie Pride Photo Gallery</title>
+      <link rel="alternate" type="text/html" href="http://www.library.ncat.edu/resources/archives/aggie-pride"/>
+      
+      <id>urn:syndication:81083468e62f49688df9efdb93eb68c8</id>
+      <summary>Aggie Pride Photo Gallery is a collection of sundry photographs that depict campus life at North Carolina Agricultural and Technical State University during earlier years.</summary>
+      
+
+      <author>
+        <name></name>
+        
+      </author>
+
+      <published>2013-10-30T12:05:00-04:00</published>
+
+      <updated>2013-10-30T12:11:08-04:00</updated>
+
+      
+        <category term="redirect"/>
+      
+      
+        <category term="archives"/>
+      
+      
+        <category term="digital"/>
+      
+
+    </entry>
+
+  
+  
+    <entry>
+      <title>North Carolina Runaway Slave Advertisements, 1751-1840</title>
+      <link rel="alternate" type="text/html" href="http://www.library.ncat.edu/resources/archives/runaway"/>
+      
+      <id>urn:syndication:3c101b7e898a4c1398c6fe01396efb68</id>
+      <summary>The North Carolina Runaway Slave Advertisements project provides online access to all known runaway slave advertisements (more than 2300 items) published in North Carolina newspapers from 1751 to 1840. These brief ads provide a glimpse into the social, economic, and cultural world of the American slave system and the specific experience within North Carolina. Working from microfilmed copies of these rare publications, the project team scanned the ads to provide digital images, create full-text transcripts and descriptive metadata, and develop a searchable database. The NCRSA website includes digital scans of the ads, contextual essays to address their historical research value, full text transcripts, an annotated bibliography to aid researchers, and a searchable database.</summary>
+      
+
+      <author>
+        <name></name>
+        
+      </author>
+
+      <published>2013-10-30T12:03:11-04:00</published>
+
+      <updated>2013-10-30T12:03:11-04:00</updated>
+
+      
+        <category term="redirect"/>
+      
+      
+        <category term="archives"/>
+      
+      
+        <category term="digital"/>
+      
+
+    </entry>
+
+  
+
+</feed>

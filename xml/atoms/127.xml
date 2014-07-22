@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">Home</title>
+	<subtitle type="text">Moravian Theological Seminary is an ecumenical, theological graduate school of the Moravian Church offering master’s degrees in Divinity, Clinical Counseling, Theological Studies and a comprehensive Continuing Ed and lay leadership program - CROSSROADS.</subtitle>
+	<link rel="alternate" type="text/html" href="http://www.moravianseminary.edu"/>
+	<id>http://www.moravianseminary.edu/</id>
+	<updated>2014-07-21T17:57:39+00:00</updated>
+	<generator uri="http://joomla.org" version="2.5">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="http://www.moravianseminary.edu/?format=feed&amp;type=atom"/>
+</feed>

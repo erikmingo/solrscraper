@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+  <ShortName>Auburn Alumni Association</ShortName>
+  <Description>The mission of the Auburn Alumni Association is to foster and strengthen the relationship between Auburn University and its alumni and friends; to preserve and promote the university's traditions, purposes, growth and alumni; and to keep alive the spirit of affection and reverence for our alma mater. War Eagle!</Description>
+  <InputEncoding>UTF-8</InputEncoding>
+  <Image type="image/vnd.microsoft.icon" width="16" height="16">http://www.aualum.org//var/www/html/favicon.ico</Image>
+  <Url type="application/opensearchdescription+xml" rel="self" template="http://www.aualum.org/index.php/component/search/?format=opensearch"/>
+  <Url type="text/html" template="http://www.aualum.org/index.php?option=com_search&amp;searchword={searchTerms}"/>
+</OpenSearchDescription>

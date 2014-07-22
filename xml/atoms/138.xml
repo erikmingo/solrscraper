@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="W. M. Keck Foundation" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">Homepage Slideshow</title>
+	<subtitle type="text">Welcome to the W.M. Keck Foundation website</subtitle>
+	<link rel="alternate" type="text/html" href="http://www.wmkeck.org"/>
+	<id>http://www.wmkeck.org/component/fpss/module/121</id>
+	<updated>2014-07-21T10:57:52-07:00</updated>
+	<generator uri="http://joomla.org" version="2.5">W. M. Keck Foundation</generator>
+	<link rel="self" type="application/atom+xml" href="http://www.wmkeck.org/component/fpss/module/121?format=feed&amp;type=atom"/>
+	<entry>
+		<title>Water Guy </title>
+		<link rel="alternate" type="text/html" href="http://www.wmkeck.orgjavascript:void(0)"/>
+		<published>2013-11-18T12:09:22-08:00</published>
+		<updated>2013-11-18T12:09:22-08:00</updated>
+		<id>http://www.wmkeck.orgjavascript:void(0)</id>
+		<summary type="html">&lt;div&gt;&lt;img src=&quot;http://www.wmkeck.org/media/com_fpss/cache/5_ffee2447b152494b43d9816faaea83c8_m.jpg&quot; alt=&quot;Water Guy &quot; /&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div&gt;&lt;img src=&quot;http://www.wmkeck.org/media/com_fpss/cache/5_ffee2447b152494b43d9816faaea83c8_m.jpg&quot; alt=&quot;Water Guy &quot; /&gt;&lt;/div&gt;</content>
+	</entry>
+	<entry>
+		<title>Neurons</title>
+		<link rel="alternate" type="text/html" href="http://www.wmkeck.orgjavascript:void(0)"/>
+		<published>2013-11-18T13:52:38-08:00</published>
+		<updated>2013-11-18T13:52:38-08:00</updated>
+		<id>http://www.wmkeck.orgjavascript:void(0)</id>
+		<summary type="html">&lt;div&gt;&lt;img src=&quot;http://www.wmkeck.org/media/com_fpss/cache/6_ada9a09acea936d776a6f55c82778c43_m.jpg&quot; alt=&quot;Neurons&quot; /&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div&gt;&lt;img src=&quot;http://www.wmkeck.org/media/com_fpss/cache/6_ada9a09acea936d776a6f55c82778c43_m.jpg&quot; alt=&quot;Neurons&quot; /&gt;&lt;/div&gt;</content>
+	</entry>
+	<entry>
+		<title>Little Girl</title>
+		<link rel="alternate" type="text/html" href="http://www.wmkeck.orgjavascript:void(0)"/>
+		<published>2013-11-18T13:54:16-08:00</published>
+		<updated>2013-11-18T13:54:16-08:00</updated>
+		<id>http://www.wmkeck.orgjavascript:void(0)</id>
+		<summary type="html">&lt;div&gt;&lt;img src=&quot;http://www.wmkeck.org/media/com_fpss/cache/7_9caa2793658f3cc387f216157300b1ce_m.jpg&quot; alt=&quot;Little Girl&quot; /&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div&gt;&lt;img src=&quot;http://www.wmkeck.org/media/com_fpss/cache/7_9caa2793658f3cc387f216157300b1ce_m.jpg&quot; alt=&quot;Little Girl&quot; /&gt;&lt;/div&gt;</content>
+	</entry>
+	<entry>
+		<title>Nurse</title>
+		<link rel="alternate" type="text/html" href="http://www.wmkeck.orgjavascript:void(0)"/>
+		<published>2013-11-18T13:54:54-08:00</published>
+		<updated>2013-11-18T13:54:54-08:00</updated>
+		<id>http://www.wmkeck.orgjavascript:void(0)</id>
+		<summary type="html">&lt;div&gt;&lt;img src=&quot;http://www.wmkeck.org/media/com_fpss/cache/8_184b7cb84d7b456c96a0bdfbbeaa5f14_m.jpg&quot; alt=&quot;Nurse&quot; /&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div&gt;&lt;img src=&quot;http://www.wmkeck.org/media/com_fpss/cache/8_184b7cb84d7b456c96a0bdfbbeaa5f14_m.jpg&quot; alt=&quot;Nurse&quot; /&gt;&lt;/div&gt;</content>
+	</entry>
+</feed>

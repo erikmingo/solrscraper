@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+<ShortName>EMU site search</ShortName>
+<Description>Search Eastern Mennonite University</Description>
+<Tags>emu christian university mennonite</Tags>
+<Image height="16" width="16" type="image/x-icon">http://www.emu.edu/favicon.ico</Image>
+<Url type="text/html" method="GET" template="http://www.emu.edu/search/results?cref=http%3A%2F%2Fwww.emu.edu%2Fsearch%2Fgoogle_cse%2Fcontext.xml&amp;cof=FORID%3A11&amp;q={searchTerms}&amp;sa=Search#961"/>
+<InputEncoding>UTF-8</InputEncoding>
+<AdultContent>false</AdultContent>
+</OpenSearchDescription>

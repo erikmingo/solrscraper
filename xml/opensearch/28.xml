@@ -1,0 +1,6 @@
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+    <ShortName>Messiah College, a Christian college in PA</ShortName>
+    <Description>Messiah College, a Christian college in PA</Description>
+    <Image height="16" width="16" type="image/x-icon">http://www.messiah.edu/favicon.ico</Image>
+    <Url type="text/html" method="get" template="http://www.messiah.edu/site/scripts/google_results.php?q={searchTerms}" />
+</OpenSearchDescription>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><feed
+  xmlns="http://www.w3.org/2005/Atom"
+  xmlns:thr="http://purl.org/syndication/thread/1.0"
+  xml:lang="en"
+  xml:base="https://faculty.franklin.edu/garry-mcdaniel/wp-atom.php"
+   >
+	<title type="text">Garry McDaniel Ed.D.</title>
+	<subtitle type="text">Professor, Human Resource Management</subtitle>
+
+	<updated>2013-03-18T12:48:29Z</updated>
+	<generator uri="http://wordpress.org/" version="2.9.1">WordPress</generator>
+
+	<link rel="alternate" type="text/html" href="https://faculty.franklin.edu/garry-mcdaniel" />
+	<id>https://faculty.franklin.edu/garry-mcdaniel/feed/atom/</id>
+	<link rel="self" type="application/atom+xml" href="http://faculty.franklin.edu/garry-mcdaniel/feed/atom/" />
+
+			<entry>
+		<author>
+			<name>Garry McDaniel</name>
+					</author>
+		<title type="html"><![CDATA[Professor, Human Resource Management]]></title>
+		<link rel="alternate" type="text/html" href="https://faculty.franklin.edu/garry-mcdaniel/2011/03/02/associate-dean/" />
+		<id>https://faculty.franklin.edu/garry-mcdaniel/2011/03/02/associate-dean/</id>
+		<updated>2013-03-18T12:48:29Z</updated>
+		<published>2011-03-02T21:10:53Z</published>
+		<category scheme="https://faculty.franklin.edu/garry-mcdaniel" term="Uncategorized" />		<summary type="html"><![CDATA[Dr. Garry McDaniel is Professor of Human Resource Management  oversees the undergraduate Human Resource Management Curriculum and teaches in the Graduate School of Business.  Dr. McDaniel&#8217;s duties include staffing all courses, updating curriculum and conducting research in the area of leadership, management and human resource development.
+Dr. McDaniel has extensive background in business including leading the [...]]]></summary>
+		<content type="html" xml:base="https://faculty.franklin.edu/garry-mcdaniel/2011/03/02/associate-dean/"><![CDATA[<p>Dr. Garry McDaniel is Professor of Human Resource Management  oversees the undergraduate Human Resource Management Curriculum and teaches in the Graduate School of Business.  Dr. McDaniel&#8217;s duties include staffing all courses, updating curriculum and conducting research in the area of leadership, management and human resource development.</p>
+<p>Dr. McDaniel has extensive background in business including leading the Global Leadership &amp; Succession Planning efforts for Advanced Micro Devices,  serving as Training Director for the Texas Department of Mental Health and Mental Retardation, Program Manager for the Texas Department of Human Services and taught basic navigation in the United States Air Force. He has authored two books, &#8216;Conflict to Cooperation: A process for mediating group differences&#8217;, and &#8216;Managing the business: How successful managers align management systems with business strategy&#8217;, as well as numerous articles and book chapters.  He is currently completing a third book, &#8220;The Seven Habits of Highly Effective Dogs: What Man&#8217;s Best Friend can Teach Us About Living, Loving and Leadership.&#8221;</p>
+]]></content>
+		<link rel="replies" type="text/html" href="https://faculty.franklin.edu/garry-mcdaniel/2011/03/02/associate-dean/#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="https://faculty.franklin.edu/garry-mcdaniel/2011/03/02/associate-dean/feed/atom/" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name>Garry McDaniel</name>
+					</author>
+		<title type="html"><![CDATA[No blog entries posted at this time.]]></title>
+		<link rel="alternate" type="text/html" href="https://faculty.franklin.edu/garry-mcdaniel/2010/03/03/no-blog-entries-posted-at-this-time/" />
+		<id>https://faculty.franklin.edu/garry-mcdaniel/2010/03/03/no-blog-entries-posted-at-this-time/</id>
+		<updated>2010-03-03T16:24:06Z</updated>
+		<published>2010-03-03T16:24:06Z</published>
+		<category scheme="https://faculty.franklin.edu/garry-mcdaniel" term="Uncategorized" />		<summary type="html"><![CDATA[]]></summary>
+		<content type="html" xml:base="https://faculty.franklin.edu/garry-mcdaniel/2010/03/03/no-blog-entries-posted-at-this-time/"><![CDATA[]]></content>
+		<link rel="replies" type="text/html" href="https://faculty.franklin.edu/garry-mcdaniel/2010/03/03/no-blog-entries-posted-at-this-time/#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="https://faculty.franklin.edu/garry-mcdaniel/2010/03/03/no-blog-entries-posted-at-this-time/feed/atom/" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+	</feed>

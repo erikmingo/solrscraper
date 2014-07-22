@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?><feed
+  xmlns="http://www.w3.org/2005/Atom"
+  xmlns:thr="http://purl.org/syndication/thread/1.0"
+  xml:lang="en-US"
+  xml:base="http://www.northeastern.edu/tomorrow/wp-atom.php"
+   >
+	<title type="text">Making Tomorrow Happen</title>
+	<subtitle type="text">Northeastern University Research</subtitle>
+
+	<updated>2014-04-11T14:10:04Z</updated>
+
+	<link rel="alternate" type="text/html" href="http://www.northeastern.edu/tomorrow" />
+	<id>http://www.northeastern.edu/tomorrow/feed/atom</id>
+	<link rel="self" type="application/atom+xml" href="http://www.northeastern.edu/tomorrow/feed/atom" />
+
+	<!--built on the Whiteboard Framework-->
+		<entry>
+		<author>
+			<name>e.lewy</name>
+					</author>
+		<title type="html"><![CDATA[Carol Livermore integrates origami into tissue engineering]]></title>
+		<link rel="alternate" type="text/html" href="http://www.northeastern.edu/tomorrow/curing-disease/carol-livermore-integrates-origami-into-tissue-engineering" />
+		<id>http://www.northeastern.edu/tomorrow/?p=537</id>
+		<updated>2014-03-11T17:25:57Z</updated>
+		<published>2014-03-11T17:07:39Z</published>
+		<category scheme="http://www.northeastern.edu/tomorrow" term="Curing Disease" />		<summary type="html"><![CDATA[<p><img width="2000" height="1333" src="http://www.northeastern.edu/tomorrow/wp-content/uploads/2014/03/LIVEMORE.jpg" class="attachment-post-thumbnail wp-post-image" alt="LIVEMORE" title="LIVEMORE" /></p>Engineering tissue to create livers and other human organs for transplant is a fast-growing field in biotechnology. To overcome one of its critical challenges, Livermore is applying the ancient Japanese art of paper folding, origami.
+
+Current tissue engineering methods lack precision in placing blood vessels and other organic structures. Backed by a $2 million grant from the National Science Foundation, Livermore and her team are attempting to solve that by working with origami artists and theorists to assemble different cell types onto a biocompatible, two-dimensional scaffold—the “paper.” The example Livermore holds here was created by renowned origami artist Robert Lang. 
+
+By folding the scaffold correctly, they could construct a three-dimensional block of tissue with the blood vessels and other structures running through it, she says—much like some origami designs neatly fold into a 3D object, such as a bird or flower.
+ 
+They have successfully tested an initial stage of this technique, inducing mouse cells to self assemble at specific locations on two-dimensional surfaces. The next step, says Livermore, will be determining how to “unfold” an existing piece of tissue to provide a template for the scaffold.]]></summary>
+		<content type="html" xml:base="http://www.northeastern.edu/tomorrow/curing-disease/carol-livermore-integrates-origami-into-tissue-engineering"><![CDATA[<p><img width="2000" height="1333" src="http://www.northeastern.edu/tomorrow/wp-content/uploads/2014/03/LIVEMORE.jpg" class="attachment-post-thumbnail wp-post-image" alt="LIVEMORE" title="LIVEMORE" /></p>Engineering tissue to create livers and other human organs for transplant is a fast-growing field in biotechnology. To overcome one of its critical challenges, Livermore is applying the ancient Japanese art of paper folding, origami.
+
+Current tissue engineering methods lack precision in placing blood vessels and other organic structures. Backed by a $2 million grant from the National Science Foundation, Livermore and her team are attempting to solve that by working with origami artists and theorists to assemble different cell types onto a biocompatible, two-dimensional scaffold—the “paper.” The example Livermore holds here was created by renowned origami artist Robert Lang. 
+
+By folding the scaffold correctly, they could construct a three-dimensional block of tissue with the blood vessels and other structures running through it, she says—much like some origami designs neatly fold into a 3D object, such as a bird or flower.
+ 
+They have successfully tested an initial stage of this technique, inducing mouse cells to self assemble at specific locations on two-dimensional surfaces. The next step, says Livermore, will be determining how to “unfold” an existing piece of tissue to provide a template for the scaffold.]]></content>
+		<link rel="replies" type="text/html" href="http://www.northeastern.edu/tomorrow/curing-disease/carol-livermore-integrates-origami-into-tissue-engineering#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://www.northeastern.edu/tomorrow/curing-disease/carol-livermore-integrates-origami-into-tissue-engineering/feed/atom" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name>e.lewy</name>
+					</author>
+		<title type="html"><![CDATA[Mark Patterson advances undersea monitoring]]></title>
+		<link rel="alternate" type="text/html" href="http://www.northeastern.edu/tomorrow/urban-sustainability/mark-patterson-advances-undersea-monitoring" />
+		<id>http://www.northeastern.edu/tomorrow/?p=528</id>
+		<updated>2014-03-05T20:53:20Z</updated>
+		<published>2014-03-05T20:53:20Z</published>
+		<category scheme="http://www.northeastern.edu/tomorrow" term="Urban Sustainability" />		<summary type="html"><![CDATA[<p><img width="2000" height="1333" src="http://www.northeastern.edu/tomorrow/wp-content/uploads/2014/03/PATTERSON1.jpg" class="attachment-post-thumbnail wp-post-image" alt="PATTERSON" title="PATTERSON" /></p>Understanding, predicting, and ultimately mitigating the impact of climate change on our urban coastlines requires close, continuous monitoring of earth’s oceans, as well as its atmosphere. 
+
+But manned diving expeditions are expensive and limited in the amount of ocean area they can cover. To overcome those constraints, Patterson has developed a line of autonomous, underwater robots known as Fetches. 
+
+Equipped with GPS, cameras, and various types of sensors, Fetch bots can collect vast amounts of data over time about water movement and the ocean floor, marine life populations, the condition of coral reefs, and oxygen levels.  
+
+“The robot is thinking for itself, executing its mission, dealing with unforeseen circumstances, trying to preserve itself, and reacting to things it sees in the coastal zone,” says Patterson.
+
+By deploying a small army of Fetch bots, scientists gain a more accurate picture of how and where the ocean is changing, and the impact of oceanic change on our climate and coastlines.
+]]></summary>
+		<content type="html" xml:base="http://www.northeastern.edu/tomorrow/urban-sustainability/mark-patterson-advances-undersea-monitoring"><![CDATA[<p><img width="2000" height="1333" src="http://www.northeastern.edu/tomorrow/wp-content/uploads/2014/03/PATTERSON1.jpg" class="attachment-post-thumbnail wp-post-image" alt="PATTERSON" title="PATTERSON" /></p>Understanding, predicting, and ultimately mitigating the impact of climate change on our urban coastlines requires close, continuous monitoring of earth’s oceans, as well as its atmosphere. 
+
+But manned diving expeditions are expensive and limited in the amount of ocean area they can cover. To overcome those constraints, Patterson has developed a line of autonomous, underwater robots known as Fetches. 
+
+Equipped with GPS, cameras, and various types of sensors, Fetch bots can collect vast amounts of data over time about water movement and the ocean floor, marine life populations, the condition of coral reefs, and oxygen levels.  
+
+“The robot is thinking for itself, executing its mission, dealing with unforeseen circumstances, trying to preserve itself, and reacting to things it sees in the coastal zone,” says Patterson.
+
+By deploying a small army of Fetch bots, scientists gain a more accurate picture of how and where the ocean is changing, and the impact of oceanic change on our climate and coastlines.
+]]></content>
+		<link rel="replies" type="text/html" href="http://www.northeastern.edu/tomorrow/urban-sustainability/mark-patterson-advances-undersea-monitoring#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://www.northeastern.edu/tomorrow/urban-sustainability/mark-patterson-advances-undersea-monitoring/feed/atom" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name>e.lewy</name>
+					</author>
+		<title type="html"><![CDATA[Rebecca Carrier advances drug delivery]]></title>
+		<link rel="alternate" type="text/html" href="http://www.northeastern.edu/tomorrow/curing-disease/rebecca-carrier-advances-drug-delivery" />
+		<id>http://www.northeastern.edu/tomorrow/?p=516</id>
+		<updated>2014-04-11T13:51:20Z</updated>
+		<published>2014-02-13T21:35:57Z</published>
+		<category scheme="http://www.northeastern.edu/tomorrow" term="Curing Disease" />		<summary type="html"><![CDATA[<p><img width="2000" height="1334" src="http://www.northeastern.edu/tomorrow/wp-content/uploads/2014/02/CARRIER_FINAL.jpg" class="attachment-post-thumbnail wp-post-image" alt="CARRIER_FINAL" title="CARRIER_FINAL" /></p>Scientists and doctors have long known that food digestion affects the way the body absorbs not just nutrients, but also drugs. Fat molecules, in particular, can help people absorb drugs, including oral chemotherapy treatments, more efficiently.
+
+What we have yet to discover are the details of this process that would enable doctors to fine-tune drug dosages, minimize side effects, and make drug delivery more efficient. But Carrier may soon be able to start filling in those knowledge gaps.
+
+With funding support from the National Institutes of Health, she and her team are gaining a clearer understanding of the mechanisms behind this phenomenon.
+
+In one project, they’re developing predictive models for how ingested lipids, or fat molecules, change the way the body absorbs different compounds. In a second project that will help advance the modeling goal, Carrier’s lab is exploring the properties of the gastrointestinal mucus barrier, which simultaneously protects the body from harmful bacteria while allowing the absorption of needed vitamins and nutrients.]]></summary>
+		<content type="html" xml:base="http://www.northeastern.edu/tomorrow/curing-disease/rebecca-carrier-advances-drug-delivery"><![CDATA[<p><img width="2000" height="1334" src="http://www.northeastern.edu/tomorrow/wp-content/uploads/2014/02/CARRIER_FINAL.jpg" class="attachment-post-thumbnail wp-post-image" alt="CARRIER_FINAL" title="CARRIER_FINAL" /></p>Scientists and doctors have long known that food digestion affects the way the body absorbs not just nutrients, but also drugs. Fat molecules, in particular, can help people absorb drugs, including oral chemotherapy treatments, more efficiently.
+
+What we have yet to discover are the details of this process that would enable doctors to fine-tune drug dosages, minimize side effects, and make drug delivery more efficient. But Carrier may soon be able to start filling in those knowledge gaps.
+
+With funding support from the National Institutes of Health, she and her team are gaining a clearer understanding of the mechanisms behind this phenomenon.
+
+In one project, they’re developing predictive models for how ingested lipids, or fat molecules, change the way the body absorbs different compounds. In a second project that will help advance the modeling goal, Carrier’s lab is exploring the properties of the gastrointestinal mucus barrier, which simultaneously protects the body from harmful bacteria while allowing the absorption of needed vitamins and nutrients.]]></content>
+		<link rel="replies" type="text/html" href="http://www.northeastern.edu/tomorrow/curing-disease/rebecca-carrier-advances-drug-delivery#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://www.northeastern.edu/tomorrow/curing-disease/rebecca-carrier-advances-drug-delivery/feed/atom" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name>e.lewy</name>
+					</author>
+		<title type="html"><![CDATA[Auroop Ganguly pursues extreme weather trends]]></title>
+		<link rel="alternate" type="text/html" href="http://www.northeastern.edu/tomorrow/infrastructure-resilience/auroop-ganguly-pursues-weather-trends" />
+		<id>http://www.northeastern.edu/tomorrow/?p=480</id>
+		<updated>2014-02-10T19:23:34Z</updated>
+		<published>2014-02-03T18:05:38Z</published>
+		<category scheme="http://www.northeastern.edu/tomorrow" term="Infrastructure Resilience" />		<summary type="html"><![CDATA[<p><img width="2000" height="1333" src="http://www.northeastern.edu/tomorrow/wp-content/uploads/2014/02/GANGULY.jpg" class="attachment-post-thumbnail wp-post-image" alt="GANGULY" title="GANGULY" /></p>In the past, engineers were able to design electrical and water systems to handle weather extremes—heat waves, cold snaps, storms, and drought—simply by understanding and accounting for normal climate fluctuations. But climate change has made extreme events far less predictable in severity and frequency, making it harder to plan for them, says Ganguly.
+
+He and his team are searching for trends in today’s extreme weather to give design engineers and public policymakers a more reliable basis for developing tomorrow’s infrastructure projects.
+
+Spotting those trends requires the analysis of huge amounts of climate and engineering data, according to Ganguly. The trick, he says, is to “extract the small data that we care about”—instances of rare weather events and how they’ve changed from the storms and droughts of the past, and real and potential causes of infrastructure failure.
+
+The ability to apply highly integrated computational analysis techniques to weather data makes Ganguly’s team uniquely suited to help cities and towns build greater structural resiliency.]]></summary>
+		<content type="html" xml:base="http://www.northeastern.edu/tomorrow/infrastructure-resilience/auroop-ganguly-pursues-weather-trends"><![CDATA[<p><img width="2000" height="1333" src="http://www.northeastern.edu/tomorrow/wp-content/uploads/2014/02/GANGULY.jpg" class="attachment-post-thumbnail wp-post-image" alt="GANGULY" title="GANGULY" /></p>In the past, engineers were able to design electrical and water systems to handle weather extremes—heat waves, cold snaps, storms, and drought—simply by understanding and accounting for normal climate fluctuations. But climate change has made extreme events far less predictable in severity and frequency, making it harder to plan for them, says Ganguly.
+
+He and his team are searching for trends in today’s extreme weather to give design engineers and public policymakers a more reliable basis for developing tomorrow’s infrastructure projects.
+
+Spotting those trends requires the analysis of huge amounts of climate and engineering data, according to Ganguly. The trick, he says, is to “extract the small data that we care about”—instances of rare weather events and how they’ve changed from the storms and droughts of the past, and real and potential causes of infrastructure failure.
+
+The ability to apply highly integrated computational analysis techniques to weather data makes Ganguly’s team uniquely suited to help cities and towns build greater structural resiliency.]]></content>
+		<link rel="replies" type="text/html" href="http://www.northeastern.edu/tomorrow/infrastructure-resilience/auroop-ganguly-pursues-weather-trends#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://www.northeastern.edu/tomorrow/infrastructure-resilience/auroop-ganguly-pursues-weather-trends/feed/atom" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name>e.lewy</name>
+					</author>
+		<title type="html"><![CDATA[Jane Amidon designs living cities]]></title>
+		<link rel="alternate" type="text/html" href="http://www.northeastern.edu/tomorrow/urban-sustainability/jane-amidon-designs-living-cities" />
+		<id>http://www.northeastern.edu/tomorrow/?p=463</id>
+		<updated>2014-02-14T15:39:03Z</updated>
+		<published>2013-10-16T15:14:57Z</published>
+		<category scheme="http://www.northeastern.edu/tomorrow" term="Urban Sustainability" />		<summary type="html"><![CDATA[<p><img width="2000" height="1333" src="http://www.northeastern.edu/tomorrow/wp-content/uploads/2013/10/AMIDON1.jpg" class="attachment-post-thumbnail wp-post-image" alt="AMIDON" title="AMIDON" /></p>Amidon is at the forefront of a growing movement of landscape designers creating more sustainable cities by harnessing nature’s own processes—an approach with very quantifiable benefits when it comes to offsetting urban pollution.   
+
+For example, an acre of wetland can store 1 to 1.5 million gallons of floodwater. And in one year an acre of mature trees can absorb the carbon dioxide produced by 26,000 miles of car travel.
+
+Amidon also points to an example of what can happen when we don’t adapt a more environmentally sound approach to urban design: Tropical Storm Sandy, in 2012, during which the East River flooded parts of Brooklyn and lower Manhattan, causing serious and widespread structural damage. If the urban coastline had been designed with river dynamics in mind, says Amidon, the city could have absorbed much of the water level rise and perhaps used that water to support oxygen-producing shoreline species.
+
+“It’s about resilience,” says Amidon. “A city should ebb and flow like an ecological system.”]]></summary>
+		<content type="html" xml:base="http://www.northeastern.edu/tomorrow/urban-sustainability/jane-amidon-designs-living-cities"><![CDATA[<p><img width="2000" height="1333" src="http://www.northeastern.edu/tomorrow/wp-content/uploads/2013/10/AMIDON1.jpg" class="attachment-post-thumbnail wp-post-image" alt="AMIDON" title="AMIDON" /></p>Amidon is at the forefront of a growing movement of landscape designers creating more sustainable cities by harnessing nature’s own processes—an approach with very quantifiable benefits when it comes to offsetting urban pollution.   
+
+For example, an acre of wetland can store 1 to 1.5 million gallons of floodwater. And in one year an acre of mature trees can absorb the carbon dioxide produced by 26,000 miles of car travel.
+
+Amidon also points to an example of what can happen when we don’t adapt a more environmentally sound approach to urban design: Tropical Storm Sandy, in 2012, during which the East River flooded parts of Brooklyn and lower Manhattan, causing serious and widespread structural damage. If the urban coastline had been designed with river dynamics in mind, says Amidon, the city could have absorbed much of the water level rise and perhaps used that water to support oxygen-producing shoreline species.
+
+“It’s about resilience,” says Amidon. “A city should ebb and flow like an ecological system.”]]></content>
+		<link rel="replies" type="text/html" href="http://www.northeastern.edu/tomorrow/urban-sustainability/jane-amidon-designs-living-cities#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://www.northeastern.edu/tomorrow/urban-sustainability/jane-amidon-designs-living-cities/feed/atom" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name>e.lewy</name>
+					</author>
+		<title type="html"><![CDATA[Andrea Parker motivates people through gaming]]></title>
+		<link rel="alternate" type="text/html" href="http://www.northeastern.edu/tomorrow/healthcare-delivery/motivating-through-gaming" />
+		<id>http://www.northeastern.edu/tomorrow/?p=440</id>
+		<updated>2014-02-07T15:11:43Z</updated>
+		<published>2013-08-20T15:45:16Z</published>
+		<category scheme="http://www.northeastern.edu/tomorrow" term="Healthcare Delivery" />		<summary type="html"><![CDATA[<p><img width="3000" height="2000" src="http://www.northeastern.edu/tomorrow/wp-content/uploads/2013/08/PARKER.jpg" class="attachment-post-thumbnail wp-post-image" alt="PARKER" title="PARKER" /></p><a class="divbox" href="http://www.youtube.com/watch?v=9PYFvfIOqUg"><img class="alignnone size-full wp-image-453" title="parker-video" src="http://www.northeastern.edu/tomorrow/wp-content/uploads/2013/08/parker-video1.jpg" alt="Andrea Parker, assistant professor of computer and information science and health sciences" width="550" height="298" /></a>
+
+Parker is shaping the field of personal health informatics—the use of technology to influence and inform the choices people make about their health.
+
+She begins by examining disparities—such as limited access to nutritious food—that affect people with limited economic resources and elevate their risk for chronic health conditions. Then she applies her own interactive solutions to help people overcome those disparities.
+
+For example, Parker is collaborating with colleagues at Northeastern to create digital programs—a mix of mobile applications, web-based games, and social media—to encourage low-income families to increase their weekly exercise and teenagers to become peer advocates for good nutrition.
+
+To be effective, the technology must align with the communities she’s trying to reach. It has to “feel authentic,” she says, to connect naturally with people and their lives, in ways that energize and motivate.]]></summary>
+		<content type="html" xml:base="http://www.northeastern.edu/tomorrow/healthcare-delivery/motivating-through-gaming"><![CDATA[<p><img width="3000" height="2000" src="http://www.northeastern.edu/tomorrow/wp-content/uploads/2013/08/PARKER.jpg" class="attachment-post-thumbnail wp-post-image" alt="PARKER" title="PARKER" /></p><a class="divbox" href="http://www.youtube.com/watch?v=9PYFvfIOqUg"><img class="alignnone size-full wp-image-453" title="parker-video" src="http://www.northeastern.edu/tomorrow/wp-content/uploads/2013/08/parker-video1.jpg" alt="Andrea Parker, assistant professor of computer and information science and health sciences" width="550" height="298" /></a>
+
+Parker is shaping the field of personal health informatics—the use of technology to influence and inform the choices people make about their health.
+
+She begins by examining disparities—such as limited access to nutritious food—that affect people with limited economic resources and elevate their risk for chronic health conditions. Then she applies her own interactive solutions to help people overcome those disparities.
+
+For example, Parker is collaborating with colleagues at Northeastern to create digital programs—a mix of mobile applications, web-based games, and social media—to encourage low-income families to increase their weekly exercise and teenagers to become peer advocates for good nutrition.
+
+To be effective, the technology must align with the communities she’s trying to reach. It has to “feel authentic,” she says, to connect naturally with people and their lives, in ways that energize and motivate.]]></content>
+		<link rel="replies" type="text/html" href="http://www.northeastern.edu/tomorrow/healthcare-delivery/motivating-through-gaming#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://www.northeastern.edu/tomorrow/healthcare-delivery/motivating-through-gaming/feed/atom" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name>e.lewy</name>
+					</author>
+		<title type="html"><![CDATA[Gary Young shapes healthcare policy]]></title>
+		<link rel="alternate" type="text/html" href="http://www.northeastern.edu/tomorrow/healthcare-delivery/shaping-healthcare-policy" />
+		<id>http://www.northeastern.edu/tomorrow/?p=436</id>
+		<updated>2013-08-20T16:17:34Z</updated>
+		<published>2013-08-20T13:49:51Z</published>
+		<category scheme="http://www.northeastern.edu/tomorrow" term="Healthcare Delivery" />		<summary type="html"><![CDATA[<p><img width="2000" height="1333" src="http://www.northeastern.edu/tomorrow/wp-content/uploads/2013/08/YOUNG.jpg" class="attachment-post-thumbnail wp-post-image" alt="YOUNG" title="YOUNG" /></p>Young’s landmark study of U.S. hospitals’ provision of community benefits provides the hard data that will fuel debate on hospital spending priorities, just as provisions of the Affordable Care Act affecting those priorities begin to take effect.
+
+The study, published in April in the <em>New England Journal of Medicine</em>, is based on newly available information about the services and activities that hospitals offer in their communities—benefits for which they receive no reimbursement.
+
+It reveals wide disparities in hospital expenditures for those offerings and raises questions about how well hospitals are responding to ACA priorities for preventive care and population health.
+
+Young and his interdisciplinary team at the Center for Health Policy and Healthcare Research found that some hospitals devote more than 20 percent of their operating budget to community benefits, while others contribute less than 1 percent. The study showed that, regardless of spending levels, the provided benefits were unlikely to include preventive medicine and wellness education.]]></summary>
+		<content type="html" xml:base="http://www.northeastern.edu/tomorrow/healthcare-delivery/shaping-healthcare-policy"><![CDATA[<p><img width="2000" height="1333" src="http://www.northeastern.edu/tomorrow/wp-content/uploads/2013/08/YOUNG.jpg" class="attachment-post-thumbnail wp-post-image" alt="YOUNG" title="YOUNG" /></p>Young’s landmark study of U.S. hospitals’ provision of community benefits provides the hard data that will fuel debate on hospital spending priorities, just as provisions of the Affordable Care Act affecting those priorities begin to take effect.
+
+The study, published in April in the <em>New England Journal of Medicine</em>, is based on newly available information about the services and activities that hospitals offer in their communities—benefits for which they receive no reimbursement.
+
+It reveals wide disparities in hospital expenditures for those offerings and raises questions about how well hospitals are responding to ACA priorities for preventive care and population health.
+
+Young and his interdisciplinary team at the Center for Health Policy and Healthcare Research found that some hospitals devote more than 20 percent of their operating budget to community benefits, while others contribute less than 1 percent. The study showed that, regardless of spending levels, the provided benefits were unlikely to include preventive medicine and wellness education.]]></content>
+		<link rel="replies" type="text/html" href="http://www.northeastern.edu/tomorrow/healthcare-delivery/shaping-healthcare-policy#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://www.northeastern.edu/tomorrow/healthcare-delivery/shaping-healthcare-policy/feed/atom" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name>e.lewy</name>
+					</author>
+		<title type="html"><![CDATA[Steve Flynn promotes strategic resilience]]></title>
+		<link rel="alternate" type="text/html" href="http://www.northeastern.edu/tomorrow/secure-environments/steve-flynn-promotes-strategic-resilience" />
+		<id>http://www.northeastern.edu/tomorrow/?p=428</id>
+		<updated>2013-07-22T13:34:49Z</updated>
+		<published>2013-07-22T13:34:49Z</published>
+		<category scheme="http://www.northeastern.edu/tomorrow" term="Secure Environments" />		<summary type="html"><![CDATA[<p><img width="2000" height="1333" src="http://www.northeastern.edu/tomorrow/wp-content/uploads/2013/07/FLYNN.jpg" class="attachment-post-thumbnail wp-post-image" alt="FLYNN" title="FLYNN" /></p>Flynn is a pioneer in advocating an approach to security based on resilience: because we can never completely eliminate the threat of natural and man-made disasters, we need to focus on mitigating the consequences.
+
+For example, he has led post-9/11 efforts to safeguard the flow of international commerce while deterring terrorists by advocating for stepped-up inspections of cargo containers overseas—before they are shipped to U.S. ports—and promoting new requirements and technologies to improve monitoring of legitimate container movements.
+
+Building that kind of resilience into our infrastructure requires collaboration by experts across a multitude of disciplines, such as engineering, economics, management, public policy, psychology, and computer science.
+
+Flynn and his team are cultivating that expertise to identify the critical points in our systems, analyze their vulnerabilities, and decide how best to minimize the damage—and impact—of a blow, whether from a bomb or a hurricane.]]></summary>
+		<content type="html" xml:base="http://www.northeastern.edu/tomorrow/secure-environments/steve-flynn-promotes-strategic-resilience"><![CDATA[<p><img width="2000" height="1333" src="http://www.northeastern.edu/tomorrow/wp-content/uploads/2013/07/FLYNN.jpg" class="attachment-post-thumbnail wp-post-image" alt="FLYNN" title="FLYNN" /></p>Flynn is a pioneer in advocating an approach to security based on resilience: because we can never completely eliminate the threat of natural and man-made disasters, we need to focus on mitigating the consequences.
+
+For example, he has led post-9/11 efforts to safeguard the flow of international commerce while deterring terrorists by advocating for stepped-up inspections of cargo containers overseas—before they are shipped to U.S. ports—and promoting new requirements and technologies to improve monitoring of legitimate container movements.
+
+Building that kind of resilience into our infrastructure requires collaboration by experts across a multitude of disciplines, such as engineering, economics, management, public policy, psychology, and computer science.
+
+Flynn and his team are cultivating that expertise to identify the critical points in our systems, analyze their vulnerabilities, and decide how best to minimize the damage—and impact—of a blow, whether from a bomb or a hurricane.]]></content>
+		<link rel="replies" type="text/html" href="http://www.northeastern.edu/tomorrow/secure-environments/steve-flynn-promotes-strategic-resilience#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://www.northeastern.edu/tomorrow/secure-environments/steve-flynn-promotes-strategic-resilience/feed/atom" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name>e.lewy</name>
+					</author>
+		<title type="html"><![CDATA[Ray Booth creates a new drug for schizophrenia]]></title>
+		<link rel="alternate" type="text/html" href="http://www.northeastern.edu/tomorrow/curing-disease/ray-booth-creates-a-new-drug-for-schizophrenia" />
+		<id>http://www.northeastern.edu/tomorrow/?p=421</id>
+		<updated>2014-02-13T21:38:37Z</updated>
+		<published>2013-06-03T18:33:56Z</published>
+		<category scheme="http://www.northeastern.edu/tomorrow" term="Curing Disease" />		<summary type="html"><![CDATA[<p><img width="2000" height="1333" src="http://www.northeastern.edu/tomorrow/wp-content/uploads/2013/06/BOOTH.jpg" class="attachment-post-thumbnail wp-post-image" alt="BOOTH" title="BOOTH" /></p>Booth has been on a 25-year mission to develop a drug that does a better job treating schizophrenia and other psychiatric disorders, including addiction. And now he’s close to seeing his vision become reality.
+
+Medications to manage schizophrenia have existed since the 1950s. But their side effects—sedation, neurological disorders, and extreme weight gain—mean patients often don’t stick to treatment plans. And current drugs aren’t nuanced enough to correct the imbalanced brain neurotransmission that underlies psychiatric disorders.
+
+But Booth’s drug, Bromopatin, acts in a novel way to rebalance neurotransmission of the brain neurochemical serotonin. Bromopatin turns down activity of some serotonin receptors while turning up activity for others. Preclinical testing suggests no serious side effects.
+
+Booth is working with pharmaceutical development partners toward clinical trials. If all goes well, Bromopatin could be available in a few years, bringing hope to the millions of people coping with schizophrenia and other psychiatric disorders.]]></summary>
+		<content type="html" xml:base="http://www.northeastern.edu/tomorrow/curing-disease/ray-booth-creates-a-new-drug-for-schizophrenia"><![CDATA[<p><img width="2000" height="1333" src="http://www.northeastern.edu/tomorrow/wp-content/uploads/2013/06/BOOTH.jpg" class="attachment-post-thumbnail wp-post-image" alt="BOOTH" title="BOOTH" /></p>Booth has been on a 25-year mission to develop a drug that does a better job treating schizophrenia and other psychiatric disorders, including addiction. And now he’s close to seeing his vision become reality.
+
+Medications to manage schizophrenia have existed since the 1950s. But their side effects—sedation, neurological disorders, and extreme weight gain—mean patients often don’t stick to treatment plans. And current drugs aren’t nuanced enough to correct the imbalanced brain neurotransmission that underlies psychiatric disorders.
+
+But Booth’s drug, Bromopatin, acts in a novel way to rebalance neurotransmission of the brain neurochemical serotonin. Bromopatin turns down activity of some serotonin receptors while turning up activity for others. Preclinical testing suggests no serious side effects.
+
+Booth is working with pharmaceutical development partners toward clinical trials. If all goes well, Bromopatin could be available in a few years, bringing hope to the millions of people coping with schizophrenia and other psychiatric disorders.]]></content>
+		<link rel="replies" type="text/html" href="http://www.northeastern.edu/tomorrow/curing-disease/ray-booth-creates-a-new-drug-for-schizophrenia#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://www.northeastern.edu/tomorrow/curing-disease/ray-booth-creates-a-new-drug-for-schizophrenia/feed/atom" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name>e.lewy</name>
+					</author>
+		<title type="html"><![CDATA[Phil Brown exposes what can make homes toxic]]></title>
+		<link rel="alternate" type="text/html" href="http://www.northeastern.edu/tomorrow/urban-sustainability/phil-brown-exposes-what-can-make-homes-toxic" />
+		<id>http://www.northeastern.edu/tomorrow/?p=406</id>
+		<updated>2014-02-07T15:12:25Z</updated>
+		<published>2013-05-10T17:19:15Z</published>
+		<category scheme="http://www.northeastern.edu/tomorrow" term="Urban Sustainability" />		<summary type="html"><![CDATA[<p><img width="2000" height="1333" src="http://www.northeastern.edu/tomorrow/wp-content/uploads/2013/05/BROWN.jpg" class="attachment-post-thumbnail wp-post-image" alt="BROWN" title="BROWN" /></p>Brown is a renowned scholar whose work lies at the intersection of social science and environmental health. His studies on people’s exposure to indoor contaminants, such as the flame-retardant chemicals used in household furniture, electronics, and building materials, are a catalyst for environmental policy change—both locally and globally.
+
+Always attuned to the world’s emerging environmental health issues, Brown has examined high-profile cases of contested illnesses, including one that resulted in numerous deaths from leukemia among children in Woburn, Mass.
+
+His research group on environmental health science has been supported by numerous grants from federal agencies, including the National Institutes of Health, the National Science Foundation, and the Environmental Protection Agency.
+
+He is currently the director of the Social Science and Environmental Health Research Institute, an interdisciplinary center for research, teaching, community engagement, and policy work.]]></summary>
+		<content type="html" xml:base="http://www.northeastern.edu/tomorrow/urban-sustainability/phil-brown-exposes-what-can-make-homes-toxic"><![CDATA[<p><img width="2000" height="1333" src="http://www.northeastern.edu/tomorrow/wp-content/uploads/2013/05/BROWN.jpg" class="attachment-post-thumbnail wp-post-image" alt="BROWN" title="BROWN" /></p>Brown is a renowned scholar whose work lies at the intersection of social science and environmental health. His studies on people’s exposure to indoor contaminants, such as the flame-retardant chemicals used in household furniture, electronics, and building materials, are a catalyst for environmental policy change—both locally and globally.
+
+Always attuned to the world’s emerging environmental health issues, Brown has examined high-profile cases of contested illnesses, including one that resulted in numerous deaths from leukemia among children in Woburn, Mass.
+
+His research group on environmental health science has been supported by numerous grants from federal agencies, including the National Institutes of Health, the National Science Foundation, and the Environmental Protection Agency.
+
+He is currently the director of the Social Science and Environmental Health Research Institute, an interdisciplinary center for research, teaching, community engagement, and policy work.]]></content>
+		<link rel="replies" type="text/html" href="http://www.northeastern.edu/tomorrow/urban-sustainability/phil-brown-exposes-what-can-make-homes-toxic#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://www.northeastern.edu/tomorrow/urban-sustainability/phil-brown-exposes-what-can-make-homes-toxic/feed/atom" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+	</feed>

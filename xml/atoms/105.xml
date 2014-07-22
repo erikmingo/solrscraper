@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><feed
+  xmlns="http://www.w3.org/2005/Atom"
+  xmlns:thr="http://purl.org/syndication/thread/1.0"
+  xml:lang="en"
+  xml:base="http://faculty.franklin.edu/bruce-ramsey/wp-atom.php"
+   >
+	<title type="text">Bruce Ramsey</title>
+	<subtitle type="text">Chair of the Undergraduate Marketing Program</subtitle>
+
+	<updated>2011-02-15T17:36:36Z</updated>
+	<generator uri="http://wordpress.org/" version="2.9.1">WordPress</generator>
+
+	<link rel="alternate" type="text/html" href="http://faculty.franklin.edu/bruce-ramsey" />
+	<id>http://faculty.franklin.edu/bruce-ramsey/feed/atom/</id>
+	<link rel="self" type="application/atom+xml" href="http://faculty.franklin.edu/bruce-ramsey/feed/atom/" />
+
+			<entry>
+		<author>
+			<name>julie-wuebker</name>
+					</author>
+		<title type="html"><![CDATA[No blog entries posted at this time]]></title>
+		<link rel="alternate" type="text/html" href="http://faculty.franklin.edu/bruce-ramsey/2011/02/15/no-blog-entries-posted-at-this-time/" />
+		<id>http://faculty.franklin.edu/bruce-ramsey/2011/02/15/no-blog-entries-posted-at-this-time/</id>
+		<updated>2011-02-15T17:36:36Z</updated>
+		<published>2011-02-15T17:36:36Z</published>
+		<category scheme="http://faculty.franklin.edu/bruce-ramsey" term="Uncategorized" />		<summary type="html"><![CDATA[]]></summary>
+		<content type="html" xml:base="http://faculty.franklin.edu/bruce-ramsey/2011/02/15/no-blog-entries-posted-at-this-time/"><![CDATA[]]></content>
+		<link rel="replies" type="text/html" href="http://faculty.franklin.edu/bruce-ramsey/2011/02/15/no-blog-entries-posted-at-this-time/#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://faculty.franklin.edu/bruce-ramsey/2011/02/15/no-blog-entries-posted-at-this-time/feed/atom/" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+	</feed>

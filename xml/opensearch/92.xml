@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/" xmlns:moz="http://www.mozilla.org/2006/browser/search/"  xmlns:ie="http://schemas.microsoft.com/Search/2008/">
+	<ShortName>CLICnet Catalog</ShortName>
+	<Description>Search the library Catalog</Description>
+	<InputEncoding>UTF-8</InputEncoding>
+	<Image width="16" height="16">http://clicnet.clic.edu/staging/screens/clicfavicon.ico</Image>
+	<Url type="text/html" method="GET" template="http://clicnet.clic.edu/search/?searchtype=X&amp;SORT=D&amp;searchscope=1&amp;searcharg={searchTerms}"></Url>
+	<Url type="application/opensearchdescription+xml" rel="self" template="http://static.stthomas.edu/libraries/includes/CLICOpenSearch.xml" />
+</OpenSearchDescription>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2005/Atom">
+<title>ESIRC</title>
+<link href="https://esirc.emporia.edu:443" rel="alternate"/>
+<subtitle>The ESIRC digital repository system captures, stores, indexes, preserves, and distributes digital research material.</subtitle>
+<id xmlns="http://apache.org/cocoon/i18n/2.1">https://esirc.emporia.edu:443</id>
+<updated>2014-07-21T17:40:34Z</updated>
+<dc:date>2014-07-21T17:40:34Z</dc:date>
+<entry>
+<title>Detection of Antibiotic Resistance in the Environment using Functional Metagenomics</title>
+<link href="http://hdl.handle.net/123456789/3304" rel="alternate"/>
+<author>
+<name>Park, Younshim</name>
+</author>
+<id>http://hdl.handle.net/123456789/3304</id>
+<updated>2014-07-11T11:54:19Z</updated>
+<published>2014-07-10T00:00:00Z</published>
+<summary type="text">Detection of Antibiotic Resistance in the Environment using Functional Metagenomics
+Park, Younshim
+Metagenomicshas the potential to discover novel phenotypes that are not recognizable by DNA sequence analysis. In this study,functional metagenomic analysis of Niangua River soil detected spectinomycin (NR-YP1) and nalidixic acid (NR-YP3) resistance expressed in E. coli EPI300. Subclonesof eachwere generated and screened on spectinomycin ornalidixic acid containingmedia for NR-YP1and NR-YP3, respectively. No subclones were identified conferring resistance to either of the antibiotics. Random DNA sequencing and BLAST analysis of both NR-YP1 and NR-YP3 subclones matchedan environmental clone, termed zdt-9n2, with almost 100% sequence identity. However, proteomic analysis of zdt-9n2 yielded no proteins with the potential to conferantibiotic resistance. Thus, the two clones, NR-YP1 and NR-YP3, appear to be nearly 100% identical in their cloned DNA but yet express two different antibiotic resistance phenotypes.Genetic loci responsible for the resistance could not be identified in this study.
+</summary>
+<dc:date>2014-07-10T00:00:00Z</dc:date>
+</entry>
+<entry>
+<title>Synthesis of Thermostable DNA Polymerase/Fluorescent Protein Chimeras for PCR Study</title>
+<link href="http://hdl.handle.net/123456789/3303" rel="alternate"/>
+<author>
+<name>Peterson, Carl</name>
+</author>
+<id>http://hdl.handle.net/123456789/3303</id>
+<updated>2014-07-11T11:54:17Z</updated>
+<published>2014-07-10T00:00:00Z</published>
+<summary type="text">Synthesis of Thermostable DNA Polymerase/Fluorescent Protein Chimeras for PCR Study
+Peterson, Carl
+The Polymerase Chain Reaction (PCR) is an invaluable technique in modern biochemistry that uses DNA polymerase enzymes from extremophile microbe species together with thermocycling to amplify a specific sequence of DNA. Another revolution in biochemistry is the use of fluorescent proteins which are reporter molecules of varying hues and intensities. This research combines PCR enzymes and fluorescent proteins. We have found a few fluorescent proteins that exhibit thermostability, refolding properties, or both. We plan to combine PCR polymerase enzymes with a fluorescent protein resistant to high temperature inactivation, specifically tdTomato or ZsGreen. A successful chimera can be used to elucidate the reaction taking place as well as a possible optimization of the processes involved. Four polymerase/fluorescent protein combinations were created with one chimera showing fluorescent activity.
+</summary>
+<dc:date>2014-07-10T00:00:00Z</dc:date>
+</entry>
+<entry>
+<title>Evaluating the Effectiveness of Pre-remedial LNAPL Recovery Modeling using the ‘LNAPL Distribution and Recovery Model’ at Two Active Remediation Sites</title>
+<link href="http://hdl.handle.net/123456789/3302" rel="alternate"/>
+<author>
+<name>Hartsock, Jacob</name>
+</author>
+<id>http://hdl.handle.net/123456789/3302</id>
+<updated>2014-07-11T11:54:19Z</updated>
+<published>2014-07-10T00:00:00Z</published>
+<summary type="text">Evaluating the Effectiveness of Pre-remedial LNAPL Recovery Modeling using the ‘LNAPL Distribution and Recovery Model’ at Two Active Remediation Sites
+Hartsock, Jacob
+Retrospective pre-remedial modeling was conducted at two active remediation sites to evaluate the effectiveness of the LNAPL Distribution and Recovery Model (LDRM) in estimating LNAPL recovery. The two research sites contain petroleum hydrocarbon contamination of shallow subsurface soils and groundwater, which has resulted in LNAPL discharge to surface water receptors and subsequent regulatory action. Vacuum-enhanced recovery, also known as multiphase extraction, has been implemented at each site to recover free-phase LNAPL (i.e., free-product) and to prevent further discharge to adjacent canals. In addition to minimal success in preventing LNAPL discharge, recoverable LNAPL volume at both sites was overestimated by an approximate order-of-magnitude. The objective of this thesis is to determine if a relatively simple analytical modeling software program, readily available at no cost, can predict accurate vacuum-enhanced LNAPL recovery volumes based on commonly available site data.&#13;
+The LDRM is a semi-analytical model based on steady-state radial flow and is used to estimate LNAPL distribution and recovery for several hydraulic remediation technologies. Input parameters include maximum LNAPL thickness, fluid properties, soil capillary and petrophysical characteristics, and recovery well performance. Maximum LNAPL thickness is corrected by estimating LNAPL hydrogeologic condition using diagnostic gauge plots and hydrostratigraphs. Additional inputs are determined through site-specific data and estimated based on empirically derived values for matching fluids and soils. In order to account for potential error, an input value range was established for each LDRM parameter and designed to simulate maximum and minimum LNAPL recovery. The results of the maximum and minimum LDRM simulations were compared with actual LNAPL recovered at each research site. The results for each of the four simulations were within an error factor of five of the actual recovered LNAPL. The results indicate that the LDRM can be utilized to prevent order-of-magnitude errors in vacuum-enhanced LNAPL recovery volumes with commonly available site data.
+</summary>
+<dc:date>2014-07-10T00:00:00Z</dc:date>
+</entry>
+<entry>
+<title>Georgette! The Quest for the Self</title>
+<link href="http://hdl.handle.net/123456789/3301" rel="alternate"/>
+<author>
+<name>Khelifi, Talal</name>
+</author>
+<id>http://hdl.handle.net/123456789/3301</id>
+<updated>2014-07-11T11:54:18Z</updated>
+<published>2014-07-10T00:00:00Z</published>
+<summary type="text">Georgette! The Quest for the Self
+Khelifi, Talal
+Born in France of Magtrebian parents, beurs are holders of two cultures: Islamic and French. The refusal of these two incompatible cultures to compromise forces beurs into the difficult position of desiring to please both. During this existentialist quest, they might deviate from the path established by institutions and family and take refuge in a third alternative. Farida Belghoul's Georgette!narrates the story of a seven-year-old, beur female who escapes the institutionalized law of the school and the religious law of the family. She rejects both her French and Islamic identities and embraces a new identity: Native American. The girl also creates an imaginary world where she rejects her human appearance, identifies with animals, and dismembers her body. This thesis analyzes Georgette!through two theories. The first theory is philosophical and is illustrated by the works of Gilles Deleuze and F6lix Guattari on deterritorialization. The second is psychoanalytical and is presented in the Lacanian theory of the fragmented body.
+</summary>
+<dc:date>2014-07-10T00:00:00Z</dc:date>
+</entry>
+</feed>

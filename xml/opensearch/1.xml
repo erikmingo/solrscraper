@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/" xmlns:time="http://a9.com/-/opensearch/extensions/time/1.0/" xmlns:geo="http://a9.com/-/opensearch/extensions/geo/1.0/" xmlns:nsidc="http://nsidc.org/ns/opensearch/1.1/">
+  <ShortName>NSIDC Data Set OpenSearch Service</ShortName>
+  <Description>OpenSearch description document that describes how to query our server for data set level information. This service is currently in incubation; it is publicly accessible but the interface is not yet stable and custom elements are not documented.</Description>
+<Url type="application/atom+xml" template="http://nsidc.org/api/dataset/2/OpenSearch?searchTerms={searchTerms?}&amp;spatial={geo:box?}&amp;startDate={time:start?}&amp;endDate={time:end?}&amp;startIndex={startIndex?}&amp;count={count?}&amp;source={nsidc:source?}&amp;facetFilters={nsidc:facetFilters?}&amp;sortKeys={sortKeys?}"/>
+<Url type="application/nsidc:facets+xml" template="http://nsidc.org/api/dataset/2/Facets?searchTerms={searchTerms?}&amp;spatial={geo:box?}&amp;startDate={time:start?}&amp;endDate={time:end?}&amp;startIndex={startIndex?}&amp;count={count?}&amp;source={nsidc:source?}&amp;facetFilters={nsidc:facetFilters?}&amp;sortKeys={sortKeys?}"/>
+<Url type="application/atom+xml" template="http://nsidc.org/api/dataset/2/id/{nsidc:authoritativeId}"/>
+<Url type="application/x-suggestions+json" template="http://nsidc.org/api/dataset/2/suggest?q={searchTerms}&amp;source={nsidc:source}"/>
+<Query role="example" searchTerms="Sea Ice" geo:box="100,10,110,20" time:start="2009-01-01" time:end="2009-01-31" startIndex="1" count="25" nsidc:source="NSIDC" nsidc:facetFilters="{facet_1: [&quot;x&quot;,&quot;y&quot;],facet_2:[&quot;a&quot;]}" sortKeys="path,,ascending?"/>
+<Image height="16" width="16" type="image/jpeg">http://nsidc.org/favicon.ico</Image>
+<Image height="60" width="75" type="image/jpeg">http://nsidc.org/images/logo_nsidc_76x60.jpg</Image>
+  <Contact>nsidc@nsidc.org</Contact>
+  <Tags>nsidc.org opensearch search data set geospatial temporal parameter</Tags>
+  <LongName>Data set level OpenSearch interface for nsidc.org</LongName>
+  <Attribution>&amp;#169; 2011 National Snow and Ice Data Center.</Attribution>
+  <SyndicationRight>open</SyndicationRight>
+  <AdultContent>false</AdultContent>
+  <Language>en-us</Language>
+  <InputEncoding>UTF-8</InputEncoding>
+  <OutputEncoding>UTF-8</OutputEncoding>
+</OpenSearchDescription>

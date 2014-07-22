@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><feed
+  xmlns="http://www.w3.org/2005/Atom"
+  xmlns:thr="http://purl.org/syndication/thread/1.0"
+  xml:lang="en-US"
+  xml:base="https://commencement.fiu.edu/wp-atom.php"
+   >
+	<title type="text">FIU Commencement</title>
+	<subtitle type="text"></subtitle>
+
+	<updated>2014-07-16T18:49:45Z</updated>
+
+	<link rel="alternate" type="text/html" href="https://commencement.fiu.edu" />
+	<id>https://commencement.fiu.edu/feed/atom/</id>
+	<link rel="self" type="application/atom+xml" href="https://commencement.fiu.edu/feed/atom/" />
+
+	<generator uri="http://wordpress.org/" version="3.9.1">WordPress</generator>
+	<entry>
+		<author>
+			<name>gmontoto</name>
+					</author>
+		<title type="html"><![CDATA[Registration for Summer 2014 Commencement]]></title>
+		<link rel="alternate" type="text/html" href="https://commencement.fiu.edu/news/registration-for-summer-2014-commencement/" />
+		<id>https://commencement.fiu.edu/?p=1299</id>
+		<updated>2014-06-24T14:22:23Z</updated>
+		<published>2014-06-24T14:16:58Z</published>
+		<category scheme="https://commencement.fiu.edu" term="Deadline" /><category scheme="https://commencement.fiu.edu" term="News" />		<summary type="html"><![CDATA[At this time the commencement registration and guest ticket ordering system is open for undergraduate and graduate students to confirm their participation in the graduation ceremony and to order guest tickets. The system will be open from June 24-July 13. For more information on obtaining your commencement pass and guest tickets, please visit Pass &#38; Tickets.]]></summary>
+		<content type="html" xml:base="https://commencement.fiu.edu/news/registration-for-summer-2014-commencement/"><![CDATA[<p>At this time the commencement registration and guest ticket ordering system is open for undergraduate and graduate students to confirm their participation in the graduation ceremony and to order guest tickets. The system will be open from June 24-July 13.</p>
+<p>For more information on obtaining your commencement pass and guest tickets, please visit <a title="Commencement pass and guest tickets" href="http://commencement.fiu.edu/tickets/">Pass &amp; Tickets</a>.</p>
+]]></content>
+			<link rel="replies" type="text/html" href="https://commencement.fiu.edu/news/registration-for-summer-2014-commencement/#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="https://commencement.fiu.edu/news/registration-for-summer-2014-commencement/feed/atom/" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name>gmontoto</name>
+					</author>
+		<title type="html"><![CDATA[Commencement Fairs Summer 2014]]></title>
+		<link rel="alternate" type="text/html" href="https://commencement.fiu.edu/news/commencement-fairs-summer-2014/" />
+		<id>https://commencement.fiu.edu/?p=1321</id>
+		<updated>2014-06-07T21:37:39Z</updated>
+		<published>2014-06-07T21:28:07Z</published>
+		<category scheme="https://commencement.fiu.edu" term="News" /><category scheme="https://commencement.fiu.edu" term="commencement" /><category scheme="https://commencement.fiu.edu" term="fair" /><category scheme="https://commencement.fiu.edu" term="graduation" />		<summary type="html"><![CDATA[Please visit us at one of our commencement fairs in preparation for Summer 2014 graduation ceremonies: MMC July 7-9, 2014 10:00am-7:00pm FIU Barnes &#38; Noble Bookstore Graham Center Pines Center July 12, 2014 10:00am-1:00pm Pines Center, Lobby BBC July 15-16, 2014 10:00am-6:00pm FIU Barnes &#38; Noble Bookstore Wolfe Center For more information on commencement fairs, your one-stop-shop for your graduation&#160;<a href="https://commencement.fiu.edu/news/commencement-fairs-summer-2014/" class="read-more">Continue Reading</a>]]></summary>
+		<content type="html" xml:base="https://commencement.fiu.edu/news/commencement-fairs-summer-2014/"><![CDATA[<h3>Please visit us at one of our commencement fairs in preparation for Summer 2014 graduation ceremonies:</h3>
+<p><strong>MMC</strong><br />
+July 7-9, 2014<br />
+10:00am-7:00pm<br />
+FIU Barnes &amp; Noble Bookstore<br />
+Graham Center</p>
+<p><strong>Pines Center</strong><br />
+July 12, 2014<br />
+10:00am-1:00pm<br />
+Pines Center, Lobby</p>
+<p><strong>BBC</strong><br />
+July 15-16, 2014<br />
+10:00am-6:00pm<br />
+FIU Barnes &amp; Noble Bookstore<br />
+Wolfe Center</p>
+<p>For more information on commencement fairs, your one-stop-shop for your graduation ceremony, please click <a href="https://commencement.fiu.edu/commencement-fairs/">here</a>.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+]]></content>
+			<link rel="replies" type="text/html" href="https://commencement.fiu.edu/news/commencement-fairs-summer-2014/#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="https://commencement.fiu.edu/news/commencement-fairs-summer-2014/feed/atom/" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+	</feed>

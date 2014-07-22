@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?><feed
+  xmlns="http://www.w3.org/2005/Atom"
+  xmlns:thr="http://purl.org/syndication/thread/1.0"
+  xml:lang="en"
+  xml:base="http://www.isu.edu/headlines/wp-atom.php"
+   >
+	<title type="text">ISU Headlines</title>
+	<subtitle type="text">News items from ISU Marketing and Communications</subtitle>
+
+	<updated>2014-07-17T15:41:48Z</updated>
+	<generator uri="http://wordpress.org/" version="2.8">WordPress</generator>
+
+	<link rel="alternate" type="text/html" href="http://www.isu.edu/headlines" />
+	<id>http://www.isu.edu/headlines/?feed=atom</id>
+	<link rel="self" type="application/atom+xml" href="http://www.isu.edu/headlines/?feed=atom" />
+
+			<entry>
+		<author>
+			<name>taylandy</name>
+						<uri>http://</uri>
+					</author>
+		<title type="html"><![CDATA[Idaho State University receives major federal grant to screen for traumatic brain injuries and assist TBI survivors]]></title>
+		<link rel="alternate" type="text/html" href="http://www.isu.edu/headlines/?p=6194" />
+		<id>http://www.isu.edu/headlines/?p=6194</id>
+		<updated>2014-07-17T15:41:48Z</updated>
+		<published>2014-07-17T15:41:48Z</published>
+		<category scheme="http://www.isu.edu/headlines" term="Academics" /><category scheme="http://www.isu.edu/headlines" term="Featured" /><category scheme="http://www.isu.edu/headlines" term="People" /><category scheme="http://www.isu.edu/headlines" term="Research" />		<summary type="html"><![CDATA[Idaho State University&#8217;s Institute of Rural Health has been awarded a $1 million grant to screen Idahoans for traumatic brain injury and renew efforts to establish a statewide trust fund to temporarily assist TBI survivors and their families.
+The grant &#8211; awarded June 1 by the Health Resources Services Administration (HRSA) &#8211; will run through May [...]]]></summary>
+		<link rel="replies" type="text/html" href="http://www.isu.edu/headlines/?p=6194#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://www.isu.edu/headlines/?feed=atom&amp;p=6194" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name>taylandy</name>
+						<uri>http://</uri>
+					</author>
+		<title type="html"><![CDATA[Idaho State University&#8217;s College of Pharmacy awarded student scholarships]]></title>
+		<link rel="alternate" type="text/html" href="http://www.isu.edu/headlines/?p=6191" />
+		<id>http://www.isu.edu/headlines/?p=6191</id>
+		<updated>2014-07-17T13:57:24Z</updated>
+		<published>2014-07-17T13:57:24Z</published>
+		<category scheme="http://www.isu.edu/headlines" term="Academics" /><category scheme="http://www.isu.edu/headlines" term="People" />		<summary type="html"><![CDATA[The Idaho State University College of Pharmacy has received $125,000 in student scholarships from Cardinal Health, Inc., a pharmaceutical company headquartered in Dublin, Ohio.
+ISU is one of nine pharmacy schools awarded money in 2014 through the Cardinal Health Pharmacy Scholarship Program.  Recipients were chosen based on their commitment to advancing the independent pharmacy profession, [...]]]></summary>
+		<link rel="replies" type="text/html" href="http://www.isu.edu/headlines/?p=6191#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://www.isu.edu/headlines/?feed=atom&amp;p=6191" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name>taylandy</name>
+						<uri>http://</uri>
+					</author>
+		<title type="html"><![CDATA[ISU TRiO Upward Bound program to host free carnival July 14 on Hutchinson Quad]]></title>
+		<link rel="alternate" type="text/html" href="http://www.isu.edu/headlines/?p=6188" />
+		<id>http://www.isu.edu/headlines/?p=6188</id>
+		<updated>2014-07-11T22:08:20Z</updated>
+		<published>2014-07-11T22:08:20Z</published>
+		<category scheme="http://www.isu.edu/headlines" term="Academics" /><category scheme="http://www.isu.edu/headlines" term="Events" /><category scheme="http://www.isu.edu/headlines" term="People" />		<summary type="html"><![CDATA[The TRiO Upward Bound students at Idaho State University invite all to attend TRiO Upward Bound&#8217;s 50th Anniversary Carnival Monday, July 14 on the ISU Quad starting at 7 p.m.  This event is free and open to all ages.
+The carnival highlights the theme &#8220;Celebrating College Access.&#8221; TRiO Upward Bound and Upward Bound Math Science [...]]]></summary>
+		<link rel="replies" type="text/html" href="http://www.isu.edu/headlines/?p=6188#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://www.isu.edu/headlines/?feed=atom&amp;p=6188" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name>taylandy</name>
+						<uri>http://</uri>
+					</author>
+		<title type="html"><![CDATA[Idaho State University signs cooperation agreement with autonomous University of Ciudad Juarez]]></title>
+		<link rel="alternate" type="text/html" href="http://www.isu.edu/headlines/?p=6181" />
+		<id>http://www.isu.edu/headlines/?p=6181</id>
+		<updated>2014-07-11T21:05:04Z</updated>
+		<published>2014-07-11T21:05:04Z</published>
+		<category scheme="http://www.isu.edu/headlines" term="Academics" /><category scheme="http://www.isu.edu/headlines" term="Events" /><category scheme="http://www.isu.edu/headlines" term="Featured" /><category scheme="http://www.isu.edu/headlines" term="People" />		<summary type="html"><![CDATA[Idaho State University has signed a cooperation agreement with Autonomous University of Ciudad Juarez in Ciudad Juarez, Chihuahua, Mexico. 
+The agreement enables the exchange of students and faculty in the health science programs, enabling them to study community medicine from a global perspective. This collaborative effort is designed to broaden the academic, professional and cultural [...]]]></summary>
+		<link rel="replies" type="text/html" href="http://www.isu.edu/headlines/?p=6181#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://www.isu.edu/headlines/?feed=atom&amp;p=6181" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name>taylandy</name>
+						<uri>http://</uri>
+					</author>
+		<title type="html"><![CDATA[ISU Alumni Association presents Steve Eaton in concert July 19 at The Stonehouse in Boise]]></title>
+		<link rel="alternate" type="text/html" href="http://www.isu.edu/headlines/?p=6174" />
+		<id>http://www.isu.edu/headlines/?p=6174</id>
+		<updated>2014-07-10T15:37:53Z</updated>
+		<published>2014-07-10T15:28:11Z</published>
+		<category scheme="http://www.isu.edu/headlines" term="Events" /><category scheme="http://www.isu.edu/headlines" term="Featured" /><category scheme="http://www.isu.edu/headlines" term="ISU-Boise" /><category scheme="http://www.isu.edu/headlines" term="People" />		<summary type="html"><![CDATA[Enjoy the music of Boise singer/songwriter Steve Eaton during &#8220;An Evening with Steve Eaton,&#8221; Saturday, July 19, at The Stonehouse, 665 Park Boulevard, in Boise.
+The event, sponsored by the Idaho State University Alumni Association, is from 6 p.m. to 9 p.m.
+&#8220;We are excited to present this concert. Steve is a Pocatello native and an ISU [...]]]></summary>
+		<link rel="replies" type="text/html" href="http://www.isu.edu/headlines/?p=6174#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://www.isu.edu/headlines/?feed=atom&amp;p=6174" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name>taylandy</name>
+						<uri>http://</uri>
+					</author>
+		<title type="html"><![CDATA[Recovering from stroke: A lesson taught by survivors]]></title>
+		<link rel="alternate" type="text/html" href="http://www.isu.edu/headlines/?p=6160" />
+		<id>http://www.isu.edu/headlines/?p=6160</id>
+		<updated>2014-07-10T15:23:48Z</updated>
+		<published>2014-07-10T15:12:30Z</published>
+		<category scheme="http://www.isu.edu/headlines" term="People" /><category scheme="http://www.isu.edu/headlines" term="Research" />		<summary type="html"><![CDATA[http://www.isu.edu/headlines/wp-admin/media-upload.php?post_id=6160&#038;type=image&#038;TB_iframe=true]]></summary>
+		<link rel="replies" type="text/html" href="http://www.isu.edu/headlines/?p=6160#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://www.isu.edu/headlines/?feed=atom&amp;p=6160" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name>taylandy</name>
+						<uri>http://</uri>
+					</author>
+		<title type="html"><![CDATA[Idaho State University Veterans Sanctuary has new mascot, support dog Hero]]></title>
+		<link rel="alternate" type="text/html" href="http://www.isu.edu/headlines/?p=6154" />
+		<id>http://www.isu.edu/headlines/?p=6154</id>
+		<updated>2014-07-07T16:22:38Z</updated>
+		<published>2014-07-07T16:22:38Z</published>
+		<category scheme="http://www.isu.edu/headlines" term="Featured" /><category scheme="http://www.isu.edu/headlines" term="People" />		<summary type="html"><![CDATA[There is a new &#8216;Hero&#8217; at Idaho State University in the form of a 10-week-old Labradoodle puppy who will serve veterans and be a new mascot for the ISU Veterans Sanctuary.
+There will be an open house to welcome Hero to the Veterans Sanctuary on July 8 from 1 to 2 p.m. in the Veterans Sanctuary. [...]]]></summary>
+		<link rel="replies" type="text/html" href="http://www.isu.edu/headlines/?p=6154#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://www.isu.edu/headlines/?feed=atom&amp;p=6154" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name>taylandy</name>
+						<uri>http://</uri>
+					</author>
+		<title type="html"><![CDATA[&#8220;When Giants Roamed&#8221; exhibit brings historic Idaho mammals back to life at the Idaho Museum of Natural History]]></title>
+		<link rel="alternate" type="text/html" href="http://www.isu.edu/headlines/?p=6143" />
+		<id>http://www.isu.edu/headlines/?p=6143</id>
+		<updated>2014-06-30T16:30:16Z</updated>
+		<published>2014-06-30T16:30:16Z</published>
+		<category scheme="http://www.isu.edu/headlines" term="Events" /><category scheme="http://www.isu.edu/headlines" term="Exhibits" /><category scheme="http://www.isu.edu/headlines" term="Featured" />		<summary type="html"><![CDATA[The Idaho Museum of Natural History on the Idaho State University campus is opening a thrilling new exhibit that will showcase some of the giant mammals that lived in Idaho during the last three million years. &#8220;When Giants Roamed&#8221; opens to the public on July 1, with a special event on July 5 from 3 [...]]]></summary>
+		<link rel="replies" type="text/html" href="http://www.isu.edu/headlines/?p=6143#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://www.isu.edu/headlines/?feed=atom&amp;p=6143" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name>taylandy</name>
+						<uri>http://</uri>
+					</author>
+		<title type="html"><![CDATA[Idaho Museum of Natural History to Offer Summer Vacation Exploration Program]]></title>
+		<link rel="alternate" type="text/html" href="http://www.isu.edu/headlines/?p=6138" />
+		<id>http://www.isu.edu/headlines/?p=6138</id>
+		<updated>2014-06-25T21:46:43Z</updated>
+		<published>2014-06-25T21:46:43Z</published>
+		<category scheme="http://www.isu.edu/headlines" term="Events" /><category scheme="http://www.isu.edu/headlines" term="People" />		<summary type="html"><![CDATA[The Idaho Museum of Natural History at Idaho State University will offer fun, educational opportunities for children this summer in its Vacation Exploration program for children in pre-k through third, and fourth through sixth grades, and will offer one adult class. 
+All classes will meet at the Idaho Museum of Natural History, located at Dillon [...]]]></summary>
+		<link rel="replies" type="text/html" href="http://www.isu.edu/headlines/?p=6138#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://www.isu.edu/headlines/?feed=atom&amp;p=6138" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name>taylandy</name>
+						<uri>http://</uri>
+					</author>
+		<title type="html"><![CDATA[Idaho State University begins construction of Treasure Valley Anatomy and Physiology Laboratories]]></title>
+		<link rel="alternate" type="text/html" href="http://www.isu.edu/headlines/?p=6132" />
+		<id>http://www.isu.edu/headlines/?p=6132</id>
+		<updated>2014-06-24T21:33:00Z</updated>
+		<published>2014-06-24T21:12:01Z</published>
+		<category scheme="http://www.isu.edu/headlines" term="Academics" /><category scheme="http://www.isu.edu/headlines" term="Featured" /><category scheme="http://www.isu.edu/headlines" term="ISU-Boise" /><category scheme="http://www.isu.edu/headlines" term="People" /><category scheme="http://www.isu.edu/headlines" term="Research" />		<summary type="html"><![CDATA[Idaho State University officially broke ground June 24 on The L.S. and Aline W. Skaggs Treasure Valley Anatomy and Physiology Laboratories (TVAPL) at the ISU-Meridian Health Science Center, 1311 E. Central Drive.
+
+&#8220;This facility will be the first of its kind in Idaho, ensuring the highest level of health-science education for our students while opening new [...]]]></summary>
+		<link rel="replies" type="text/html" href="http://www.isu.edu/headlines/?p=6132#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://www.isu.edu/headlines/?feed=atom&amp;p=6132" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+	</feed>

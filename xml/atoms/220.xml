@@ -1,0 +1,1027 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>http://store.bowdoin.edu/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="http://store.bowdoin.edu/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="http://store.bowdoin.edu/collections/gifts.atom"/>
+  <title>The Bowdoin Store</title>
+  <updated>2014-07-17T10:57:45-04:00</updated>
+  <author>
+    <name>The Bowdoin Store</name>
+  </author>
+  <entry>
+    <id>http://store.bowdoin.edu/products/346307021</id>
+    <published>2014-07-17T10:57:45-04:00</published>
+    <updated>2014-07-17T10:57:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://store.bowdoin.edu/products/black-tailgate-cup-with-paw-print"/>
+    <title>Black Tailgate Cup with Paw Print</title>
+    <s:type>Glass</s:type>
+    <s:vendor>MCM Marketing</s:vendor>
+    <summary type="html">
+      <![CDATA[
+    <table border="0">
+      <tr>
+        <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0064/8212/products/dish103-bowdoin.jpg?v=1405609256" /></td>
+        <td valign="bottom">
+          <p>
+            <strong>Vendor: </strong>MCM Marketing<br />
+            <strong>Type: </strong>Glass<br />
+            <strong>Price: </strong>
+              0.00
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2">Heavyweight BPA-free black plastic tailgate cup with white interior and Bowdoin paw print imprint.</td>
+      </tr>
+    </table>
+
+]]>
+    </summary>
+    <s:tag>Glassware</s:tag>
+    <s:variant>
+      <id>http://store.bowdoin.edu/products/346307021</id>
+      <title>Default</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://store.bowdoin.edu/products/321647269</id>
+    <published>2014-06-11T12:29:41-04:00</published>
+    <updated>2014-06-11T12:29:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://store.bowdoin.edu/products/bucket-tote-from-sea-bags"/>
+    <title>Bucket Tote from Sea Bags</title>
+    <s:type>Bag</s:type>
+    <s:vendor>Sea Bags</s:vendor>
+    <summary type="html">
+      <![CDATA[
+    <table border="0">
+      <tr>
+        <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0064/8212/products/tote026-bowdoin-b.jpg?v=1401389242" /></td>
+        <td valign="bottom">
+          <p>
+            <strong>Vendor: </strong>Sea Bags<br />
+            <strong>Type: </strong>Bag<br />
+            <strong>Price: </strong>
+              44.99
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2"><p>Small bucket tote made from recycled sails with hand spliced rope handle. No two are exactly alike.  From Sea Bags.</p>
+<p>Stands approximately 9.25" tall.</p>
+<p>Made in Maine.</p></td>
+      </tr>
+    </table>
+
+]]>
+    </summary>
+    <s:tag>Bags &amp; Totes</s:tag>
+    <s:variant>
+      <id>http://store.bowdoin.edu/products/321647269</id>
+      <title>B</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku>TOTE026</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://store.bowdoin.edu/products/321647269</id>
+      <title>Paw</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku>TOTE026</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://store.bowdoin.edu/products/321644481</id>
+    <published>2014-06-04T15:28:32-04:00</published>
+    <updated>2014-06-04T15:28:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://store.bowdoin.edu/products/wine-bag-from-sea-bags"/>
+    <title>Wine Bag from Sea Bags</title>
+    <s:type>Bag</s:type>
+    <s:vendor>Sea Bags</s:vendor>
+    <summary type="html">
+      <![CDATA[
+    <table border="0">
+      <tr>
+        <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0064/8212/products/tote027-bowdoin-b.jpg?v=1401389063" /></td>
+        <td valign="bottom">
+          <p>
+            <strong>Vendor: </strong>Sea Bags<br />
+            <strong>Type: </strong>Bag<br />
+            <strong>Price: </strong>
+              35.99
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2"><p>Wine bag made from recycled sails with hand spliced rope handle.  Bowdoin B appliqué.  No two are exactly alike.  From Sea Bags.</p>
+<p>Made in Maine.</p></td>
+      </tr>
+    </table>
+
+]]>
+    </summary>
+    <s:tag>Bags &amp; Totes</s:tag>
+    <s:variant>
+      <id>http://store.bowdoin.edu/products/321644481</id>
+      <title>Default Title</title>
+      <s:price currency="USD">35.99</s:price>
+      <s:sku>TOTE027</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://store.bowdoin.edu/products/32902562</id>
+    <published>2014-06-02T16:04:14-04:00</published>
+    <updated>2014-06-02T16:04:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://store.bowdoin.edu/products/belted-cow-pet-leash"/>
+    <title>Belted Cow Pet Leash</title>
+    <s:type>Gift</s:type>
+    <s:vendor>Belted Cow</s:vendor>
+    <summary type="html">
+      <![CDATA[
+    <table border="0">
+      <tr>
+        <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0064/8212/products/pet002-bowdoin-blue.jpg?v=1401739455" /></td>
+        <td valign="bottom">
+          <p>
+            <strong>Vendor: </strong>Belted Cow<br />
+            <strong>Type: </strong>Gift<br />
+            <strong>Price: </strong>
+              34.99
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2"><p>6-foot pet lead from Belted Cow of Yarmouth, Maine.  Sturdy cotton webbing with custom Bowdoin ribbon and secure nickel trigger snap hook.  Coordinates with Belted Cow Bowdoin <a href="http://store.bowdoin.edu/products/belted-cow-dog-collar-with-buckle">dog collars.</a><br /> <br /> Made in Maine.</p></td>
+      </tr>
+    </table>
+
+]]>
+    </summary>
+    <s:tag>Pets</s:tag>
+    <s:variant>
+      <id>http://store.bowdoin.edu/products/32902562</id>
+      <title>Blue</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>PET002</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://store.bowdoin.edu/products/32902562</id>
+      <title>Black</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>PET002</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://store.bowdoin.edu/products/32902512</id>
+    <published>2014-06-02T16:03:07-04:00</published>
+    <updated>2014-06-02T16:03:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://store.bowdoin.edu/products/belted-cow-peaks-tote-with-bowdoin-ribbon"/>
+    <title>Belted Cow Peaks Tote with Bowdoin Ribbon</title>
+    <s:type>Gift</s:type>
+    <s:vendor>Belted Cow</s:vendor>
+    <summary type="html">
+      <![CDATA[
+    <table border="0">
+      <tr>
+        <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0064/8212/products/tote006-bowdoin.jpeg?v=1298389860" /></td>
+        <td valign="bottom">
+          <p>
+            <strong>Vendor: </strong>Belted Cow<br />
+            <strong>Type: </strong>Gift<br />
+            <strong>Price: </strong>
+              89.99
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2"><p>Take a little Maine with you wherever you go with this durable canvas tote from Belted Cow.  Ivory canvas tote has front pocket, black lining and bottom, and two interior pockets perfect for holding water bottles.<br /> <br /> Available with either black or blue custom Bowdoin ribbon.<br /> <br /> Made in Maine.</p></td>
+      </tr>
+    </table>
+
+]]>
+    </summary>
+    <s:tag>Bags &amp; Totes</s:tag>
+    <s:variant>
+      <id>http://store.bowdoin.edu/products/32902512</id>
+      <title>Black</title>
+      <s:price currency="USD">89.99</s:price>
+      <s:sku>TOTE006</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://store.bowdoin.edu/products/32902512</id>
+      <title>Blue</title>
+      <s:price currency="USD">89.99</s:price>
+      <s:sku>TOTE006</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://store.bowdoin.edu/products/321733061</id>
+    <published>2014-05-29T16:18:26-04:00</published>
+    <updated>2014-05-29T16:18:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://store.bowdoin.edu/products/wristlet-from-sea-bags"/>
+    <title>Wristlet from Sea Bags</title>
+    <s:type>Bag</s:type>
+    <s:vendor>Sea Bags</s:vendor>
+    <summary type="html">
+      <![CDATA[
+    <table border="0">
+      <tr>
+        <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0064/8212/products/tote030-bowdoin-b.jpg?v=1401394951" /></td>
+        <td valign="bottom">
+          <p>
+            <strong>Vendor: </strong>Sea Bags<br />
+            <strong>Type: </strong>Bag<br />
+            <strong>Price: </strong>
+              31.99
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2"><p>Small zippered wristlet with black rope handle.  Made from recycled sails.  From Sea Bags.</p>
+<p>Measures approximately 7" x 5".</p>
+<p>Made in Maine.</p></td>
+      </tr>
+    </table>
+
+]]>
+    </summary>
+    <s:tag>Bags &amp; Totes</s:tag>
+    <s:tag>Wallets</s:tag>
+    <s:variant>
+      <id>http://store.bowdoin.edu/products/321733061</id>
+      <title>B</title>
+      <s:price currency="USD">31.99</s:price>
+      <s:sku>TOTE030</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://store.bowdoin.edu/products/321733061</id>
+      <title>Paw</title>
+      <s:price currency="USD">31.99</s:price>
+      <s:sku>TOTE030</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://store.bowdoin.edu/products/321642849</id>
+    <published>2014-05-29T14:38:52-04:00</published>
+    <updated>2014-05-29T14:38:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://store.bowdoin.edu/products/shaving-pouch-from-sea-bags"/>
+    <title>Shaving Pouch from Sea Bags</title>
+    <s:type>Bag</s:type>
+    <s:vendor>Sea Bags</s:vendor>
+    <summary type="html">
+      <![CDATA[
+    <table border="0">
+      <tr>
+        <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0064/8212/products/tote028-bowdoin-b.jpg?v=1401388952" /></td>
+        <td valign="bottom">
+          <p>
+            <strong>Vendor: </strong>Sea Bags<br />
+            <strong>Type: </strong>Bag<br />
+            <strong>Price: </strong>
+              44.99
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2"><p>Durable shaving pouch made from recycled sails with black nylon webbing strap.  Bowdoin B appliqué.  No two are exactly alike.  From Sea Bags.</p>
+<p>Made in Maine.</p></td>
+      </tr>
+    </table>
+
+]]>
+    </summary>
+    <s:tag>Bags &amp; Totes</s:tag>
+    <s:variant>
+      <id>http://store.bowdoin.edu/products/321642849</id>
+      <title>Default Title</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku>TOTE028</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://store.bowdoin.edu/products/321638165</id>
+    <published>2014-05-29T14:35:37-04:00</published>
+    <updated>2014-05-29T14:35:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://store.bowdoin.edu/products/large-tote-from-sea-bags"/>
+    <title>Large Tote from Sea Bags</title>
+    <s:type>Bag</s:type>
+    <s:vendor>Sea Bags</s:vendor>
+    <summary type="html">
+      <![CDATA[
+    <table border="0">
+      <tr>
+        <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0064/8212/products/tote029-bowdoin-b.jpg?v=1401388723" /></td>
+        <td valign="bottom">
+          <p>
+            <strong>Vendor: </strong>Sea Bags<br />
+            <strong>Type: </strong>Bag<br />
+            <strong>Price: </strong>
+              149.99
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2"><p>Large tote bag made from recycled sails with hand spliced hemp rope handle.  Bowdoin B appliqué.  No two bags are exactly alike.  From Sea Bags.</p>
+<p>Made in Maine.</p></td>
+      </tr>
+    </table>
+
+]]>
+    </summary>
+    <s:tag>Bags &amp; Totes</s:tag>
+    <s:variant>
+      <id>http://store.bowdoin.edu/products/321638165</id>
+      <title>Default Title</title>
+      <s:price currency="USD">149.99</s:price>
+      <s:sku>TOTE029</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://store.bowdoin.edu/products/164793439</id>
+    <published>2014-05-13T15:23:17-04:00</published>
+    <updated>2014-05-13T15:23:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://store.bowdoin.edu/products/barista-bowdoin-travel-mug"/>
+    <title>Barista Bowdoin Travel Mug</title>
+    <s:type>Mug</s:type>
+    <s:vendor>Spirit Products</s:vendor>
+    <summary type="html">
+      <![CDATA[
+    <table border="0">
+      <tr>
+        <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0064/8212/products/dish094-bowdoin.jpg?v=1381780962" /></td>
+        <td valign="bottom">
+          <p>
+            <strong>Vendor: </strong>Spirit Products<br />
+            <strong>Type: </strong>Mug<br />
+            <strong>Price: </strong>
+              16.99
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2">10 oz. white ceramic travel mug with rubber wall and removable lid.  BOWDOIN EST. 1794 imprint on both sides.</td>
+      </tr>
+    </table>
+
+]]>
+    </summary>
+    <s:tag>Travel Mugs</s:tag>
+    <s:variant>
+      <id>http://store.bowdoin.edu/products/164793439</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>DISH094</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://store.bowdoin.edu/products/302530637</id>
+    <published>2014-05-01T14:34:20-04:00</published>
+    <updated>2014-05-01T14:34:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://store.bowdoin.edu/products/bowdoin-college-static-cal"/>
+    <title>Bowdoin College Static Cal</title>
+    <s:type>Decal</s:type>
+    <s:vendor>Angelus Pacific</s:vendor>
+    <summary type="html">
+      <![CDATA[
+    <table border="0">
+      <tr>
+        <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0064/8212/products/dcl017-bowdoin.jpg?v=1398969452" /></td>
+        <td valign="bottom">
+          <p>
+            <strong>Vendor: </strong>Angelus Pacific<br />
+            <strong>Type: </strong>Decal<br />
+            <strong>Price: </strong>
+              1.99
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2"><p>Clear static cling auto decal with BOWDOIN COLLEGE in black with white outline.  </p>
+<p>21.25" x 1.75"</p>
+<p>Applies inside window.</p></td>
+      </tr>
+    </table>
+
+]]>
+    </summary>
+    <s:tag>Stickers &amp; Decals</s:tag>
+    <s:variant>
+      <id>http://store.bowdoin.edu/products/302530637</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.99</s:price>
+      <s:sku>DCL017</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://store.bowdoin.edu/products/133178017</id>
+    <published>2014-04-30T10:19:03-04:00</published>
+    <updated>2014-04-30T10:19:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://store.bowdoin.edu/products/bowdoin-can-glass"/>
+    <title>Bowdoin &quot;Can&quot; Glass</title>
+    <s:type>Glass</s:type>
+    <s:vendor>Campus Crystal</s:vendor>
+    <summary type="html">
+      <![CDATA[
+    <table border="0">
+      <tr>
+        <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0064/8212/products/dish086_bowdoin.jpg?v=1366907825" /></td>
+        <td valign="bottom">
+          <p>
+            <strong>Vendor: </strong>Campus Crystal<br />
+            <strong>Type: </strong>Glass<br />
+            <strong>Price: </strong>
+              13.99
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2"><p>16 oz. glass shaped like a soda can with etched BOWDOIN and polar bear medallion.</p></td>
+      </tr>
+    </table>
+
+]]>
+    </summary>
+    <s:tag>Glassware</s:tag>
+    <s:tag>Under $15</s:tag>
+    <s:variant>
+      <id>http://store.bowdoin.edu/products/133178017</id>
+      <title>Default Title</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>DISH086</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://store.bowdoin.edu/products/87979512</id>
+    <published>2014-04-30T10:18:38-04:00</published>
+    <updated>2014-04-30T10:18:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://store.bowdoin.edu/products/engraved-bud-vase"/>
+    <title>Engraved Bud Vase</title>
+    <s:type>Glass</s:type>
+    <s:vendor>Campus Crystal</s:vendor>
+    <summary type="html">
+      <![CDATA[
+    <table border="0">
+      <tr>
+        <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0064/8212/products/bgift108-bowdoin.jpg?v=1330100688" /></td>
+        <td valign="bottom">
+          <p>
+            <strong>Vendor: </strong>Campus Crystal<br />
+            <strong>Type: </strong>Glass<br />
+            <strong>Price: </strong>
+              13.99
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2"><p>Glass bud vase laser engraved with the Bowdoin sun seal.  From Campus Crystal.</p></td>
+      </tr>
+    </table>
+
+]]>
+    </summary>
+    <s:tag>Glassware</s:tag>
+    <s:variant>
+      <id>http://store.bowdoin.edu/products/87979512</id>
+      <title>Default Title</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>BGIFT108</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://store.bowdoin.edu/products/298119525</id>
+    <published>2014-04-25T11:51:38-04:00</published>
+    <updated>2014-04-25T11:51:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://store.bowdoin.edu/products/necklace-with-bowdoin-bear-medallion-crystals"/>
+    <title>Necklace with Bowdoin Bear Medallion &amp; Crystals</title>
+    <s:type>Jewelry</s:type>
+    <s:vendor>Dayna U</s:vendor>
+    <summary type="html">
+      <![CDATA[
+    <table border="0">
+      <tr>
+        <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0064/8212/products/bjwl013-bowdoin.jpg?v=1398441224" /></td>
+        <td valign="bottom">
+          <p>
+            <strong>Vendor: </strong>Dayna U<br />
+            <strong>Type: </strong>Jewelry<br />
+            <strong>Price: </strong>
+              29.95
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2">Silver plated necklace with Bowdoin mascot medallion and black and white crystal pendant.  From Dayna U.</td>
+      </tr>
+    </table>
+
+]]>
+    </summary>
+    <s:tag>Watches &amp; Jewelry</s:tag>
+    <s:variant>
+      <id>http://store.bowdoin.edu/products/298119525</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku>BJWL013</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://store.bowdoin.edu/products/32899382</id>
+    <published>2014-04-25T09:37:26-04:00</published>
+    <updated>2014-04-25T09:37:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://store.bowdoin.edu/products/15-oz-stemless-wine-glass"/>
+    <title>Stemless Wine Glass</title>
+    <s:type>Gift</s:type>
+    <s:vendor>Campus Crystal</s:vendor>
+    <summary type="html">
+      <![CDATA[
+    <table border="0">
+      <tr>
+        <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0064/8212/products/dish036-bowdoin-15oz.jpg?v=1398874641" /></td>
+        <td valign="bottom">
+          <p>
+            <strong>Vendor: </strong>Campus Crystal<br />
+            <strong>Type: </strong>Gift<br />
+            <strong>Price: </strong>
+              17.99 - 19.99 <a href="http://store.bowdoin.edu/products/15-oz-stemless-wine-glass">(2 variants)</a>
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2"><p>Stemless wine glass engraved with the Bowdoin seal.  From Campus Crystal.</p></td>
+      </tr>
+    </table>
+
+]]>
+    </summary>
+    <s:tag>Glassware</s:tag>
+    <s:tag>Under $15</s:tag>
+    <s:variant>
+      <id>http://store.bowdoin.edu/products/32899382</id>
+      <title>15 oz.</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>DISH036</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://store.bowdoin.edu/products/32899382</id>
+      <title>21 oz</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>DISH036</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://store.bowdoin.edu/products/297506673</id>
+    <published>2014-04-24T12:20:30-04:00</published>
+    <updated>2014-04-24T12:20:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://store.bowdoin.edu/products/sterling-silver-mascot-medallion-charm-with-spring-clasp"/>
+    <title>Sterling Silver Mascot Medallion Charm with Spring Clasp</title>
+    <s:type>Jewelry</s:type>
+    <s:vendor>Dayna U</s:vendor>
+    <summary type="html">
+      <![CDATA[
+    <table border="0">
+      <tr>
+        <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0064/8212/products/bjwl012-bowdoin.jpg?v=1398356475" /></td>
+        <td valign="bottom">
+          <p>
+            <strong>Vendor: </strong>Dayna U<br />
+            <strong>Type: </strong>Jewelry<br />
+            <strong>Price: </strong>
+              24.95
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2"><p>Sterling silver Bowdoin polar bear mascot medallion charm with round spring clasp closure.</p>
+<p>From Dayna U.</p></td>
+      </tr>
+    </table>
+
+]]>
+    </summary>
+    <s:tag>Watches &amp; Jewelry</s:tag>
+    <s:variant>
+      <id>http://store.bowdoin.edu/products/297506673</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>BJWL012</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://store.bowdoin.edu/products/90403009</id>
+    <published>2014-04-21T15:18:44-04:00</published>
+    <updated>2014-04-21T15:18:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://store.bowdoin.edu/products/boxed-bowdoin-polar-bear-coasters"/>
+    <title>Boxed Bowdoin Polar Bear Coasters</title>
+    <s:type>Gift</s:type>
+    <s:vendor>Chase &amp; Sons</s:vendor>
+    <summary type="html">
+      <![CDATA[
+    <table border="0">
+      <tr>
+        <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0064/8212/products/bgift115_bowdoin.jpg?v=1334075165" /></td>
+        <td valign="bottom">
+          <p>
+            <strong>Vendor: </strong>Chase & Sons<br />
+            <strong>Type: </strong>Gift<br />
+            <strong>Price: </strong>
+              39.99
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2"><p>Boxed set of five black leather-look coasters debossed with the Hyde Plaza polar bear and BOWDOIN COLLEGE.</p></td>
+      </tr>
+    </table>
+
+]]>
+    </summary>
+    <s:tag>Formal</s:tag>
+    <s:tag>Home</s:tag>
+    <s:variant>
+      <id>http://store.bowdoin.edu/products/90403009</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>BGIFT115</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://store.bowdoin.edu/products/295399393</id>
+    <published>2014-04-21T15:05:44-04:00</published>
+    <updated>2014-04-21T15:05:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://store.bowdoin.edu/products/bowdoin-sports-bear"/>
+    <title>Bowdoin Sports Bear</title>
+    <s:type>Toy</s:type>
+    <s:vendor>Mascot Factory</s:vendor>
+    <summary type="html">
+      <![CDATA[
+    <table border="0">
+      <tr>
+        <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0064/8212/products/toy037-bowdoin-football.jpg?v=1398107437" /></td>
+        <td valign="bottom">
+          <p>
+            <strong>Vendor: </strong>Mascot Factory<br />
+            <strong>Type: </strong>Toy<br />
+            <strong>Price: </strong>
+              19.99
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2"><p>White plush bear holding a Bowdoin imprinted sport ball.  From Mascot Factory.</p>
+<p>Sits approximately 7.5" high.</p></td>
+      </tr>
+    </table>
+
+]]>
+    </summary>
+    <s:tag>Sports</s:tag>
+    <s:tag>Toys</s:tag>
+    <s:variant>
+      <id>http://store.bowdoin.edu/products/295399393</id>
+      <title>Football</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>TOY037</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://store.bowdoin.edu/products/295399393</id>
+      <title>Hockey</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>TOY037</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://store.bowdoin.edu/products/294009109</id>
+    <published>2014-04-18T13:40:49-04:00</published>
+    <updated>2014-04-18T13:40:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://store.bowdoin.edu/products/polar-bear-dog-toy"/>
+    <title>Polar Bear Dog Toy</title>
+    <s:type>Pets</s:type>
+    <s:vendor>Planet Dog</s:vendor>
+    <summary type="html">
+      <![CDATA[
+    <table border="0">
+      <tr>
+        <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0064/8212/products/pet011-bowdoin.jpg?v=1397843090" /></td>
+        <td valign="bottom">
+          <p>
+            <strong>Vendor: </strong>Planet Dog<br />
+            <strong>Type: </strong>Pets<br />
+            <strong>Price: </strong>
+              10.99
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2">Squeaky polar bear dog toy.  Fleece with recycled fill.  From Planet Dog.</td>
+      </tr>
+    </table>
+
+]]>
+    </summary>
+    <s:tag>Pets</s:tag>
+    <s:variant>
+      <id>http://store.bowdoin.edu/products/294009109</id>
+      <title>Default</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>PET011</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://store.bowdoin.edu/products/293166325</id>
+    <published>2014-04-17T11:38:26-04:00</published>
+    <updated>2014-04-17T11:38:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://store.bowdoin.edu/products/class-of-2014-glass-mug"/>
+    <title>Class of 2014 Glass Mug</title>
+    <s:type>Mug</s:type>
+    <s:vendor>Campus Crystal</s:vendor>
+    <summary type="html">
+      <![CDATA[
+    <table border="0">
+      <tr>
+        <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0064/8212/products/dish102-bowdoin.jpg?v=1397749587" /></td>
+        <td valign="bottom">
+          <p>
+            <strong>Vendor: </strong>Campus Crystal<br />
+            <strong>Type: </strong>Mug<br />
+            <strong>Price: </strong>
+              15.99
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2"><p>Clear glass coffee mug engraved with the Bowdoin College seal and CLASS OF 2014.  From Campus Crystal.</p></td>
+      </tr>
+    </table>
+
+]]>
+    </summary>
+    <s:tag>Mugs</s:tag>
+    <s:variant>
+      <id>http://store.bowdoin.edu/products/293166325</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>DISH102</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://store.bowdoin.edu/products/291645989</id>
+    <published>2014-04-15T16:24:00-04:00</published>
+    <updated>2014-04-15T16:24:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://store.bowdoin.edu/products/black-white-polar-bear-charm-necklace"/>
+    <title>Black &amp; White Polar Bear Charm Necklace</title>
+    <s:type>Jewelry</s:type>
+    <s:vendor>Dayna U</s:vendor>
+    <summary type="html">
+      <![CDATA[
+    <table border="0">
+      <tr>
+        <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0064/8212/products/bjwl011-bowdoin.jpg?v=1397593496" /></td>
+        <td valign="bottom">
+          <p>
+            <strong>Vendor: </strong>Dayna U<br />
+            <strong>Type: </strong>Jewelry<br />
+            <strong>Price: </strong>
+              54.00
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2"><p>Necklace with black and white natural stones and sterling silver polar bear charm.  From Dayna U.  Lobster clasp closure.</p>
+<p>Measures approximately 19".</p>
+<p><a href="http://store.bowdoin.edu/collections/gifts/products/black-white-polar-bear-charm-bracelet">Matching bracelet available.</a></p>
+<p> </p></td>
+      </tr>
+    </table>
+
+]]>
+    </summary>
+    <s:tag>Watches &amp; Jewelry</s:tag>
+    <s:variant>
+      <id>http://store.bowdoin.edu/products/291645989</id>
+      <title>Default Title</title>
+      <s:price currency="USD">54.00</s:price>
+      <s:sku>BJWL011</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://store.bowdoin.edu/products/290827417</id>
+    <published>2014-04-14T15:24:29-04:00</published>
+    <updated>2014-04-14T15:24:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://store.bowdoin.edu/products/black-white-polar-bear-charm-bracelet"/>
+    <title>Black &amp; White Polar Bear Charm Bracelet</title>
+    <s:type>Jewelry</s:type>
+    <s:vendor>Dayna U</s:vendor>
+    <summary type="html">
+      <![CDATA[
+    <table border="0">
+      <tr>
+        <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0064/8212/products/bjwl010-bowdoin.jpg?v=1397504081" /></td>
+        <td valign="bottom">
+          <p>
+            <strong>Vendor: </strong>Dayna U<br />
+            <strong>Type: </strong>Jewelry<br />
+            <strong>Price: </strong>
+              40.00
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2"><p>Bracelet with black and white natural stones and sterling silver polar bear charm.  From Dayna U.  Lobster clasp closure.</p>
+<p><a href="http://store.bowdoin.edu/products/black-white-polar-bear-charm-necklace">Matching necklace available.</a></p>
+<p> </p></td>
+      </tr>
+    </table>
+
+]]>
+    </summary>
+    <s:tag>Watches &amp; Jewelry</s:tag>
+    <s:variant>
+      <id>http://store.bowdoin.edu/products/290827417</id>
+      <title>Default Title</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>BJWL010</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://store.bowdoin.edu/products/290769077</id>
+    <published>2014-04-14T14:38:14-04:00</published>
+    <updated>2014-04-14T14:38:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://store.bowdoin.edu/products/bowdoin-dangle-earrings-with-bear-medallion"/>
+    <title>Bowdoin Dangle Earrings with Bear Medallion</title>
+    <s:type>Jewelry</s:type>
+    <s:vendor>Dayna U</s:vendor>
+    <summary type="html">
+      <![CDATA[
+    <table border="0">
+      <tr>
+        <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0064/8212/products/bjwl009-bowdoin.jpg?v=1397500832" /></td>
+        <td valign="bottom">
+          <p>
+            <strong>Vendor: </strong>Dayna U<br />
+            <strong>Type: </strong>Jewelry<br />
+            <strong>Price: </strong>
+              29.95
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2">Silver plated dangle earrings with Bowdoin polar bear mascot medallion and black and white crystals.  From Dayna U.</td>
+      </tr>
+    </table>
+
+]]>
+    </summary>
+    <s:tag>Watches &amp; Jewelry</s:tag>
+    <s:variant>
+      <id>http://store.bowdoin.edu/products/290769077</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku>BJWL009</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://store.bowdoin.edu/products/287972389</id>
+    <published>2014-04-11T14:25:17-04:00</published>
+    <updated>2014-04-11T14:25:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://store.bowdoin.edu/products/3-pack-bowdoin-earrings"/>
+    <title>3-Pack Bowdoin Earrings</title>
+    <s:type>Jewelry</s:type>
+    <s:vendor>Dayna U</s:vendor>
+    <summary type="html">
+      <![CDATA[
+    <table border="0">
+      <tr>
+        <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0064/8212/products/bjwl007-bowdoin_5a7dfae5-23a7-464e-bb4c-ad5e1a3ec5a5.jpg?v=1397240795" /></td>
+        <td valign="bottom">
+          <p>
+            <strong>Vendor: </strong>Dayna U<br />
+            <strong>Type: </strong>Jewelry<br />
+            <strong>Price: </strong>
+              34.95
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2"><p>Three sets of silver plated Bowdoin post earrings: Bowdoin mascot medallion studs, black-and-white crystal half-hoops, and white crystal studs.</p>
+<p>From Dayna U.</p></td>
+      </tr>
+    </table>
+
+]]>
+    </summary>
+    <s:tag>Watches &amp; Jewelry</s:tag>
+    <s:variant>
+      <id>http://store.bowdoin.edu/products/287972389</id>
+      <title>Default Title</title>
+      <s:price currency="USD">34.95</s:price>
+      <s:sku>BJWL007</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://store.bowdoin.edu/products/287744333</id>
+    <published>2014-04-11T10:58:14-04:00</published>
+    <updated>2014-04-11T10:58:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://store.bowdoin.edu/products/sterling-silver-mascot-medallion-slide-charm"/>
+    <title>Sterling Silver Mascot Medallion Slide Charm</title>
+    <s:type>Jewelry</s:type>
+    <s:vendor>Dayna U</s:vendor>
+    <summary type="html">
+      <![CDATA[
+    <table border="0">
+      <tr>
+        <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0064/8212/products/bjwl005-bowdoin.jpg?v=1397228408" /></td>
+        <td valign="bottom">
+          <p>
+            <strong>Vendor: </strong>Dayna U<br />
+            <strong>Type: </strong>Jewelry<br />
+            <strong>Price: </strong>
+              29.95
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2"><p>Sterling silver Bowdoin polar bear mascot medallion slide charm. </p>
+<p>From Dayna U.</p></td>
+      </tr>
+    </table>
+
+]]>
+    </summary>
+    <s:tag>Watches &amp; Jewelry</s:tag>
+    <s:variant>
+      <id>http://store.bowdoin.edu/products/287744333</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku>BJWL005</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://store.bowdoin.edu/products/286978789</id>
+    <published>2014-04-10T14:28:10-04:00</published>
+    <updated>2014-04-10T14:28:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://store.bowdoin.edu/products/sterling-silver-chain-bracelet-with-mascot-medallion"/>
+    <title>Sterling Silver Chain Bracelet with Mascot Medallion</title>
+    <s:type>Jewelry</s:type>
+    <s:vendor>Dayna U</s:vendor>
+    <summary type="html">
+      <![CDATA[
+    <table border="0">
+      <tr>
+        <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0064/8212/products/bjwl003-bowdoin.jpg?v=1397155019" /></td>
+        <td valign="bottom">
+          <p>
+            <strong>Vendor: </strong>Dayna U<br />
+            <strong>Type: </strong>Jewelry<br />
+            <strong>Price: </strong>
+              39.95
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2"><p>Sterling silver chain bracelet with Bowdoin polar bear mascot medallion charm.  Round spring clasp closure.  From Dayna U.</p>
+<p>Chain measures 7" long.</p></td>
+      </tr>
+    </table>
+
+]]>
+    </summary>
+    <s:tag>Watches &amp; Jewelry</s:tag>
+    <s:variant>
+      <id>http://store.bowdoin.edu/products/286978789</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>BJWL003</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

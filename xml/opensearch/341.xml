@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+  <ShortName>Quincy University</ShortName>
+  <Description>Founded in 1860 by Franciscan friars, Quincy University (www.quincy.edu) is a Catholic, co-educational, residential university offering undergraduate, graduate, and adult education programs that integrate liberal arts, active learning, practical experience, and Franciscan values. Quincy University’s intercollegiate sports are members of the NCAA Division II Great Lakes Valley Conference for men and women</Description>
+  <InputEncoding>UTF-8</InputEncoding>
+  <Image type="image/vnd.microsoft.icon" width="16" height="16">http://www.quincy.edu/templates/yoo_nano/favicon.ico</Image>
+  <Url type="application/opensearchdescription+xml" rel="self" template="http://www.quincy.edu/component/search/?Itemid=661&amp;format=opensearch"/>
+  <Url type="text/html" template="http://www.quincy.edu/index.php?option=com_search&amp;searchword={searchTerms}"/>
+</OpenSearchDescription>

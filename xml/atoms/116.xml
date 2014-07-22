@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><feed
+  xmlns="http://www.w3.org/2005/Atom"
+  xmlns:thr="http://purl.org/syndication/thread/1.0"
+  xml:lang="en"
+  xml:base="https://faculty.franklin.edu/michelle-buchberger/wp-atom.php"
+   >
+	<title type="text">Michelle Buchberger Ph.D.</title>
+	<subtitle type="text">Program Chair, Interdisciplinary Studies, Department of Humanities and Communication Arts</subtitle>
+
+	<updated>2010-10-08T17:06:37Z</updated>
+	<generator uri="http://wordpress.org/" version="2.9.1">WordPress</generator>
+
+	<link rel="alternate" type="text/html" href="https://faculty.franklin.edu/michelle-buchberger" />
+	<id>https://faculty.franklin.edu/michelle-buchberger/feed/atom/</id>
+	<link rel="self" type="application/atom+xml" href="http://faculty.franklin.edu/michelle-buchberger/feed/atom/" />
+
+			<entry>
+		<author>
+			<name>Michelle Buchberger</name>
+					</author>
+		<title type="html"><![CDATA[Oxford Handbook of Interdisciplinarity]]></title>
+		<link rel="alternate" type="text/html" href="https://faculty.franklin.edu/michelle-buchberger/2010/03/03/no-blog-entries-posted-at-this-time/" />
+		<id>https://faculty.franklin.edu/michelle-buchberger/2010/03/03/no-blog-entries-posted-at-this-time/</id>
+		<updated>2010-10-08T17:06:37Z</updated>
+		<published>2010-03-03T16:24:06Z</published>
+		<category scheme="https://faculty.franklin.edu/michelle-buchberger" term="Uncategorized" />		<summary type="html"><![CDATA[https://blogs.montclair.edu/crdirector/
+Check out his excellent new resource related to IDST!
+]]></summary>
+		<content type="html" xml:base="https://faculty.franklin.edu/michelle-buchberger/2010/03/03/no-blog-entries-posted-at-this-time/"><![CDATA[<p>https://blogs.montclair.edu/crdirector/</p>
+<p>Check out his excellent new resource related to IDST!</p>
+]]></content>
+		<link rel="replies" type="text/html" href="https://faculty.franklin.edu/michelle-buchberger/2010/03/03/no-blog-entries-posted-at-this-time/#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="https://faculty.franklin.edu/michelle-buchberger/2010/03/03/no-blog-entries-posted-at-this-time/feed/atom/" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+	</feed>

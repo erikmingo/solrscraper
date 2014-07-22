@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/css" href="https://geo-ide.noaa.gov/wiki/skins/common/feed.css?270"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+		<id>https://geo-ide.noaa.gov/wiki/index.php?title=Special:RecentChanges&amp;feed=atom</id>
+		<title>NOAA Environmental Data Management Wiki  - Recent changes [en]</title>
+		<link rel="self" type="application/atom+xml" href="https://geo-ide.noaa.gov/wiki/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+		<link rel="alternate" type="text/html" href="https://geo-ide.noaa.gov/wiki/index.php?title=Special:RecentChanges"/>
+		<updated>2014-07-21T17:33:37Z</updated>
+		<subtitle>Track the most recent changes to the wiki in this feed.</subtitle>
+		<generator>MediaWiki 1.16.0</generator>
+
+	<entry>
+		<id>https://geo-ide.noaa.gov/wiki/index.php?title=Data_Citation&amp;diff=10792&amp;oldid=prev</id>
+		<title>Data Citation</title>
+		<link rel="alternate" type="text/html" href="https://geo-ide.noaa.gov/wiki/index.php?title=Data_Citation&amp;diff=10792&amp;oldid=prev"/>
+				<updated>2014-07-14T20:05:15Z</updated>
+		
+		<summary type="html">&lt;p&gt;&lt;span class=&quot;autocomment&quot;&gt;Fourth, Move the Completed ISO Record into Place: &lt;/span&gt; &lt;/p&gt;
+&lt;table style=&quot;background-color: white; color:black;&quot;&gt;
+			&lt;col class='diff-marker' /&gt;
+			&lt;col class='diff-content' /&gt;
+			&lt;col class='diff-marker' /&gt;
+			&lt;col class='diff-content' /&gt;
+		&lt;tr valign='top'&gt;
+		&lt;td colspan='2' style=&quot;background-color: white; color:black;&quot;&gt;← Older revision&lt;/td&gt;
+		&lt;td colspan='2' style=&quot;background-color: white; color:black;&quot;&gt;Revision as of 20:05, 14 July 2014&lt;/td&gt;
+		&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;Line 82:&lt;/td&gt;
+&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;Line 82:&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;The NOAA Procedural Directive draft indicates we will be generating our DOI landing pages dynamically as a transformed view of the ISO metadata record.&amp;nbsp; NGDC is currently doing this with their example:&lt;/div&gt;&lt;/td&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;The NOAA Procedural Directive draft indicates we will be generating our DOI landing pages dynamically as a transformed view of the ISO metadata record.&amp;nbsp; NGDC is currently doing this with their example:&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;/td&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class='diff-marker'&gt;-&lt;/td&gt;&lt;td style=&quot;background: #ffa; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;* http://www.ngdc.noaa.gov/docucomp/page?xml=NOAA/NESDIS/NGDC/Collection/iso/xml/Hazard_Images_Database.xml&amp;amp;view=&lt;del class=&quot;diffchange diffchange-inline&quot;&gt;iso2html&lt;/del&gt;&amp;amp;&lt;del class=&quot;diffchange diffchange-inline&quot;&gt;altview&lt;/del&gt;=none&lt;/div&gt;&lt;/td&gt;&lt;td class='diff-marker'&gt;+&lt;/td&gt;&lt;td style=&quot;background: #cfc; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;* http://www.ngdc.noaa.gov/docucomp/page?xml=NOAA/NESDIS/NGDC/Collection/iso/xml/Hazard_Images_Database.xml&amp;amp;view=&lt;ins class=&quot;diffchange diffchange-inline&quot;&gt;getDataView&lt;/ins&gt;&amp;amp;&lt;ins class=&quot;diffchange diffchange-inline&quot;&gt;header&lt;/ins&gt;=none&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;/td&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;Note that this URL is actually a web service, that transforms the ISO XML on demand to an HTML file.&lt;/div&gt;&lt;/td&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background: #eee; color:black; font-size: smaller;&quot;&gt;&lt;div&gt;Note that this URL is actually a web service, that transforms the ISO XML on demand to an HTML file.&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+
+&lt;!-- diff cache key noscwikidb:diff:version:1.11a:oldid:10765:newid:10792 --&gt;
+&lt;/table&gt;</summary>
+		<author><name>Amilan</name></author>	</entry>
+
+	</feed>

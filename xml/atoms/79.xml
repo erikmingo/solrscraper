@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! 1.5 - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">FRONT PAGE</title>
+	<subtitle type="text">UNH Today</subtitle>
+	<link rel="alternate" type="text/html" href="http://unhtoday.newhaven.edu"/>
+	<id>http://unhtoday.newhaven.edu/index.php</id>
+	<updated>2014-07-21T17:57:23Z</updated>
+	<generator uri="http://joomla.org" version="1.5">Joomla! 1.5 - Open Source Content Management</generator>
+<link rel="self" type="application/atom+xml" href="http://unhtoday.newhaven.edu/index.php?format=feed&amp;type=atom" />
+	<entry>
+		<title>Featured Events</title>
+		<link rel="alternate" type="text/html" href="http://unhtoday.newhaven.edu/index.php/component/content/article/60-featured-events"/>
+		<published>2012-01-23T20:20:01Z</published>
+		<updated>2012-01-23T20:20:01Z</updated>
+		<id>http://unhtoday.newhaven.edu/index.php/component/content/article/60-featured-events</id>
+		<author>
+			<name>Administrator</name>
+		<email>webtemp@newhaven.edu</email>
+		</author>
+		<summary type="html">&lt;table border=&quot;0&quot; width=&quot;580&quot;&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td width=&quot;109&quot;&gt;
+&lt;p&gt;&lt;img src=&quot;http://unhtoday.newhaven.edu/images/stories/featured_events/thumbnails/summercamp_thumb.jpg&quot; border=&quot;0&quot; width=&quot;109&quot; height=&quot;82&quot; style=&quot;border: 0;&quot; /&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class=&quot;system-pagebreak&quot; width=&quot;171&quot;&gt;
+&lt;p&gt;&lt;strong&gt;Summer Youth &lt;br /&gt;Academies&lt;br /&gt;&lt;/strong&gt;July and August Programs&lt;br /&gt;&lt;a href=&quot;http://unhtoday.newhaven.edu/index.php/component/content/article/2742#youth&quot;&gt;More&amp;gt;&amp;gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width=&quot;109&quot;&gt;
+&lt;p&gt;&lt;img src=&quot;http://unhtoday.newhaven.edu/images/stories/featured_events/thumbnails/soar_thumb.jpg&quot; border=&quot;0&quot; width=&quot;109&quot; height=&quot;82&quot; style=&quot;border: 0;&quot; /&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width=&quot;173&quot;&gt;
+&lt;p&gt;&lt;strong&gt;SOAR 2014 Orientation &lt;br /&gt;&lt;/strong&gt;July Sessions&lt;br /&gt;&lt;a href=&quot;http://unhtoday.newhaven.edu/index.php/component/content/article/2744#soar&quot;&gt;More&amp;gt;&amp;gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;a href=&quot;http://unhtoday.newhaven.edu/index.php/component/content/article/2744#soar&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</summary>
+		<content type="html">&lt;table border=&quot;0&quot; width=&quot;580&quot;&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td width=&quot;109&quot;&gt;
+&lt;p&gt;&lt;img src=&quot;http://unhtoday.newhaven.edu/images/stories/featured_events/thumbnails/summercamp_thumb.jpg&quot; border=&quot;0&quot; width=&quot;109&quot; height=&quot;82&quot; style=&quot;border: 0;&quot; /&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class=&quot;system-pagebreak&quot; width=&quot;171&quot;&gt;
+&lt;p&gt;&lt;strong&gt;Summer Youth &lt;br /&gt;Academies&lt;br /&gt;&lt;/strong&gt;July and August Programs&lt;br /&gt;&lt;a href=&quot;http://unhtoday.newhaven.edu/index.php/component/content/article/2742#youth&quot;&gt;More&amp;gt;&amp;gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width=&quot;109&quot;&gt;
+&lt;p&gt;&lt;img src=&quot;http://unhtoday.newhaven.edu/images/stories/featured_events/thumbnails/soar_thumb.jpg&quot; border=&quot;0&quot; width=&quot;109&quot; height=&quot;82&quot; style=&quot;border: 0;&quot; /&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width=&quot;173&quot;&gt;
+&lt;p&gt;&lt;strong&gt;SOAR 2014 Orientation &lt;br /&gt;&lt;/strong&gt;July Sessions&lt;br /&gt;&lt;a href=&quot;http://unhtoday.newhaven.edu/index.php/component/content/article/2744#soar&quot;&gt;More&amp;gt;&amp;gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;a href=&quot;http://unhtoday.newhaven.edu/index.php/component/content/article/2744#soar&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</content>
+	</entry>
+	<entry>
+		<title>Campus Update</title>
+		<link rel="alternate" type="text/html" href="http://unhtoday.newhaven.edu/index.php/component/content/article/3-newsflash/57-campus-update"/>
+		<published>2007-07-07T09:54:06Z</published>
+		<updated>2007-07-07T09:54:06Z</updated>
+		<id>http://unhtoday.newhaven.edu/index.php/component/content/article/3-newsflash/57-campus-update</id>
+		<author>
+			<name>Administrator</name>
+		<email>webtemp@newhaven.edu</email>
+		</author>
+		<summary type="html">&lt;table border=&quot;0&quot; cellspacing=&quot;1&quot; cellpadding=&quot;3&quot; width=&quot;580&quot;&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;img src=&quot;http://unhtoday.newhaven.edu/images/stories/campus-update/thumbnails/kaplan%20new%20haven%20living%20thumb.jpg&quot; border=&quot;0&quot; width=&quot;163&quot; height=&quot;71&quot; style=&quot;border: 0;&quot; /&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td rowspan=&quot;3&quot;&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;img src=&quot;http://unhtoday.newhaven.edu/images/stories/campus-update/thumbnails/artsball%20thumb.jpg&quot; border=&quot;0&quot; width=&quot;163&quot; height=&quot;71&quot; style=&quot;border: 0;&quot; /&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;img src=&quot;http://unhtoday.newhaven.edu/images/stories/campus-update/thumbnails/healthcare%20panel%20thumb.jpg&quot; border=&quot;0&quot; width=&quot;163&quot; height=&quot;71&quot; style=&quot;border: 0;&quot; /&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;a href=&quot;http://unhtoday.newhaven.edu/index.php/component/content/article/2788#Kaplan&quot;&gt;President Kaplan Featured &lt;br /&gt;in New Haven Living&lt;/a&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;a href=&quot;http://unhtoday.newhaven.edu/index.php/component/content/article/2789#artsball&quot;&gt;ArtsBall Raises $200,000 &lt;br /&gt;for Student Scholarship&lt;/a&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;a href=&quot;http://unhtoday.newhaven.edu/index.php/component/content/article/2790#healthcare&quot;&gt;Mentoring Event &lt;br /&gt;Explores Managing the &lt;br /&gt;21st Century Healthcare &lt;br /&gt;Organization&lt;/a&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;img src=&quot;http://unhtoday.newhaven.edu/images/stories/campus-update/thumbnails/chemistry%20video%20thumb.jpg&quot; border=&quot;0&quot; width=&quot;163&quot; height=&quot;71&quot; style=&quot;border: 0; vertical-align: baseline;&quot; /&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td rowspan=&quot;5&quot;&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;img src=&quot;http://unhtoday.newhaven.edu/images/stories/campus-update/thumbnails/shetty%20thumb.jpg&quot; border=&quot;0&quot; width=&quot;163&quot; height=&quot;71&quot; style=&quot;border: 0; vertical-align: baseline;&quot; /&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;img src=&quot;http://unhtoday.newhaven.edu/images/stories/campus-update/thumbnails/prato%20newsletter%20thumb.jpg&quot; border=&quot;0&quot; width=&quot;163&quot; height=&quot;71&quot; style=&quot;border: 0;&quot; /&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;a href=&quot;http://unhtoday.newhaven.edu/index.php/component/content/article/2791#chemistry&quot;&gt;Chemistry Students Use &lt;br /&gt;iPads to Help Students at &lt;br /&gt;ESUMS&lt;/a&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;http://unhtoday.newhaven.edu/index.php/component/content/article/2792#shetty&quot;&gt;Grad Student Appointed to &lt;br /&gt;Board of Connecticut Chapter &lt;br /&gt;of American College of &lt;br /&gt;Healthcare Executives&lt;/a&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;a href=&quot;http://unhtoday.newhaven.edu/index.php/component/content/article/2793#prato&quot;&gt;First Issue of Prato&lt;br /&gt;Campus Newsletter&lt;/a&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</summary>
+		<content type="html">&lt;table border=&quot;0&quot; cellspacing=&quot;1&quot; cellpadding=&quot;3&quot; width=&quot;580&quot;&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;img src=&quot;http://unhtoday.newhaven.edu/images/stories/campus-update/thumbnails/kaplan%20new%20haven%20living%20thumb.jpg&quot; border=&quot;0&quot; width=&quot;163&quot; height=&quot;71&quot; style=&quot;border: 0;&quot; /&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td rowspan=&quot;3&quot;&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;img src=&quot;http://unhtoday.newhaven.edu/images/stories/campus-update/thumbnails/artsball%20thumb.jpg&quot; border=&quot;0&quot; width=&quot;163&quot; height=&quot;71&quot; style=&quot;border: 0;&quot; /&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;img src=&quot;http://unhtoday.newhaven.edu/images/stories/campus-update/thumbnails/healthcare%20panel%20thumb.jpg&quot; border=&quot;0&quot; width=&quot;163&quot; height=&quot;71&quot; style=&quot;border: 0;&quot; /&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;a href=&quot;http://unhtoday.newhaven.edu/index.php/component/content/article/2788#Kaplan&quot;&gt;President Kaplan Featured &lt;br /&gt;in New Haven Living&lt;/a&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;a href=&quot;http://unhtoday.newhaven.edu/index.php/component/content/article/2789#artsball&quot;&gt;ArtsBall Raises $200,000 &lt;br /&gt;for Student Scholarship&lt;/a&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;a href=&quot;http://unhtoday.newhaven.edu/index.php/component/content/article/2790#healthcare&quot;&gt;Mentoring Event &lt;br /&gt;Explores Managing the &lt;br /&gt;21st Century Healthcare &lt;br /&gt;Organization&lt;/a&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;img src=&quot;http://unhtoday.newhaven.edu/images/stories/campus-update/thumbnails/chemistry%20video%20thumb.jpg&quot; border=&quot;0&quot; width=&quot;163&quot; height=&quot;71&quot; style=&quot;border: 0; vertical-align: baseline;&quot; /&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td rowspan=&quot;5&quot;&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;img src=&quot;http://unhtoday.newhaven.edu/images/stories/campus-update/thumbnails/shetty%20thumb.jpg&quot; border=&quot;0&quot; width=&quot;163&quot; height=&quot;71&quot; style=&quot;border: 0; vertical-align: baseline;&quot; /&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;img src=&quot;http://unhtoday.newhaven.edu/images/stories/campus-update/thumbnails/prato%20newsletter%20thumb.jpg&quot; border=&quot;0&quot; width=&quot;163&quot; height=&quot;71&quot; style=&quot;border: 0;&quot; /&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;a href=&quot;http://unhtoday.newhaven.edu/index.php/component/content/article/2791#chemistry&quot;&gt;Chemistry Students Use &lt;br /&gt;iPads to Help Students at &lt;br /&gt;ESUMS&lt;/a&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;http://unhtoday.newhaven.edu/index.php/component/content/article/2792#shetty&quot;&gt;Grad Student Appointed to &lt;br /&gt;Board of Connecticut Chapter &lt;br /&gt;of American College of &lt;br /&gt;Healthcare Executives&lt;/a&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;a href=&quot;http://unhtoday.newhaven.edu/index.php/component/content/article/2793#prato&quot;&gt;First Issue of Prato&lt;br /&gt;Campus Newsletter&lt;/a&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</content>
+	</entry>
+</feed>

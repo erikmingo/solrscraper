@@ -1,0 +1,9 @@
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/" >
+<ShortName>Whitworth Catalog</ShortName>
+<Description>Search the current edition of the Whitworth Catalog</Description>
+<InputEncoding>UTF-8</InputEncoding>
+<Image height="16" width="16" type="image/x-icon">/favicon.ico</Image>
+
+<SearchForm>http://catalog.whitworth.edu/search/</SearchForm>
+<Url type="text/html" method="get" template="http://catalog.whitworth.edu/search/?q={searchTerms}"></Url>
+</OpenSearchDescription>

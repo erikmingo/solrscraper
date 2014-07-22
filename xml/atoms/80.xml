@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">MY CBU - My CBU</title>
+	<subtitle type="text"></subtitle>
+	<link rel="alternate" type="text/html" href="https://neelix.cbu.edu"/>
+	<id>https://neelix.cbu.edu/</id>
+	<updated>2014-07-21T12:57:24-05:00</updated>
+	<generator uri="http://joomla.org" version="2.5">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://neelix.cbu.edu/?format=feed&amp;type=atom"/>
+	<entry>
+		<title>MyCBU Intranet</title>
+		<link rel="alternate" type="text/html" href="https://neelix.cbu.edu/78-mycbu/71-mycbu-intranet"/>
+		<published>2013-02-06T11:03:40-06:00</published>
+		<updated>2013-02-06T11:03:40-06:00</updated>
+		<id>https://neelix.cbu.edu/78-mycbu/71-mycbu-intranet</id>
+		<author>
+			<name>Antoinette Mkwapatira</name>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;The myCBU Intranet is available both on and off campus, and brings personalized content to CBU students, alumni, faculty and staff.&lt;br /&gt;&lt;br /&gt; If you're looking for general information on Christian Brothers University, please visit &lt;a class=&quot;links&quot; href=&quot;http://www.cbu.edu&quot;&gt;www.cbu.edu&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The old intranet can be found at &lt;a href=&quot;auth&quot; target=&quot;_blank&quot;&gt;my.cbu.edu/auth&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;The myCBU Intranet is available both on and off campus, and brings personalized content to CBU students, alumni, faculty and staff.&lt;br /&gt;&lt;br /&gt; If you're looking for general information on Christian Brothers University, please visit &lt;a class=&quot;links&quot; href=&quot;http://www.cbu.edu&quot;&gt;www.cbu.edu&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The old intranet can be found at &lt;a href=&quot;auth&quot; target=&quot;_blank&quot;&gt;my.cbu.edu/auth&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;</content>
+		<category term="Featured" />
+		<category term="MyCBU" />
+	</entry>
+	<entry>
+		<title>Weather</title>
+		<link rel="alternate" type="text/html" href="https://neelix.cbu.edu/78-mycbu/95-weather"/>
+		<published>2013-02-06T11:58:19-06:00</published>
+		<updated>2013-02-06T11:58:19-06:00</updated>
+		<id>https://neelix.cbu.edu/78-mycbu/95-weather</id>
+		<author>
+			<name>Antoinette Mkwapatira</name>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;{loadposition weather}&lt;/p&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;{loadposition weather}&lt;/p&gt;&lt;/div&gt;</content>
+		<category term="Featured" />
+		<category term="MyCBU" />
+	</entry>
+	<entry>
+		<title>Quick Links</title>
+		<link rel="alternate" type="text/html" href="https://neelix.cbu.edu/78-mycbu/96-quick-links"/>
+		<published>2013-02-06T11:58:19-06:00</published>
+		<updated>2013-02-06T11:58:19-06:00</updated>
+		<id>https://neelix.cbu.edu/78-mycbu/96-quick-links</id>
+		<author>
+			<name>Antoinette Mkwapatira</name>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;{loadposition quicklinks}&lt;/p&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;{loadposition quicklinks}&lt;/p&gt;&lt;/div&gt;</content>
+		<category term="Featured" />
+		<category term="MyCBU" />
+	</entry>
+</feed>

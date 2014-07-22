@@ -1,0 +1,133 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+
+    <style type="text/css">
+
+body
+{
+    font-family: Arial, Verdana, Sans-Serif;
+    text-align: center;
+    font-size: .75em;
+    color: #333;
+    overflow-y: scroll;
+    background: #dadada url("/images/bg.gif") repeat-x top left;
+    margin: 0;
+    padding: 0;
+}
+
+#maincontent
+{   
+   width: 100%;
+   line-height: 15pt;
+   clear: none;
+   min-height: 375px;
+  background-color: #ffffff;
+}
+
+#grayBG
+{
+    width:100%;
+    min-height: 915px;
+    background-color: #464646;
+    
+}
+
+#errorDiv
+{
+    position:absolute;
+    margin-top: 100px;
+    width:100%;
+    min-height:150px;
+    background-color:#DB6666;
+}
+
+  .statusMessage_text
+{ 
+   margin-left:50px;
+   color:#ffffff;
+   font-size:1.2em;  
+}
+
+#wrapper 
+{
+    margin-top:15px;
+    margin-left:5px;
+    width: 750px;
+    overflow: hidden; 
+}
+#ImageDiv {
+    width: 150px;
+    float:left; 
+}
+#MessageDiv 
+{
+    width: 500px;
+    float: left;
+    margin-left:20px;
+    color:#ffffff; 
+    text-align:left;
+}
+
+.clear  
+{
+ clear: both;
+}
+
+#footer
+{   
+    position:absolute;
+    margin-top: 250px;
+    width:20%;
+    height:50px;
+    margin-left:55%;
+}
+
+</style>
+
+</head>
+<body>
+
+  <form id="form1" runat="server">
+     <center>
+     <div id="maincontent">
+           <div id="grayBG">
+                <div id="errorDiv">
+
+             <div id="wrapper">
+                <div id="ImageDiv" >
+                  <img " src="https://apps.nebraska.edu/AppsRoot/CSS/Images/caution.png" alt="University of Nebraska" />
+                  
+                </div>
+                <div id="MessageDiv">
+                    <span style="font-weight:bold; font-size:18px;">Unable to display your request </span> <br/>
+                    <span style="font-weight:bold; font-size:16px;"> </span> <br/>
+                    <span style="font-size:14px; color:#646464;"></span><!--<br/>-->
+                    <!--<span style="font-weight:bold;color:#d2d2d2;font-size:14px;"> Report this issue</span>-->
+                    
+                      <p><span style="font-weight:bold;color:#d2d2d2; font-size:14px;" id="hlnk_center4_text_bold"> Report this Support ID = CA1780471640574756759 <br/>to the CSN Helpdesk:&nbsp;402-472-7373 or </span> <br/>
+                          <span style="font-weight:bold;color:#d2d2d2; font-size:14px;"> E-mail:<a style="font-weight:bold;color:#d2d2d2; font-size:14px;" href="mailto:helpdesk@nebraska.edu"> helpdesk@nebraska.edu</a></span>
+                      </p>
+                      <!--<br/>-->
+                  <!--  <span"> <a style="font-weight:bold;color:#d2d2d2; font-size:14px;" href="mailto:helpdesk@nebraska.edu">Email The CSN Help Desk</a></span>
+                    <span> 402-472-7373</span>-->
+                 </div>
+              <div class="clear"></div>
+            </div>
+               </div>
+           
+           <div id="footer" >
+             <img style="margin-top:15px;" src="https://apps.nebraska.edu/AppsRoot/CSS/Images/nu_white.png" alt="University of Nebraska" />
+          </div>
+           
+            <div class="clear"></div>
+           </div>
+
+     </div>
+
+        </center>
+    </form>
+
+</body>
+</html>

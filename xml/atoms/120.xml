@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><feed
+  xmlns="http://www.w3.org/2005/Atom"
+  xmlns:thr="http://purl.org/syndication/thread/1.0"
+  xml:lang="en"
+  xml:base="https://faculty.franklin.edu/lewis-chongwony/wp-atom.php"
+   >
+	<title type="text">Lewis Chongwony Ph.D.</title>
+	<subtitle type="text">Instructional Design Faculty for the College of Health and Public Administration</subtitle>
+
+	<updated>2010-03-03T16:24:06Z</updated>
+	<generator uri="http://wordpress.org/" version="2.9.1">WordPress</generator>
+
+	<link rel="alternate" type="text/html" href="https://faculty.franklin.edu/lewis-chongwony" />
+	<id>https://faculty.franklin.edu/lewis-chongwony/feed/atom/</id>
+	<link rel="self" type="application/atom+xml" href="http://faculty.franklin.edu/lewis-chongwony/feed/atom/" />
+
+			<entry>
+		<author>
+			<name>Lewis Chongwony</name>
+					</author>
+		<title type="html"><![CDATA[No blog entries posted at this time.]]></title>
+		<link rel="alternate" type="text/html" href="https://faculty.franklin.edu/lewis-chongwony/2010/03/03/no-blog-entries-posted-at-this-time/" />
+		<id>https://faculty.franklin.edu/lewis-chongwony/2010/03/03/no-blog-entries-posted-at-this-time/</id>
+		<updated>2010-03-03T16:24:06Z</updated>
+		<published>2010-03-03T16:24:06Z</published>
+		<category scheme="https://faculty.franklin.edu/lewis-chongwony" term="Uncategorized" />		<summary type="html"><![CDATA[]]></summary>
+		<content type="html" xml:base="https://faculty.franklin.edu/lewis-chongwony/2010/03/03/no-blog-entries-posted-at-this-time/"><![CDATA[]]></content>
+		<link rel="replies" type="text/html" href="https://faculty.franklin.edu/lewis-chongwony/2010/03/03/no-blog-entries-posted-at-this-time/#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="https://faculty.franklin.edu/lewis-chongwony/2010/03/03/no-blog-entries-posted-at-this-time/feed/atom/" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+	</feed>

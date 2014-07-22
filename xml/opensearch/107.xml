@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/" xmlns:moz= "http://www.mozilla.org/2006/browser/search/"  xmlns:ie="http://schemas.microsoft.com/Search/2008/" >
+<ShortName>UST Libraries Summon</ShortName>
+<Description>Search library holdings with Summon</Description>
+<InputEncoding>UTF-8</InputEncoding>
+<Image width="16" height="16">http://static.stthomas.edu/libraries/images/private/summonfavicon.ico</Image>
+<Url type="text/html" method="GET" template="http://stthomas.summon.serialssolutions.com/search?s.q={searchTerms}"></Url>
+<Url type="application/x-suggestions+json" method="GET" template="http://stthomas.summon.serialssolutions.com/metadata/suggest/suggest?callback=?&amp;prefix={searchTerms}&amp;type_strict=should&amp;all_types=true" />
+<Url type="application/opensearchdescription+xml" rel="self" template="http://static.stthomas.edu/libraries/includes/SummonOpenSearch.xml" />
+<moz:SearchForm>http://stthomas.summon.serialssolutions.com</moz:SearchForm>
+</OpenSearchDescription>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+    <NetworkLink>
+	<name>CU MODIS Today; Day 2014197</name>
+	<LookAt>
+ 		<longitude>-117.851</longitude>
+		<latitude>  33.795</latitude>
+ 		<altitudeMode>absolute</altitudeMode>
+ 		<altitude>10000000</altitude>
+ 		<range>0.1</range>
+ 		<tilt>0</tilt>
+ 		<heading>0</heading>
+	</LookAt>
+       <Style>
+           <ListStyle>
+               <listItemType>checkHideChildren</listItemType>
+           </ListStyle>
+       </Style>
+       <Link>
+           <href>http://eos.chapman.edu/kml/2014197/2014197.aqua.kml</href>
+           <refreshMode>onInterval</refreshMode>
+           <refreshInterval>600</refreshInterval>
+       </Link>
+    </NetworkLink>
+</Document>
+</kml>

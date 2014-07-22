@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?><feed
+  xmlns="http://www.w3.org/2005/Atom"
+  xmlns:thr="http://purl.org/syndication/thread/1.0"
+  xml:lang="en"
+  xml:base="http://www.plymouth.edu/academics/wp-atom.php"
+   >
+	<title type="text">Academics</title>
+	<subtitle type="text">Plymouth State University Academics</subtitle>
+
+	<updated>2014-06-12T19:20:12Z</updated>
+
+	<link rel="alternate" type="text/html" href="http://www.plymouth.edu/academics" />
+	<id>http://www.plymouth.edu/academics/feed/atom/</id>
+	<link rel="self" type="application/atom+xml" href="http://www.plymouth.edu/academics/feed/atom/" />
+
+	<generator uri="http://wordpress.org/" version="3.2.1">WordPress</generator>
+		<entry>
+		<author>
+			<name>Michael</name>
+					</author>
+		<title type="html"><![CDATA[]]></title>
+		<link rel="alternate" type="text/html" href="http://www.plymouth.edu/academics/2013/12/05/contact-information/" />
+		<id>https://www.plymouth.edu/academics/?p=633</id>
+		<updated>2014-02-17T13:50:58Z</updated>
+		<published>2013-12-05T17:57:25Z</published>
+		<category scheme="http://www.plymouth.edu/academics" term="Contact" />		<summary type="html"><![CDATA[University Honors Program Dr. Clarissa M. Uttley, Chair Phone: 603-535-2915 Email: cmuttley@plymouth.edu Fax: 603-535-2879 Mailing Address 17 High Street MSC #38 Plymouth, NH 03264]]></summary>
+		<content type="html" xml:base="http://www.plymouth.edu/academics/2013/12/05/contact-information/"><![CDATA[<h1 id="university-honors-program" ><strong>University Honors Program</strong></h1>
+<p>Dr. Clarissa M. Uttley, Chair</p>
+<p><strong>Phone:</strong> 603-535-2915<br />
+<strong>Email:</strong> <a href="mailto:cmuttley@plymouth.edu">cmuttley@plymouth.edu</a><br />
+<strong>Fax:</strong> 603-535-2879</p>
+<p><strong>Mailing Address</strong><br />
+17 High Street<br />
+MSC #38<br />
+Plymouth, NH 03264</p>
+]]></content>
+		<link rel="replies" type="text/html" href="http://www.plymouth.edu/academics/2013/12/05/contact-information/#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://www.plymouth.edu/academics/2013/12/05/contact-information/feed/atom/" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name>Eric</name>
+					</author>
+		<title type="html"><![CDATA[alpha list minor/certificates]]></title>
+		<link rel="alternate" type="text/html" href="http://www.plymouth.edu/academics/2013/09/25/alpha-list-minorcertificates/" />
+		<id>https://www.plymouth.edu/academics/?p=578</id>
+		<updated>2014-02-28T21:33:15Z</updated>
+		<published>2013-09-25T15:27:09Z</published>
+		<category scheme="http://www.plymouth.edu/academics" term="alpha list" />		<summary type="html"><![CDATA[A B C D E F G H I J K L M N P Q R S T U V W X Y Z &#124; top &#8593;]]></summary>
+		<content type="html" xml:base="http://www.plymouth.edu/academics/2013/09/25/alpha-list-minorcertificates/"><![CDATA[<li><a href="#A">A</a></li>
+<li><a href="#B">B</a></li>
+<li><a href="#C">C</a></li>
+<li><a href="#D">D</a></li>
+<li><a href="#E">E</a></li>
+<li><a href="#F">F</a></li>
+<li><a href="#G">G</a></li>
+<li><a href="#H">H</a></li>
+<li><a href="#I">I</a></li>
+<li><a class="dead-link" href="javascript:void(0);">J</a></li>
+<li><a class="dead-link" href="javascript:void(0);">K</a></li>
+<li><a href="#L">L</a></li>
+<li><a href="#M">M</a></li>
+<li><a href="#N">N</a></li>
+<li><a href="#P">P</a></li>
+<li><a class="dead-link" href="javascript:void(0);">Q</a></li>
+<li><a href="#R">R</a></li>
+<li><a href="#S">S</a></li>
+<li><a href="#T">T</a></li>
+<li><a class="dead-link" href="javascript:void(0);">U</a></li>
+<li><a class="dead-link" href="javascript:void(0);">V</a></li>
+<li><a href="#W">W</a></li>
+<li><a class="dead-link" href="javascript:void(0);">X</a></li>
+<li><a class="dead-link" href="javascript:void(0);">Y</a></li>
+<li><a class="dead-link" href="javascript:void(0);">Z</a></li>
+<li class="alpha-top"> | <a href="#head-wrapper">top &#8593;</a></li>
+]]></content>
+		<link rel="replies" type="text/html" href="http://www.plymouth.edu/academics/2013/09/25/alpha-list-minorcertificates/#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://www.plymouth.edu/academics/2013/09/25/alpha-list-minorcertificates/feed/atom/" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name>Eric</name>
+					</author>
+		<title type="html"><![CDATA[alpha list]]></title>
+		<link rel="alternate" type="text/html" href="http://www.plymouth.edu/academics/2013/09/20/alpha-list/" />
+		<id>https://www.plymouth.edu/academics/?p=520</id>
+		<updated>2013-09-24T20:21:29Z</updated>
+		<published>2013-09-20T20:24:49Z</published>
+		<category scheme="http://www.plymouth.edu/academics" term="alpha list" />		<summary type="html"><![CDATA[A B C D E F G H I J K L M N P Q R S T U V W X Y Z &#124; top &#8593;]]></summary>
+		<content type="html" xml:base="http://www.plymouth.edu/academics/2013/09/20/alpha-list/"><![CDATA[<li><a href="#A">A</a></li>
+<li><a href="#B">B</a></li>
+<li><a href="#C">C</a></li>
+<li><a class="dead-link" href="javascript:void(0);">D</a></li>
+<li><a href="#E">E</a></li>
+<li><a href="#F">F</a></li>
+<li><a href="#G">G</a></li>
+<li><a href="#H">H</a></li>
+<li><a href="#I">I</a></li>
+<li><a class="dead-link" href="javascript:void(0);">J</a></li>
+<li><a class="dead-link" href="javascript:void(0);">K</a></li>
+<li><a class="dead-link" href="javascript:void(0);">L</a></li>
+<li><a href="#M">M</a></li>
+<li><a href="#N">N</a></li>
+<li><a href="#P">P</a></li>
+<li><a class="dead-link" href="javascript:void(0);">Q</a></li>
+<li><a class="dead-link" href="javascript:void(0);">R</a></li>
+<li><a href="#S">S</a></li>
+<li><a href="#T">T</a></li>
+<li><a class="dead-link" href="javascript:void(0);">U</a></li>
+<li><a class="dead-link" href="javascript:void(0);">V</a></li>
+<li><a class="dead-link" href="javascript:void(0);">W</a></li>
+<li><a class="dead-link" href="javascript:void(0);">X</a></li>
+<li><a class="dead-link" href="javascript:void(0);">Y</a></li>
+<li><a class="dead-link" href="javascript:void(0);">Z</a></li>
+<li class="alpha-top"> | <a href="#head-wrapper">top &#8593;</a></li>
+]]></content>
+		<link rel="replies" type="text/html" href="http://www.plymouth.edu/academics/2013/09/20/alpha-list/#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://www.plymouth.edu/academics/2013/09/20/alpha-list/feed/atom/" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+	</feed>

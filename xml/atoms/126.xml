@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><feed
+  xmlns="http://www.w3.org/2005/Atom"
+  xmlns:thr="http://purl.org/syndication/thread/1.0"
+  xml:lang="en-US"
+  xml:base="http://classrooms.syr.edu/wp-atom.php"
+   >
+	<title type="text"></title>
+	<subtitle type="text"></subtitle>
+
+	<updated>2013-09-06T16:24:02Z</updated>
+
+	<link rel="alternate" type="text/html" href="http://classrooms.syr.edu" />
+	<id>http://classrooms.syr.edu/feed/atom/</id>
+	<link rel="self" type="application/atom+xml" href="http://classrooms.syr.edu/feed/atom/" />
+
+	<generator uri="http://wordpress.org/" version="3.8.2">WordPress</generator>
+	<entry>
+		<author>
+			<name>Elizabeth Teska</name>
+					</author>
+		<title type="html"><![CDATA[Pic]]></title>
+		<link rel="alternate" type="text/html" href="http://classrooms.syr.edu/2011/11/30/pic/" />
+		<id>http://classrooms.syr.edu/?p=206</id>
+		<updated>2013-03-22T20:39:12Z</updated>
+		<published>2011-11-30T20:53:19Z</published>
+		<category scheme="http://classrooms.syr.edu" term="Uncategorized" />		<summary type="html"><![CDATA[]]></summary>
+		<content type="html" xml:base="http://classrooms.syr.edu/2011/11/30/pic/"><![CDATA[<p><a href="http://classrooms.syr.edu/wp-content/uploads/2011/10/technology-3.jpg"><img src="http://classrooms.syr.edu/wp-content/uploads/2011/10/technology-3-300x198.jpg" alt="" title="technology 3" width="300" height="198" class="alignleft size-medium wp-image-183" /></a></p>
+]]></content>
+			<link rel="replies" type="text/html" href="http://classrooms.syr.edu/2011/11/30/pic/#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://classrooms.syr.edu/2011/11/30/pic/feed/atom/" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name>Elizabeth Teska</name>
+					</author>
+		<title type="html"><![CDATA[Information]]></title>
+		<link rel="alternate" type="text/html" href="http://classrooms.syr.edu/2011/11/30/202/" />
+		<id>http://classrooms.syr.edu/?p=202</id>
+		<updated>2013-03-22T20:39:12Z</updated>
+		<published>2011-11-30T20:52:27Z</published>
+		<category scheme="http://classrooms.syr.edu" term="Uncategorized" />		<summary type="html"><![CDATA[Classrooms often reflect a university’s values, standards and expectations. Effectively designed classrooms communicate desired performance levels to both students and faculty. Recent surveys indicate what faculty and students find satisfactory and unsatisfactory about Syracuse University classrooms. Typically, SU classrooms vary in design, capacities and capabilities. The variety of classrooms reflects the breadth of the University’s [&#8230;]]]></summary>
+		<content type="html" xml:base="http://classrooms.syr.edu/2011/11/30/202/"><![CDATA[<p>Classrooms often reflect a university’s values, standards and expectations. Effectively designed classrooms communicate desired performance levels to both students and faculty.</p>
+<p>Recent surveys indicate what faculty and students find satisfactory and unsatisfactory about Syracuse University classrooms. Typically, SU classrooms vary in design, capacities and capabilities. The variety of classrooms reflects the breadth of the University’s curricula and rich history. The University will continue to focus on the learning environment as it moves towards its goal of becoming a nationally renowned student-centered research university. The challenges will be to renovate existing classrooms while maintaining the university’s architectural integrity, while introducing new technologies, while responding to changing teaching and learning styles.</p>
+<p>At Syracuse University, there are classrooms overseen by academic departments and others scheduled by the Registrar’s office.  This website focues on those classrooms controlled by the Registrar’s Office and provides information regarding:</p>
+<p>Design specifications<br />
+Technology levels and maintenance<br />
+Scheduling procedures for these classrooms<br />
+Maintenance and renovation of these rooms<br />
+The Classroom Committee<br />
+In addition, you will find useful links to various units across campus responsible for maintaining, scheduling and updating Registrar classrooms.</p>
+]]></content>
+			<link rel="replies" type="text/html" href="http://classrooms.syr.edu/2011/11/30/202/#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://classrooms.syr.edu/2011/11/30/202/feed/atom/" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name>Sheila Milden</name>
+					</author>
+		<title type="html"><![CDATA[Welcome to Expressions]]></title>
+		<link rel="alternate" type="text/html" href="http://classrooms.syr.edu/2011/10/17/hello-world/" />
+		<id>http://classrooms.syr.edu//?p=1</id>
+		<updated>2013-03-22T20:39:12Z</updated>
+		<published>2011-10-17T16:12:40Z</published>
+		<category scheme="http://classrooms.syr.edu" term="Uncategorized" />		<summary type="html"><![CDATA[Welcome to Expressions. This is your first post. Edit or delete it, then start blogging! If you have any questions, send us an email at express@syr.edu or call us at 315-443-2677.]]></summary>
+		<content type="html" xml:base="http://classrooms.syr.edu/2011/10/17/hello-world/"><![CDATA[<p>Welcome to Expressions. This is your first post. Edit or delete it, then start blogging! If you have any questions, send us an email at express@syr.edu or call us at 315-443-2677. </p>
+]]></content>
+			<link rel="replies" type="text/html" href="http://classrooms.syr.edu/2011/10/17/hello-world/#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://classrooms.syr.edu/2011/10/17/hello-world/feed/atom/" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+	</feed>

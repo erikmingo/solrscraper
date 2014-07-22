@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?><feed
+  xmlns="http://www.w3.org/2005/Atom"
+  xmlns:thr="http://purl.org/syndication/thread/1.0"
+  xml:lang="en"
+  xml:base="http://www.plymouth.edu/community-service/wp-atom.php"
+   >
+	<title type="text">Community and Volunteer Service</title>
+	<subtitle type="text">Just another Plymouth State University weblog</subtitle>
+
+	<updated>2014-05-06T18:38:45Z</updated>
+
+	<link rel="alternate" type="text/html" href="http://www.plymouth.edu/community-service" />
+	<id>http://www.plymouth.edu/community-service/feed/atom/</id>
+	<link rel="self" type="application/atom+xml" href="http://www.plymouth.edu/community-service/feed/atom/" />
+
+	<generator uri="http://wordpress.org/" version="3.2.1">WordPress</generator>
+		<entry>
+		<author>
+			<name>Betsy</name>
+					</author>
+		<title type="html"><![CDATA[Empty Bowls]]></title>
+		<link rel="alternate" type="text/html" href="http://www.plymouth.edu/community-service/79/empty-bowls/" />
+		<id>http://www.plymouth.edu/community-service/?p=79</id>
+		<updated>2011-06-02T14:08:53Z</updated>
+		<published>2011-06-02T14:03:59Z</published>
+		<category scheme="http://www.plymouth.edu/community-service" term="Hunger &amp; Homelessness Events" />		<summary type="html"><![CDATA[asdfasdf asdfasdf asdf asdf asdf asdff sdfgsdfg s sfgs dfgsdf gs ds dfg]]></summary>
+		<content type="html" xml:base="http://www.plymouth.edu/community-service/79/empty-bowls/"><![CDATA[<p>asdfasdf asdfasdf asdf</p>
+<p>asdf asdf</p>
+<p>asdff</p>
+<p><span id="more-79"></span>sdfgsdfg s sfgs dfgsdf gs ds dfg</p>
+]]></content>
+		<link rel="replies" type="text/html" href="http://www.plymouth.edu/community-service/79/empty-bowls/#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://www.plymouth.edu/community-service/79/empty-bowls/feed/atom/" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name>Betsy</name>
+					</author>
+		<title type="html"><![CDATA[Toiletries Drive]]></title>
+		<link rel="alternate" type="text/html" href="http://www.plymouth.edu/community-service/77/toiletries-drive/" />
+		<id>http://www.plymouth.edu/community-service/?p=77</id>
+		<updated>2011-06-02T14:03:39Z</updated>
+		<published>2011-06-02T14:03:39Z</published>
+		<category scheme="http://www.plymouth.edu/community-service" term="Hunger &amp; Homelessness Events" />		<summary type="html"><![CDATA[asdf]]></summary>
+		<content type="html" xml:base="http://www.plymouth.edu/community-service/77/toiletries-drive/"><![CDATA[<p>asdf</p>
+]]></content>
+		<link rel="replies" type="text/html" href="http://www.plymouth.edu/community-service/77/toiletries-drive/#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://www.plymouth.edu/community-service/77/toiletries-drive/feed/atom/" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name>Betsy</name>
+					</author>
+		<title type="html"><![CDATA[Hunger Banquet]]></title>
+		<link rel="alternate" type="text/html" href="http://www.plymouth.edu/community-service/75/hunger-banquet/" />
+		<id>http://www.plymouth.edu/community-service/?p=75</id>
+		<updated>2011-06-02T14:03:06Z</updated>
+		<published>2011-06-02T14:03:06Z</published>
+		<category scheme="http://www.plymouth.edu/community-service" term="Hunger &amp; Homelessness Events" />		<summary type="html"><![CDATA[zcfvdfg]]></summary>
+		<content type="html" xml:base="http://www.plymouth.edu/community-service/75/hunger-banquet/"><![CDATA[<p>zcfvdfg</p>
+]]></content>
+		<link rel="replies" type="text/html" href="http://www.plymouth.edu/community-service/75/hunger-banquet/#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://www.plymouth.edu/community-service/75/hunger-banquet/feed/atom/" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name>Betsy</name>
+					</author>
+		<title type="html"><![CDATA[Food Drive]]></title>
+		<link rel="alternate" type="text/html" href="http://www.plymouth.edu/community-service/73/food-drive/" />
+		<id>http://www.plymouth.edu/community-service/?p=73</id>
+		<updated>2011-06-02T14:02:47Z</updated>
+		<published>2011-06-02T14:02:47Z</published>
+		<category scheme="http://www.plymouth.edu/community-service" term="Hunger &amp; Homelessness Events" />		<summary type="html"><![CDATA[adfasdf]]></summary>
+		<content type="html" xml:base="http://www.plymouth.edu/community-service/73/food-drive/"><![CDATA[<p>adfasdf</p>
+]]></content>
+		<link rel="replies" type="text/html" href="http://www.plymouth.edu/community-service/73/food-drive/#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://www.plymouth.edu/community-service/73/food-drive/feed/atom/" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name>Betsy</name>
+					</author>
+		<title type="html"><![CDATA[Hunger &amp; Homelessness Awareness]]></title>
+		<link rel="alternate" type="text/html" href="http://www.plymouth.edu/community-service/71/hunger-homelessness-awareness/" />
+		<id>http://www.plymouth.edu/community-service/?p=71</id>
+		<updated>2011-06-02T14:01:14Z</updated>
+		<published>2011-06-02T14:01:14Z</published>
+		<category scheme="http://www.plymouth.edu/community-service" term="Events" />		<summary type="html"><![CDATA[asdf asdf asdf asfd]]></summary>
+		<content type="html" xml:base="http://www.plymouth.edu/community-service/71/hunger-homelessness-awareness/"><![CDATA[<p>asdf asdf asdf asfd</p>
+]]></content>
+		<link rel="replies" type="text/html" href="http://www.plymouth.edu/community-service/71/hunger-homelessness-awareness/#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://www.plymouth.edu/community-service/71/hunger-homelessness-awareness/feed/atom/" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name>Betsy</name>
+					</author>
+		<title type="html"><![CDATA[Angel Tree]]></title>
+		<link rel="alternate" type="text/html" href="http://www.plymouth.edu/community-service/69/angel-tree/" />
+		<id>http://www.plymouth.edu/community-service/?p=69</id>
+		<updated>2011-06-02T13:59:35Z</updated>
+		<published>2011-06-02T13:59:35Z</published>
+		<category scheme="http://www.plymouth.edu/community-service" term="Events" />		<summary type="html"><![CDATA[Angel Tree Blurb goes here]]></summary>
+		<content type="html" xml:base="http://www.plymouth.edu/community-service/69/angel-tree/"><![CDATA[<p>Angel Tree Blurb goes here</p>
+]]></content>
+		<link rel="replies" type="text/html" href="http://www.plymouth.edu/community-service/69/angel-tree/#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://www.plymouth.edu/community-service/69/angel-tree/feed/atom/" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name>Betsy</name>
+					</author>
+		<title type="html"><![CDATA[Service Saturdays]]></title>
+		<link rel="alternate" type="text/html" href="http://www.plymouth.edu/community-service/64/service-saturdays/" />
+		<id>http://www.plymouth.edu/community-service/?p=64</id>
+		<updated>2011-06-02T13:58:20Z</updated>
+		<published>2011-06-02T13:56:23Z</published>
+		<category scheme="http://www.plymouth.edu/community-service" term="Events" />		<summary type="html"><![CDATA[Talk about that here!]]></summary>
+		<content type="html" xml:base="http://www.plymouth.edu/community-service/64/service-saturdays/"><![CDATA[<p>Talk about that here!</p>
+]]></content>
+		<link rel="replies" type="text/html" href="http://www.plymouth.edu/community-service/64/service-saturdays/#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://www.plymouth.edu/community-service/64/service-saturdays/feed/atom/" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name>Betsy</name>
+					</author>
+		<title type="html"><![CDATA[Blood Drive]]></title>
+		<link rel="alternate" type="text/html" href="http://www.plymouth.edu/community-service/62/blood-drive/" />
+		<id>http://www.plymouth.edu/community-service/?p=62</id>
+		<updated>2011-06-02T13:58:53Z</updated>
+		<published>2011-06-02T13:55:24Z</published>
+		<category scheme="http://www.plymouth.edu/community-service" term="Events" />		<summary type="html"><![CDATA[Info about blood drive goes here!]]></summary>
+		<content type="html" xml:base="http://www.plymouth.edu/community-service/62/blood-drive/"><![CDATA[<p>Info about blood drive goes here!</p>
+]]></content>
+		<link rel="replies" type="text/html" href="http://www.plymouth.edu/community-service/62/blood-drive/#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://www.plymouth.edu/community-service/62/blood-drive/feed/atom/" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+	</feed>

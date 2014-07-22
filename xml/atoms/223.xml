@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">Admission</title>
+	<subtitle type="text">The Newsroom is dedicated to sharing Bard College at Simon’s Rock news and early college thought leadership.</subtitle>
+	<link rel="alternate" type="text/html" href="http://news.simons-rock.edu"/>
+	<id>http://news.simons-rock.edu/admission</id>
+	<updated>2014-07-21T17:58:51+00:00</updated>
+	<generator uri="http://joomla.org" version="1.6">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="http://news.simons-rock.edu/admission?format=feed&amp;type=atom"/>
+	<entry>
+		<title>Reflections from Admission: Early College Move-in Day</title>
+		<link rel="alternate" type="text/html" href="http://news.simons-rock.edu/admission/27-reflections-from-admission-early-college-move-in-day"/>
+		<published>2013-08-29T16:30:24+00:00</published>
+		<updated>2013-08-29T16:30:24+00:00</updated>
+		<id>http://news.simons-rock.edu/admission/27-reflections-from-admission-early-college-move-in-day</id>
+		<author>
+			<name>Super User</name>
+			<email>dscheff@simons-rock.edu</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p class=&quot;byline&quot;&gt;By &lt;a href=&quot;http://www.simons-rock.edu/admission/taylor&quot;&gt;Alexandra Taylor&lt;/a&gt;, Assistant Director of Admission&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;images/aft-headshot.jpg&quot; alt=&quot;Alex Taylor&quot; style=&quot;margin: 0 7px 7px 0; float: left;&quot; /&gt;On Saturday, August 17, Bard College at Simon’s Rock welcomed its 46th class of freshmen from around the country and the world. One hundred and forty seven strangers arrived at the early college with at least one thing in common: each one of them left high school early to start college when they felt ready. &lt;/p&gt;
+&lt;p class=&quot;feed-readmore&quot;&gt;&lt;a target=&quot;_blank&quot; href =&quot;/admission/27-reflections-from-admission-early-college-move-in-day&quot;&gt;Read More...&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p class=&quot;byline&quot;&gt;By &lt;a href=&quot;http://www.simons-rock.edu/admission/taylor&quot;&gt;Alexandra Taylor&lt;/a&gt;, Assistant Director of Admission&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;images/aft-headshot.jpg&quot; alt=&quot;Alex Taylor&quot; style=&quot;margin: 0 7px 7px 0; float: left;&quot; /&gt;On Saturday, August 17, Bard College at Simon’s Rock welcomed its 46th class of freshmen from around the country and the world. One hundred and forty seven strangers arrived at the early college with at least one thing in common: each one of them left high school early to start college when they felt ready. &lt;/p&gt;
+&lt;p class=&quot;feed-readmore&quot;&gt;&lt;a target=&quot;_blank&quot; href =&quot;/admission/27-reflections-from-admission-early-college-move-in-day&quot;&gt;Read More...&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</content>
+		<category term="Admission" />
+	</entry>
+</feed>

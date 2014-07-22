@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+	<ShortName>Seattle University</ShortName>
+	<Description>Seattle University Web Search</Description>
+	<Tags>Seattle University web search</Tags>
+	<Contact>web@seattleu.edu</Contact>
+	<Url type="text/html" 
+        template="http://search.seattleu.edu/search?btnG=Search&amp;entqr=0&amp;ud=1&amp;sort=date%3AD%3AL%3Ad1&amp;output=xml_no_dtd&amp;site=default_collection&amp;ie=UTF-8&amp;oe=UTF-8&amp;client=default_frontend&amp;proxystylesheet=default_frontend&amp;q={searchTerms}"/>
+	<LongName>Seattle University Web Search</LongName>
+	<Image height="16" width="16" type="image/icon">https://www.seattleu.edu/favicon.ico</Image>
+	<Query role="example" searchTerms="test" />
+	<Developer>Seattle University OIT</Developer>
+	<Attribution>
+		All content Copyright 2009, Seattle University
+	</Attribution>
+	<SyndicationRight>open</SyndicationRight>
+	<AdultContent>false</AdultContent>
+	<Language>en-us</Language>
+	<OutputEncoding>UTF-8</OutputEncoding>
+	<InputEncoding>UTF-8</InputEncoding>
+ </OpenSearchDescription>
